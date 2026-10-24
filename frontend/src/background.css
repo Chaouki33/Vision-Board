@@ -1,0 +1,137 @@
+/* ================================================================ Fond animé Vision Board
+   Halos bleu marine et or, courbes de marché, trame de points ; cartes en verre dépoli. */
+:root {
+  --orb-1: rgb(47 98 176 / 30%);
+  --orb-2: rgb(217 180 90 / 26%);
+  --orb-3: rgb(27 58 107 / 22%);
+  --curve-1: #b8892b;
+  --curve-2: #2f62b0;
+  --curve-3: #1b3a6b;
+  --curve-opacity: 0.22;
+  --grid-dot: rgb(20 33 61 / 9%);
+  --glass: rgb(255 255 255 / 80%);
+  --glass-strong: rgb(255 255 255 / 88%);
+}
+
+@media (prefers-color-scheme: dark) {
+  :root:not([data-theme="light"]) {
+    --orb-1: rgb(47 98 176 / 34%);
+    --orb-2: rgb(217 180 90 / 16%);
+    --orb-3: rgb(90 142 224 / 18%);
+    --curve-1: #d9b45a;
+    --curve-2: #5a8ee0;
+    --curve-3: #8fb3ef;
+    --curve-opacity: 0.26;
+    --grid-dot: rgb(232 236 244 / 6%);
+    --glass: rgb(18 27 46 / 78%);
+    --glass-strong: rgb(18 27 46 / 88%);
+  }
+}
+
+:root[data-theme="dark"] {
+  --orb-1: rgb(47 98 176 / 34%);
+  --orb-2: rgb(217 180 90 / 16%);
+  --orb-3: rgb(90 142 224 / 18%);
+  --curve-1: #d9b45a;
+  --curve-2: #5a8ee0;
+  --curve-3: #8fb3ef;
+  --curve-opacity: 0.26;
+  --grid-dot: rgb(232 236 244 / 6%);
+  --glass: rgb(18 27 46 / 78%);
+  --glass-strong: rgb(18 27 46 / 88%);
+}
+
+/* ---------- Scène */
+.bg-scene {
+  --mx: 0;
+  --my: 0;
+  position: fixed; inset: 0; z-index: 0; overflow: hidden; pointer-events: none;
+  background: var(--bg);
+}
+.app, .auth-page { position: relative; }
+.app-main, .auth-card { position: relative; z-index: 1; }
+.auth-theme { z-index: 2; }
+
+/* Trame de points façon papier millimétré, estompée vers les bords */
+.bg-grid {
+  position: absolute; inset: -40px;
+  background-image: radial-gradient(var(--grid-dot) 1.2px, transparent 1.3px);
+  background-size: 26px 26px;
+  mask-image: radial-gradient(ellipse 80% 70% at 60% 40%, black 30%, transparent 85%);
+  animation: grid-drift 60s linear infinite;
+}
+
+/* Halos lumineux qui dérivent lentement (et suivent un peu la souris) */
+.bg-orb { position: absolute; border-radius: 50%; filter: blur(70px); will-change: transform; }
+.bg-orb.o1 {
+  width: 46vw; height: 46vw; left: 48%; top: -14vw; background: var(--orb-1);
+  animation: orb-a 26s ease-in-out infinite alternate;
+  translate: calc(var(--mx) * -40px) calc(var(--my) * -30px);
+}
+.bg-orb.o2 {
+  width: 34vw; height: 34vw; left: 8%; top: 46%; background: var(--orb-2);
+  animation: orb-b 32s ease-in-out infinite alternate;
+  translate: calc(var(--mx) * 50px) calc(var(--my) * 40px);
+}
+.bg-orb.o3 {
+  width: 28vw; height: 28vw; right: -6vw; bottom: -8vw; background: var(--orb-3);
+  animation: orb-c 22s ease-in-out infinite alternate;
+  translate: calc(var(--mx) * -25px) calc(var(--my) * 35px);
+}
+.bg-orb { transition: translate 0.6s ease-out; }
+
+/* Courbes de marché : tracées au chargement, puis ondulation douce */
+.bg-curves { position: absolute; inset: 0; width: 100%; height: 100%; }
+.bg-wave { animation: wave 18s ease-in-out infinite alternate; transform-origin: center; }
+.bg-curve {
+  fill: none; stroke-width: 2; stroke-linecap: round; opacity: var(--curve-opacity);
+  vector-effect: non-scaling-stroke; /* épaisseur constante quelle que soit la taille de l'écran */
+}
+.bg-curve.c1 { stroke: var(--curve-1); stroke-width: 2.4; }
+.bg-curve.c2 { stroke: var(--curve-2); }
+.bg-curve.c3 { stroke: var(--curve-3); stroke-dasharray: 6 10; stroke-dashoffset: 0; animation: dash-flow 6s linear infinite; }
+.bg-point { opacity: 0; transform-box: fill-box; transform-origin: center; animation: point-pulse 4.5s ease-in-out infinite; }
+.bg-point.c1 { fill: var(--curve-1); }
+.bg-point.c2 { fill: var(--curve-2); }
+.bg-point.c3 { fill: var(--curve-3); }
+
+/* Vignette : assombrit/éclaircit légèrement les bords pour garder le contenu au centre lisible */
+.bg-vignette { position: absolute; inset: 0; background: radial-gradient(ellipse at 55% 45%, transparent 65%, var(--bg) 150%); }
+
+/* Version écran de connexion : courbes et halos plus présents */
+.bg-scene.login { --curve-opacity: 0.38; }
+.bg-scene.login .bg-orb { filter: blur(60px); }
+
+@keyframes grid-drift { to { transform: translate(26px, 26px); } }
+@keyframes orb-a { from { transform: translate(0, 0) scale(1); } to { transform: translate(-8vw, 6vw) scale(1.15); } }
+@keyframes orb-b { from { transform: translate(0, 0) scale(1); } to { transform: translate(10vw, -8vw) scale(0.9); } }
+@keyframes orb-c { from { transform: translate(0, 0) scale(1); } to { transform: translate(-6vw, -10vw) scale(1.2); } }
+@keyframes dash-flow { to { stroke-dashoffset: -160; } }
+@keyframes wave { from { transform: translateY(0) scaleY(1); } to { transform: translateY(-18px) scaleY(1.04); } }
+@keyframes point-pulse {
+  0%, 100% { opacity: 0.25; transform: scale(0.8); }
+  50% { opacity: 0.75; transform: scale(1.5); }
+}
+
+/* ---------- Cartes en verre dépoli */
+.app .card, .app .tile, .app .domain-card, .auth-card {
+  background: var(--glass);
+  -webkit-backdrop-filter: blur(14px) saturate(1.2);
+  backdrop-filter: blur(14px) saturate(1.2);
+}
+.app .card.inner, .app .tile.empty, .app .muted-card { background: var(--glass-strong); }
+.app .card .card { background: transparent; -webkit-backdrop-filter: none; backdrop-filter: none; }
+.app .entry-grid, .app .preview, .app .statements table { background: var(--surface); }
+.mobile-bar { -webkit-backdrop-filter: blur(12px); backdrop-filter: blur(12px); background: var(--glass-strong); }
+
+/* Navigateurs sans flou d'arrière-plan : cartes opaques */
+@supports not ((backdrop-filter: blur(1px)) or (-webkit-backdrop-filter: blur(1px))) {
+  .app .card, .app .tile, .app .domain-card, .auth-card { background: var(--surface); }
+}
+
+/* Animations réduites : fond fixe, courbes affichées directement */
+@media (prefers-reduced-motion: reduce) {
+  .bg-grid, .bg-orb, .bg-wave, .bg-point { animation: none !important; }
+  .bg-curve { animation: none !important; }
+  .bg-point { opacity: 0.4; }
+}

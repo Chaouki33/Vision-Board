@@ -1,0 +1,700 @@
+﻿Date;Ligne;Produit;Quantité produite;Rebuts;Objectif;Temps planifié (h);Temps d'arrêt (h);Cadence théorique;Coût de production
+02/01/2026;Parcelle A – clémentiniers;Clémentines calibre 1 (kg);5386;278;6120;8;0,80;900;23 433,62
+02/01/2026;Parcelle B – orangers;Oranges Maroc Late (kg);7635;503;8160;8;0,70;1200;21 043,29
+02/01/2026;Station de conditionnement;Agrumes conditionnés (kg);19886;1086;21250;10;1,30;2500;17 878,89
+03/01/2026;Parcelle A – clémentiniers;Clémentines calibre 1 (kg);6379;314;6120;8;0,40;900;26 333,94
+03/01/2026;Parcelle B – orangers;Oranges Maroc Late (kg);8293;336;8160;8;0,30;1200;21 823,71
+03/01/2026;Station de conditionnement;Agrumes conditionnés (kg);21919;856;21250;10;0,00;2500;19 136,47
+05/01/2026;Parcelle A – clémentiniers;Clémentines calibre 1 (kg);5630;445;6120;8;0,00;900;22 329,27
+05/01/2026;Parcelle B – orangers;Oranges Maroc Late (kg);7698;469;8160;8;0,40;1200;20 662,01
+05/01/2026;Station de conditionnement;Agrumes conditionnés (kg);18929;854;21250;10;1,50;2500;17 224,69
+06/01/2026;Parcelle A – clémentiniers;Clémentines calibre 1 (kg);5858;584;6120;8;0,00;900;25 579,48
+06/01/2026;Parcelle B – orangers;Oranges Maroc Late (kg);8225;676;8160;8;0,00;1200;22 737,71
+06/01/2026;Station de conditionnement;Agrumes conditionnés (kg);19088;862;21250;10;1,50;2500;17 378,83
+07/01/2026;Parcelle A – clémentiniers;Clémentines calibre 1 (kg);5820;565;6120;8;0,00;900;23 982,21
+07/01/2026;Parcelle B – orangers;Oranges Maroc Late (kg);6699;665;8160;8;1,00;1200;17 775,14
+07/01/2026;Station de conditionnement;Agrumes conditionnés (kg);23096;937;21250;10;0,00;2500;19 992,98
+08/01/2026;Parcelle A – clémentiniers;Clémentines calibre 1 (kg);5287;585;6120;8;0,50;900;22 908,92
+08/01/2026;Parcelle B – orangers;Oranges Maroc Late (kg);7019;691;8160;8;0,70;1200;19 357,83
+08/01/2026;Station de conditionnement;Agrumes conditionnés (kg);16958;381;21250;10;2,40;2500;14 739,00
+09/01/2026;Parcelle A – clémentiniers;Clémentines calibre 1 (kg);5943;653;6120;8;0,00;900;24 420,67
+09/01/2026;Parcelle B – orangers;Oranges Maroc Late (kg);7912;564;8160;8;0,40;1200;21 113,14
+09/01/2026;Station de conditionnement;Agrumes conditionnés (kg);16561;439;21250;10;1,50;2500;15 233,16
+10/01/2026;Parcelle A – clémentiniers;Clémentines calibre 1 (kg);5991;350;6120;8;0,60;900;24 817,35
+10/01/2026;Parcelle B – orangers;Oranges Maroc Late (kg);8284;463;8160;8;0,40;1200;22 753,80
+10/01/2026;Station de conditionnement;Agrumes conditionnés (kg);23121;940;21250;10;0,00;2500;22 045,77
+12/01/2026;Parcelle A – clémentiniers;Clémentines calibre 1 (kg);6600;425;6120;8;0,00;900;26 614,11
+12/01/2026;Parcelle B – orangers;Oranges Maroc Late (kg);7801;386;8160;8;0,00;1200;19 653,40
+12/01/2026;Station de conditionnement;Agrumes conditionnés (kg);21526;871;21250;10;0,00;2500;19 544,83
+13/01/2026;Parcelle A – clémentiniers;Clémentines calibre 1 (kg);5349;247;6120;8;0,00;900;22 241,95
+13/01/2026;Parcelle B – orangers;Oranges Maroc Late (kg);7191;733;8160;8;0,40;1200;18 123,97
+13/01/2026;Station de conditionnement;Agrumes conditionnés (kg);19641;426;21250;10;0,80;2500;18 142,00
+14/01/2026;Parcelle A – clémentiniers;Clémentines calibre 1 (kg);5512;243;6120;8;0,00;900;23 108,97
+14/01/2026;Parcelle B – orangers;Oranges Maroc Late (kg);8774;567;8160;8;0,00;1200;23 274,95
+14/01/2026;Station de conditionnement;Agrumes conditionnés (kg);18195;878;21250;10;1,50;2500;17 278,13
+15/01/2026;Parcelle A – clémentiniers;Clémentines calibre 1 (kg);5353;289;6120;8;0,00;900;21 617,95
+15/01/2026;Parcelle B – orangers;Oranges Maroc Late (kg);7142;322;8160;8;0,00;1200;19 763,81
+15/01/2026;Station de conditionnement;Agrumes conditionnés (kg);14303;562;21250;10;2,40;2500;12 646,70
+16/01/2026;Parcelle A – clémentiniers;Clémentines calibre 1 (kg);6631;293;6120;8;0,00;900;27 717,12
+16/01/2026;Parcelle B – orangers;Oranges Maroc Late (kg);8459;516;8160;8;0,00;1200;23 460,52
+16/01/2026;Station de conditionnement;Agrumes conditionnés (kg);20380;1171;21250;10;0,00;2500;17 844,22
+17/01/2026;Parcelle A – clémentiniers;Clémentines calibre 1 (kg);6749;674;6120;8;0,00;900;29 097,55
+17/01/2026;Parcelle B – orangers;Oranges Maroc Late (kg);6956;461;8160;8;0,30;1200;18 981,99
+17/01/2026;Station de conditionnement;Agrumes conditionnés (kg);17092;738;21250;10;1,30;2500;15 189,98
+19/01/2026;Parcelle A – clémentiniers;Clémentines calibre 1 (kg);5179;392;6120;8;0,40;900;20 836,16
+19/01/2026;Parcelle B – orangers;Oranges Maroc Late (kg);8312;811;8160;8;0,50;1200;22 830,44
+19/01/2026;Station de conditionnement;Agrumes conditionnés (kg);19556;808;21250;10;1,40;2500;17 617,13
+20/01/2026;Parcelle A – clémentiniers;Clémentines calibre 1 (kg);5881;310;6120;8;0,00;900;25 236,24
+20/01/2026;Parcelle B – orangers;Oranges Maroc Late (kg);7107;698;8160;8;0,00;1200;18 218,81
+20/01/2026;Station de conditionnement;Agrumes conditionnés (kg);15405;608;21250;10;1,90;2500;14 615,00
+21/01/2026;Parcelle A – clémentiniers;Clémentines calibre 1 (kg);6032;264;6120;8;0,00;900;24 830,12
+21/01/2026;Parcelle B – orangers;Oranges Maroc Late (kg);8020;747;8160;8;0,00;1200;20 965,40
+21/01/2026;Station de conditionnement;Agrumes conditionnés (kg);19281;1063;21250;10;0,00;2500;17 816,45
+22/01/2026;Parcelle A – clémentiniers;Clémentines calibre 1 (kg);5643;293;6120;8;0,00;900;23 441,92
+22/01/2026;Parcelle B – orangers;Oranges Maroc Late (kg);8082;613;8160;8;0,80;1200;22 468,65
+22/01/2026;Station de conditionnement;Agrumes conditionnés (kg);17573;756;21250;10;1,40;2500;15 425,76
+23/01/2026;Parcelle A – clémentiniers;Clémentines calibre 1 (kg);5515;506;6120;8;0,00;900;23 845,91
+23/01/2026;Parcelle B – orangers;Oranges Maroc Late (kg);7396;600;8160;8;0,80;1200;20 338,21
+23/01/2026;Station de conditionnement;Agrumes conditionnés (kg);18603;679;21250;10;0,00;2500;17 493,50
+24/01/2026;Parcelle A – clémentiniers;Clémentines calibre 1 (kg);4986;259;6120;8;0,70;900;21 151,30
+24/01/2026;Parcelle B – orangers;Oranges Maroc Late (kg);7329;581;8160;8;0,30;1200;19 366,08
+24/01/2026;Station de conditionnement;Agrumes conditionnés (kg);22682;1005;21250;10;0,00;2500;20 740,40
+26/01/2026;Parcelle A – clémentiniers;Clémentines calibre 1 (kg);5425;589;6120;8;0,00;900;22 019,30
+26/01/2026;Parcelle B – orangers;Oranges Maroc Late (kg);6824;393;8160;8;0,80;1200;17 205,41
+26/01/2026;Station de conditionnement;Agrumes conditionnés (kg);19203;427;21250;10;0,50;2500;17 216,01
+27/01/2026;Parcelle A – clémentiniers;Clémentines calibre 1 (kg);5435;359;6120;8;0,00;900;22 585,43
+27/01/2026;Parcelle B – orangers;Oranges Maroc Late (kg);7229;729;8160;8;0,00;1200;18 310,59
+27/01/2026;Station de conditionnement;Agrumes conditionnés (kg);21311;490;21250;10;0,90;2500;18 468,53
+28/01/2026;Parcelle A – clémentiniers;Clémentines calibre 1 (kg);6312;286;6120;8;0,50;900;25 906,79
+28/01/2026;Parcelle B – orangers;Oranges Maroc Late (kg);7179;518;8160;8;0,00;1200;19 106,83
+28/01/2026;Station de conditionnement;Agrumes conditionnés (kg);20500;483;21250;10;0,30;2500;17 971,86
+29/01/2026;Parcelle A – clémentiniers;Clémentines calibre 1 (kg);5983;370;6120;8;0,00;900;23 924,62
+29/01/2026;Parcelle B – orangers;Oranges Maroc Late (kg);7444;604;8160;8;0,70;1200;20 127,03
+29/01/2026;Station de conditionnement;Agrumes conditionnés (kg);18181;546;21250;10;1,20;2500;15 998,04
+30/01/2026;Parcelle A – clémentiniers;Clémentines calibre 1 (kg);5470;348;6120;8;0,00;900;23 653,54
+30/01/2026;Parcelle B – orangers;Oranges Maroc Late (kg);7171;683;8160;8;0,00;1200;17 919,18
+30/01/2026;Station de conditionnement;Agrumes conditionnés (kg);15743;809;21250;10;2,20;2500;14 004,87
+31/01/2026;Parcelle A – clémentiniers;Clémentines calibre 1 (kg);6708;633;6120;8;0,00;900;26 405,87
+31/01/2026;Parcelle B – orangers;Oranges Maroc Late (kg);8180;655;8160;8;0,00;1200;20 992,79
+31/01/2026;Station de conditionnement;Agrumes conditionnés (kg);17312;731;21250;10;1,30;2500;16 362,05
+02/02/2026;Parcelle A – clémentiniers;Clémentines calibre 1 (kg);5976;280;6120;8;0,00;900;25 263,83
+02/02/2026;Parcelle B – orangers;Oranges Maroc Late (kg);8593;556;8160;8;0,20;1200;22 919,54
+02/02/2026;Station de conditionnement;Agrumes conditionnés (kg);17368;350;21250;10;1,90;2500;15 409,88
+03/02/2026;Parcelle A – clémentiniers;Clémentines calibre 1 (kg);5625;452;6120;8;0,30;900;22 823,31
+03/02/2026;Parcelle B – orangers;Oranges Maroc Late (kg);7262;640;8160;8;0,20;1200;18 672,64
+03/02/2026;Station de conditionnement;Agrumes conditionnés (kg);18234;888;21250;10;0,80;2500;16 272,56
+04/02/2026;Parcelle A – clémentiniers;Clémentines calibre 1 (kg);5245;246;6120;8;0,20;900;21 493,76
+04/02/2026;Parcelle B – orangers;Oranges Maroc Late (kg);7193;442;8160;8;0,30;1200;18 207,93
+04/02/2026;Station de conditionnement;Agrumes conditionnés (kg);16523;884;21250;10;2,00;2500;14 875,87
+05/02/2026;Parcelle A – clémentiniers;Clémentines calibre 1 (kg);5776;436;6120;8;0,60;900;24 467,25
+05/02/2026;Parcelle B – orangers;Oranges Maroc Late (kg);8268;695;8160;8;0,00;1200;21 975,62
+05/02/2026;Station de conditionnement;Agrumes conditionnés (kg);19830;887;21250;10;0,00;2500;18 656,23
+06/02/2026;Parcelle A – clémentiniers;Clémentines calibre 1 (kg);6251;356;6120;8;0,10;900;27 193,45
+06/02/2026;Parcelle B – orangers;Oranges Maroc Late (kg);8320;757;8160;8;0,00;1200;21 166,45
+06/02/2026;Station de conditionnement;Agrumes conditionnés (kg);20062;907;21250;10;1,20;2500;18 508,24
+07/02/2026;Parcelle A – clémentiniers;Clémentines calibre 1 (kg);5613;490;6120;8;0,00;900;22 319,07
+07/02/2026;Parcelle B – orangers;Oranges Maroc Late (kg);7950;672;8160;8;0,00;1200;20 002,20
+07/02/2026;Station de conditionnement;Agrumes conditionnés (kg);16859;902;21250;10;2,10;2500;15 292,86
+09/02/2026;Parcelle A – clémentiniers;Clémentines calibre 1 (kg);5284;509;6120;8;0,70;900;21 942,41
+09/02/2026;Parcelle B – orangers;Oranges Maroc Late (kg);7198;724;8160;8;0,40;1200;19 438,80
+09/02/2026;Station de conditionnement;Agrumes conditionnés (kg);19962;937;21250;10;0,00;2500;18 190,13
+10/02/2026;Parcelle A – clémentiniers;Clémentines calibre 1 (kg);4855;293;6120;8;0,80;900;21 004,50
+10/02/2026;Parcelle B – orangers;Oranges Maroc Late (kg);8636;809;8160;8;0,00;1200;23 731,06
+10/02/2026;Station de conditionnement;Agrumes conditionnés (kg);21364;689;21250;10;0,00;2500;19 820,04
+11/02/2026;Parcelle A – clémentiniers;Clémentines calibre 1 (kg);5548;253;6120;8;0,10;900;23 560,36
+11/02/2026;Parcelle B – orangers;Oranges Maroc Late (kg);8827;676;8160;8;0,00;1200;24 228,45
+11/02/2026;Station de conditionnement;Agrumes conditionnés (kg);19576;563;21250;10;0,70;2500;18 442,21
+12/02/2026;Parcelle A – clémentiniers;Clémentines calibre 1 (kg);4977;367;6120;8;0,60;900;20 860,00
+12/02/2026;Parcelle B – orangers;Oranges Maroc Late (kg);7119;642;8160;8;0,30;1200;19 393,71
+12/02/2026;Station de conditionnement;Agrumes conditionnés (kg);20733;452;21250;10;0,00;2500;19 214,08
+13/02/2026;Parcelle A – clémentiniers;Clémentines calibre 1 (kg);6544;299;6120;8;0,00;900;26 933,23
+13/02/2026;Parcelle B – orangers;Oranges Maroc Late (kg);8979;798;8160;8;0,00;1200;24 142,49
+13/02/2026;Station de conditionnement;Agrumes conditionnés (kg);17351;1040;21250;10;1,70;2500;15 941,41
+14/02/2026;Parcelle A – clémentiniers;Clémentines calibre 1 (kg);5300;620;6120;8;0,50;900;21 826,40
+14/02/2026;Parcelle B – orangers;Oranges Maroc Late (kg);8160;833;8160;8;0,50;1200;20 567,69
+14/02/2026;Station de conditionnement;Agrumes conditionnés (kg);23186;1299;21250;10;0,00;2500;20 260,05
+16/02/2026;Parcelle A – clémentiniers;Clémentines calibre 1 (kg);6054;526;6120;8;0,80;900;25 351,83
+16/02/2026;Parcelle B – orangers;Oranges Maroc Late (kg);7879;696;8160;8;0,00;1200;20 435,45
+16/02/2026;Station de conditionnement;Agrumes conditionnés (kg);22926;1365;21250;10;0,00;2500;21 740,59
+17/02/2026;Parcelle A – clémentiniers;Clémentines calibre 1 (kg);5934;480;6120;8;0,00;900;23 691,03
+17/02/2026;Parcelle B – orangers;Oranges Maroc Late (kg);6631;408;8160;8;0,60;1200;17 310,74
+17/02/2026;Station de conditionnement;Agrumes conditionnés (kg);16147;340;21250;10;2,40;2500;15 025,82
+18/02/2026;Parcelle A – clémentiniers;Clémentines calibre 1 (kg);5191;257;6120;8;0,30;900;21 164,38
+18/02/2026;Parcelle B – orangers;Oranges Maroc Late (kg);7810;275;8160;8;0,00;1200;20 693,77
+18/02/2026;Station de conditionnement;Agrumes conditionnés (kg);21168;797;21250;10;0,00;2500;19 897,34
+19/02/2026;Parcelle A – clémentiniers;Clémentines calibre 1 (kg);5854;494;6120;8;0,70;900;25 657,92
+19/02/2026;Parcelle B – orangers;Oranges Maroc Late (kg);7833;740;8160;8;0,00;1200;20 748,17
+19/02/2026;Station de conditionnement;Agrumes conditionnés (kg);17583;600;21250;10;2,40;2500;15 217,52
+20/02/2026;Parcelle A – clémentiniers;Clémentines calibre 1 (kg);6011;276;6120;8;0,40;900;25 227,11
+20/02/2026;Parcelle B – orangers;Oranges Maroc Late (kg);7807;324;8160;8;0,90;1200;21 488,61
+20/02/2026;Station de conditionnement;Agrumes conditionnés (kg);15323;576;21250;10;2,00;2500;14 475,40
+21/02/2026;Parcelle A – clémentiniers;Clémentines calibre 1 (kg);5337;572;6120;8;0,20;900;23 144,13
+21/02/2026;Parcelle B – orangers;Oranges Maroc Late (kg);6810;605;8160;8;1,00;1200;18 929,46
+21/02/2026;Station de conditionnement;Agrumes conditionnés (kg);18611;1052;21250;10;1,50;2500;16 678,61
+23/02/2026;Parcelle A – clémentiniers;Clémentines calibre 1 (kg);6551;778;6120;8;0,00;900;26 957,28
+23/02/2026;Parcelle B – orangers;Oranges Maroc Late (kg);8169;369;8160;8;0,00;1200;21 521,54
+23/02/2026;Station de conditionnement;Agrumes conditionnés (kg);16901;573;21250;10;1,10;2500;14 800,29
+24/02/2026;Parcelle A – clémentiniers;Clémentines calibre 1 (kg);5205;527;6120;8;0,20;900;21 780,92
+24/02/2026;Parcelle B – orangers;Oranges Maroc Late (kg);8895;932;8160;8;0,00;1200;23 293,43
+24/02/2026;Station de conditionnement;Agrumes conditionnés (kg);22104;474;21250;10;0,00;2500;20 262,98
+25/02/2026;Parcelle A – clémentiniers;Clémentines calibre 1 (kg);6721;605;6120;8;0,00;900;27 908,88
+25/02/2026;Parcelle B – orangers;Oranges Maroc Late (kg);7259;468;8160;8;0,10;1200;18 806,08
+25/02/2026;Station de conditionnement;Agrumes conditionnés (kg);20536;1144;21250;10;0,00;2500;18 615,59
+26/02/2026;Parcelle A – clémentiniers;Clémentines calibre 1 (kg);5724;520;6120;8;0,00;900;23 540,36
+26/02/2026;Parcelle B – orangers;Oranges Maroc Late (kg);7890;639;8160;8;0,00;1200;20 070,37
+26/02/2026;Station de conditionnement;Agrumes conditionnés (kg);15342;656;21250;10;2,30;2500;13 805,41
+27/02/2026;Parcelle A – clémentiniers;Clémentines calibre 1 (kg);5581;333;6120;8;0,70;900;22 370,56
+27/02/2026;Parcelle B – orangers;Oranges Maroc Late (kg);7325;754;8160;8;0,60;1200;18 532,67
+27/02/2026;Station de conditionnement;Agrumes conditionnés (kg);20778;700;21250;10;0,00;2500;19 662,41
+28/02/2026;Parcelle A – clémentiniers;Clémentines calibre 1 (kg);4842;467;6120;8;1,20;900;20 168,90
+28/02/2026;Parcelle B – orangers;Oranges Maroc Late (kg);7763;446;8160;8;0,20;1200;19 477,11
+28/02/2026;Station de conditionnement;Agrumes conditionnés (kg);19391;1108;21250;10;1,30;2500;17 525,04
+02/03/2026;Parcelle A – clémentiniers;Clémentines calibre 1 (kg);6146;511;6120;8;0,30;900;25 561,17
+02/03/2026;Parcelle B – orangers;Oranges Maroc Late (kg);8554;869;8160;8;0,00;1200;22 278,22
+02/03/2026;Station de conditionnement;Agrumes conditionnés (kg);16170;554;21250;10;1,90;2500;15 497,48
+03/03/2026;Parcelle A – clémentiniers;Clémentines calibre 1 (kg);5414;592;6120;8;0,20;900;23 267,70
+03/03/2026;Parcelle B – orangers;Oranges Maroc Late (kg);7377;414;8160;8;0,40;1200;20 326,59
+03/03/2026;Station de conditionnement;Agrumes conditionnés (kg);19851;933;21250;10;1,30;2500;18 674,62
+04/03/2026;Parcelle A – clémentiniers;Clémentines calibre 1 (kg);5720;244;6120;8;0,40;900;23 704,11
+04/03/2026;Parcelle B – orangers;Oranges Maroc Late (kg);7910;356;8160;8;0,10;1200;21 372,07
+04/03/2026;Station de conditionnement;Agrumes conditionnés (kg);19513;791;21250;10;0,00;2500;18 077,21
+05/03/2026;Parcelle A – clémentiniers;Clémentines calibre 1 (kg);5997;241;6120;8;0,00;900;24 394,97
+05/03/2026;Parcelle B – orangers;Oranges Maroc Late (kg);7170;530;8160;8;0,50;1200;18 625,82
+05/03/2026;Station de conditionnement;Agrumes conditionnés (kg);23296;1357;21250;10;0,00;2500;20 226,22
+06/03/2026;Parcelle A – clémentiniers;Clémentines calibre 1 (kg);6455;558;6120;8;0,10;900;26 372,31
+06/03/2026;Parcelle B – orangers;Oranges Maroc Late (kg);7629;408;8160;8;0,00;1200;19 967,14
+06/03/2026;Station de conditionnement;Agrumes conditionnés (kg);22100;794;21250;10;0,00;2500;21 218,28
+07/03/2026;Parcelle A – clémentiniers;Clémentines calibre 1 (kg);6280;522;6120;8;0,00;900;26 183,41
+07/03/2026;Parcelle B – orangers;Oranges Maroc Late (kg);8407;351;8160;8;0,00;1200;21 112,99
+07/03/2026;Station de conditionnement;Agrumes conditionnés (kg);19070;973;21250;10;1,70;2500;17 027,32
+09/03/2026;Parcelle A – clémentiniers;Clémentines calibre 1 (kg);5665;290;6120;8;0,60;900;22 964,02
+09/03/2026;Parcelle B – orangers;Oranges Maroc Late (kg);8753;368;8160;8;0,20;1200;23 045,23
+09/03/2026;Station de conditionnement;Agrumes conditionnés (kg);21555;1089;21250;10;0,00;2500;18 779,98
+10/03/2026;Parcelle A – clémentiniers;Clémentines calibre 1 (kg);6459;624;6120;8;0,20;900;26 911,34
+10/03/2026;Parcelle B – orangers;Oranges Maroc Late (kg);8772;705;8160;8;0,00;1200;22 928,13
+10/03/2026;Station de conditionnement;Agrumes conditionnés (kg);19839;685;21250;10;0,00;2500;17 465,33
+11/03/2026;Parcelle A – clémentiniers;Clémentines calibre 1 (kg);4740;484;6120;8;1,10;900;20 592,89
+11/03/2026;Parcelle B – orangers;Oranges Maroc Late (kg);7987;386;8160;8;0,00;1200;21 655,32
+11/03/2026;Station de conditionnement;Agrumes conditionnés (kg);13894;802;21250;10;3,30;2500;13 337,68
+12/03/2026;Parcelle A – clémentiniers;Clémentines calibre 1 (kg);6322;331;6120;8;0,00;900;25 661,21
+12/03/2026;Parcelle B – orangers;Oranges Maroc Late (kg);8514;820;8160;8;0,00;1200;21 611,40
+12/03/2026;Station de conditionnement;Agrumes conditionnés (kg);14450;501;21250;10;2,60;2500;12 909,77
+13/03/2026;Parcelle A – clémentiniers;Clémentines calibre 1 (kg);6436;550;6120;8;0,30;900;27 560,98
+13/03/2026;Parcelle B – orangers;Oranges Maroc Late (kg);6860;539;8160;8;0,60;1200;17 584,75
+13/03/2026;Station de conditionnement;Agrumes conditionnés (kg);20167;553;21250;10;0,50;2500;17 548,40
+14/03/2026;Parcelle A – clémentiniers;Clémentines calibre 1 (kg);6365;257;6120;8;0,00;900;27 623,68
+14/03/2026;Parcelle B – orangers;Oranges Maroc Late (kg);8540;488;8160;8;0,00;1200;21 578,11
+14/03/2026;Station de conditionnement;Agrumes conditionnés (kg);18928;396;21250;10;0,00;2500;17 478,87
+16/03/2026;Parcelle A – clémentiniers;Clémentines calibre 1 (kg);5675;414;6120;8;0,40;900;24 472,33
+16/03/2026;Parcelle B – orangers;Oranges Maroc Late (kg);8437;484;8160;8;0,50;1200;23 026,85
+16/03/2026;Station de conditionnement;Agrumes conditionnés (kg);16377;497;21250;10;1,60;2500;14 870,86
+17/03/2026;Parcelle A – clémentiniers;Clémentines calibre 1 (kg);5686;521;6120;8;0,90;900;23 762,64
+17/03/2026;Parcelle B – orangers;Oranges Maroc Late (kg);7525;645;8160;8;0,30;1200;20 043,08
+17/03/2026;Station de conditionnement;Agrumes conditionnés (kg);20783;426;21250;10;0,00;2500;19 857,88
+18/03/2026;Parcelle A – clémentiniers;Clémentines calibre 1 (kg);4817;485;6120;8;1,00;900;20 284,32
+18/03/2026;Parcelle B – orangers;Oranges Maroc Late (kg);7785;741;8160;8;0,10;1200;20 575,04
+18/03/2026;Station de conditionnement;Agrumes conditionnés (kg);22318;965;21250;10;0,00;2500;19 426,03
+19/03/2026;Parcelle A – clémentiniers;Clémentines calibre 1 (kg);5528;500;6120;8;0,30;900;22 061,04
+19/03/2026;Parcelle B – orangers;Oranges Maroc Late (kg);8580;821;8160;8;0,00;1200;21 741,95
+19/03/2026;Station de conditionnement;Agrumes conditionnés (kg);17504;885;21250;10;1,70;2500;16 697,80
+20/03/2026;Parcelle A – clémentiniers;Clémentines calibre 1 (kg);5863;589;6120;8;0,90;900;23 984,00
+20/03/2026;Parcelle B – orangers;Oranges Maroc Late (kg);8280;688;8160;8;0,00;1200;22 390,58
+20/03/2026;Station de conditionnement;Agrumes conditionnés (kg);18990;854;21250;10;0,00;2500;17 101,76
+21/03/2026;Parcelle A – clémentiniers;Clémentines calibre 1 (kg);5965;278;6120;8;0,00;900;23 958,84
+21/03/2026;Parcelle B – orangers;Oranges Maroc Late (kg);7527;564;8160;8;0,60;1200;20 083,73
+21/03/2026;Station de conditionnement;Agrumes conditionnés (kg);19457;893;21250;10;0,00;2500;17 124,52
+23/03/2026;Parcelle A – clémentiniers;Clémentines calibre 1 (kg);5477;656;6120;8;0,00;900;22 613,26
+23/03/2026;Parcelle B – orangers;Oranges Maroc Late (kg);8453;313;8160;8;0,00;1200;22 883,94
+23/03/2026;Station de conditionnement;Agrumes conditionnés (kg);23342;1074;21250;10;0,00;2500;21 239,85
+24/03/2026;Parcelle A – clémentiniers;Clémentines calibre 1 (kg);6041;548;6120;8;0,60;900;25 887,64
+24/03/2026;Parcelle B – orangers;Oranges Maroc Late (kg);7399;623;8160;8;0,90;1200;19 690,70
+24/03/2026;Station de conditionnement;Agrumes conditionnés (kg);22914;1187;21250;10;0,00;2500;20 485,83
+25/03/2026;Parcelle A – clémentiniers;Clémentines calibre 1 (kg);6022;551;6120;8;0,60;900;25 646,91
+25/03/2026;Parcelle B – orangers;Oranges Maroc Late (kg);7142;380;8160;8;0,50;1200;19 328,69
+25/03/2026;Station de conditionnement;Agrumes conditionnés (kg);16503;504;21250;10;2,00;2500;14 741,14
+26/03/2026;Parcelle A – clémentiniers;Clémentines calibre 1 (kg);6044;338;6120;8;0,00;900;24 761,74
+26/03/2026;Parcelle B – orangers;Oranges Maroc Late (kg);7512;596;8160;8;0,10;1200;18 760,32
+26/03/2026;Station de conditionnement;Agrumes conditionnés (kg);17660;770;21250;10;1,50;2500;16 043,27
+27/03/2026;Parcelle A – clémentiniers;Clémentines calibre 1 (kg);5583;609;6120;8;0,00;900;23 920,78
+27/03/2026;Parcelle B – orangers;Oranges Maroc Late (kg);8351;837;8160;8;0,20;1200;21 570,19
+27/03/2026;Station de conditionnement;Agrumes conditionnés (kg);21109;843;21250;10;0,80;2500;20 107,80
+28/03/2026;Parcelle A – clémentiniers;Clémentines calibre 1 (kg);5358;565;6120;8;0,00;900;22 265,29
+28/03/2026;Parcelle B – orangers;Oranges Maroc Late (kg);7642;674;8160;8;0,20;1200;19 531,22
+28/03/2026;Station de conditionnement;Agrumes conditionnés (kg);19515;651;21250;10;1,60;2500;18 761,97
+30/03/2026;Parcelle A – clémentiniers;Clémentines calibre 1 (kg);6010;281;6120;8;0,00;900;26 235,09
+30/03/2026;Parcelle B – orangers;Oranges Maroc Late (kg);7226;405;8160;8;0,90;1200;19 324,77
+30/03/2026;Station de conditionnement;Agrumes conditionnés (kg);15223;865;21250;10;2,20;2500;14 200,93
+31/03/2026;Parcelle A – clémentiniers;Clémentines calibre 1 (kg);6062;408;6120;8;0,20;900;25 232,71
+31/03/2026;Parcelle B – orangers;Oranges Maroc Late (kg);7898;356;8160;8;0,00;1200;21 505,76
+31/03/2026;Station de conditionnement;Agrumes conditionnés (kg);21366;541;21250;10;0,60;2500;18 851,39
+01/04/2026;Parcelle A – clémentiniers;Clémentines calibre 1 (kg);5445;484;6120;8;0,30;900;22 368,42
+01/04/2026;Parcelle B – orangers;Oranges Maroc Late (kg);7102;381;8160;8;0,80;1200;19 439,34
+01/04/2026;Station de conditionnement;Agrumes conditionnés (kg);21222;512;21250;10;0,00;2500;19 019,91
+02/04/2026;Parcelle A – clémentiniers;Clémentines calibre 1 (kg);5980;626;6120;8;0,10;900;24 621,94
+02/04/2026;Parcelle B – orangers;Oranges Maroc Late (kg);6691;693;8160;8;0,60;1200;18 608,84
+02/04/2026;Station de conditionnement;Agrumes conditionnés (kg);16777;503;21250;10;2,40;2500;15 423,17
+03/04/2026;Parcelle A – clémentiniers;Clémentines calibre 1 (kg);4966;339;6120;8;0,80;900;19 659,19
+03/04/2026;Parcelle B – orangers;Oranges Maroc Late (kg);6467;587;8160;8;0,90;1200;16 637,85
+03/04/2026;Station de conditionnement;Agrumes conditionnés (kg);16845;344;21250;10;1,60;2500;14 726,17
+04/04/2026;Parcelle A – clémentiniers;Clémentines calibre 1 (kg);5804;501;6120;8;0,00;900;23 059,52
+04/04/2026;Parcelle B – orangers;Oranges Maroc Late (kg);8525;507;8160;8;0,00;1200;21 910,26
+04/04/2026;Station de conditionnement;Agrumes conditionnés (kg);19375;1067;21250;10;0,80;2500;17 830,37
+06/04/2026;Parcelle A – clémentiniers;Clémentines calibre 1 (kg);6495;502;6120;8;0,00;900;26 682,14
+06/04/2026;Parcelle B – orangers;Oranges Maroc Late (kg);8198;600;8160;8;0,50;1200;21 482,10
+06/04/2026;Station de conditionnement;Agrumes conditionnés (kg);16010;353;21250;10;2,50;2500;14 291,71
+07/04/2026;Parcelle A – clémentiniers;Clémentines calibre 1 (kg);5759;666;6120;8;0,70;900;24 461,40
+07/04/2026;Parcelle B – orangers;Oranges Maroc Late (kg);6847;633;8160;8;0,40;1200;17 406,40
+07/04/2026;Station de conditionnement;Agrumes conditionnés (kg);18112;690;21250;10;1,60;2500;17 084,80
+08/04/2026;Parcelle A – clémentiniers;Clémentines calibre 1 (kg);6704;610;6120;8;0,00;900;28 239,66
+08/04/2026;Parcelle B – orangers;Oranges Maroc Late (kg);7718;516;8160;8;0,00;1200;21 409,68
+08/04/2026;Station de conditionnement;Agrumes conditionnés (kg);18967;991;21250;10;0,00;2500;17 486,73
+09/04/2026;Parcelle A – clémentiniers;Clémentines calibre 1 (kg);5958;636;6120;8;0,80;900;24 825,71
+09/04/2026;Parcelle B – orangers;Oranges Maroc Late (kg);7878;761;8160;8;0,30;1200;20 207,81
+09/04/2026;Station de conditionnement;Agrumes conditionnés (kg);20382;608;21250;10;0,90;2500;18 130,24
+10/04/2026;Parcelle A – clémentiniers;Clémentines calibre 1 (kg);5805;463;6120;8;0,00;900;23 680,25
+10/04/2026;Parcelle B – orangers;Oranges Maroc Late (kg);6338;546;8160;8;1,50;1200;17 013,62
+10/04/2026;Station de conditionnement;Agrumes conditionnés (kg);20452;583;21250;10;0,00;2500;18 475,41
+11/04/2026;Parcelle A – clémentiniers;Clémentines calibre 1 (kg);4284;511;6120;8;1,70;900;18 426,53
+11/04/2026;Parcelle B – orangers;Oranges Maroc Late (kg);7951;404;8160;8;0,00;1200;21 929,71
+11/04/2026;Station de conditionnement;Agrumes conditionnés (kg);18407;540;21250;10;1,80;2500;17 356,83
+13/04/2026;Parcelle A – clémentiniers;Clémentines calibre 1 (kg);6257;744;6120;8;0,00;900;26 280,74
+13/04/2026;Parcelle B – orangers;Oranges Maroc Late (kg);8620;668;8160;8;0,00;1200;21 866,71
+13/04/2026;Station de conditionnement;Agrumes conditionnés (kg);19551;1143;21250;10;0,00;2500;18 325,83
+14/04/2026;Parcelle A – clémentiniers;Clémentines calibre 1 (kg);5861;684;6120;8;0,00;900;23 991,05
+14/04/2026;Parcelle B – orangers;Oranges Maroc Late (kg);7782;672;8160;8;0,40;1200;19 723,89
+14/04/2026;Station de conditionnement;Agrumes conditionnés (kg);17569;810;21250;10;0,60;2500;16 091,83
+15/04/2026;Parcelle A – clémentiniers;Clémentines calibre 1 (kg);5362;538;6120;8;0,00;900;21 211,74
+15/04/2026;Parcelle B – orangers;Oranges Maroc Late (kg);7286;256;8160;8;0,60;1200;19 062,83
+15/04/2026;Station de conditionnement;Agrumes conditionnés (kg);14641;408;21250;10;2,10;2500;12 787,79
+16/04/2026;Parcelle A – clémentiniers;Clémentines calibre 1 (kg);6652;688;6120;8;0,00;900;27 628,43
+16/04/2026;Parcelle B – orangers;Oranges Maroc Late (kg);8901;787;8160;8;0,00;1200;24 016,91
+16/04/2026;Station de conditionnement;Agrumes conditionnés (kg);19897;408;21250;10;1,20;2500;17 942,42
+17/04/2026;Parcelle A – clémentiniers;Clémentines calibre 1 (kg);6242;550;6120;8;0,30;900;25 895,87
+17/04/2026;Parcelle B – orangers;Oranges Maroc Late (kg);7104;280;8160;8;0,70;1200;18 941,56
+17/04/2026;Station de conditionnement;Agrumes conditionnés (kg);20236;873;21250;10;0,00;2500;19 427,15
+18/04/2026;Parcelle A – clémentiniers;Clémentines calibre 1 (kg);5457;463;6120;8;0,00;900;22 391,00
+18/04/2026;Parcelle B – orangers;Oranges Maroc Late (kg);7955;788;8160;8;0,60;1200;22 121,63
+18/04/2026;Station de conditionnement;Agrumes conditionnés (kg);19818;1014;21250;10;0,00;2500;17 272,82
+20/04/2026;Parcelle A – clémentiniers;Clémentines calibre 1 (kg);6223;586;6120;8;0,00;900;27 132,93
+20/04/2026;Parcelle B – orangers;Oranges Maroc Late (kg);7096;420;8160;8;1,00;1200;18 680,78
+20/04/2026;Station de conditionnement;Agrumes conditionnés (kg);19310;722;21250;10;1,20;2500;18 307,09
+21/04/2026;Parcelle A – clémentiniers;Clémentines calibre 1 (kg);5990;515;6120;8;0,90;900;25 705,70
+21/04/2026;Parcelle B – orangers;Oranges Maroc Late (kg);8114;298;8160;8;0,00;1200;20 299,71
+21/04/2026;Station de conditionnement;Agrumes conditionnés (kg);20491;710;21250;10;0,00;2500;18 207,77
+22/04/2026;Parcelle A – clémentiniers;Clémentines calibre 1 (kg);6341;644;6120;8;0,50;900;26 328,10
+22/04/2026;Parcelle B – orangers;Oranges Maroc Late (kg);8246;844;8160;8;0,30;1200;22 350,42
+22/04/2026;Station de conditionnement;Agrumes conditionnés (kg);15063;560;21250;10;2,00;2500;14 341,07
+23/04/2026;Parcelle A – clémentiniers;Clémentines calibre 1 (kg);6435;471;6120;8;0,00;900;27 148,38
+23/04/2026;Parcelle B – orangers;Oranges Maroc Late (kg);6710;246;8160;8;0,80;1200;17 012,45
+23/04/2026;Station de conditionnement;Agrumes conditionnés (kg);19568;763;21250;10;0,00;2500;18 654,80
+24/04/2026;Parcelle A – clémentiniers;Clémentines calibre 1 (kg);5932;476;6120;8;0,00;900;25 886,72
+24/04/2026;Parcelle B – orangers;Oranges Maroc Late (kg);8476;554;8160;8;0,00;1200;23 130,52
+24/04/2026;Station de conditionnement;Agrumes conditionnés (kg);19585;1081;21250;10;0,00;2500;18 052,03
+25/04/2026;Parcelle A – clémentiniers;Clémentines calibre 1 (kg);6147;564;6120;8;0,50;900;25 922,04
+25/04/2026;Parcelle B – orangers;Oranges Maroc Late (kg);7435;779;8160;8;0,60;1200;19 162,50
+25/04/2026;Station de conditionnement;Agrumes conditionnés (kg);22405;1208;21250;10;0,20;2500;20 851,17
+27/04/2026;Parcelle A – clémentiniers;Clémentines calibre 1 (kg);5722;556;6120;8;0,30;900;23 408,60
+27/04/2026;Parcelle B – orangers;Oranges Maroc Late (kg);7668;380;8160;8;0,50;1200;20 527,31
+27/04/2026;Station de conditionnement;Agrumes conditionnés (kg);16519;976;21250;10;2,10;2500;15 838,71
+28/04/2026;Parcelle A – clémentiniers;Clémentines calibre 1 (kg);5756;478;6120;8;0,40;900;22 868,30
+28/04/2026;Parcelle B – orangers;Oranges Maroc Late (kg);8284;843;8160;8;0,00;1200;20 953,13
+28/04/2026;Station de conditionnement;Agrumes conditionnés (kg);18333;967;21250;10;0,60;2500;16 528,15
+29/04/2026;Parcelle A – clémentiniers;Clémentines calibre 1 (kg);6376;760;6120;8;0,00;900;27 107,19
+29/04/2026;Parcelle B – orangers;Oranges Maroc Late (kg);8194;665;8160;8;0,50;1200;20 770,13
+29/04/2026;Station de conditionnement;Agrumes conditionnés (kg);18338;935;21250;10;0,10;2500;17 175,53
+30/04/2026;Parcelle A – clémentiniers;Clémentines calibre 1 (kg);5774;606;6120;8;0,60;900;23 688,94
+30/04/2026;Parcelle B – orangers;Oranges Maroc Late (kg);8049;835;8160;8;0,80;1200;20 839,09
+30/04/2026;Station de conditionnement;Agrumes conditionnés (kg);15136;790;21250;10;2,90;2500;14 488,03
+01/05/2026;Parcelle A – clémentiniers;Clémentines calibre 1 (kg);6574;475;6120;8;0,00;900;27 650,88
+01/05/2026;Parcelle B – orangers;Oranges Maroc Late (kg);7393;465;8160;8;0,40;1200;19 433,88
+01/05/2026;Station de conditionnement;Agrumes conditionnés (kg);21057;1129;21250;10;0,00;2500;19 727,39
+02/05/2026;Parcelle A – clémentiniers;Clémentines calibre 1 (kg);6477;431;6120;8;0,00;900;25 746,09
+02/05/2026;Parcelle B – orangers;Oranges Maroc Late (kg);7275;421;8160;8;0,80;1200;19 871,73
+02/05/2026;Station de conditionnement;Agrumes conditionnés (kg);17304;774;21250;10;2,10;2500;15 058,87
+04/05/2026;Parcelle A – clémentiniers;Clémentines calibre 1 (kg);6157;332;6120;8;0,40;900;26 307,34
+04/05/2026;Parcelle B – orangers;Oranges Maroc Late (kg);8394;621;8160;8;0,40;1200;22 743,66
+04/05/2026;Station de conditionnement;Agrumes conditionnés (kg);18594;632;21250;10;0,00;2500;17 593,77
+05/05/2026;Parcelle A – clémentiniers;Clémentines calibre 1 (kg);6499;736;6120;8;0,00;900;26 973,25
+05/05/2026;Parcelle B – orangers;Oranges Maroc Late (kg);7446;547;8160;8;1,20;1200;20 702,63
+05/05/2026;Station de conditionnement;Agrumes conditionnés (kg);19238;575;21250;10;0,50;2500;17 002,90
+06/05/2026;Parcelle A – clémentiniers;Clémentines calibre 1 (kg);6450;727;6120;8;0,00;900;27 160,32
+06/05/2026;Parcelle B – orangers;Oranges Maroc Late (kg);8100;351;8160;8;0,10;1200;21 478,69
+06/05/2026;Station de conditionnement;Agrumes conditionnés (kg);16971;576;21250;10;1,40;2500;14 912,73
+07/05/2026;Parcelle A – clémentiniers;Clémentines calibre 1 (kg);6232;473;6120;8;0,00;900;25 045,26
+07/05/2026;Parcelle B – orangers;Oranges Maroc Late (kg);7175;465;8160;8;0,00;1200;18 111,97
+07/05/2026;Station de conditionnement;Agrumes conditionnés (kg);14782;718;21250;10;3,30;2500;13 552,71
+08/05/2026;Parcelle A – clémentiniers;Clémentines calibre 1 (kg);6383;407;6120;8;0,10;900;27 001,74
+08/05/2026;Parcelle B – orangers;Oranges Maroc Late (kg);7434;278;8160;8;1,40;1200;18 957,72
+08/05/2026;Station de conditionnement;Agrumes conditionnés (kg);16650;975;21250;10;1,60;2500;14 760,65
+09/05/2026;Parcelle A – clémentiniers;Clémentines calibre 1 (kg);5133;615;6120;8;0,60;900;20 250,91
+09/05/2026;Parcelle B – orangers;Oranges Maroc Late (kg);8634;455;8160;8;0,00;1200;23 405,72
+09/05/2026;Station de conditionnement;Agrumes conditionnés (kg);21263;746;21250;10;0,00;2500;19 286,92
+11/05/2026;Parcelle A – clémentiniers;Clémentines calibre 1 (kg);5838;616;6120;8;0,20;900;23 277,07
+11/05/2026;Parcelle B – orangers;Oranges Maroc Late (kg);7996;775;8160;8;0,00;1200;22 053,45
+11/05/2026;Station de conditionnement;Agrumes conditionnés (kg);19217;707;21250;10;0,70;2500;17 192,38
+12/05/2026;Parcelle A – clémentiniers;Clémentines calibre 1 (kg);6482;576;6120;8;0,10;900;26 312,92
+12/05/2026;Parcelle B – orangers;Oranges Maroc Late (kg);7236;735;8160;8;0,70;1200;19 070,56
+12/05/2026;Station de conditionnement;Agrumes conditionnés (kg);19164;1060;21250;10;0,00;2500;17 007,73
+13/05/2026;Parcelle A – clémentiniers;Clémentines calibre 1 (kg);5913;569;6120;8;0,60;900;25 630,52
+13/05/2026;Parcelle B – orangers;Oranges Maroc Late (kg);8314;391;8160;8;0,00;1200;21 936,43
+13/05/2026;Station de conditionnement;Agrumes conditionnés (kg);17789;898;21250;10;1,90;2500;16 883,16
+14/05/2026;Parcelle A – clémentiniers;Clémentines calibre 1 (kg);6248;672;6120;8;0,20;900;26 000,10
+14/05/2026;Parcelle B – orangers;Oranges Maroc Late (kg);8385;501;8160;8;0,50;1200;22 144,94
+14/05/2026;Station de conditionnement;Agrumes conditionnés (kg);17540;460;21250;10;2,50;2500;16 799,84
+15/05/2026;Parcelle A – clémentiniers;Clémentines calibre 1 (kg);6565;322;6120;8;0,00;900;27 934,91
+15/05/2026;Parcelle B – orangers;Oranges Maroc Late (kg);8971;367;8160;8;0,00;1200;23 494,91
+15/05/2026;Station de conditionnement;Agrumes conditionnés (kg);19392;615;21250;10;0,00;2500;17 717,35
+16/05/2026;Parcelle A – clémentiniers;Clémentines calibre 1 (kg);5205;259;6120;8;1,10;900;21 842,74
+16/05/2026;Parcelle B – orangers;Oranges Maroc Late (kg);8377;738;8160;8;0,40;1200;21 796,28
+16/05/2026;Station de conditionnement;Agrumes conditionnés (kg);19316;534;21250;10;1,30;2500;17 611,93
+18/05/2026;Parcelle A – clémentiniers;Clémentines calibre 1 (kg);6178;588;6120;8;0,40;900;25 405,30
+18/05/2026;Parcelle B – orangers;Oranges Maroc Late (kg);7432;748;8160;8;0,50;1200;19 366,85
+18/05/2026;Station de conditionnement;Agrumes conditionnés (kg);20111;573;21250;10;0,00;2500;18 742,89
+19/05/2026;Parcelle A – clémentiniers;Clémentines calibre 1 (kg);5713;411;6120;8;1,00;900;22 671,21
+19/05/2026;Parcelle B – orangers;Oranges Maroc Late (kg);7645;355;8160;8;0,70;1200;20 572,44
+19/05/2026;Station de conditionnement;Agrumes conditionnés (kg);21004;728;21250;10;0,60;2500;19 420,33
+20/05/2026;Parcelle A – clémentiniers;Clémentines calibre 1 (kg);5639;394;6120;8;0,00;900;24 710,46
+20/05/2026;Parcelle B – orangers;Oranges Maroc Late (kg);8933;364;8160;8;0,00;1200;23 532,66
+20/05/2026;Station de conditionnement;Agrumes conditionnés (kg);18039;747;21250;10;1,90;2500;16 889,87
+21/05/2026;Parcelle A – clémentiniers;Clémentines calibre 1 (kg);5646;285;6120;8;0,10;900;22 696,20
+21/05/2026;Parcelle B – orangers;Oranges Maroc Late (kg);7242;737;8160;8;0,00;1200;19 971,97
+21/05/2026;Station de conditionnement;Agrumes conditionnés (kg);21003;571;21250;10;0,90;2500;18 811,66
+22/05/2026;Parcelle A – clémentiniers;Clémentines calibre 1 (kg);5961;324;6120;8;0,70;900;25 806,51
+22/05/2026;Parcelle B – orangers;Oranges Maroc Late (kg);6634;638;8160;8;0,60;1200;18 186,14
+22/05/2026;Station de conditionnement;Agrumes conditionnés (kg);19070;721;21250;10;0,00;2500;16 738,07
+23/05/2026;Parcelle A – clémentiniers;Clémentines calibre 1 (kg);5885;272;6120;8;0,60;900;23 922,80
+23/05/2026;Parcelle B – orangers;Oranges Maroc Late (kg);7287;746;8160;8;0,50;1200;18 780,44
+23/05/2026;Station de conditionnement;Agrumes conditionnés (kg);20025;1144;21250;10;0,00;2500;18 872,53
+25/05/2026;Parcelle A – clémentiniers;Clémentines calibre 1 (kg);6106;706;6120;8;0,00;900;25 493,81
+25/05/2026;Parcelle B – orangers;Oranges Maroc Late (kg);8454;755;8160;8;0,00;1200;21 665,66
+25/05/2026;Station de conditionnement;Agrumes conditionnés (kg);18803;633;21250;10;0,00;2500;16 324,24
+26/05/2026;Parcelle A – clémentiniers;Clémentines calibre 1 (kg);6725;317;6120;8;0,00;900;27 372,20
+26/05/2026;Parcelle B – orangers;Oranges Maroc Late (kg);6685;674;8160;8;0,70;1200;17 465,77
+26/05/2026;Station de conditionnement;Agrumes conditionnés (kg);19728;1007;21250;10;0,50;2500;18 233,25
+27/05/2026;Parcelle A – clémentiniers;Clémentines calibre 1 (kg);5962;492;6120;8;0,00;900;24 469,88
+27/05/2026;Parcelle B – orangers;Oranges Maroc Late (kg);6896;279;8160;8;0,30;1200;18 484,30
+27/05/2026;Station de conditionnement;Agrumes conditionnés (kg);20977;994;21250;10;0,70;2500;18 511,02
+28/05/2026;Parcelle A – clémentiniers;Clémentines calibre 1 (kg);5434;254;6120;8;0,00;900;23 451,05
+28/05/2026;Parcelle B – orangers;Oranges Maroc Late (kg);8434;422;8160;8;0,00;1200;21 549,11
+28/05/2026;Station de conditionnement;Agrumes conditionnés (kg);19721;948;21250;10;1,60;2500;18 619,30
+29/05/2026;Parcelle A – clémentiniers;Clémentines calibre 1 (kg);5064;313;6120;8;0,90;900;21 201,47
+29/05/2026;Parcelle B – orangers;Oranges Maroc Late (kg);8257;418;8160;8;0,00;1200;22 535,75
+29/05/2026;Station de conditionnement;Agrumes conditionnés (kg);15630;549;21250;10;1,70;2500;13 602,41
+30/05/2026;Parcelle A – clémentiniers;Clémentines calibre 1 (kg);6292;331;6120;8;0,00;900;25 115,68
+30/05/2026;Parcelle B – orangers;Oranges Maroc Late (kg);8972;692;8160;8;0,00;1200;23 576,15
+30/05/2026;Station de conditionnement;Agrumes conditionnés (kg);22634;732;21250;10;0,00;2500;21 615,15
+01/06/2026;Parcelle A – clémentiniers;Clémentines calibre 1 (kg);5124;403;6120;8;0,60;900;20 996,65
+01/06/2026;Parcelle B – orangers;Oranges Maroc Late (kg);8110;482;8160;8;0,00;1200;21 379,80
+01/06/2026;Station de conditionnement;Agrumes conditionnés (kg);18624;522;21250;10;0,00;2500;17 292,40
+02/06/2026;Parcelle A – clémentiniers;Clémentines calibre 1 (kg);6105;252;6120;8;0,00;900;26 690,88
+02/06/2026;Parcelle B – orangers;Oranges Maroc Late (kg);7122;672;8160;8;0,20;1200;18 156,34
+02/06/2026;Station de conditionnement;Agrumes conditionnés (kg);22488;1156;21250;10;0,00;2500;20 626,98
+03/06/2026;Parcelle A – clémentiniers;Clémentines calibre 1 (kg);5788;434;6120;8;0,30;900;22 891,34
+03/06/2026;Parcelle B – orangers;Oranges Maroc Late (kg);7314;491;8160;8;0,10;1200;18 999,94
+03/06/2026;Station de conditionnement;Agrumes conditionnés (kg);17157;737;21250;10;2,10;2500;15 397,62
+04/06/2026;Parcelle A – clémentiniers;Clémentines calibre 1 (kg);6021;260;6120;8;0,70;900;24 732,16
+04/06/2026;Parcelle B – orangers;Oranges Maroc Late (kg);7868;701;8160;8;0,20;1200;20 095,60
+04/06/2026;Station de conditionnement;Agrumes conditionnés (kg);21437;717;21250;10;0,00;2500;18 654,64
+05/06/2026;Parcelle A – clémentiniers;Clémentines calibre 1 (kg);6614;352;6120;8;0,00;900;26 224,43
+05/06/2026;Parcelle B – orangers;Oranges Maroc Late (kg);7747;512;8160;8;0,50;1200;20 992,19
+05/06/2026;Station de conditionnement;Agrumes conditionnés (kg);18753;521;21250;10;1,60;2500;16 590,24
+06/06/2026;Parcelle A – clémentiniers;Clémentines calibre 1 (kg);6061;726;6120;8;0,70;900;23 909,32
+06/06/2026;Parcelle B – orangers;Oranges Maroc Late (kg);7156;443;8160;8;0,00;1200;19 662,94
+06/06/2026;Station de conditionnement;Agrumes conditionnés (kg);16072;537;21250;10;2,30;2500;14 470,69
+08/06/2026;Parcelle A – clémentiniers;Clémentines calibre 1 (kg);5163;570;6120;8;0,50;900;20 756,54
+08/06/2026;Parcelle B – orangers;Oranges Maroc Late (kg);7445;742;8160;8;0,00;1200;19 389,62
+08/06/2026;Station de conditionnement;Agrumes conditionnés (kg);15958;322;21250;10;2,00;2500;13 948,05
+09/06/2026;Parcelle A – clémentiniers;Clémentines calibre 1 (kg);5211;427;6120;8;1,00;900;21 898,18
+09/06/2026;Parcelle B – orangers;Oranges Maroc Late (kg);6533;357;8160;8;0,70;1200;17 007,66
+09/06/2026;Station de conditionnement;Agrumes conditionnés (kg);19001;702;21250;10;1,40;2500;18 110,00
+10/06/2026;Parcelle A – clémentiniers;Clémentines calibre 1 (kg);6323;426;6120;8;0,20;900;27 230,18
+10/06/2026;Parcelle B – orangers;Oranges Maroc Late (kg);7171;511;8160;8;0,60;1200;19 376,39
+10/06/2026;Station de conditionnement;Agrumes conditionnés (kg);20805;1173;21250;10;1,10;2500;19 493,99
+11/06/2026;Parcelle A – clémentiniers;Clémentines calibre 1 (kg);6193;563;6120;8;0,40;900;27 118,88
+11/06/2026;Parcelle B – orangers;Oranges Maroc Late (kg);6908;502;8160;8;0,50;1200;17 377,03
+11/06/2026;Station de conditionnement;Agrumes conditionnés (kg);14607;719;21250;10;2,40;2500;12 705,59
+12/06/2026;Parcelle A – clémentiniers;Clémentines calibre 1 (kg);4858;347;6120;8;0,80;900;19 776,61
+12/06/2026;Parcelle B – orangers;Oranges Maroc Late (kg);7730;484;8160;8;0,30;1200;19 939,80
+12/06/2026;Station de conditionnement;Agrumes conditionnés (kg);18911;476;21250;10;0,50;2500;17 025,96
+13/06/2026;Parcelle A – clémentiniers;Clémentines calibre 1 (kg);5874;261;6120;8;0,20;900;25 276,29
+13/06/2026;Parcelle B – orangers;Oranges Maroc Late (kg);6396;489;8160;8;1,10;1200;16 017,29
+13/06/2026;Station de conditionnement;Agrumes conditionnés (kg);21567;668;21250;10;0,00;2500;20 204,59
+15/06/2026;Parcelle A – clémentiniers;Clémentines calibre 1 (kg);5406;600;6120;8;0,00;900;22 946,49
+15/06/2026;Parcelle B – orangers;Oranges Maroc Late (kg);8163;548;8160;8;0,50;1200;20 522,15
+15/06/2026;Station de conditionnement;Agrumes conditionnés (kg);18720;817;21250;10;0,00;2500;17 507,99
+16/06/2026;Parcelle A – clémentiniers;Clémentines calibre 1 (kg);5335;369;6120;8;0,00;900;22 057,79
+16/06/2026;Parcelle B – orangers;Oranges Maroc Late (kg);6907;419;8160;8;0,50;1200;17 395,89
+16/06/2026;Station de conditionnement;Agrumes conditionnés (kg);22083;808;21250;10;0,00;2500;19 770,83
+17/06/2026;Parcelle A – clémentiniers;Clémentines calibre 1 (kg);4435;317;6120;8;1,60;900;17 934,31
+17/06/2026;Parcelle B – orangers;Oranges Maroc Late (kg);7501;510;8160;8;0,00;1200;19 531,53
+17/06/2026;Station de conditionnement;Agrumes conditionnés (kg);18499;974;21250;10;1,00;2500;16 966,63
+18/06/2026;Parcelle A – clémentiniers;Clémentines calibre 1 (kg);5664;354;6120;8;0,20;900;22 304,48
+18/06/2026;Parcelle B – orangers;Oranges Maroc Late (kg);7186;483;8160;8;0,70;1200;19 851,64
+18/06/2026;Station de conditionnement;Agrumes conditionnés (kg);13233;417;21250;10;3,60;2500;11 554,32
+19/06/2026;Parcelle A – clémentiniers;Clémentines calibre 1 (kg);5889;577;6120;8;0,50;900;24 514,65
+19/06/2026;Parcelle B – orangers;Oranges Maroc Late (kg);8223;778;8160;8;0,00;1200;22 510,69
+19/06/2026;Station de conditionnement;Agrumes conditionnés (kg);17423;612;21250;10;1,70;2500;15 725,01
+20/06/2026;Parcelle A – clémentiniers;Clémentines calibre 1 (kg);5013;319;6120;8;0,50;900;20 010,66
+20/06/2026;Parcelle B – orangers;Oranges Maroc Late (kg);7880;488;8160;8;0,70;1200;20 431,00
+20/06/2026;Station de conditionnement;Agrumes conditionnés (kg);20709;872;21250;10;0,70;2500;18 018,46
+22/06/2026;Parcelle A – clémentiniers;Clémentines calibre 1 (kg);5012;396;6120;8;0,60;900;20 148,66
+22/06/2026;Parcelle B – orangers;Oranges Maroc Late (kg);8782;496;8160;8;0,00;1200;22 224,11
+22/06/2026;Station de conditionnement;Agrumes conditionnés (kg);19655;1139;21250;10;0,00;2500;17 855,41
+23/06/2026;Parcelle A – clémentiniers;Clémentines calibre 1 (kg);6059;519;6120;8;0,00;900;26 537,24
+23/06/2026;Parcelle B – orangers;Oranges Maroc Late (kg);8009;325;8160;8;0,00;1200;20 653,85
+23/06/2026;Station de conditionnement;Agrumes conditionnés (kg);19902;611;21250;10;0,00;2500;18 970,06
+24/06/2026;Parcelle A – clémentiniers;Clémentines calibre 1 (kg);6360;602;6120;8;0,00;900;26 427,72
+24/06/2026;Parcelle B – orangers;Oranges Maroc Late (kg);6823;344;8160;8;0,80;1200;17 483,99
+24/06/2026;Station de conditionnement;Agrumes conditionnés (kg);14651;743;21250;10;2,40;2500;13 644,03
+25/06/2026;Parcelle A – clémentiniers;Clémentines calibre 1 (kg);6521;592;6120;8;0,00;900;27 151,49
+25/06/2026;Parcelle B – orangers;Oranges Maroc Late (kg);6684;398;8160;8;0,50;1200;17 716,16
+25/06/2026;Station de conditionnement;Agrumes conditionnés (kg);21409;696;21250;10;0,00;2500;20 497,67
+26/06/2026;Parcelle A – clémentiniers;Clémentines calibre 1 (kg);5885;475;6120;8;0,40;900;25 592,92
+26/06/2026;Parcelle B – orangers;Oranges Maroc Late (kg);7093;423;8160;8;0,80;1200;19 246,49
+26/06/2026;Station de conditionnement;Agrumes conditionnés (kg);19910;919;21250;10;0,80;2500;17 282,14
+27/06/2026;Parcelle A – clémentiniers;Clémentines calibre 1 (kg);6278;325;6120;8;0,00;900;25 095,89
+27/06/2026;Parcelle B – orangers;Oranges Maroc Late (kg);8512;644;8160;8;0,00;1200;22 989,63
+27/06/2026;Station de conditionnement;Agrumes conditionnés (kg);23450;1286;21250;10;0,00;2500;20 774,57
+29/06/2026;Parcelle A – clémentiniers;Clémentines calibre 1 (kg);5935;682;6120;8;0,00;900;25 790,26
+29/06/2026;Parcelle B – orangers;Oranges Maroc Late (kg);6938;593;8160;8;0,70;1200;18 326,81
+29/06/2026;Station de conditionnement;Agrumes conditionnés (kg);18028;433;21250;10;0,70;2500;15 923,47
+30/06/2026;Parcelle A – clémentiniers;Clémentines calibre 1 (kg);5750;678;6120;8;0,50;900;24 475,39
+30/06/2026;Parcelle B – orangers;Oranges Maroc Late (kg);7207;579;8160;8;0,00;1200;18 708,98
+30/06/2026;Station de conditionnement;Agrumes conditionnés (kg);18836;536;21250;10;0,00;2500;16 998,70
+01/07/2026;Parcelle A – clémentiniers;Clémentines calibre 1 (kg);6385;304;6120;8;0,00;900;25 549,67
+01/07/2026;Parcelle B – orangers;Oranges Maroc Late (kg);8563;748;8160;8;0,00;1200;22 549,12
+01/07/2026;Station de conditionnement;Agrumes conditionnés (kg);16225;732;21250;10;1,30;2500;14 200,87
+02/07/2026;Parcelle A – clémentiniers;Clémentines calibre 1 (kg);6155;720;6120;8;0,40;900;25 165,36
+02/07/2026;Parcelle B – orangers;Oranges Maroc Late (kg);7552;400;8160;8;0,50;1200;19 943,73
+02/07/2026;Station de conditionnement;Agrumes conditionnés (kg);13735;479;21250;10;2,60;2500;12 577,67
+03/07/2026;Parcelle A – clémentiniers;Clémentines calibre 1 (kg);6411;769;6120;8;0,00;900;25 355,16
+03/07/2026;Parcelle B – orangers;Oranges Maroc Late (kg);7861;811;8160;8;0,90;1200;21 298,76
+03/07/2026;Station de conditionnement;Agrumes conditionnés (kg);17138;620;21250;10;2,20;2500;16 175,31
+04/07/2026;Parcelle A – clémentiniers;Clémentines calibre 1 (kg);5897;608;6120;8;0,10;900;24 117,59
+04/07/2026;Parcelle B – orangers;Oranges Maroc Late (kg);6682;650;8160;8;0,90;1200;16 988,45
+04/07/2026;Station de conditionnement;Agrumes conditionnés (kg);19208;414;21250;10;0,60;2500;16 990,07
+06/07/2026;Parcelle A – clémentiniers;Clémentines calibre 1 (kg);6007;640;6120;8;0,00;900;25 708,77
+06/07/2026;Parcelle B – orangers;Oranges Maroc Late (kg);8109;799;8160;8;0,20;1200;22 073,11
+06/07/2026;Station de conditionnement;Agrumes conditionnés (kg);14626;824;21250;10;2,10;2500;13 554,87
+07/07/2026;Parcelle A – clémentiniers;Clémentines calibre 1 (kg);5710;574;6120;8;0,30;900;24 493,73
+07/07/2026;Parcelle B – orangers;Oranges Maroc Late (kg);7804;422;8160;8;0,40;1200;20 412,78
+07/07/2026;Station de conditionnement;Agrumes conditionnés (kg);16796;741;21250;10;2,50;2500;14 741,91
+08/07/2026;Parcelle A – clémentiniers;Clémentines calibre 1 (kg);5968;482;6120;8;0,50;900;25 181,50
+08/07/2026;Parcelle B – orangers;Oranges Maroc Late (kg);8722;793;8160;8;0,00;1200;23 449,57
+08/07/2026;Station de conditionnement;Agrumes conditionnés (kg);18875;909;21250;10;0,00;2500;16 894,69
+09/07/2026;Parcelle A – clémentiniers;Clémentines calibre 1 (kg);5385;584;6120;8;0,30;900;21 835,11
+09/07/2026;Parcelle B – orangers;Oranges Maroc Late (kg);7509;567;8160;8;1,10;1200;19 963,48
+09/07/2026;Station de conditionnement;Agrumes conditionnés (kg);19475;405;21250;10;0,00;2500;17 441,31
+10/07/2026;Parcelle A – clémentiniers;Clémentines calibre 1 (kg);6583;618;6120;8;0,20;900;28 845,37
+10/07/2026;Parcelle B – orangers;Oranges Maroc Late (kg);8973;695;8160;8;0,00;1200;23 240,41
+10/07/2026;Station de conditionnement;Agrumes conditionnés (kg);13958;474;21250;10;3,00;2500;13 232,99
+11/07/2026;Parcelle A – clémentiniers;Clémentines calibre 1 (kg);4817;519;6120;8;0,80;900;19 336,38
+11/07/2026;Parcelle B – orangers;Oranges Maroc Late (kg);7171;707;8160;8;0,40;1200;19 120,76
+11/07/2026;Station de conditionnement;Agrumes conditionnés (kg);16068;686;21250;10;2,30;2500;15 261,91
+13/07/2026;Parcelle A – clémentiniers;Clémentines calibre 1 (kg);5657;588;6120;8;0,00;900;24 291,05
+13/07/2026;Parcelle B – orangers;Oranges Maroc Late (kg);7968;829;8160;8;0,00;1200;20 044,25
+13/07/2026;Station de conditionnement;Agrumes conditionnés (kg);17705;650;21250;10;1,80;2500;16 703,23
+14/07/2026;Parcelle A – clémentiniers;Clémentines calibre 1 (kg);5433;402;6120;8;0,40;900;22 540,40
+14/07/2026;Parcelle B – orangers;Oranges Maroc Late (kg);8282;567;8160;8;0,30;1200;20 876,66
+14/07/2026;Station de conditionnement;Agrumes conditionnés (kg);21679;1114;21250;10;0,00;2500;18 917,00
+15/07/2026;Parcelle A – clémentiniers;Clémentines calibre 1 (kg);5791;606;6120;8;0,10;900;23 791,04
+15/07/2026;Parcelle B – orangers;Oranges Maroc Late (kg);8096;408;8160;8;0,40;1200;21 441,77
+15/07/2026;Station de conditionnement;Agrumes conditionnés (kg);20058;994;21250;10;0,00;2500;18 366,88
+16/07/2026;Parcelle A – clémentiniers;Clémentines calibre 1 (kg);5357;614;6120;8;0,30;900;23 071,61
+16/07/2026;Parcelle B – orangers;Oranges Maroc Late (kg);8273;696;8160;8;0,00;1200;22 525,33
+16/07/2026;Station de conditionnement;Agrumes conditionnés (kg);18151;884;21250;10;1,00;2500;15 890,24
+17/07/2026;Parcelle A – clémentiniers;Clémentines calibre 1 (kg);5828;538;6120;8;0,00;900;25 275,65
+17/07/2026;Parcelle B – orangers;Oranges Maroc Late (kg);8271;627;8160;8;0,60;1200;20 706,32
+17/07/2026;Station de conditionnement;Agrumes conditionnés (kg);16419;835;21250;10;2,20;2500;14 471,25
+18/07/2026;Parcelle A – clémentiniers;Clémentines calibre 1 (kg);5501;455;6120;8;1,00;900;22 043,44
+18/07/2026;Parcelle B – orangers;Oranges Maroc Late (kg);7006;444;8160;8;0,90;1200;18 864,50
+18/07/2026;Station de conditionnement;Agrumes conditionnés (kg);16772;578;21250;10;1,10;2500;14 872,42
+20/07/2026;Parcelle A – clémentiniers;Clémentines calibre 1 (kg);6755;349;6120;8;0,00;900;29 097,47
+20/07/2026;Parcelle B – orangers;Oranges Maroc Late (kg);8904;350;8160;8;0,00;1200;24 221,32
+20/07/2026;Station de conditionnement;Agrumes conditionnés (kg);18283;1008;21250;10;0,40;2500;16 145,67
+21/07/2026;Parcelle A – clémentiniers;Clémentines calibre 1 (kg);5094;359;6120;8;0,70;900;20 392,59
+21/07/2026;Parcelle B – orangers;Oranges Maroc Late (kg);7139;729;8160;8;0,70;1200;19 570,84
+21/07/2026;Station de conditionnement;Agrumes conditionnés (kg);18937;597;21250;10;0,70;2500;16 614,28
+22/07/2026;Parcelle A – clémentiniers;Clémentines calibre 1 (kg);5174;365;6120;8;0,40;900;21 065,40
+22/07/2026;Parcelle B – orangers;Oranges Maroc Late (kg);6466;616;8160;8;1,20;1200;16 764,00
+22/07/2026;Station de conditionnement;Agrumes conditionnés (kg);18883;1057;21250;10;0,00;2500;16 566,58
+23/07/2026;Parcelle A – clémentiniers;Clémentines calibre 1 (kg);5511;594;6120;8;0,70;900;22 544,29
+23/07/2026;Parcelle B – orangers;Oranges Maroc Late (kg);6844;673;8160;8;1,00;1200;18 437,82
+23/07/2026;Station de conditionnement;Agrumes conditionnés (kg);19782;416;21250;10;1,20;2500;18 401,03
+24/07/2026;Parcelle A – clémentiniers;Clémentines calibre 1 (kg);4574;258;6120;8;1,20;900;18 302,75
+24/07/2026;Parcelle B – orangers;Oranges Maroc Late (kg);8288;720;8160;8;0,00;1200;22 587,43
+24/07/2026;Station de conditionnement;Agrumes conditionnés (kg);17577;767;21250;10;0,50;2500;16 822,13
+25/07/2026;Parcelle A – clémentiniers;Clémentines calibre 1 (kg);6361;654;6120;8;0,00;900;27 155,51
+25/07/2026;Parcelle B – orangers;Oranges Maroc Late (kg);7204;256;8160;8;0,50;1200;19 173,16
+25/07/2026;Station de conditionnement;Agrumes conditionnés (kg);19468;454;21250;10;0,00;2500;16 882,44
+27/07/2026;Parcelle A – clémentiniers;Clémentines calibre 1 (kg);5604;638;6120;8;0,00;900;22 880,81
+27/07/2026;Parcelle B – orangers;Oranges Maroc Late (kg);6988;304;8160;8;0,40;1200;17 895,71
+27/07/2026;Station de conditionnement;Agrumes conditionnés (kg);18091;548;21250;10;1,80;2500;16 838,06
+28/07/2026;Parcelle A – clémentiniers;Clémentines calibre 1 (kg);6403;642;6120;8;0,40;900;25 486,82
+28/07/2026;Parcelle B – orangers;Oranges Maroc Late (kg);7737;663;8160;8;0,00;1200;20 341,22
+28/07/2026;Station de conditionnement;Agrumes conditionnés (kg);20333;1040;21250;10;1,20;2500;19 166,05
+29/07/2026;Parcelle A – clémentiniers;Clémentines calibre 1 (kg);6061;585;6120;8;0,00;900;25 987,22
+29/07/2026;Parcelle B – orangers;Oranges Maroc Late (kg);8997;936;8160;8;0,00;1200;23 134,82
+29/07/2026;Station de conditionnement;Agrumes conditionnés (kg);21001;1183;21250;10;0,60;2500;19 955,69
+30/07/2026;Parcelle A – clémentiniers;Clémentines calibre 1 (kg);6131;480;6120;8;0,00;900;26 575,34
+30/07/2026;Parcelle B – orangers;Oranges Maroc Late (kg);7478;453;8160;8;0,00;1200;19 430,15
+30/07/2026;Station de conditionnement;Agrumes conditionnés (kg);18149;852;21250;10;1,90;2500;16 784,19
+31/07/2026;Parcelle A – clémentiniers;Clémentines calibre 1 (kg);5781;518;6120;8;0,10;900;25 012,33
+31/07/2026;Parcelle B – orangers;Oranges Maroc Late (kg);8319;346;8160;8;0,60;1200;22 072,70
+31/07/2026;Station de conditionnement;Agrumes conditionnés (kg);18864;429;21250;10;1,70;2500;16 726,16
+01/08/2026;Parcelle A – clémentiniers;Clémentines calibre 1 (kg);5175;361;6120;8;1,50;900;21 124,96
+01/08/2026;Parcelle B – orangers;Oranges Maroc Late (kg);9010;737;8160;8;0,00;1200;24 025,51
+01/08/2026;Station de conditionnement;Agrumes conditionnés (kg);17272;372;21250;10;2,60;2500;15 941,60
+03/08/2026;Parcelle A – clémentiniers;Clémentines calibre 1 (kg);5728;668;6120;8;0,00;900;24 223,94
+03/08/2026;Parcelle B – orangers;Oranges Maroc Late (kg);7093;358;8160;8;1,20;1200;18 335,20
+03/08/2026;Station de conditionnement;Agrumes conditionnés (kg);20511;1086;21250;10;0,00;2500;17 796,66
+04/08/2026;Parcelle A – clémentiniers;Clémentines calibre 1 (kg);6710;500;6120;8;0,00;900;27 491,52
+04/08/2026;Parcelle B – orangers;Oranges Maroc Late (kg);7408;421;8160;8;0,50;1200;19 706,08
+04/08/2026;Station de conditionnement;Agrumes conditionnés (kg);19344;1143;21250;10;0,60;2500;17 032,21
+05/08/2026;Parcelle A – clémentiniers;Clémentines calibre 1 (kg);5443;377;6120;8;0,80;900;23 061,11
+05/08/2026;Parcelle B – orangers;Oranges Maroc Late (kg);8709;586;8160;8;0,20;1200;22 136,93
+05/08/2026;Station de conditionnement;Agrumes conditionnés (kg);19521;667;21250;10;1,50;2500;17 323,91
+06/08/2026;Parcelle A – clémentiniers;Clémentines calibre 1 (kg);6084;269;6120;8;0,40;900;25 330,02
+06/08/2026;Parcelle B – orangers;Oranges Maroc Late (kg);7944;395;8160;8;0,00;1200;20 527,14
+06/08/2026;Station de conditionnement;Agrumes conditionnés (kg);22337;732;21250;10;0,00;2500;20 837,83
+07/08/2026;Parcelle A – clémentiniers;Clémentines calibre 1 (kg);5214;390;6120;8;0,70;900;22 152,69
+07/08/2026;Parcelle B – orangers;Oranges Maroc Late (kg);8018;735;8160;8;0,80;1200;21 807,29
+07/08/2026;Station de conditionnement;Agrumes conditionnés (kg);18828;1060;21250;10;1,80;2500;17 781,44
+08/08/2026;Parcelle A – clémentiniers;Clémentines calibre 1 (kg);5262;235;6120;8;0,40;900;20 834,62
+08/08/2026;Parcelle B – orangers;Oranges Maroc Late (kg);8662;883;8160;8;0,20;1200;23 842,12
+08/08/2026;Station de conditionnement;Agrumes conditionnés (kg);22388;726;21250;10;0,00;2500;20 894,17
+10/08/2026;Parcelle A – clémentiniers;Clémentines calibre 1 (kg);6649;557;6120;8;0,00;900;26 688,14
+10/08/2026;Parcelle B – orangers;Oranges Maroc Late (kg);7301;651;8160;8;0,00;1200;19 313,00
+10/08/2026;Station de conditionnement;Agrumes conditionnés (kg);15253;430;21250;10;2,50;2500;14 030,21
+11/08/2026;Parcelle A – clémentiniers;Clémentines calibre 1 (kg);6639;426;6120;8;0,00;900;27 237,36
+11/08/2026;Parcelle B – orangers;Oranges Maroc Late (kg);8132;500;8160;8;0,00;1200;22 196,71
+11/08/2026;Station de conditionnement;Agrumes conditionnés (kg);21789;830;21250;10;0,00;2500;20 168,92
+12/08/2026;Parcelle A – clémentiniers;Clémentines calibre 1 (kg);5683;411;6120;8;0,10;900;22 511,92
+12/08/2026;Parcelle B – orangers;Oranges Maroc Late (kg);7850;717;8160;8;0,00;1200;19 756,36
+12/08/2026;Station de conditionnement;Agrumes conditionnés (kg);19291;593;21250;10;0,00;2500;18 004,29
+13/08/2026;Parcelle A – clémentiniers;Clémentines calibre 1 (kg);5336;379;6120;8;1,10;900;22 703,94
+13/08/2026;Parcelle B – orangers;Oranges Maroc Late (kg);6426;599;8160;8;0,80;1200;16 908,85
+13/08/2026;Station de conditionnement;Agrumes conditionnés (kg);19009;429;21250;10;0,00;2500;17 039,29
+14/08/2026;Parcelle A – clémentiniers;Clémentines calibre 1 (kg);5433;355;6120;8;0,40;900;23 092,01
+14/08/2026;Parcelle B – orangers;Oranges Maroc Late (kg);8107;440;8160;8;0,00;1200;22 493,40
+14/08/2026;Station de conditionnement;Agrumes conditionnés (kg);15952;521;21250;10;2,10;2500;13 950,57
+15/08/2026;Parcelle A – clémentiniers;Clémentines calibre 1 (kg);6047;307;6120;8;0,00;900;25 958,21
+15/08/2026;Parcelle B – orangers;Oranges Maroc Late (kg);9003;662;8160;8;0,00;1200;25 016,48
+15/08/2026;Station de conditionnement;Agrumes conditionnés (kg);18616;434;21250;10;0,00;2500;17 577,04
+17/08/2026;Parcelle A – clémentiniers;Clémentines calibre 1 (kg);6205;427;6120;8;0,40;900;25 405,91
+17/08/2026;Parcelle B – orangers;Oranges Maroc Late (kg);8966;929;8160;8;0,00;1200;22 762,77
+17/08/2026;Station de conditionnement;Agrumes conditionnés (kg);18808;653;21250;10;0,00;2500;17 375,42
+18/08/2026;Parcelle A – clémentiniers;Clémentines calibre 1 (kg);6520;643;6120;8;0,00;900;26 406,99
+18/08/2026;Parcelle B – orangers;Oranges Maroc Late (kg);8665;867;8160;8;0,00;1200;22 521,83
+18/08/2026;Station de conditionnement;Agrumes conditionnés (kg);23407;1057;21250;10;0,00;2500;22 267,64
+19/08/2026;Parcelle A – clémentiniers;Clémentines calibre 1 (kg);6218;635;6120;8;0,00;900;25 782,14
+19/08/2026;Parcelle B – orangers;Oranges Maroc Late (kg);6780;541;8160;8;1,00;1200;17 168,09
+19/08/2026;Station de conditionnement;Agrumes conditionnés (kg);19430;523;21250;10;0,00;2500;18 266,97
+20/08/2026;Parcelle A – clémentiniers;Clémentines calibre 1 (kg);6120;499;6120;8;0,00;900;26 056,39
+20/08/2026;Parcelle B – orangers;Oranges Maroc Late (kg);7831;314;8160;8;0,00;1200;21 242,75
+20/08/2026;Station de conditionnement;Agrumes conditionnés (kg);19346;923;21250;10;0,00;2500;16 876,67
+21/08/2026;Parcelle A – clémentiniers;Clémentines calibre 1 (kg);6006;672;6120;8;0,30;900;24 792,13
+21/08/2026;Parcelle B – orangers;Oranges Maroc Late (kg);8492;753;8160;8;0,40;1200;23 339,01
+21/08/2026;Station de conditionnement;Agrumes conditionnés (kg);21067;434;21250;10;0,00;2500;19 329,60
+22/08/2026;Parcelle A – clémentiniers;Clémentines calibre 1 (kg);6280;339;6120;8;0,50;900;27 265,11
+22/08/2026;Parcelle B – orangers;Oranges Maroc Late (kg);6964;390;8160;8;0,50;1200;18 435,00
+22/08/2026;Station de conditionnement;Agrumes conditionnés (kg);20384;675;21250;10;0,00;2500;19 487,09
+24/08/2026;Parcelle A – clémentiniers;Clémentines calibre 1 (kg);6470;556;6120;8;0,00;900;27 891,56
+24/08/2026;Parcelle B – orangers;Oranges Maroc Late (kg);7476;665;8160;8;0,00;1200;19 170,19
+24/08/2026;Station de conditionnement;Agrumes conditionnés (kg);19426;430;21250;10;1,00;2500;18 580,61
+25/08/2026;Parcelle A – clémentiniers;Clémentines calibre 1 (kg);5050;235;6120;8;1,10;900;21 839,16
+25/08/2026;Parcelle B – orangers;Oranges Maroc Late (kg);7837;505;8160;8;0,60;1200;21 306,84
+25/08/2026;Station de conditionnement;Agrumes conditionnés (kg);16919;536;21250;10;1,40;2500;15 612,93
+26/08/2026;Parcelle A – clémentiniers;Clémentines calibre 1 (kg);5764;253;6120;8;0,00;900;23 995,87
+26/08/2026;Parcelle B – orangers;Oranges Maroc Late (kg);7979;633;8160;8;0,50;1200;20 847,83
+26/08/2026;Station de conditionnement;Agrumes conditionnés (kg);18789;511;21250;10;0,00;2500;17 252,99
+27/08/2026;Parcelle A – clémentiniers;Clémentines calibre 1 (kg);5580;562;6120;8;0,00;900;21 997,59
+27/08/2026;Parcelle B – orangers;Oranges Maroc Late (kg);6437;330;8160;8;1,00;1200;17 035,78
+27/08/2026;Station de conditionnement;Agrumes conditionnés (kg);19242;1141;21250;10;0,00;2500;16 830,64
+28/08/2026;Parcelle A – clémentiniers;Clémentines calibre 1 (kg);5759;327;6120;8;0,80;900;22 826,60
+28/08/2026;Parcelle B – orangers;Oranges Maroc Late (kg);8767;568;8160;8;0,00;1200;23 963,56
+28/08/2026;Station de conditionnement;Agrumes conditionnés (kg);16263;765;21250;10;1,70;2500;15 170,12
+29/08/2026;Parcelle A – clémentiniers;Clémentines calibre 1 (kg);5426;446;6120;8;0,40;900;22 326,83
+29/08/2026;Parcelle B – orangers;Oranges Maroc Late (kg);7426;578;8160;8;0,00;1200;19 237,88
+29/08/2026;Station de conditionnement;Agrumes conditionnés (kg);18017;915;21250;10;1,10;2500;17 169,04
+31/08/2026;Parcelle A – clémentiniers;Clémentines calibre 1 (kg);4472;469;6120;8;1,40;900;18 973,42
+31/08/2026;Parcelle B – orangers;Oranges Maroc Late (kg);6716;695;8160;8;0,60;1200;16 980,62
+31/08/2026;Station de conditionnement;Agrumes conditionnés (kg);19533;915;21250;10;0,00;2500;18 385,66
+01/09/2026;Parcelle A – clémentiniers;Clémentines calibre 1 (kg);6608;672;6120;8;0,00;900;28 963,90
+01/09/2026;Parcelle B – orangers;Oranges Maroc Late (kg);8226;304;8160;8;0,00;1200;22 588,80
+01/09/2026;Station de conditionnement;Agrumes conditionnés (kg);19822;535;21250;10;0,00;2500;18 273,66
+02/09/2026;Parcelle A – clémentiniers;Clémentines calibre 1 (kg);5523;476;6120;8;0,00;900;23 602,32
+02/09/2026;Parcelle B – orangers;Oranges Maroc Late (kg);7766;698;8160;8;0,50;1200;20 259,02
+02/09/2026;Station de conditionnement;Agrumes conditionnés (kg);22600;1173;21250;10;0,00;2500;20 328,40
+03/09/2026;Parcelle A – clémentiniers;Clémentines calibre 1 (kg);5671;539;6120;8;0,40;900;23 288,23
+03/09/2026;Parcelle B – orangers;Oranges Maroc Late (kg);6308;492;8160;8;1,20;1200;16 474,43
+03/09/2026;Station de conditionnement;Agrumes conditionnés (kg);17480;555;21250;10;2,20;2500;15 496,90
+04/09/2026;Parcelle A – clémentiniers;Clémentines calibre 1 (kg);5650;429;6120;8;0,30;900;22 453,08
+04/09/2026;Parcelle B – orangers;Oranges Maroc Late (kg);7888;601;8160;8;1,00;1200;20 648,33
+04/09/2026;Station de conditionnement;Agrumes conditionnés (kg);22733;497;21250;10;0,00;2500;20 700,18
+05/09/2026;Parcelle A – clémentiniers;Clémentines calibre 1 (kg);6135;696;6120;8;0,00;900;26 840,15
+05/09/2026;Parcelle B – orangers;Oranges Maroc Late (kg);7148;683;8160;8;0,00;1200;18 266,60
+05/09/2026;Station de conditionnement;Agrumes conditionnés (kg);19274;833;21250;10;0,00;2500;17 020,50
+07/09/2026;Parcelle A – clémentiniers;Clémentines calibre 1 (kg);6412;368;6120;8;0,00;900;26 905,53
+07/09/2026;Parcelle B – orangers;Oranges Maroc Late (kg);7872;701;8160;8;0,00;1200;20 030,18
+07/09/2026;Station de conditionnement;Agrumes conditionnés (kg);19860;893;21250;10;0,90;2500;17 564,20
+08/09/2026;Parcelle A – clémentiniers;Clémentines calibre 1 (kg);5293;607;6120;8;0,50;900;21 267,17
+08/09/2026;Parcelle B – orangers;Oranges Maroc Late (kg);7591;326;8160;8;0,30;1200;19 564,90
+08/09/2026;Station de conditionnement;Agrumes conditionnés (kg);21753;781;21250;10;0,60;2500;19 480,70
+09/09/2026;Parcelle A – clémentiniers;Clémentines calibre 1 (kg);6151;273;6120;8;0,20;900;25 472,92
+09/09/2026;Parcelle B – orangers;Oranges Maroc Late (kg);8834;661;8160;8;0,00;1200;23 778,88
+09/09/2026;Station de conditionnement;Agrumes conditionnés (kg);20439;923;21250;10;1,20;2500;19 207,83
+10/09/2026;Parcelle A – clémentiniers;Clémentines calibre 1 (kg);6391;419;6120;8;0,30;900;26 565,16
+10/09/2026;Parcelle B – orangers;Oranges Maroc Late (kg);8644;340;8160;8;0,00;1200;22 876,62
+10/09/2026;Station de conditionnement;Agrumes conditionnés (kg);19859;821;21250;10;0,00;2500;17 317,46
+11/09/2026;Parcelle A – clémentiniers;Clémentines calibre 1 (kg);5900;490;6120;8;0,00;900;25 055,61
+11/09/2026;Parcelle B – orangers;Oranges Maroc Late (kg);7463;405;8160;8;1,00;1200;20 190,82
+11/09/2026;Station de conditionnement;Agrumes conditionnés (kg);22931;1370;21250;10;0,00;2500;19 982,12
+12/09/2026;Parcelle A – clémentiniers;Clémentines calibre 1 (kg);5987;662;6120;8;0,20;900;25 139,02
+12/09/2026;Parcelle B – orangers;Oranges Maroc Late (kg);8357;642;8160;8;0,30;1200;21 105,71
+12/09/2026;Station de conditionnement;Agrumes conditionnés (kg);21217;652;21250;10;0,40;2500;18 490,00
+14/09/2026;Parcelle A – clémentiniers;Clémentines calibre 1 (kg);5394;309;6120;8;1,40;900;22 924,20
+14/09/2026;Parcelle B – orangers;Oranges Maroc Late (kg);8660;456;8160;8;0,20;1200;23 497,04
+14/09/2026;Station de conditionnement;Agrumes conditionnés (kg);19793;654;21250;10;0,80;2500;17 279,24
+15/09/2026;Parcelle A – clémentiniers;Clémentines calibre 1 (kg);6693;453;6120;8;0,00;900;27 822,63
+15/09/2026;Parcelle B – orangers;Oranges Maroc Late (kg);8255;566;8160;8;0,10;1200;21 556,45
+15/09/2026;Station de conditionnement;Agrumes conditionnés (kg);16828;540;21250;10;2,00;2500;15 123,75
+16/09/2026;Parcelle A – clémentiniers;Clémentines calibre 1 (kg);5524;411;6120;8;0,00;900;22 660,72
+16/09/2026;Parcelle B – orangers;Oranges Maroc Late (kg);8445;881;8160;8;0,20;1200;22 731,65
+16/09/2026;Station de conditionnement;Agrumes conditionnés (kg);19991;803;21250;10;0,00;2500;19 215,10
+17/09/2026;Parcelle A – clémentiniers;Clémentines calibre 1 (kg);5200;564;6120;8;1,00;900;21 460,32
+17/09/2026;Parcelle B – orangers;Oranges Maroc Late (kg);8455;696;8160;8;0,00;1200;23 463,20
+17/09/2026;Station de conditionnement;Agrumes conditionnés (kg);19788;1116;21250;10;0,00;2500;18 826,66
+18/09/2026;Parcelle A – clémentiniers;Clémentines calibre 1 (kg);5751;505;6120;8;0,50;900;23 427,79
+18/09/2026;Parcelle B – orangers;Oranges Maroc Late (kg);7073;717;8160;8;0,60;1200;17 701,59
+18/09/2026;Station de conditionnement;Agrumes conditionnés (kg);18580;985;21250;10;0,00;2500;17 256,91
+19/09/2026;Parcelle A – clémentiniers;Clémentines calibre 1 (kg);5307;466;6120;8;0,70;900;22 243,88
+19/09/2026;Parcelle B – orangers;Oranges Maroc Late (kg);6861;505;8160;8;0,50;1200;18 326,60
+19/09/2026;Station de conditionnement;Agrumes conditionnés (kg);16780;632;21250;10;1,00;2500;15 247,46
+21/09/2026;Parcelle A – clémentiniers;Clémentines calibre 1 (kg);4644;430;6120;8;1,40;900;19 381,96
+21/09/2026;Parcelle B – orangers;Oranges Maroc Late (kg);7256;616;8160;8;0,00;1200;18 706,28
+21/09/2026;Station de conditionnement;Agrumes conditionnés (kg);18155;828;21250;10;1,80;2500;16 897,55
+22/09/2026;Parcelle A – clémentiniers;Clémentines calibre 1 (kg);5982;604;6120;8;0,10;900;23 853,48
+22/09/2026;Parcelle B – orangers;Oranges Maroc Late (kg);7181;651;8160;8;0,00;1200;18 348,15
+22/09/2026;Station de conditionnement;Agrumes conditionnés (kg);20449;943;21250;10;0,30;2500;19 394,76
+23/09/2026;Parcelle A – clémentiniers;Clémentines calibre 1 (kg);6019;622;6120;8;0,00;900;25 481,99
+23/09/2026;Parcelle B – orangers;Oranges Maroc Late (kg);7299;487;8160;8;0,30;1200;19 267,11
+23/09/2026;Station de conditionnement;Agrumes conditionnés (kg);13030;320;21250;10;3,10;2500;12 400,74
+24/09/2026;Parcelle A – clémentiniers;Clémentines calibre 1 (kg);6140;375;6120;8;0,00;900;26 648,15
+24/09/2026;Parcelle B – orangers;Oranges Maroc Late (kg);6330;296;8160;8;0,90;1200;17 088,65
+24/09/2026;Station de conditionnement;Agrumes conditionnés (kg);18506;611;21250;10;2,10;2500;17 720,30
+25/09/2026;Parcelle A – clémentiniers;Clémentines calibre 1 (kg);6162;494;6120;8;0,70;900;25 020,90
+25/09/2026;Parcelle B – orangers;Oranges Maroc Late (kg);8066;674;8160;8;0,00;1200;20 253,90
+25/09/2026;Station de conditionnement;Agrumes conditionnés (kg);15732;793;21250;10;1,80;2500;13 598,99
+26/09/2026;Parcelle A – clémentiniers;Clémentines calibre 1 (kg);6096;562;6120;8;0,30;900;26 058,73
+26/09/2026;Parcelle B – orangers;Oranges Maroc Late (kg);7063;467;8160;8;0,50;1200;18 190,67
+26/09/2026;Station de conditionnement;Agrumes conditionnés (kg);18873;1112;21250;10;0,20;2500;17 244,02
+28/09/2026;Parcelle A – clémentiniers;Clémentines calibre 1 (kg);5307;334;6120;8;0,60;900;23 207,13
+28/09/2026;Parcelle B – orangers;Oranges Maroc Late (kg);8040;367;8160;8;0,00;1200;21 651,43
+28/09/2026;Station de conditionnement;Agrumes conditionnés (kg);17164;494;21250;10;1,90;2500;15 788,79
+29/09/2026;Parcelle A – clémentiniers;Clémentines calibre 1 (kg);5043;601;6120;8;1,00;900;20 617,09
+29/09/2026;Parcelle B – orangers;Oranges Maroc Late (kg);6822;566;8160;8;0,90;1200;18 885,62
+29/09/2026;Station de conditionnement;Agrumes conditionnés (kg);15573;847;21250;10;1,60;2500;14 616,75
+30/09/2026;Parcelle A – clémentiniers;Clémentines calibre 1 (kg);5775;407;6120;8;0,00;900;24 560,43
+30/09/2026;Parcelle B – orangers;Oranges Maroc Late (kg);8589;874;8160;8;0,00;1200;23 524,44
+30/09/2026;Station de conditionnement;Agrumes conditionnés (kg);18299;539;21250;10;0,40;2500;17 606,55

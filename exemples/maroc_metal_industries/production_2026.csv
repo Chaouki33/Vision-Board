@@ -1,0 +1,933 @@
+﻿Date;Ligne;Produit;Quantité produite;Rebuts;Objectif;Temps planifié (h);Temps d'arrêt (h);Cadence théorique;Coût de production
+02/01/2026;Découpe laser;Tôle découpée laser (lot);65;2;68;16;1,90;5;54 639,13
+02/01/2026;Pliage;Pièce pliée inox;888;32;952;16;0,50;70;53 785,10
+02/01/2026;Soudure;Châssis tubulaire;69;3;81;16;1,80;6;20 843,74
+02/01/2026;Emboutissage;Support moteur acier;1141;37;1496;16;3,10;110;37 241,18
+03/01/2026;Découpe laser;Tôle découpée laser (lot);60;1;68;16;0,40;5;51 371,92
+03/01/2026;Pliage;Pièce pliée inox;969;24;952;16;0,00;70;58 846,75
+03/01/2026;Soudure;Châssis tubulaire;85;4;81;16;0,00;6;25 056,80
+03/01/2026;Emboutissage;Support moteur acier;1344;48;1496;16;0,90;110;44 567,07
+05/01/2026;Découpe laser;Tôle découpée laser (lot);56;1;68;16;2,10;5;44 478,41
+05/01/2026;Pliage;Pièce pliée inox;914;45;952;16;0,20;70;51 263,56
+05/01/2026;Soudure;Châssis tubulaire;74;6;81;16;0,00;6;21 996,64
+05/01/2026;Emboutissage;Support moteur acier;1258;24;1496;16;1,50;110;37 862,81
+06/01/2026;Découpe laser;Tôle découpée laser (lot);64;1;68;16;0,00;5;52 504,43
+06/01/2026;Pliage;Pièce pliée inox;911;37;952;16;1,90;70;50 902,61
+06/01/2026;Soudure;Châssis tubulaire;73;6;81;16;1,30;6;21 217,52
+06/01/2026;Emboutissage;Support moteur acier;1623;57;1496;16;0,20;110;53 362,28
+07/01/2026;Découpe laser;Tôle découpée laser (lot);75;1;68;16;0,00;5;65 350,25
+07/01/2026;Pliage;Pièce pliée inox;839;44;952;16;0,00;70;51 818,21
+07/01/2026;Soudure;Châssis tubulaire;66;2;81;16;3,00;6;18 272,44
+07/01/2026;Emboutissage;Support moteur acier;1235;27;1496;16;2,70;110;38 669,58
+08/01/2026;Découpe laser;Tôle découpée laser (lot);61;0;68;16;0,00;5;52 707,04
+08/01/2026;Pliage;Pièce pliée inox;816;32;952;16;2,50;70;50 265,74
+08/01/2026;Soudure;Châssis tubulaire;87;4;81;16;0,00;6;24 838,30
+08/01/2026;Emboutissage;Support moteur acier;1275;46;1496;16;2,10;110;42 127,50
+09/01/2026;Découpe laser;Tôle découpée laser (lot);69;2;68;16;0,90;5;57 037,72
+09/01/2026;Pliage;Pièce pliée inox;958;19;952;16;0,00;70;58 625,52
+09/01/2026;Soudure;Châssis tubulaire;60;2;81;16;2,60;6;17 566,25
+09/01/2026;Emboutissage;Support moteur acier;1067;19;1496;16;3,50;110;34 042,51
+10/01/2026;Découpe laser;Tôle découpée laser (lot);63;2;68;16;0,00;5;52 833,84
+10/01/2026;Pliage;Pièce pliée inox;872;20;952;16;0,00;70;53 200,79
+10/01/2026;Soudure;Châssis tubulaire;74;5;81;16;0,00;6;21 710,15
+10/01/2026;Emboutissage;Support moteur acier;1276;22;1496;16;1,10;110;42 159,34
+12/01/2026;Découpe laser;Tôle découpée laser (lot);64;2;68;16;0,60;5;55 477,32
+12/01/2026;Pliage;Pièce pliée inox;920;24;952;16;0,00;70;54 657,19
+12/01/2026;Soudure;Châssis tubulaire;83;3;81;16;0,00;6;23 124,33
+12/01/2026;Emboutissage;Support moteur acier;1345;39;1496;16;1,70;110;43 744,14
+13/01/2026;Découpe laser;Tôle découpée laser (lot);59;1;68;16;2,90;5;49 286,79
+13/01/2026;Pliage;Pièce pliée inox;915;51;952;16;0,00;70;54 720,66
+13/01/2026;Soudure;Châssis tubulaire;76;2;81;16;1,10;6;21 991,05
+13/01/2026;Emboutissage;Support moteur acier;1286;43;1496;16;1,80;110;42 267,46
+14/01/2026;Découpe laser;Tôle découpée laser (lot);62;1;68;16;0,50;5;51 776,48
+14/01/2026;Pliage;Pièce pliée inox;923;30;952;16;0,20;70;54 057,20
+14/01/2026;Soudure;Châssis tubulaire;66;3;81;16;1,60;6;18 926,48
+14/01/2026;Emboutissage;Support moteur acier;1596;42;1496;16;0,10;110;47 867,56
+15/01/2026;Découpe laser;Tôle découpée laser (lot);60;1;68;16;2,60;5;47 779,13
+15/01/2026;Pliage;Pièce pliée inox;1000;57;952;16;0,00;70;57 326,56
+15/01/2026;Soudure;Châssis tubulaire;79;4;81;16;1,80;6;23 926,67
+15/01/2026;Emboutissage;Support moteur acier;1636;46;1496;16;0,00;110;51 670,37
+16/01/2026;Découpe laser;Tôle découpée laser (lot);58;0;68;16;2,90;5;47 994,92
+16/01/2026;Pliage;Pièce pliée inox;1003;49;952;16;0,00;70;60 252,54
+16/01/2026;Soudure;Châssis tubulaire;75;5;81;16;0,00;6;22 668,10
+16/01/2026;Emboutissage;Support moteur acier;1552;45;1496;16;0,80;110;50 293,23
+17/01/2026;Découpe laser;Tôle découpée laser (lot);60;2;68;16;2,10;5;49 450,77
+17/01/2026;Pliage;Pièce pliée inox;810;28;952;16;0,50;70;46 013,70
+17/01/2026;Soudure;Châssis tubulaire;85;7;81;16;0,00;6;24 722,53
+17/01/2026;Emboutissage;Support moteur acier;1397;51;1496;16;0,00;110;41 757,17
+19/01/2026;Découpe laser;Tôle découpée laser (lot);66;2;68;16;0,00;5;54 931,61
+19/01/2026;Pliage;Pièce pliée inox;947;23;952;16;1,30;70;54 181,92
+19/01/2026;Soudure;Châssis tubulaire;74;4;81;16;0,00;6;20 569,48
+19/01/2026;Emboutissage;Support moteur acier;1355;30;1496;16;1,80;110;44 505,33
+20/01/2026;Découpe laser;Tôle découpée laser (lot);63;1;68;16;0,00;5;54 281,89
+20/01/2026;Pliage;Pièce pliée inox;1003;24;952;16;0,70;70;57 765,62
+20/01/2026;Soudure;Châssis tubulaire;59;3;81;16;2,60;6;17 888,06
+20/01/2026;Emboutissage;Support moteur acier;1279;21;1496;16;2,40;110;41 825,27
+21/01/2026;Découpe laser;Tôle découpée laser (lot);62;1;68;16;1,70;5;51 577,31
+21/01/2026;Pliage;Pièce pliée inox;880;23;952;16;0,00;70;52 103,76
+21/01/2026;Soudure;Châssis tubulaire;73;4;81;16;0,00;6;21 865,85
+21/01/2026;Emboutissage;Support moteur acier;1074;16;1496;16;4,40;110;32 706,58
+22/01/2026;Découpe laser;Tôle découpée laser (lot);66;1;68;16;0,00;5;55 205,55
+22/01/2026;Pliage;Pièce pliée inox;934;50;952;16;0,60;70;53 619,38
+22/01/2026;Soudure;Châssis tubulaire;76;6;81;16;0,00;6;22 786,40
+22/01/2026;Emboutissage;Support moteur acier;1137;22;1496;16;2,40;110;35 078,38
+23/01/2026;Découpe laser;Tôle découpée laser (lot);62;2;68;16;0,00;5;50 235,22
+23/01/2026;Pliage;Pièce pliée inox;885;41;952;16;0,40;70;50 764,37
+23/01/2026;Soudure;Châssis tubulaire;58;2;81;16;3,50;6;16 385,87
+23/01/2026;Emboutissage;Support moteur acier;1086;27;1496;16;3,30;110;33 660,18
+24/01/2026;Découpe laser;Tôle découpée laser (lot);57;2;68;16;3,70;5;46 874,68
+24/01/2026;Pliage;Pièce pliée inox;783;44;952;16;1,50;70;47 237,38
+24/01/2026;Soudure;Châssis tubulaire;61;4;81;16;3,00;6;17 570,79
+24/01/2026;Emboutissage;Support moteur acier;1637;54;1496;16;0,00;110;52 899,88
+26/01/2026;Découpe laser;Tôle découpée laser (lot);56;1;68;16;2,50;5;48 268,04
+26/01/2026;Pliage;Pièce pliée inox;792;33;952;16;1,00;70;46 134,05
+26/01/2026;Soudure;Châssis tubulaire;74;5;81;16;0,00;6;22 062,16
+26/01/2026;Emboutissage;Support moteur acier;1578;31;1496;16;0,00;110;52 272,44
+27/01/2026;Découpe laser;Tôle découpée laser (lot);66;1;68;16;1,80;5;52 124,54
+27/01/2026;Pliage;Pièce pliée inox;774;44;952;16;1,40;70;43 674,56
+27/01/2026;Soudure;Châssis tubulaire;69;4;81;16;1,90;6;20 665,03
+27/01/2026;Emboutissage;Support moteur acier;1496;29;1496;16;0,70;110;44 875,54
+28/01/2026;Découpe laser;Tôle découpée laser (lot);71;1;68;16;0,00;5;61 486,76
+28/01/2026;Pliage;Pièce pliée inox;1013;42;952;16;0,10;70;56 760,18
+28/01/2026;Soudure;Châssis tubulaire;57;3;81;16;3,60;6;17 254,14
+28/01/2026;Emboutissage;Support moteur acier;1511;52;1496;16;0,50;110;49 728,82
+29/01/2026;Découpe laser;Tôle découpée laser (lot);56;1;68;16;1,00;5;49 078,66
+29/01/2026;Pliage;Pièce pliée inox;920;28;952;16;0,50;70;54 409,68
+29/01/2026;Soudure;Châssis tubulaire;84;5;81;16;0,00;6;23 896,08
+29/01/2026;Emboutissage;Support moteur acier;1261;21;1496;16;2,70;110;38 834,75
+30/01/2026;Découpe laser;Tôle découpée laser (lot);60;2;68;16;1,80;5;47 481,20
+30/01/2026;Pliage;Pièce pliée inox;990;43;952;16;0,50;70;58 042,18
+30/01/2026;Soudure;Châssis tubulaire;71;2;81;16;2,30;6;20 484,11
+30/01/2026;Emboutissage;Support moteur acier;1189;30;1496;16;3,50;110;37 958,70
+31/01/2026;Découpe laser;Tôle découpée laser (lot);60;2;68;16;1,50;5;51 886,22
+31/01/2026;Pliage;Pièce pliée inox;831;44;952;16;0,50;70;48 395,10
+31/01/2026;Soudure;Châssis tubulaire;63;4;81;16;2,40;6;17 484,79
+31/01/2026;Emboutissage;Support moteur acier;1275;18;1496;16;2,80;110;41 676,96
+02/02/2026;Découpe laser;Tôle découpée laser (lot);62;2;68;16;2,30;5;53 437,92
+02/02/2026;Pliage;Pièce pliée inox;849;31;952;16;0,00;70;51 118,59
+02/02/2026;Soudure;Châssis tubulaire;89;4;81;16;0,00;6;26 494,37
+02/02/2026;Emboutissage;Support moteur acier;1206;38;1496;16;2,80;110;38 607,23
+03/02/2026;Découpe laser;Tôle découpée laser (lot);75;2;68;16;0,00;5;62 698,58
+03/02/2026;Pliage;Pièce pliée inox;990;56;952;16;0,00;70;60 448,39
+03/02/2026;Soudure;Châssis tubulaire;66;3;81;16;1,70;6;19 308,15
+03/02/2026;Emboutissage;Support moteur acier;1426;19;1496;16;0,00;110;46 062,41
+04/02/2026;Découpe laser;Tôle découpée laser (lot);58;1;68;16;1,00;5;49 560,85
+04/02/2026;Pliage;Pièce pliée inox;916;47;952;16;1,10;70;54 521,59
+04/02/2026;Soudure;Châssis tubulaire;76;4;81;16;1,70;6;22 384,54
+04/02/2026;Emboutissage;Support moteur acier;1318;46;1496;16;0,00;110;40 210,41
+05/02/2026;Découpe laser;Tôle découpée laser (lot);70;1;68;16;0,00;5;58 679,36
+05/02/2026;Pliage;Pièce pliée inox;932;40;952;16;0,70;70;54 894,57
+05/02/2026;Soudure;Châssis tubulaire;77;3;81;16;0,00;6;21 248,08
+05/02/2026;Emboutissage;Support moteur acier;982;26;1496;16;5,10;110;30 385,75
+06/02/2026;Découpe laser;Tôle découpée laser (lot);63;2;68;16;0,80;5;53 452,45
+06/02/2026;Pliage;Pièce pliée inox;842;25;952;16;1,30;70;51 652,66
+06/02/2026;Soudure;Châssis tubulaire;63;5;81;16;3,00;6;17 959,29
+06/02/2026;Emboutissage;Support moteur acier;1292;43;1496;16;3,40;110;42 488,22
+07/02/2026;Découpe laser;Tôle découpée laser (lot);63;1;68;16;0,00;5;50 239,01
+07/02/2026;Pliage;Pièce pliée inox;955;40;952;16;0,00;70;56 789,67
+07/02/2026;Soudure;Châssis tubulaire;72;2;81;16;0,80;6;20 532,46
+07/02/2026;Emboutissage;Support moteur acier;1248;39;1496;16;2,70;110;39 837,50
+09/02/2026;Découpe laser;Tôle découpée laser (lot);67;2;68;16;1,50;5;55 822,08
+09/02/2026;Pliage;Pièce pliée inox;855;34;952;16;2,60;70;52 281,20
+09/02/2026;Soudure;Châssis tubulaire;64;5;81;16;2,60;6;17 823,52
+09/02/2026;Emboutissage;Support moteur acier;1056;37;1496;16;4,70;110;32 810,10
+10/02/2026;Découpe laser;Tôle découpée laser (lot);64;2;68;16;2,10;5;53 724,10
+10/02/2026;Pliage;Pièce pliée inox;892;47;952;16;1,00;70;55 222,33
+10/02/2026;Soudure;Châssis tubulaire;77;5;81;16;1,60;6;23 015,98
+10/02/2026;Emboutissage;Support moteur acier;1151;35;1496;16;2,60;110;35 740,88
+11/02/2026;Découpe laser;Tôle découpée laser (lot);69;3;68;16;1,20;5;59 575,02
+11/02/2026;Pliage;Pièce pliée inox;923;23;952;16;0,30;70;51 783,94
+11/02/2026;Soudure;Châssis tubulaire;71;4;81;16;1,80;6;20 484,34
+11/02/2026;Emboutissage;Support moteur acier;1589;55;1496;16;0,00;110;47 523,31
+12/02/2026;Découpe laser;Tôle découpée laser (lot);51;1;68;16;2,30;5;43 314,52
+12/02/2026;Pliage;Pièce pliée inox;779;30;952;16;1,00;70;44 223,20
+12/02/2026;Soudure;Châssis tubulaire;55;2;81;16;4,40;6;15 748,16
+12/02/2026;Emboutissage;Support moteur acier;1503;33;1496;16;0,00;110;48 440,57
+13/02/2026;Découpe laser;Tôle découpée laser (lot);59;1;68;16;0,00;5;51 264,42
+13/02/2026;Pliage;Pièce pliée inox;854;27;952;16;1,00;70;49 595,83
+13/02/2026;Soudure;Châssis tubulaire;81;6;81;16;0,00;6;22 588,26
+13/02/2026;Emboutissage;Support moteur acier;1357;20;1496;16;1,70;110;43 642,81
+14/02/2026;Découpe laser;Tôle découpée laser (lot);62;1;68;16;0,00;5;51 643,68
+14/02/2026;Pliage;Pièce pliée inox;946;41;952;16;1,20;70;58 049,88
+14/02/2026;Soudure;Châssis tubulaire;59;1;81;16;3,10;6;16 825,04
+14/02/2026;Emboutissage;Support moteur acier;1520;22;1496;16;0,00;110;45 673,75
+16/02/2026;Découpe laser;Tôle découpée laser (lot);72;2;68;16;0,00;5;56 729,64
+16/02/2026;Pliage;Pièce pliée inox;881;41;952;16;1,30;70;52 602,39
+16/02/2026;Soudure;Châssis tubulaire;75;5;81;16;1,60;6;20 924,99
+16/02/2026;Emboutissage;Support moteur acier;1483;51;1496;16;0,00;110;49 042,42
+17/02/2026;Découpe laser;Tôle découpée laser (lot);67;2;68;16;1,40;5;53 994,80
+17/02/2026;Pliage;Pièce pliée inox;943;33;952;16;0,00;70;53 965,38
+17/02/2026;Soudure;Châssis tubulaire;65;2;81;16;4,30;6;18 942,52
+17/02/2026;Emboutissage;Support moteur acier;1099;25;1496;16;3,20;110;34 015,77
+18/02/2026;Découpe laser;Tôle découpée laser (lot);67;1;68;16;0,30;5;57 605,33
+18/02/2026;Pliage;Pièce pliée inox;838;48;952;16;1,10;70;49 606,43
+18/02/2026;Soudure;Châssis tubulaire;65;2;81;16;2,80;6;18 804,64
+18/02/2026;Emboutissage;Support moteur acier;1326;17;1496;16;0,00;110;42 689,89
+19/02/2026;Découpe laser;Tôle découpée laser (lot);64;2;68;16;1,60;5;53 707,77
+19/02/2026;Pliage;Pièce pliée inox;849;48;952;16;2,30;70;47 495,20
+19/02/2026;Soudure;Châssis tubulaire;76;2;81;16;1,20;6;21 142,80
+19/02/2026;Emboutissage;Support moteur acier;1221;25;1496;16;2,20;110;37 367,68
+20/02/2026;Découpe laser;Tôle découpée laser (lot);69;2;68;16;0,60;5;59 900,66
+20/02/2026;Pliage;Pièce pliée inox;873;23;952;16;0,00;70;48 772,90
+20/02/2026;Soudure;Châssis tubulaire;60;4;81;16;2,50;6;17 651,11
+20/02/2026;Emboutissage;Support moteur acier;1546;56;1496;16;0,00;110;47 618,84
+21/02/2026;Découpe laser;Tôle découpée laser (lot);52;1;68;16;3,20;5;43 356,88
+21/02/2026;Pliage;Pièce pliée inox;1011;44;952;16;0,50;70;60 721,28
+21/02/2026;Soudure;Châssis tubulaire;64;2;81;16;2,40;6;19 360,94
+21/02/2026;Emboutissage;Support moteur acier;1576;42;1496;16;0,00;110;48 216,04
+23/02/2026;Découpe laser;Tôle découpée laser (lot);56;2;68;16;3,70;5;45 592,96
+23/02/2026;Pliage;Pièce pliée inox;1014;56;952;16;0,00;70;58 507,32
+23/02/2026;Soudure;Châssis tubulaire;78;4;81;16;0,00;6;22 931,56
+23/02/2026;Emboutissage;Support moteur acier;1066;26;1496;16;3,30;110;32 940,54
+24/02/2026;Découpe laser;Tôle découpée laser (lot);61;1;68;16;0,30;5;52 027,41
+24/02/2026;Pliage;Pièce pliée inox;921;33;952;16;0,60;70;56 336,22
+24/02/2026;Soudure;Châssis tubulaire;79;3;81;16;0,00;6;22 219,61
+24/02/2026;Emboutissage;Support moteur acier;1262;44;1496;16;2,80;110;39 864,43
+25/02/2026;Découpe laser;Tôle découpée laser (lot);56;0;68;16;2,40;5;45 124,65
+25/02/2026;Pliage;Pièce pliée inox;992;26;952;16;0,50;70;59 160,32
+25/02/2026;Soudure;Châssis tubulaire;72;3;81;16;1,60;6;21 200,21
+25/02/2026;Emboutissage;Support moteur acier;1439;42;1496;16;0,00;110;43 435,92
+26/02/2026;Découpe laser;Tôle découpée laser (lot);61;2;68;16;2,00;5;52 654,01
+26/02/2026;Pliage;Pièce pliée inox;837;19;952;16;2,30;70;50 174,39
+26/02/2026;Soudure;Châssis tubulaire;72;4;81;16;0,00;6;21 764,70
+26/02/2026;Emboutissage;Support moteur acier;1211;35;1496;16;1,30;110;36 374,06
+27/02/2026;Découpe laser;Tôle découpée laser (lot);66;2;68;16;0,00;5;53 541,90
+27/02/2026;Pliage;Pièce pliée inox;928;32;952;16;1,30;70;55 740,59
+27/02/2026;Soudure;Châssis tubulaire;82;4;81;16;1,20;6;24 539,97
+27/02/2026;Emboutissage;Support moteur acier;1239;18;1496;16;3,90;110;39 408,75
+28/02/2026;Découpe laser;Tôle découpée laser (lot);70;3;68;16;0,00;5;57 720,89
+28/02/2026;Pliage;Pièce pliée inox;880;26;952;16;1,00;70;54 232,74
+28/02/2026;Soudure;Châssis tubulaire;79;2;81;16;0,00;6;21 895,11
+28/02/2026;Emboutissage;Support moteur acier;985;21;1496;16;4,00;110;30 116,90
+02/03/2026;Découpe laser;Tôle découpée laser (lot);61;2;68;16;0,00;5;50 170,52
+02/03/2026;Pliage;Pièce pliée inox;854;45;952;16;0,00;70;51 674,74
+02/03/2026;Soudure;Châssis tubulaire;78;5;81;16;0,00;6;21 818,72
+02/03/2026;Emboutissage;Support moteur acier;1459;45;1496;16;0,20;110;47 035,09
+03/03/2026;Découpe laser;Tôle découpée laser (lot);69;1;68;16;0,00;5;56 030,59
+03/03/2026;Pliage;Pièce pliée inox;981;20;952;16;0,00;70;58 221,06
+03/03/2026;Soudure;Châssis tubulaire;75;6;81;16;2,30;6;22 829,52
+03/03/2026;Emboutissage;Support moteur acier;1413;20;1496;16;0,00;110;45 637,73
+04/03/2026;Découpe laser;Tôle découpée laser (lot);66;2;68;16;0,00;5;57 652,42
+04/03/2026;Pliage;Pièce pliée inox;925;49;952;16;0,60;70;54 346,41
+04/03/2026;Soudure;Châssis tubulaire;64;4;81;16;2,50;6;19 188,24
+04/03/2026;Emboutissage;Support moteur acier;1130;23;1496;16;4,00;110;37 306,84
+05/03/2026;Découpe laser;Tôle découpée laser (lot);60;1;68;16;0,00;5;52 146,89
+05/03/2026;Pliage;Pièce pliée inox;854;46;952;16;0,70;70;51 836,02
+05/03/2026;Soudure;Châssis tubulaire;88;3;81;16;0,00;6;25 625,35
+05/03/2026;Emboutissage;Support moteur acier;1089;17;1496;16;3,10;110;33 140,70
+06/03/2026;Découpe laser;Tôle découpée laser (lot);64;2;68;16;0,00;5;52 062,04
+06/03/2026;Pliage;Pièce pliée inox;821;18;952;16;0,60;70;50 771,85
+06/03/2026;Soudure;Châssis tubulaire;67;2;81;16;1,80;6;18 351,20
+06/03/2026;Emboutissage;Support moteur acier;1546;39;1496;16;0,00;110;46 602,20
+07/03/2026;Découpe laser;Tôle découpée laser (lot);64;2;68;16;0,80;5;55 201,78
+07/03/2026;Pliage;Pièce pliée inox;905;23;952;16;0,00;70;50 591,40
+07/03/2026;Soudure;Châssis tubulaire;71;6;81;16;0,00;6;20 070,55
+07/03/2026;Emboutissage;Support moteur acier;1319;22;1496;16;1,10;110;42 705,47
+09/03/2026;Découpe laser;Tôle découpée laser (lot);59;2;68;16;0,00;5;49 099,71
+09/03/2026;Pliage;Pièce pliée inox;955;47;952;16;0,50;70;55 977,31
+09/03/2026;Soudure;Châssis tubulaire;81;3;81;16;0,00;6;24 288,10
+09/03/2026;Emboutissage;Support moteur acier;1112;21;1496;16;2,50;110;33 369,57
+10/03/2026;Découpe laser;Tôle découpée laser (lot);53;0;68;16;2,60;5;45 847,62
+10/03/2026;Pliage;Pièce pliée inox;1018;57;952;16;0,00;70;59 804,00
+10/03/2026;Soudure;Châssis tubulaire;74;2;81;16;0,00;6;22 154,93
+10/03/2026;Emboutissage;Support moteur acier;919;12;1496;16;4,90;110;28 802,94
+11/03/2026;Découpe laser;Tôle découpée laser (lot);60;1;68;16;1,50;5;50 517,91
+11/03/2026;Pliage;Pièce pliée inox;973;58;952;16;0,20;70;60 122,38
+11/03/2026;Soudure;Châssis tubulaire;68;2;81;16;2,90;6;20 202,77
+11/03/2026;Emboutissage;Support moteur acier;1226;28;1496;16;2,00;110;40 084,82
+12/03/2026;Découpe laser;Tôle découpée laser (lot);63;1;68;16;0,00;5;53 292,33
+12/03/2026;Pliage;Pièce pliée inox;963;55;952;16;0,00;70;56 757,56
+12/03/2026;Soudure;Châssis tubulaire;74;2;81;16;0,00;6;21 240,37
+12/03/2026;Emboutissage;Support moteur acier;1433;39;1496;16;1,90;110;46 065,76
+13/03/2026;Découpe laser;Tôle découpée laser (lot);60;0;68;16;1,20;5;48 559,33
+13/03/2026;Pliage;Pièce pliée inox;850;35;952;16;0,60;70;50 917,59
+13/03/2026;Soudure;Châssis tubulaire;88;5;81;16;0,00;6;25 127,38
+13/03/2026;Emboutissage;Support moteur acier;1341;39;1496;16;2,00;110;41 826,70
+14/03/2026;Découpe laser;Tôle découpée laser (lot);60;2;68;16;0,40;5;47 467,41
+14/03/2026;Pliage;Pièce pliée inox;843;31;952;16;0,00;70;50 463,67
+14/03/2026;Soudure;Châssis tubulaire;73;3;81;16;2,00;6;20 146,05
+14/03/2026;Emboutissage;Support moteur acier;1344;39;1496;16;2,40;110;41 168,70
+16/03/2026;Découpe laser;Tôle découpée laser (lot);72;2;68;16;0,00;5;57 476,71
+16/03/2026;Pliage;Pièce pliée inox;821;35;952;16;1,60;70;49 329,78
+16/03/2026;Soudure;Châssis tubulaire;65;2;81;16;3,10;6;19 020,43
+16/03/2026;Emboutissage;Support moteur acier;1154;15;1496;16;2,70;110;38 031,30
+17/03/2026;Découpe laser;Tôle découpée laser (lot);56;1;68;16;1,30;5;45 933,46
+17/03/2026;Pliage;Pièce pliée inox;971;28;952;16;1,20;70;60 164,42
+17/03/2026;Soudure;Châssis tubulaire;85;3;81;16;0,00;6;23 907,05
+17/03/2026;Emboutissage;Support moteur acier;1293;17;1496;16;1,80;110;41 684,84
+18/03/2026;Découpe laser;Tôle découpée laser (lot);69;1;68;16;0,00;5;59 663,50
+18/03/2026;Pliage;Pièce pliée inox;909;45;952;16;0,40;70;53 529,33
+18/03/2026;Soudure;Châssis tubulaire;70;5;81;16;1,10;6;19 797,88
+18/03/2026;Emboutissage;Support moteur acier;1500;32;1496;16;0,00;110;45 976,22
+19/03/2026;Découpe laser;Tôle découpée laser (lot);65;2;68;16;1,80;5;54 991,62
+19/03/2026;Pliage;Pièce pliée inox;776;17;952;16;1,60;70;43 937,59
+19/03/2026;Soudure;Châssis tubulaire;61;4;81;16;2,50;6;18 052,44
+19/03/2026;Emboutissage;Support moteur acier;1507;42;1496;16;0,00;110;49 049,27
+20/03/2026;Découpe laser;Tôle découpée laser (lot);67;1;68;16;0,40;5;55 765,86
+20/03/2026;Pliage;Pièce pliée inox;809;29;952;16;1,30;70;48 787,12
+20/03/2026;Soudure;Châssis tubulaire;51;3;81;16;4,90;6;13 999,73
+20/03/2026;Emboutissage;Support moteur acier;1456;46;1496;16;0,00;110;48 271,98
+21/03/2026;Découpe laser;Tôle découpée laser (lot);53;0;68;16;1,90;5;44 785,37
+21/03/2026;Pliage;Pièce pliée inox;977;35;952;16;0,90;70;55 117,32
+21/03/2026;Soudure;Châssis tubulaire;88;5;81;16;0,00;6;25 135,94
+21/03/2026;Emboutissage;Support moteur acier;1509;26;1496;16;0,00;110;47 734,74
+23/03/2026;Découpe laser;Tôle découpée laser (lot);63;1;68;16;0,80;5;55 233,20
+23/03/2026;Pliage;Pièce pliée inox;932;34;952;16;0,80;70;56 851,65
+23/03/2026;Soudure;Châssis tubulaire;76;5;81;16;2,00;6;22 627,58
+23/03/2026;Emboutissage;Support moteur acier;1285;32;1496;16;2,50;110;38 589,11
+24/03/2026;Découpe laser;Tôle découpée laser (lot);57;2;68;16;1,40;5;47 509,68
+24/03/2026;Pliage;Pièce pliée inox;805;26;952;16;1,50;70;49 475,71
+24/03/2026;Soudure;Châssis tubulaire;76;3;81;16;0,00;6;23 160,21
+24/03/2026;Emboutissage;Support moteur acier;1570;24;1496;16;0,00;110;50 994,31
+25/03/2026;Découpe laser;Tôle découpée laser (lot);55;2;68;16;3,50;5;46 541,18
+25/03/2026;Pliage;Pièce pliée inox;817;35;952;16;0,60;70;47 868,10
+25/03/2026;Soudure;Châssis tubulaire;81;7;81;16;0,00;6;23 413,61
+25/03/2026;Emboutissage;Support moteur acier;1508;50;1496;16;0,60;110;46 056,11
+26/03/2026;Découpe laser;Tôle découpée laser (lot);61;2;68;16;2,50;5;50 076,32
+26/03/2026;Pliage;Pièce pliée inox;885;21;952;16;0,60;70;50 950,92
+26/03/2026;Soudure;Châssis tubulaire;85;7;81;16;0,00;6;24 884,70
+26/03/2026;Emboutissage;Support moteur acier;1135;29;1496;16;2,80;110;34 673,53
+27/03/2026;Découpe laser;Tôle découpée laser (lot);58;2;68;16;2,20;5;46 281,30
+27/03/2026;Pliage;Pièce pliée inox;975;36;952;16;0,50;70;59 596,32
+27/03/2026;Soudure;Châssis tubulaire;74;5;81;16;0,80;6;21 232,70
+27/03/2026;Emboutissage;Support moteur acier;1298;31;1496;16;0,90;110;42 736,97
+28/03/2026;Découpe laser;Tôle découpée laser (lot);61;1;68;16;0,00;5;51 385,75
+28/03/2026;Pliage;Pièce pliée inox;818;30;952;16;1,10;70;46 420,82
+28/03/2026;Soudure;Châssis tubulaire;71;5;81;16;2,00;6;19 799,20
+28/03/2026;Emboutissage;Support moteur acier;1496;49;1496;16;0,00;110;47 827,75
+30/03/2026;Découpe laser;Tôle découpée laser (lot);64;1;68;16;1,50;5;51 304,69
+30/03/2026;Pliage;Pièce pliée inox;915;46;952;16;1,30;70;52 593,13
+30/03/2026;Soudure;Châssis tubulaire;74;3;81;16;2,10;6;22 271,54
+30/03/2026;Emboutissage;Support moteur acier;1619;23;1496;16;0,00;110;48 665,60
+31/03/2026;Découpe laser;Tôle découpée laser (lot);61;1;68;16;1,00;5;51 901,77
+31/03/2026;Pliage;Pièce pliée inox;1042;53;952;16;0,00;70;61 078,46
+31/03/2026;Soudure;Châssis tubulaire;76;3;81;16;2,00;6;21 942,90
+31/03/2026;Emboutissage;Support moteur acier;1230;45;1496;16;2,40;110;37 573,28
+01/04/2026;Découpe laser;Tôle découpée laser (lot);60;2;68;16;2,50;5;49 168,42
+01/04/2026;Pliage;Pièce pliée inox;804;43;952;16;1,20;70;44 907,80
+01/04/2026;Soudure;Châssis tubulaire;68;5;81;16;1,50;6;18 709,82
+01/04/2026;Emboutissage;Support moteur acier;1293;17;1496;16;3,10;110;39 270,83
+02/04/2026;Découpe laser;Tôle découpée laser (lot);59;2;68;16;0,50;5;49 362,91
+02/04/2026;Pliage;Pièce pliée inox;893;42;952;16;0,70;70;49 975,69
+02/04/2026;Soudure;Châssis tubulaire;79;3;81;16;1,00;6;23 136,09
+02/04/2026;Emboutissage;Support moteur acier;1598;28;1496;16;0,00;110;47 685,82
+03/04/2026;Découpe laser;Tôle découpée laser (lot);69;1;68;16;1,20;5;58 670,15
+03/04/2026;Pliage;Pièce pliée inox;1022;60;952;16;0,00;70;61 110,36
+03/04/2026;Soudure;Châssis tubulaire;75;4;81;16;0,00;6;20 602,32
+03/04/2026;Emboutissage;Support moteur acier;1395;24;1496;16;0,80;110;45 680,23
+04/04/2026;Découpe laser;Tôle découpée laser (lot);67;2;68;16;0,00;5;55 968,72
+04/04/2026;Pliage;Pièce pliée inox;958;27;952;16;1,30;70;57 445,34
+04/04/2026;Soudure;Châssis tubulaire;59;2;81;16;3,40;6;16 174,90
+04/04/2026;Emboutissage;Support moteur acier;1274;22;1496;16;1,80;110;38 123,57
+06/04/2026;Découpe laser;Tôle découpée laser (lot);69;1;68;16;1,00;5;58 308,14
+06/04/2026;Pliage;Pièce pliée inox;934;39;952;16;0,00;70;52 881,73
+06/04/2026;Soudure;Châssis tubulaire;70;2;81;16;2,20;6;19 164,14
+06/04/2026;Emboutissage;Support moteur acier;1431;34;1496;16;1,30;110;44 672,59
+07/04/2026;Découpe laser;Tôle découpée laser (lot);68;1;68;16;0,00;5;55 041,94
+07/04/2026;Pliage;Pièce pliée inox;936;46;952;16;0,70;70;53 218,98
+07/04/2026;Soudure;Châssis tubulaire;62;4;81;16;2,30;6;18 771,04
+07/04/2026;Emboutissage;Support moteur acier;1386;23;1496;16;1,80;110;44 016,60
+08/04/2026;Découpe laser;Tôle découpée laser (lot);53;1;68;16;3,00;5;43 488,40
+08/04/2026;Pliage;Pièce pliée inox;852;33;952;16;0,00;70;50 361,37
+08/04/2026;Soudure;Châssis tubulaire;64;1;81;16;2,30;6;18 391,37
+08/04/2026;Emboutissage;Support moteur acier;975;34;1496;16;4,70;110;30 391,20
+09/04/2026;Découpe laser;Tôle découpée laser (lot);64;1;68;16;0,00;5;55 074,51
+09/04/2026;Pliage;Pièce pliée inox;925;27;952;16;1,30;70;52 405,77
+09/04/2026;Soudure;Châssis tubulaire;67;2;81;16;3,10;6;19 240,55
+09/04/2026;Emboutissage;Support moteur acier;1239;42;1496;16;1,00;110;38 940,21
+10/04/2026;Découpe laser;Tôle découpée laser (lot);66;2;68;16;1,60;5;56 853,22
+10/04/2026;Pliage;Pièce pliée inox;907;32;952;16;0,00;70;52 224,51
+10/04/2026;Soudure;Châssis tubulaire;86;7;81;16;0,40;6;25 516,42
+10/04/2026;Emboutissage;Support moteur acier;1155;33;1496;16;3,00;110;35 573,22
+11/04/2026;Découpe laser;Tôle découpée laser (lot);56;1;68;16;1,00;5;44 841,98
+11/04/2026;Pliage;Pièce pliée inox;822;19;952;16;1,00;70;49 165,45
+11/04/2026;Soudure;Châssis tubulaire;66;3;81;16;2,30;6;19 446,93
+11/04/2026;Emboutissage;Support moteur acier;1117;38;1496;16;2,60;110;33 905,90
+13/04/2026;Découpe laser;Tôle découpée laser (lot);68;2;68;16;0,00;5;57 870,87
+13/04/2026;Pliage;Pièce pliée inox;981;41;952;16;0,70;70;57 359,07
+13/04/2026;Soudure;Châssis tubulaire;61;4;81;16;2,60;6;17 427,52
+13/04/2026;Emboutissage;Support moteur acier;1404;23;1496;16;0,00;110;45 379,61
+14/04/2026;Découpe laser;Tôle découpée laser (lot);74;1;68;16;0,00;5;64 755,25
+14/04/2026;Pliage;Pièce pliée inox;831;29;952;16;1,90;70;47 888,22
+14/04/2026;Soudure;Châssis tubulaire;75;2;81;16;0,40;6;20 861,08
+14/04/2026;Emboutissage;Support moteur acier;1493;53;1496;16;0,00;110;45 027,92
+15/04/2026;Découpe laser;Tôle découpée laser (lot);65;1;68;16;0,70;5;55 946,00
+15/04/2026;Pliage;Pièce pliée inox;846;38;952;16;0,90;70;47 867,03
+15/04/2026;Soudure;Châssis tubulaire;77;4;81;16;1,30;6;22 966,62
+15/04/2026;Emboutissage;Support moteur acier;1379;41;1496;16;1,50;110;45 564,78
+16/04/2026;Découpe laser;Tôle découpée laser (lot);63;2;68;16;1,50;5;53 011,14
+16/04/2026;Pliage;Pièce pliée inox;807;37;952;16;1,10;70;47 349,73
+16/04/2026;Soudure;Châssis tubulaire;73;4;81;16;1,40;6;22 248,00
+16/04/2026;Emboutissage;Support moteur acier;1560;53;1496;16;0,00;110;48 263,29
+17/04/2026;Découpe laser;Tôle découpée laser (lot);65;2;68;16;1,70;5;56 813,31
+17/04/2026;Pliage;Pièce pliée inox;866;17;952;16;1,00;70;52 573,20
+17/04/2026;Soudure;Châssis tubulaire;86;4;81;16;0,00;6;24 565,51
+17/04/2026;Emboutissage;Support moteur acier;1121;41;1496;16;4,40;110;36 823,20
+18/04/2026;Découpe laser;Tôle découpée laser (lot);70;1;68;16;0,00;5;57 417,95
+18/04/2026;Pliage;Pièce pliée inox;840;47;952;16;0,00;70;49 411,33
+18/04/2026;Soudure;Châssis tubulaire;77;5;81;16;0,60;6;23 115,76
+18/04/2026;Emboutissage;Support moteur acier;1232;27;1496;16;2,60;110;40 037,27
+20/04/2026;Découpe laser;Tôle découpée laser (lot);62;1;68;16;0,60;5;49 765,89
+20/04/2026;Pliage;Pièce pliée inox;1018;48;952;16;0,00;70;58 264,48
+20/04/2026;Soudure;Châssis tubulaire;80;4;81;16;0,00;6;23 712,15
+20/04/2026;Emboutissage;Support moteur acier;1372;29;1496;16;1,60;110;41 776,48
+21/04/2026;Découpe laser;Tôle découpée laser (lot);69;1;68;16;0,00;5;54 685,46
+21/04/2026;Pliage;Pièce pliée inox;868;48;952;16;1,00;70;48 826,80
+21/04/2026;Soudure;Châssis tubulaire;87;6;81;16;0,00;6;25 976,27
+21/04/2026;Emboutissage;Support moteur acier;1186;27;1496;16;4,00;110;37 449,49
+22/04/2026;Découpe laser;Tôle découpée laser (lot);58;1;68;16;1,90;5;47 261,88
+22/04/2026;Pliage;Pièce pliée inox;951;28;952;16;1,40;70;57 394,73
+22/04/2026;Soudure;Châssis tubulaire;89;7;81;16;0,00;6;25 720,93
+22/04/2026;Emboutissage;Support moteur acier;1135;20;1496;16;2,40;110;36 620,58
+23/04/2026;Découpe laser;Tôle découpée laser (lot);51;1;68;16;2,50;5;40 812,14
+23/04/2026;Pliage;Pièce pliée inox;888;21;952;16;0,00;70;52 125,48
+23/04/2026;Soudure;Châssis tubulaire;85;2;81;16;0,00;6;24 222,17
+23/04/2026;Emboutissage;Support moteur acier;1210;15;1496;16;3,60;110;39 374,95
+24/04/2026;Découpe laser;Tôle découpée laser (lot);61;2;68;16;2,60;5;53 333,22
+24/04/2026;Pliage;Pièce pliée inox;856;32;952;16;0,40;70;47 977,13
+24/04/2026;Soudure;Châssis tubulaire;77;5;81;16;2,00;6;23 023,40
+24/04/2026;Emboutissage;Support moteur acier;1230;44;1496;16;2,00;110;40 665,91
+25/04/2026;Découpe laser;Tôle découpée laser (lot);58;1;68;16;1,20;5;50 166,18
+25/04/2026;Pliage;Pièce pliée inox;978;32;952;16;0,00;70;57 630,91
+25/04/2026;Soudure;Châssis tubulaire;73;5;81;16;2,10;6;21 427,56
+25/04/2026;Emboutissage;Support moteur acier;850;18;1496;16;6,10;110;27 638,60
+27/04/2026;Découpe laser;Tôle découpée laser (lot);68;3;68;16;0,00;5;56 289,37
+27/04/2026;Pliage;Pièce pliée inox;877;44;952;16;0,60;70;53 169,44
+27/04/2026;Soudure;Châssis tubulaire;85;3;81;16;0,00;6;25 251,66
+27/04/2026;Emboutissage;Support moteur acier;1427;37;1496;16;0,20;110;43 275,11
+28/04/2026;Découpe laser;Tôle découpée laser (lot);65;2;68;16;0,00;5;54 800,37
+28/04/2026;Pliage;Pièce pliée inox;794;26;952;16;0,80;70;47 739,85
+28/04/2026;Soudure;Châssis tubulaire;83;7;81;16;0,00;6;25 085,57
+28/04/2026;Emboutissage;Support moteur acier;1609;53;1496;16;0,40;110;50 778,13
+29/04/2026;Découpe laser;Tôle découpée laser (lot);56;2;68;16;2,30;5;47 301,53
+29/04/2026;Pliage;Pièce pliée inox;932;33;952;16;0,80;70;57 748,82
+29/04/2026;Soudure;Châssis tubulaire;74;2;81;16;0,00;6;21 712,04
+29/04/2026;Emboutissage;Support moteur acier;1279;19;1496;16;3,60;110;38 120,42
+30/04/2026;Découpe laser;Tôle découpée laser (lot);55;1;68;16;1,20;5;46 345,90
+30/04/2026;Pliage;Pièce pliée inox;826;44;952;16;1,00;70;48 756,51
+30/04/2026;Soudure;Châssis tubulaire;71;3;81;16;2,70;6;21 494,65
+30/04/2026;Emboutissage;Support moteur acier;1334;39;1496;16;0,00;110;43 429,28
+01/05/2026;Découpe laser;Tôle découpée laser (lot);74;1;68;16;0,00;5;59 794,06
+01/05/2026;Pliage;Pièce pliée inox;880;43;952;16;0,80;70;49 047,11
+01/05/2026;Soudure;Châssis tubulaire;76;5;81;16;0,80;6;23 059,87
+01/05/2026;Emboutissage;Support moteur acier;1266;35;1496;16;3,40;110;38 518,52
+02/05/2026;Découpe laser;Tôle découpée laser (lot);60;1;68;16;0,00;5;50 662,92
+02/05/2026;Pliage;Pièce pliée inox;960;43;952;16;0,80;70;57 898,87
+02/05/2026;Soudure;Châssis tubulaire;70;2;81;16;3,30;6;21 112,12
+02/05/2026;Emboutissage;Support moteur acier;1376;22;1496;16;1,80;110;43 793,38
+04/05/2026;Découpe laser;Tôle découpée laser (lot);54;0;68;16;1,70;5;42 917,50
+04/05/2026;Pliage;Pièce pliée inox;955;41;952;16;1,40;70;53 827,84
+04/05/2026;Soudure;Châssis tubulaire;73;5;81;16;0,90;6;20 306,25
+04/05/2026;Emboutissage;Support moteur acier;1141;34;1496;16;2,20;110;36 926,23
+05/05/2026;Découpe laser;Tôle découpée laser (lot);62;1;68;16;0,00;5;49 381,60
+05/05/2026;Pliage;Pièce pliée inox;1004;52;952;16;0,00;70;57 595,63
+05/05/2026;Soudure;Châssis tubulaire;71;5;81;16;2,30;6;19 529,86
+05/05/2026;Emboutissage;Support moteur acier;1386;38;1496;16;0,00;110;44 765,28
+06/05/2026;Découpe laser;Tôle découpée laser (lot);60;1;68;16;0,00;5;48 568,45
+06/05/2026;Pliage;Pièce pliée inox;943;41;952;16;0,00;70;53 582,47
+06/05/2026;Soudure;Châssis tubulaire;82;5;81;16;0,00;6;24 986,44
+06/05/2026;Emboutissage;Support moteur acier;1368;39;1496;16;0,00;110;43 000,91
+07/05/2026;Découpe laser;Tôle découpée laser (lot);56;1;68;16;1,30;5;44 944,15
+07/05/2026;Pliage;Pièce pliée inox;842;33;952;16;1,60;70;50 733,44
+07/05/2026;Soudure;Châssis tubulaire;61;4;81;16;2,70;6;17 924,84
+07/05/2026;Emboutissage;Support moteur acier;1535;25;1496;16;1,10;110;48 385,39
+08/05/2026;Découpe laser;Tôle découpée laser (lot);68;2;68;16;0,00;5;55 956,79
+08/05/2026;Pliage;Pièce pliée inox;754;21;952;16;1,80;70;43 793,40
+08/05/2026;Soudure;Châssis tubulaire;74;5;81;16;0,00;6;21 398,54
+08/05/2026;Emboutissage;Support moteur acier;1319;22;1496;16;0,30;110;39 505,27
+09/05/2026;Découpe laser;Tôle découpée laser (lot);53;2;68;16;1,60;5;43 147,95
+09/05/2026;Pliage;Pièce pliée inox;909;28;952;16;0,40;70;55 103,68
+09/05/2026;Soudure;Châssis tubulaire;83;6;81;16;0,00;6;23 241,45
+09/05/2026;Emboutissage;Support moteur acier;1204;35;1496;16;1,30;110;35 968,50
+11/05/2026;Découpe laser;Tôle découpée laser (lot);68;1;68;16;0,50;5;59 422,11
+11/05/2026;Pliage;Pièce pliée inox;938;21;952;16;0,00;70;54 358,93
+11/05/2026;Soudure;Châssis tubulaire;72;4;81;16;0,00;6;20 382,42
+11/05/2026;Emboutissage;Support moteur acier;1275;47;1496;16;2,80;110;38 644,64
+12/05/2026;Découpe laser;Tôle découpée laser (lot);67;1;68;16;0,90;5;52 865,58
+12/05/2026;Pliage;Pièce pliée inox;910;45;952;16;0,70;70;51 541,69
+12/05/2026;Soudure;Châssis tubulaire;74;3;81;16;0,00;6;22 546,94
+12/05/2026;Emboutissage;Support moteur acier;1507;48;1496;16;1,00;110;45 458,73
+13/05/2026;Découpe laser;Tôle découpée laser (lot);70;2;68;16;0,70;5;59 194,27
+13/05/2026;Pliage;Pièce pliée inox;911;24;952;16;0,00;70;54 035,33
+13/05/2026;Soudure;Châssis tubulaire;74;6;81;16;0,00;6;22 319,03
+13/05/2026;Emboutissage;Support moteur acier;1319;29;1496;16;2,30;110;43 503,66
+14/05/2026;Découpe laser;Tôle découpée laser (lot);59;1;68;16;0,00;5;50 653,18
+14/05/2026;Pliage;Pièce pliée inox;859;25;952;16;1,20;70;49 269,71
+14/05/2026;Soudure;Châssis tubulaire;71;4;81;16;0,00;6;20 054,28
+14/05/2026;Emboutissage;Support moteur acier;1102;20;1496;16;4,10;110;34 672,15
+15/05/2026;Découpe laser;Tôle découpée laser (lot);56;1;68;16;1,50;5;45 953,58
+15/05/2026;Pliage;Pièce pliée inox;930;55;952;16;0,00;70;51 831,35
+15/05/2026;Soudure;Châssis tubulaire;74;6;81;16;0,40;6;21 664,94
+15/05/2026;Emboutissage;Support moteur acier;1531;41;1496;16;0,00;110;47 159,72
+16/05/2026;Découpe laser;Tôle découpée laser (lot);56;2;68;16;2,60;5;44 989,08
+16/05/2026;Pliage;Pièce pliée inox;946;53;952;16;0,70;70;56 097,81
+16/05/2026;Soudure;Châssis tubulaire;63;2;81;16;3,60;6;18 542,29
+16/05/2026;Emboutissage;Support moteur acier;1638;23;1496;16;0,00;110;54 301,37
+18/05/2026;Découpe laser;Tôle découpée laser (lot);68;2;68;16;0,00;5;55 711,49
+18/05/2026;Pliage;Pièce pliée inox;817;42;952;16;1,40;70;48 432,15
+18/05/2026;Soudure;Châssis tubulaire;89;5;81;16;0,00;6;24 843,80
+18/05/2026;Emboutissage;Support moteur acier;1185;41;1496;16;3,60;110;37 036,21
+19/05/2026;Découpe laser;Tôle découpée laser (lot);56;1;68;16;2,90;5;46 094,30
+19/05/2026;Pliage;Pièce pliée inox;837;19;952;16;0,00;70;49 462,50
+19/05/2026;Soudure;Châssis tubulaire;54;4;81;16;4,20;6;14 818,00
+19/05/2026;Emboutissage;Support moteur acier;1271;22;1496;16;1,20;110;39 893,09
+20/05/2026;Découpe laser;Tôle découpée laser (lot);68;1;68;16;0,00;5;58 717,16
+20/05/2026;Pliage;Pièce pliée inox;843;41;952;16;1,00;70;50 101,99
+20/05/2026;Soudure;Châssis tubulaire;73;6;81;16;0,00;6;21 134,80
+20/05/2026;Emboutissage;Support moteur acier;1292;22;1496;16;3,30;110;40 604,39
+21/05/2026;Découpe laser;Tôle découpée laser (lot);60;1;68;16;1,70;5;51 777,41
+21/05/2026;Pliage;Pièce pliée inox;904;35;952;16;1,10;70;54 602,84
+21/05/2026;Soudure;Châssis tubulaire;82;3;81;16;0,00;6;24 783,09
+21/05/2026;Emboutissage;Support moteur acier;1398;31;1496;16;0,00;110;43 820,31
+22/05/2026;Découpe laser;Tôle découpée laser (lot);59;2;68;16;0,50;5;50 821,84
+22/05/2026;Pliage;Pièce pliée inox;863;44;952;16;0,00;70;52 524,38
+22/05/2026;Soudure;Châssis tubulaire;76;5;81;16;1,40;6;22 158,65
+22/05/2026;Emboutissage;Support moteur acier;1354;28;1496;16;2,90;110;42 235,42
+23/05/2026;Découpe laser;Tôle découpée laser (lot);57;1;68;16;1,60;5;47 426,03
+23/05/2026;Pliage;Pièce pliée inox;887;21;952;16;0,00;70;54 607,74
+23/05/2026;Soudure;Châssis tubulaire;62;3;81;16;2,40;6;18 707,23
+23/05/2026;Emboutissage;Support moteur acier;1112;37;1496;16;4,80;110;34 490,52
+25/05/2026;Découpe laser;Tôle découpée laser (lot);66;1;68;16;1,60;5;56 282,29
+25/05/2026;Pliage;Pièce pliée inox;875;47;952;16;0,60;70;50 903,36
+25/05/2026;Soudure;Châssis tubulaire;84;3;81;16;0,00;6;24 028,90
+25/05/2026;Emboutissage;Support moteur acier;1148;41;1496;16;4,00;110;35 848,28
+26/05/2026;Découpe laser;Tôle découpée laser (lot);52;1;68;16;3,50;5;44 522,47
+26/05/2026;Pliage;Pièce pliée inox;911;43;952;16;0,00;70;55 074,54
+26/05/2026;Soudure;Châssis tubulaire;87;7;81;16;0,00;6;25 982,69
+26/05/2026;Emboutissage;Support moteur acier;1560;41;1496;16;0,00;110;51 057,07
+27/05/2026;Découpe laser;Tôle découpée laser (lot);57;1;68;16;1,70;5;45 433,25
+27/05/2026;Pliage;Pièce pliée inox;786;30;952;16;0,90;70;48 336,99
+27/05/2026;Soudure;Châssis tubulaire;87;4;81;16;0,00;6;25 599,38
+27/05/2026;Emboutissage;Support moteur acier;1118;36;1496;16;4,50;110;33 854,87
+28/05/2026;Découpe laser;Tôle découpée laser (lot);62;2;68;16;0,00;5;49 890,74
+28/05/2026;Pliage;Pièce pliée inox;896;23;952;16;0,80;70;54 553,27
+28/05/2026;Soudure;Châssis tubulaire;72;4;81;16;3,10;6;20 923,99
+28/05/2026;Emboutissage;Support moteur acier;1432;26;1496;16;0,40;110;43 191,81
+29/05/2026;Découpe laser;Tôle découpée laser (lot);74;1;68;16;0,00;5;59 761,44
+29/05/2026;Pliage;Pièce pliée inox;954;33;952;16;1,30;70;55 867,03
+29/05/2026;Soudure;Châssis tubulaire;73;3;81;16;0,00;6;21 569,61
+29/05/2026;Emboutissage;Support moteur acier;881;15;1496;16;6,30;110;27 755,88
+30/05/2026;Découpe laser;Tôle découpée laser (lot);59;1;68;16;1,00;5;51 418,18
+30/05/2026;Pliage;Pièce pliée inox;977;53;952;16;0,80;70;56 523,48
+30/05/2026;Soudure;Châssis tubulaire;68;2;81;16;0,70;6;19 678,67
+30/05/2026;Emboutissage;Support moteur acier;1357;22;1496;16;0,00;110;41 323,95
+01/06/2026;Découpe laser;Tôle découpée laser (lot);55;1;68;16;1,60;5;43 395,07
+01/06/2026;Pliage;Pièce pliée inox;772;34;952;16;1,80;70;43 626,88
+01/06/2026;Soudure;Châssis tubulaire;73;2;81;16;2,90;6;21 975,77
+01/06/2026;Emboutissage;Support moteur acier;1187;17;1496;16;3,10;110;38 699,70
+02/06/2026;Découpe laser;Tôle découpée laser (lot);63;2;68;16;2,50;5;49 876,86
+02/06/2026;Pliage;Pièce pliée inox;871;51;952;16;0,00;70;50 777,40
+02/06/2026;Soudure;Châssis tubulaire;80;3;81;16;1,60;6;23 875,74
+02/06/2026;Emboutissage;Support moteur acier;1580;39;1496;16;0,00;110;50 349,17
+03/06/2026;Découpe laser;Tôle découpée laser (lot);64;2;68;16;1,10;5;52 847,23
+03/06/2026;Pliage;Pièce pliée inox;1004;47;952;16;0,70;70;58 957,46
+03/06/2026;Soudure;Châssis tubulaire;65;4;81;16;1,90;6;18 908,61
+03/06/2026;Emboutissage;Support moteur acier;1218;22;1496;16;3,20;110;37 915,85
+04/06/2026;Découpe laser;Tôle découpée laser (lot);55;1;68;16;2,60;5;44 195,55
+04/06/2026;Pliage;Pièce pliée inox;959;41;952;16;0,00;70;59 078,99
+04/06/2026;Soudure;Châssis tubulaire;66;4;81;16;1,90;6;19 014,72
+04/06/2026;Emboutissage;Support moteur acier;1310;37;1496;16;2,60;110;42 989,42
+05/06/2026;Découpe laser;Tôle découpée laser (lot);71;1;68;16;0,00;5;61 570,97
+05/06/2026;Pliage;Pièce pliée inox;900;29;952;16;1,20;70;55 802,18
+05/06/2026;Soudure;Châssis tubulaire;68;3;81;16;1,80;6;18 726,36
+05/06/2026;Emboutissage;Support moteur acier;1196;17;1496;16;1,40;110;36 334,68
+06/06/2026;Découpe laser;Tôle découpée laser (lot);53;2;68;16;1,70;5;45 303,28
+06/06/2026;Pliage;Pièce pliée inox;978;39;952;16;0,50;70;60 240,55
+06/06/2026;Soudure;Châssis tubulaire;66;4;81;16;2,50;6;19 612,96
+06/06/2026;Emboutissage;Support moteur acier;1264;35;1496;16;3,10;110;39 063,55
+08/06/2026;Découpe laser;Tôle découpée laser (lot);68;1;68;16;0,00;5;54 106,09
+08/06/2026;Pliage;Pièce pliée inox;879;26;952;16;1,10;70;49 432,42
+08/06/2026;Soudure;Châssis tubulaire;87;6;81;16;0,00;6;25 821,39
+08/06/2026;Emboutissage;Support moteur acier;1497;25;1496;16;0,00;110;47 721,45
+09/06/2026;Découpe laser;Tôle découpée laser (lot);68;1;68;16;0,00;5;54 016,66
+09/06/2026;Pliage;Pièce pliée inox;1020;46;952;16;0,00;70;60 174,46
+09/06/2026;Soudure;Châssis tubulaire;75;5;81;16;0,00;6;22 831,09
+09/06/2026;Emboutissage;Support moteur acier;1423;21;1496;16;0,00;110;42 480,54
+10/06/2026;Découpe laser;Tôle découpée laser (lot);67;1;68;16;0,90;5;56 637,65
+10/06/2026;Pliage;Pièce pliée inox;989;31;952;16;0,20;70;58 057,01
+10/06/2026;Soudure;Châssis tubulaire;85;6;81;16;0,00;6;24 360,74
+10/06/2026;Emboutissage;Support moteur acier;1139;41;1496;16;3,30;110;34 362,24
+11/06/2026;Découpe laser;Tôle découpée laser (lot);61;1;68;16;0,00;5;50 417,29
+11/06/2026;Pliage;Pièce pliée inox;845;20;952;16;0,40;70;50 553,52
+11/06/2026;Soudure;Châssis tubulaire;85;7;81;16;0,30;6;24 760,64
+11/06/2026;Emboutissage;Support moteur acier;1179;37;1496;16;4,30;110;37 414,36
+12/06/2026;Découpe laser;Tôle découpée laser (lot);62;1;68;16;2,10;5;53 824,11
+12/06/2026;Pliage;Pièce pliée inox;1033;44;952;16;0,10;70;61 966,66
+12/06/2026;Soudure;Châssis tubulaire;79;6;81;16;0,00;6;21 946,32
+12/06/2026;Emboutissage;Support moteur acier;1384;47;1496;16;1,10;110;43 905,93
+13/06/2026;Découpe laser;Tôle découpée laser (lot);72;3;68;16;0,00;5;58 377,82
+13/06/2026;Pliage;Pièce pliée inox;899;49;952;16;0,40;70;52 887,83
+13/06/2026;Soudure;Châssis tubulaire;64;2;81;16;2,80;6;18 426,72
+13/06/2026;Emboutissage;Support moteur acier;1620;49;1496;16;0,00;110;51 753,32
+15/06/2026;Découpe laser;Tôle découpée laser (lot);58;2;68;16;2,00;5;50 181,74
+15/06/2026;Pliage;Pièce pliée inox;876;28;952;16;1,70;70;50 595,63
+15/06/2026;Soudure;Châssis tubulaire;88;6;81;16;0,00;6;25 916,03
+15/06/2026;Emboutissage;Support moteur acier;1556;36;1496;16;0,00;110;46 440,02
+16/06/2026;Découpe laser;Tôle découpée laser (lot);71;2;68;16;0,00;5;59 832,65
+16/06/2026;Pliage;Pièce pliée inox;890;20;952;16;1,00;70;51 009,77
+16/06/2026;Soudure;Châssis tubulaire;65;5;81;16;1,90;6;19 362,09
+16/06/2026;Emboutissage;Support moteur acier;1329;35;1496;16;0,00;110;39 914,22
+17/06/2026;Découpe laser;Tôle découpée laser (lot);57;1;68;16;1,20;5;49 603,14
+17/06/2026;Pliage;Pièce pliée inox;830;40;952;16;0,00;70;49 482,92
+17/06/2026;Soudure;Châssis tubulaire;60;2;81;16;3,20;6;18 027,95
+17/06/2026;Emboutissage;Support moteur acier;1598;23;1496;16;0,00;110;51 647,87
+18/06/2026;Découpe laser;Tôle découpée laser (lot);55;1;68;16;1,60;5;43 747,82
+18/06/2026;Pliage;Pièce pliée inox;906;53;952;16;1,70;70;51 195,18
+18/06/2026;Soudure;Châssis tubulaire;71;2;81;16;0,00;6;20 390,42
+18/06/2026;Emboutissage;Support moteur acier;1374;36;1496;16;0,00;110;41 386,73
+19/06/2026;Découpe laser;Tôle découpée laser (lot);60;1;68;16;1,90;5;52 332,32
+19/06/2026;Pliage;Pièce pliée inox;986;34;952;16;0,40;70;56 688,76
+19/06/2026;Soudure;Châssis tubulaire;83;3;81;16;0,00;6;23 356,26
+19/06/2026;Emboutissage;Support moteur acier;1315;16;1496;16;1,10;110;41 311,60
+20/06/2026;Découpe laser;Tôle découpée laser (lot);66;2;68;16;0,00;5;57 698,06
+20/06/2026;Pliage;Pièce pliée inox;912;36;952;16;1,90;70;55 952,17
+20/06/2026;Soudure;Châssis tubulaire;66;5;81;16;1,30;6;18 968,18
+20/06/2026;Emboutissage;Support moteur acier;1168;29;1496;16;3,80;110;35 026,33
+22/06/2026;Découpe laser;Tôle découpée laser (lot);70;2;68;16;0,00;5;57 808,84
+22/06/2026;Pliage;Pièce pliée inox;856;50;952;16;1,20;70;47 910,44
+22/06/2026;Soudure;Châssis tubulaire;88;7;81;16;0,00;6;25 399,30
+22/06/2026;Emboutissage;Support moteur acier;1141;22;1496;16;3,20;110;35 478,24
+23/06/2026;Découpe laser;Tôle découpée laser (lot);54;2;68;16;2,10;5;45 647,74
+23/06/2026;Pliage;Pièce pliée inox;790;43;952;16;1,20;70;46 227,01
+23/06/2026;Soudure;Châssis tubulaire;76;2;81;16;1,60;6;21 407,86
+23/06/2026;Emboutissage;Support moteur acier;1414;51;1496;16;1,60;110;44 600,34
+24/06/2026;Découpe laser;Tôle découpée laser (lot);53;1;68;16;1,70;5;42 525,10
+24/06/2026;Pliage;Pièce pliée inox;866;20;952;16;1,00;70;51 704,66
+24/06/2026;Soudure;Châssis tubulaire;75;3;81;16;0,00;6;21 228,95
+24/06/2026;Emboutissage;Support moteur acier;1202;21;1496;16;2,20;110;36 127,97
+25/06/2026;Découpe laser;Tôle découpée laser (lot);51;1;68;16;3,10;5;43 578,39
+25/06/2026;Pliage;Pièce pliée inox;926;39;952;16;0,00;70;56 787,20
+25/06/2026;Soudure;Châssis tubulaire;88;7;81;16;0,10;6;24 591,44
+25/06/2026;Emboutissage;Support moteur acier;1127;29;1496;16;3,50;110;33 590,36
+26/06/2026;Découpe laser;Tôle découpée laser (lot);62;1;68;16;0,00;5;50 660,22
+26/06/2026;Pliage;Pièce pliée inox;871;22;952;16;0,50;70;53 613,61
+26/06/2026;Soudure;Châssis tubulaire;57;1;81;16;3,80;6;15 644,55
+26/06/2026;Emboutissage;Support moteur acier;880;15;1496;16;5,20;110;27 825,88
+27/06/2026;Découpe laser;Tôle découpée laser (lot);60;1;68;16;0,00;5;47 729,89
+27/06/2026;Pliage;Pièce pliée inox;868;39;952;16;1,70;70;51 868,06
+27/06/2026;Soudure;Châssis tubulaire;71;2;81;16;3,10;6;21 166,87
+27/06/2026;Emboutissage;Support moteur acier;1186;21;1496;16;3,70;110;36 313,98
+29/06/2026;Découpe laser;Tôle découpée laser (lot);55;1;68;16;2,40;5;44 336,45
+29/06/2026;Pliage;Pièce pliée inox;748;24;952;16;1,80;70;42 434,15
+29/06/2026;Soudure;Châssis tubulaire;65;3;81;16;1,80;6;18 510,56
+29/06/2026;Emboutissage;Support moteur acier;1285;46;1496;16;3,30;110;38 623,92
+30/06/2026;Découpe laser;Tôle découpée laser (lot);59;2;68;16;1,80;5;50 255,57
+30/06/2026;Pliage;Pièce pliée inox;838;18;952;16;1,10;70;47 644,08
+30/06/2026;Soudure;Châssis tubulaire;88;5;81;16;0,00;6;24 142,33
+30/06/2026;Emboutissage;Support moteur acier;1618;34;1496;16;0,00;110;53 537,75
+01/07/2026;Découpe laser;Tôle découpée laser (lot);62;1;68;16;0,00;5;49 035,64
+01/07/2026;Pliage;Pièce pliée inox;906;43;952;16;1,20;70;52 571,91
+01/07/2026;Soudure;Châssis tubulaire;74;3;81;16;0,00;6;21 664,08
+01/07/2026;Emboutissage;Support moteur acier;1346;29;1496;16;0,00;110;41 042,97
+02/07/2026;Découpe laser;Tôle découpée laser (lot);56;1;68;16;1,20;5;46 004,74
+02/07/2026;Pliage;Pièce pliée inox;950;50;952;16;1,10;70;54 955,00
+02/07/2026;Soudure;Châssis tubulaire;68;5;81;16;1,20;6;19 196,45
+02/07/2026;Emboutissage;Support moteur acier;1286;46;1496;16;3,00;110;40 050,18
+03/07/2026;Découpe laser;Tôle découpée laser (lot);68;2;68;16;1,30;5;56 828,11
+03/07/2026;Pliage;Pièce pliée inox;989;28;952;16;0,50;70;58 157,61
+03/07/2026;Soudure;Châssis tubulaire;72;5;81;16;0,90;6;21 952,79
+03/07/2026;Emboutissage;Support moteur acier;1609;57;1496;16;0,00;110;49 332,25
+04/07/2026;Découpe laser;Tôle découpée laser (lot);65;2;68;16;0,00;5;52 377,77
+04/07/2026;Pliage;Pièce pliée inox;885;34;952;16;0,00;70;51 012,67
+04/07/2026;Soudure;Châssis tubulaire;80;3;81;16;1,20;6;23 786,01
+04/07/2026;Emboutissage;Support moteur acier;1343;36;1496;16;2,10;110;41 565,03
+06/07/2026;Découpe laser;Tôle découpée laser (lot);67;1;68;16;0,00;5;57 558,70
+06/07/2026;Pliage;Pièce pliée inox;895;46;952;16;0,00;70;52 542,66
+06/07/2026;Soudure;Châssis tubulaire;88;4;81;16;0,00;6;25 937,09
+06/07/2026;Emboutissage;Support moteur acier;1253;44;1496;16;2,40;110;38 481,82
+07/07/2026;Découpe laser;Tôle découpée laser (lot);59;2;68;16;2,40;5;49 936,82
+07/07/2026;Pliage;Pièce pliée inox;853;39;952;16;0,90;70;52 039,64
+07/07/2026;Soudure;Châssis tubulaire;65;4;81;16;2,60;6;17 835,81
+07/07/2026;Emboutissage;Support moteur acier;1200;29;1496;16;3,80;110;36 875,09
+08/07/2026;Découpe laser;Tôle découpée laser (lot);64;2;68;16;0,60;5;54 728,77
+08/07/2026;Pliage;Pièce pliée inox;851;21;952;16;0,00;70;49 190,13
+08/07/2026;Soudure;Châssis tubulaire;79;5;81;16;0,00;6;23 389,36
+08/07/2026;Emboutissage;Support moteur acier;1489;46;1496;16;0,00;110;49 135,90
+09/07/2026;Découpe laser;Tôle découpée laser (lot);57;1;68;16;1,20;5;45 488,83
+09/07/2026;Pliage;Pièce pliée inox;813;23;952;16;1,10;70;49 975,22
+09/07/2026;Soudure;Châssis tubulaire;85;5;81;16;0,50;6;23 581,36
+09/07/2026;Emboutissage;Support moteur acier;1223;43;1496;16;3,50;110;37 084,78
+10/07/2026;Découpe laser;Tôle découpée laser (lot);64;1;68;16;1,50;5;55 778,69
+10/07/2026;Pliage;Pièce pliée inox;851;35;952;16;1,50;70;47 925,98
+10/07/2026;Soudure;Châssis tubulaire;77;4;81;16;1,20;6;21 158,19
+10/07/2026;Emboutissage;Support moteur acier;1071;17;1496;16;3,80;110;33 480,48
+11/07/2026;Découpe laser;Tôle découpée laser (lot);58;2;68;16;0,90;5;47 710,89
+11/07/2026;Pliage;Pièce pliée inox;1006;26;952;16;0,00;70;60 949,94
+11/07/2026;Soudure;Châssis tubulaire;78;6;81;16;0,00;6;22 457,39
+11/07/2026;Emboutissage;Support moteur acier;1611;24;1496;16;0,00;110;50 513,34
+13/07/2026;Découpe laser;Tôle découpée laser (lot);70;1;68;16;0,00;5;60 580,88
+13/07/2026;Pliage;Pièce pliée inox;939;18;952;16;1,00;70;56 125,87
+13/07/2026;Soudure;Châssis tubulaire;79;6;81;16;1,60;6;23 919,03
+13/07/2026;Emboutissage;Support moteur acier;1485;49;1496;16;0,00;110;47 346,02
+14/07/2026;Découpe laser;Tôle découpée laser (lot);63;2;68;16;0,00;5;50 240,94
+14/07/2026;Pliage;Pièce pliée inox;904;50;952;16;0,00;70;53 668,87
+14/07/2026;Soudure;Châssis tubulaire;82;6;81;16;0,00;6;24 406,59
+14/07/2026;Emboutissage;Support moteur acier;1338;40;1496;16;2,60;110;41 605,26
+15/07/2026;Découpe laser;Tôle découpée laser (lot);69;2;68;16;0,00;5;54 726,28
+15/07/2026;Pliage;Pièce pliée inox;909;50;952;16;0,00;70;54 957,45
+15/07/2026;Soudure;Châssis tubulaire;63;5;81;16;3,10;6;17 927,95
+15/07/2026;Emboutissage;Support moteur acier;1259;25;1496;16;2,80;110;41 611,69
+16/07/2026;Découpe laser;Tôle découpée laser (lot);67;2;68;16;1,30;5;56 158,42
+16/07/2026;Pliage;Pièce pliée inox;809;36;952;16;0,60;70;45 811,51
+16/07/2026;Soudure;Châssis tubulaire;71;6;81;16;0,00;6;21 333,05
+16/07/2026;Emboutissage;Support moteur acier;1122;24;1496;16;3,60;110;35 899,36
+17/07/2026;Découpe laser;Tôle découpée laser (lot);59;2;68;16;1,60;5;48 215,58
+17/07/2026;Pliage;Pièce pliée inox;1045;61;952;16;0,00;70;64 331,55
+17/07/2026;Soudure;Châssis tubulaire;86;5;81;16;0,50;6;24 251,16
+17/07/2026;Emboutissage;Support moteur acier;913;28;1496;16;5,20;110;29 725,82
+18/07/2026;Découpe laser;Tôle découpée laser (lot);64;2;68;16;0,00;5;54 122,34
+18/07/2026;Pliage;Pièce pliée inox;841;40;952;16;0,00;70;50 851,28
+18/07/2026;Soudure;Châssis tubulaire;71;2;81;16;2,10;6;20 049,54
+18/07/2026;Emboutissage;Support moteur acier;1616;30;1496;16;0,00;110;49 334,41
+20/07/2026;Découpe laser;Tôle découpée laser (lot);64;2;68;16;0,00;5;54 051,87
+20/07/2026;Pliage;Pièce pliée inox;859;26;952;16;0,20;70;52 941,82
+20/07/2026;Soudure;Châssis tubulaire;78;4;81;16;1,20;6;22 913,23
+20/07/2026;Emboutissage;Support moteur acier;1073;29;1496;16;3,00;110;31 982,71
+21/07/2026;Découpe laser;Tôle découpée laser (lot);57;1;68;16;2,30;5;47 294,04
+21/07/2026;Pliage;Pièce pliée inox;779;24;952;16;1,00;70;46 523,18
+21/07/2026;Soudure;Châssis tubulaire;64;3;81;16;1,60;6;17 667,87
+21/07/2026;Emboutissage;Support moteur acier;1004;19;1496;16;4,70;110;32 681,60
+22/07/2026;Découpe laser;Tôle découpée laser (lot);63;2;68;16;0,90;5;54 106,60
+22/07/2026;Pliage;Pièce pliée inox;883;52;952;16;0,00;70;50 995,89
+22/07/2026;Soudure;Châssis tubulaire;87;5;81;16;0,00;6;24 387,38
+22/07/2026;Emboutissage;Support moteur acier;1374;47;1496;16;0,30;110;41 476,22
+23/07/2026;Découpe laser;Tôle découpée laser (lot);62;1;68;16;2,10;5;54 233,90
+23/07/2026;Pliage;Pièce pliée inox;933;50;952;16;0,50;70;54 739,49
+23/07/2026;Soudure;Châssis tubulaire;66;4;81;16;3,90;6;18 820,12
+23/07/2026;Emboutissage;Support moteur acier;1557;42;1496;16;0,00;110;51 533,38
+24/07/2026;Découpe laser;Tôle découpée laser (lot);54;1;68;16;1,50;5;42 731,88
+24/07/2026;Pliage;Pièce pliée inox;977;57;952;16;0,80;70;59 307,83
+24/07/2026;Soudure;Châssis tubulaire;75;4;81;16;0,00;6;22 720,98
+24/07/2026;Emboutissage;Support moteur acier;1241;26;1496;16;3,30;110;37 991,87
+25/07/2026;Découpe laser;Tôle découpée laser (lot);67;2;68;16;0,00;5;53 677,09
+25/07/2026;Pliage;Pièce pliée inox;821;18;952;16;0,80;70;47 681,64
+25/07/2026;Soudure;Châssis tubulaire;81;2;81;16;0,10;6;24 571,54
+25/07/2026;Emboutissage;Support moteur acier;1366;39;1496;16;0,00;110;42 829,52
+27/07/2026;Découpe laser;Tôle découpée laser (lot);61;0;68;16;0,00;5;50 883,33
+27/07/2026;Pliage;Pièce pliée inox;920;27;952;16;0,30;70;52 715,10
+27/07/2026;Soudure;Châssis tubulaire;79;4;81;16;0,20;6;23 682,26
+27/07/2026;Emboutissage;Support moteur acier;996;34;1496;16;5,40;110;30 953,40
+28/07/2026;Découpe laser;Tôle découpée laser (lot);65;1;68;16;0,00;5;56 990,74
+28/07/2026;Pliage;Pièce pliée inox;933;31;952;16;0,00;70;57 835,34
+28/07/2026;Soudure;Châssis tubulaire;71;3;81;16;0,00;6;19 705,84
+28/07/2026;Emboutissage;Support moteur acier;1328;35;1496;16;0,00;110;40 550,92
+29/07/2026;Découpe laser;Tôle découpée laser (lot);73;1;68;16;0,00;5;63 953,33
+29/07/2026;Pliage;Pièce pliée inox;896;35;952;16;0,40;70;50 366,42
+29/07/2026;Soudure;Châssis tubulaire;80;2;81;16;0,70;6;22 052,60
+29/07/2026;Emboutissage;Support moteur acier;1453;21;1496;16;0,00;110;45 487,99
+30/07/2026;Découpe laser;Tôle découpée laser (lot);59;2;68;16;0,00;5;48 136,75
+30/07/2026;Pliage;Pièce pliée inox;853;47;952;16;0,00;70;47 817,03
+30/07/2026;Soudure;Châssis tubulaire;81;6;81;16;0,00;6;22 897,31
+30/07/2026;Emboutissage;Support moteur acier;1578;38;1496;16;0,00;110;50 582,71
+31/07/2026;Découpe laser;Tôle découpée laser (lot);68;1;68;16;1,10;5;57 031,24
+31/07/2026;Pliage;Pièce pliée inox;788;44;952;16;1,50;70;46 841,43
+31/07/2026;Soudure;Châssis tubulaire;62;5;81;16;4,50;6;17 122,49
+31/07/2026;Emboutissage;Support moteur acier;1409;18;1496;16;0,00;110;42 243,91
+01/08/2026;Découpe laser;Tôle découpée laser (lot);72;2;68;16;0,00;5;61 272,03
+01/08/2026;Pliage;Pièce pliée inox;914;52;952;16;0,60;70;53 567,67
+01/08/2026;Soudure;Châssis tubulaire;76;5;81;16;2,10;6;22 991,20
+01/08/2026;Emboutissage;Support moteur acier;1626;46;1496;16;0,00;110;52 156,20
+03/08/2026;Découpe laser;Tôle découpée laser (lot);63;2;68;16;1,20;5;54 253,05
+03/08/2026;Pliage;Pièce pliée inox;905;24;952;16;1,10;70;54 174,26
+03/08/2026;Soudure;Châssis tubulaire;73;4;81;16;1,70;6;20 923,37
+03/08/2026;Emboutissage;Support moteur acier;1549;30;1496;16;0,00;110;48 264,19
+04/08/2026;Découpe laser;Tôle découpée laser (lot);56;1;68;16;2,40;5;45 574,25
+04/08/2026;Pliage;Pièce pliée inox;970;34;952;16;0,70;70;57 858,63
+04/08/2026;Soudure;Châssis tubulaire;77;4;81;16;0,50;6;22 952,87
+04/08/2026;Emboutissage;Support moteur acier;1222;39;1496;16;3,90;110;38 967,94
+05/08/2026;Découpe laser;Tôle découpée laser (lot);63;1;68;16;2,40;5;55 242,07
+05/08/2026;Pliage;Pièce pliée inox;931;22;952;16;0,00;70;53 521,61
+05/08/2026;Soudure;Châssis tubulaire;74;2;81;16;0,00;6;21 598,74
+05/08/2026;Emboutissage;Support moteur acier;1318;34;1496;16;0,80;110;39 638,54
+06/08/2026;Découpe laser;Tôle découpée laser (lot);66;2;68;16;1,50;5;55 029,71
+06/08/2026;Pliage;Pièce pliée inox;930;41;952;16;0,00;70;56 333,71
+06/08/2026;Soudure;Châssis tubulaire;73;2;81;16;0,00;6;20 408,37
+06/08/2026;Emboutissage;Support moteur acier;1436;37;1496;16;1,60;110;43 431,63
+07/08/2026;Découpe laser;Tôle découpée laser (lot);63;1;68;16;0,70;5;52 569,38
+07/08/2026;Pliage;Pièce pliée inox;939;45;952;16;0,90;70;54 149,74
+07/08/2026;Soudure;Châssis tubulaire;83;4;81;16;0,00;6;22 837,14
+07/08/2026;Emboutissage;Support moteur acier;1171;26;1496;16;2,70;110;37 496,20
+08/08/2026;Découpe laser;Tôle découpée laser (lot);72;2;68;16;0,00;5;59 118,80
+08/08/2026;Pliage;Pièce pliée inox;919;23;952;16;0,10;70;56 699,29
+08/08/2026;Soudure;Châssis tubulaire;70;3;81;16;2,00;6;21 201,27
+08/08/2026;Emboutissage;Support moteur acier;1320;44;1496;16;1,50;110;41 746,89
+10/08/2026;Découpe laser;Tôle découpée laser (lot);64;2;68;16;1,50;5;50 616,37
+10/08/2026;Pliage;Pièce pliée inox;959;46;952;16;0,00;70;57 492,52
+10/08/2026;Soudure;Châssis tubulaire;89;4;81;16;0,00;6;25 569,05
+10/08/2026;Emboutissage;Support moteur acier;1142;32;1496;16;4,30;110;37 851,34
+11/08/2026;Découpe laser;Tôle découpée laser (lot);57;1;68;16;2,30;5;49 610,61
+11/08/2026;Pliage;Pièce pliée inox;875;17;952;16;1,30;70;49 025,45
+11/08/2026;Soudure;Châssis tubulaire;77;2;81;16;0,80;6;21 353,32
+11/08/2026;Emboutissage;Support moteur acier;1496;45;1496;16;0,20;110;45 165,93
+12/08/2026;Découpe laser;Tôle découpée laser (lot);62;2;68;16;1,20;5;51 701,08
+12/08/2026;Pliage;Pièce pliée inox;935;23;952;16;0,00;70;52 246,72
+12/08/2026;Soudure;Châssis tubulaire;77;4;81;16;0,00;6;21 729,43
+12/08/2026;Emboutissage;Support moteur acier;1569;43;1496;16;0,00;110;49 468,91
+13/08/2026;Découpe laser;Tôle découpée laser (lot);70;2;68;16;0,00;5;58 574,15
+13/08/2026;Pliage;Pièce pliée inox;948;40;952;16;1,50;70;55 038,94
+13/08/2026;Soudure;Châssis tubulaire;54;2;81;16;3,70;6;15 408,71
+13/08/2026;Emboutissage;Support moteur acier;1278;16;1496;16;1,90;110;40 957,25
+14/08/2026;Découpe laser;Tôle découpée laser (lot);66;1;68;16;0,70;5;52 092,50
+14/08/2026;Pliage;Pièce pliée inox;896;35;952;16;0,00;70;51 578,54
+14/08/2026;Soudure;Châssis tubulaire;63;2;81;16;3,20;6;18 781,39
+14/08/2026;Emboutissage;Support moteur acier;1414;51;1496;16;2,30;110;43 685,12
+15/08/2026;Découpe laser;Tôle découpée laser (lot);69;2;68;16;0,50;5;58 703,43
+15/08/2026;Pliage;Pièce pliée inox;972;20;952;16;0,00;70;58 058,95
+15/08/2026;Soudure;Châssis tubulaire;77;5;81;16;1,80;6;21 531,88
+15/08/2026;Emboutissage;Support moteur acier;1647;50;1496;16;0,00;110;52 636,60
+17/08/2026;Découpe laser;Tôle découpée laser (lot);72;2;68;16;0,00;5;57 578,04
+17/08/2026;Pliage;Pièce pliée inox;837;34;952;16;1,30;70;51 589,54
+17/08/2026;Soudure;Châssis tubulaire;64;2;81;16;2,50;6;17 724,98
+17/08/2026;Emboutissage;Support moteur acier;1371;42;1496;16;1,90;110;43 489,16
+18/08/2026;Découpe laser;Tôle découpée laser (lot);67;1;68;16;0,10;5;56 769,00
+18/08/2026;Pliage;Pièce pliée inox;848;30;952;16;1,20;70;51 818,00
+18/08/2026;Soudure;Châssis tubulaire;82;5;81;16;0,00;6;23 370,27
+18/08/2026;Emboutissage;Support moteur acier;1296;41;1496;16;1,70;110;42 307,65
+19/08/2026;Découpe laser;Tôle découpée laser (lot);72;2;68;16;0,00;5;60 738,49
+19/08/2026;Pliage;Pièce pliée inox;894;42;952;16;0,00;70;51 829,33
+19/08/2026;Soudure;Châssis tubulaire;88;4;81;16;0,00;6;25 497,98
+19/08/2026;Emboutissage;Support moteur acier;1168;28;1496;16;2,20;110;38 672,13
+20/08/2026;Découpe laser;Tôle découpée laser (lot);74;2;68;16;0,00;5;58 888,41
+20/08/2026;Pliage;Pièce pliée inox;945;23;952;16;0,40;70;53 216,10
+20/08/2026;Soudure;Châssis tubulaire;83;5;81;16;0,00;6;23 355,13
+20/08/2026;Emboutissage;Support moteur acier;1352;49;1496;16;0,00;110;42 848,50
+21/08/2026;Découpe laser;Tôle découpée laser (lot);63;1;68;16;0,20;5;50 969,63
+21/08/2026;Pliage;Pièce pliée inox;853;50;952;16;0,00;70;47 883,70
+21/08/2026;Soudure;Châssis tubulaire;89;3;81;16;0,00;6;27 112,16
+21/08/2026;Emboutissage;Support moteur acier;1569;43;1496;16;0,00;110;46 940,67
+22/08/2026;Découpe laser;Tôle découpée laser (lot);68;2;68;16;0,00;5;53 865,74
+22/08/2026;Pliage;Pièce pliée inox;946;43;952;16;1,30;70;58 366,67
+22/08/2026;Soudure;Châssis tubulaire;78;5;81;16;0,00;6;21 394,96
+22/08/2026;Emboutissage;Support moteur acier;981;35;1496;16;4,70;110;30 919,72
+24/08/2026;Découpe laser;Tôle découpée laser (lot);67;2;68;16;1,00;5;55 953,54
+24/08/2026;Pliage;Pièce pliée inox;1006;30;952;16;0,50;70;61 667,58
+24/08/2026;Soudure;Châssis tubulaire;88;6;81;16;0,00;6;24 672,90
+24/08/2026;Emboutissage;Support moteur acier;1045;28;1496;16;4,30;110;33 262,28
+25/08/2026;Découpe laser;Tôle découpée laser (lot);57;1;68;16;1,30;5;48 100,68
+25/08/2026;Pliage;Pièce pliée inox;986;44;952;16;0,30;70;55 996,01
+25/08/2026;Soudure;Châssis tubulaire;85;6;81;16;0,60;6;24 612,78
+25/08/2026;Emboutissage;Support moteur acier;1510;29;1496;16;0,00;110;49 558,13
+26/08/2026;Découpe laser;Tôle découpée laser (lot);71;2;68;16;0,30;5;60 256,66
+26/08/2026;Pliage;Pièce pliée inox;897;51;952;16;0,90;70;51 408,88
+26/08/2026;Soudure;Châssis tubulaire;88;2;81;16;0,00;6;24 781,94
+26/08/2026;Emboutissage;Support moteur acier;1041;29;1496;16;3,40;110;33 508,75
+27/08/2026;Découpe laser;Tôle découpée laser (lot);55;1;68;16;1,70;5;46 828,47
+27/08/2026;Pliage;Pièce pliée inox;980;31;952;16;1,00;70;59 754,47
+27/08/2026;Soudure;Châssis tubulaire;84;3;81;16;0,70;6;23 238,20
+27/08/2026;Emboutissage;Support moteur acier;1361;34;1496;16;0,00;110;43 925,72
+28/08/2026;Découpe laser;Tôle découpée laser (lot);59;1;68;16;0,80;5;46 652,01
+28/08/2026;Pliage;Pièce pliée inox;879;38;952;16;1,70;70;52 328,72
+28/08/2026;Soudure;Châssis tubulaire;66;4;81;16;2,70;6;19 353,81
+28/08/2026;Emboutissage;Support moteur acier;1321;18;1496;16;0,00;110;40 447,46
+29/08/2026;Découpe laser;Tôle découpée laser (lot);58;1;68;16;1,00;5;48 753,63
+29/08/2026;Pliage;Pièce pliée inox;873;24;952;16;0,00;70;50 642,30
+29/08/2026;Soudure;Châssis tubulaire;87;7;81;16;0,00;6;25 741,26
+29/08/2026;Emboutissage;Support moteur acier;1072;23;1496;16;4,80;110;34 138,38
+31/08/2026;Découpe laser;Tôle découpée laser (lot);73;1;68;16;0,00;5;60 568,10
+31/08/2026;Pliage;Pièce pliée inox;858;33;952;16;1,60;70;49 905,64
+31/08/2026;Soudure;Châssis tubulaire;61;2;81;16;3,90;6;17 171,61
+31/08/2026;Emboutissage;Support moteur acier;1083;17;1496;16;4,10;110;34 863,68
+01/09/2026;Découpe laser;Tôle découpée laser (lot);72;2;68;16;0,00;5;58 551,15
+01/09/2026;Pliage;Pièce pliée inox;901;45;952;16;0,90;70;50 831,84
+01/09/2026;Soudure;Châssis tubulaire;80;2;81;16;0,30;6;22 021,95
+01/09/2026;Emboutissage;Support moteur acier;1262;23;1496;16;2,10;110;37 765,14
+02/09/2026;Découpe laser;Tôle découpée laser (lot);59;1;68;16;0,00;5;47 364,82
+02/09/2026;Pliage;Pièce pliée inox;968;19;952;16;0,60;70;55 234,52
+02/09/2026;Soudure;Châssis tubulaire;80;6;81;16;0,00;6;22 326,45
+02/09/2026;Emboutissage;Support moteur acier;1621;60;1496;16;0,20;110;53 024,67
+03/09/2026;Découpe laser;Tôle découpée laser (lot);68;1;68;16;0,80;5;59 520,09
+03/09/2026;Pliage;Pièce pliée inox;1028;59;952;16;0,30;70;62 656,83
+03/09/2026;Soudure;Châssis tubulaire;82;4;81;16;0,00;6;23 982,19
+03/09/2026;Emboutissage;Support moteur acier;1219;36;1496;16;1,60;110;37 095,66
+04/09/2026;Découpe laser;Tôle découpée laser (lot);63;1;68;16;0,00;5;50 293,09
+04/09/2026;Pliage;Pièce pliée inox;895;42;952;16;1,00;70;50 843,27
+04/09/2026;Soudure;Châssis tubulaire;66;3;81;16;2,30;6;19 099,55
+04/09/2026;Emboutissage;Support moteur acier;1477;47;1496;16;0,00;110;46 880,77
+05/09/2026;Découpe laser;Tôle découpée laser (lot);72;2;68;16;0,50;5;61 910,62
+05/09/2026;Pliage;Pièce pliée inox;851;30;952;16;0,40;70;49 132,96
+05/09/2026;Soudure;Châssis tubulaire;89;7;81;16;0,00;6;26 594,20
+05/09/2026;Emboutissage;Support moteur acier;1209;38;1496;16;2,70;110;38 586,41
+07/09/2026;Découpe laser;Tôle découpée laser (lot);64;2;68;16;0,00;5;55 118,90
+07/09/2026;Pliage;Pièce pliée inox;880;32;952;16;1,40;70;51 715,45
+07/09/2026;Soudure;Châssis tubulaire;73;3;81;16;2,90;6;20 239,83
+07/09/2026;Emboutissage;Support moteur acier;1410;31;1496;16;0,00;110;44 991,21
+08/09/2026;Découpe laser;Tôle découpée laser (lot);63;0;68;16;0,90;5;50 364,40
+08/09/2026;Pliage;Pièce pliée inox;911;29;952;16;0,70;70;53 538,58
+08/09/2026;Soudure;Châssis tubulaire;73;4;81;16;0,90;6;20 729,20
+08/09/2026;Emboutissage;Support moteur acier;1634;33;1496;16;0,00;110;51 241,04
+09/09/2026;Découpe laser;Tôle découpée laser (lot);72;2;68;16;0,00;5;57 376,28
+09/09/2026;Pliage;Pièce pliée inox;871;44;952;16;1,90;70;49 427,98
+09/09/2026;Soudure;Châssis tubulaire;71;2;81;16;0,00;6;20 506,28
+09/09/2026;Emboutissage;Support moteur acier;1121;34;1496;16;4,10;110;36 907,92
+10/09/2026;Découpe laser;Tôle découpée laser (lot);56;1;68;16;1,30;5;48 669,98
+10/09/2026;Pliage;Pièce pliée inox;945;47;952;16;0,80;70;57 230,30
+10/09/2026;Soudure;Châssis tubulaire;85;4;81;16;0,00;6;23 566,88
+10/09/2026;Emboutissage;Support moteur acier;1276;42;1496;16;1,60;110;39 495,97
+11/09/2026;Découpe laser;Tôle découpée laser (lot);58;0;68;16;2,40;5;49 998,45
+11/09/2026;Pliage;Pièce pliée inox;918;35;952;16;0,70;70;54 153,14
+11/09/2026;Soudure;Châssis tubulaire;78;5;81;16;1,50;6;22 048,10
+11/09/2026;Emboutissage;Support moteur acier;1549;56;1496;16;0,60;110;48 574,97
+12/09/2026;Découpe laser;Tôle découpée laser (lot);55;2;68;16;2,40;5;44 968,30
+12/09/2026;Pliage;Pièce pliée inox;965;46;952;16;0,60;70;56 970,56
+12/09/2026;Soudure;Châssis tubulaire;60;4;81;16;2,90;6;17 176,22
+12/09/2026;Emboutissage;Support moteur acier;1376;18;1496;16;0,10;110;42 138,77
+14/09/2026;Découpe laser;Tôle découpée laser (lot);73;2;68;16;0,00;5;63 380,79
+14/09/2026;Pliage;Pièce pliée inox;891;40;952;16;0,00;70;51 606,12
+14/09/2026;Soudure;Châssis tubulaire;65;5;81;16;4,00;6;19 588,47
+14/09/2026;Emboutissage;Support moteur acier;1022;23;1496;16;5,20;110;33 049,79
+15/09/2026;Découpe laser;Tôle découpée laser (lot);52;2;68;16;2,60;5;44 413,54
+15/09/2026;Pliage;Pièce pliée inox;834;25;952;16;2,30;70;47 142,76
+15/09/2026;Soudure;Châssis tubulaire;85;4;81;16;0,00;6;24 178,03
+15/09/2026;Emboutissage;Support moteur acier;1056;29;1496;16;4,30;110;32 843,31
+16/09/2026;Découpe laser;Tôle découpée laser (lot);56;2;68;16;1,40;5;44 978,96
+16/09/2026;Pliage;Pièce pliée inox;881;38;952;16;0,60;70;54 021,80
+16/09/2026;Soudure;Châssis tubulaire;75;5;81;16;0,90;6;22 692,47
+16/09/2026;Emboutissage;Support moteur acier;1350;27;1496;16;0,80;110;42 332,82
+17/09/2026;Découpe laser;Tôle découpée laser (lot);61;1;68;16;0,60;5;52 073,61
+17/09/2026;Pliage;Pièce pliée inox;796;33;952;16;1,00;70;47 380,94
+17/09/2026;Soudure;Châssis tubulaire;78;4;81;16;1,60;6;22 511,77
+17/09/2026;Emboutissage;Support moteur acier;1455;21;1496;16;0,00;110;45 748,40
+18/09/2026;Découpe laser;Tôle découpée laser (lot);59;1;68;16;0,80;5;50 638,87
+18/09/2026;Pliage;Pièce pliée inox;976;57;952;16;0,00;70;59 036,70
+18/09/2026;Soudure;Châssis tubulaire;79;2;81;16;1,20;6;21 959,79
+18/09/2026;Emboutissage;Support moteur acier;1605;36;1496;16;0,00;110;49 263,75
+19/09/2026;Découpe laser;Tôle découpée laser (lot);59;1;68;16;0,00;5;47 649,02
+19/09/2026;Pliage;Pièce pliée inox;961;53;952;16;0,00;70;54 969,21
+19/09/2026;Soudure;Châssis tubulaire;64;2;81;16;2,50;6;18 837,92
+19/09/2026;Emboutissage;Support moteur acier;1373;19;1496;16;1,40;110;44 984,03
+21/09/2026;Découpe laser;Tôle découpée laser (lot);57;1;68;16;1,10;5;45 876,35
+21/09/2026;Pliage;Pièce pliée inox;878;21;952;16;0,00;70;49 751,17
+21/09/2026;Soudure;Châssis tubulaire;68;2;81;16;3,30;6;19 006,78
+21/09/2026;Emboutissage;Support moteur acier;1563;36;1496;16;0,00;110;47 615,59
+22/09/2026;Découpe laser;Tôle découpée laser (lot);66;1;68;16;0,90;5;52 829,42
+22/09/2026;Pliage;Pièce pliée inox;778;24;952;16;1,50;70;46 990,13
+22/09/2026;Soudure;Châssis tubulaire;75;4;81;16;0,00;6;21 121,29
+22/09/2026;Emboutissage;Support moteur acier;1335;36;1496;16;2,50;110;42 403,16
+23/09/2026;Découpe laser;Tôle découpée laser (lot);63;1;68;16;1,30;5;54 536,72
+23/09/2026;Pliage;Pièce pliée inox;874;33;952;16;0,00;70;54 095,25
+23/09/2026;Soudure;Châssis tubulaire;77;5;81;16;0,00;6;22 938,82
+23/09/2026;Emboutissage;Support moteur acier;1429;26;1496;16;1,40;110;44 510,77
+24/09/2026;Découpe laser;Tôle découpée laser (lot);64;1;68;16;0,00;5;52 820,84
+24/09/2026;Pliage;Pièce pliée inox;819;18;952;16;0,40;70;49 413,56
+24/09/2026;Soudure;Châssis tubulaire;86;5;81;16;0,70;6;24 168,52
+24/09/2026;Emboutissage;Support moteur acier;1144;19;1496;16;2,80;110;37 844,13
+25/09/2026;Découpe laser;Tôle découpée laser (lot);51;1;68;16;3,40;5;42 253,22
+25/09/2026;Pliage;Pièce pliée inox;838;24;952;16;2,00;70;48 537,82
+25/09/2026;Soudure;Châssis tubulaire;77;6;81;16;0,00;6;21 842,95
+25/09/2026;Emboutissage;Support moteur acier;1232;20;1496;16;1,90;110;38 898,06
+26/09/2026;Découpe laser;Tôle découpée laser (lot);67;1;68;16;0,00;5;54 791,49
+26/09/2026;Pliage;Pièce pliée inox;971;32;952;16;0,50;70;59 558,70
+26/09/2026;Soudure;Châssis tubulaire;82;4;81;16;0,90;6;23 555,14
+26/09/2026;Emboutissage;Support moteur acier;1366;36;1496;16;0,00;110;45 295,05
+28/09/2026;Découpe laser;Tôle découpée laser (lot);63;2;68;16;1,20;5;55 158,59
+28/09/2026;Pliage;Pièce pliée inox;966;49;952;16;1,30;70;54 460,74
+28/09/2026;Soudure;Châssis tubulaire;75;4;81;16;1,80;6;22 098,71
+28/09/2026;Emboutissage;Support moteur acier;1349;49;1496;16;0,00;110;42 908,28
+29/09/2026;Découpe laser;Tôle découpée laser (lot);55;1;68;16;3,40;5;47 260,34
+29/09/2026;Pliage;Pièce pliée inox;799;33;952;16;1,80;70;46 449,29
+29/09/2026;Soudure;Châssis tubulaire;64;2;81;16;2,80;6;17 908,45
+29/09/2026;Emboutissage;Support moteur acier;1562;54;1496;16;0,00;110;48 732,32
+30/09/2026;Découpe laser;Tôle découpée laser (lot);58;1;68;16;0,60;5;47 553,25
+30/09/2026;Pliage;Pièce pliée inox;1050;30;952;16;0,00;70;61 916,94
+30/09/2026;Soudure;Châssis tubulaire;73;4;81;16;0,00;6;21 329,20
+30/09/2026;Emboutissage;Support moteur acier;1379;20;1496;16;1,20;110;41 907,99

@@ -1,0 +1,12 @@
+{
+  "name": "vision-board",
+  "private": true,
+  "description": "Raccourcis pour lancer Vision Board depuis la racine du projet",
+  "scripts": {
+    "start": "node scripts/start.mjs",
+    "dev":"npm --prefix frontend run dev",
+    "api": "cd backend && .venv\\Scripts\\python -m uvicorn app.main:app --port 8000",
+    "mot-de-passe": "cd backend && .venv\\Scripts\\python -m app.manage set-password",
+    "test": "cd backend && .venv\\Scripts\\python -m pytest -q"
+  }
+}

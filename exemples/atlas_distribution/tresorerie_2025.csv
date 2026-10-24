@@ -1,0 +1,187 @@
+﻿Date opération;Banque;Libellé;Catégorie;Crédit;Débit;Solde
+03/01/2025;CIH Bank;Fournisseurs marchandises;Fournisseurs marchandises;;17 088,62;77 911,38
+03/01/2025;Banque Populaire;Fournisseurs marchandises;Fournisseurs marchandises;;17 837,86;22 162,14
+07/01/2025;CIH Bank;Télécom et divers;Télécom et divers;;5 427,47;72 483,91
+09/01/2025;CIH Bank;Règlement client;Encaissements clients;24 966,69;;97 450,60
+09/01/2025;Banque Populaire;Loyer;Loyer;;6 311,71;15 850,43
+10/01/2025;CIH Bank;Règlement client;Encaissements clients;15 925,90;;113 376,50
+10/01/2025;Banque Populaire;Carburant et transport;Carburant et transport;;9 639,54;6 210,89
+13/01/2025;Banque Populaire;Règlement client;Encaissements clients;18 632,87;;24 843,76
+16/01/2025;CIH Bank;Carburant et transport;Carburant et transport;;4 965,49;108 411,01
+16/01/2025;Banque Populaire;Règlement client;Encaissements clients;7 148,21;;31 991,97
+17/01/2025;CIH Bank;Télécom et divers;Télécom et divers;;5 758,33;102 652,68
+21/01/2025;Banque Populaire;Fournisseurs marchandises;Fournisseurs marchandises;;16 522,37;15 469,60
+22/01/2025;Banque Populaire;Fournisseurs marchandises;Fournisseurs marchandises;;12 846,59;2 623,01
+23/01/2025;Banque Populaire;Règlement client;Encaissements clients;16 635,86;;19 258,87
+24/01/2025;CIH Bank;Fournisseurs marchandises;Fournisseurs marchandises;;10 797,72;91 854,96
+24/01/2025;Banque Populaire;Règlement client;Encaissements clients;10 876,57;;30 135,44
+27/01/2025;CIH Bank;Fournisseurs marchandises;Fournisseurs marchandises;;23 774,15;68 080,81
+29/01/2025;Banque Populaire;Règlement client;Encaissements clients;8 857,59;;38 993,03
+30/01/2025;CIH Bank;Règlement client;Encaissements clients;11 394,87;;79 475,68
+03/02/2025;CIH Bank;Règlement client;Encaissements clients;15 950,74;;95 426,42
+04/02/2025;CIH Bank;Carburant et transport;Carburant et transport;;8 617,77;86 808,65
+04/02/2025;Banque Populaire;Fournisseurs marchandises;Fournisseurs marchandises;;18 147,94;20 845,09
+05/02/2025;CIH Bank;Règlement client;Encaissements clients;14 176,89;;100 985,54
+05/02/2025;Banque Populaire;Loyer;Loyer;;14 120,61;6 724,48
+06/02/2025;Banque Populaire;Règlement client;Encaissements clients;7 864,12;;14 588,60
+07/02/2025;CIH Bank;Fournisseurs marchandises;Fournisseurs marchandises;;22 624,02;78 361,52
+10/02/2025;Banque Populaire;Salaires;Salaires;;9 324,89;5 263,71
+11/02/2025;CIH Bank;Règlement client;Encaissements clients;15 089,37;;93 450,89
+11/02/2025;Banque Populaire;Fournisseurs marchandises;Fournisseurs marchandises;;17 785,92;-12 522,21
+12/02/2025;CIH Bank;Fournisseurs marchandises;Fournisseurs marchandises;;16 615,54;76 835,35
+12/02/2025;Banque Populaire;Loyer;Loyer;;20 487,10;-33 009,31
+13/02/2025;CIH Bank;Règlement client;Encaissements clients;7 374,46;;84 209,81
+13/02/2025;Banque Populaire;Fournisseurs marchandises;Fournisseurs marchandises;;21 281,90;-54 291,21
+14/02/2025;CIH Bank;Fournisseurs marchandises;Fournisseurs marchandises;;9 450,19;74 759,62
+18/02/2025;CIH Bank;Règlement client;Encaissements clients;5 381,74;;80 141,36
+18/02/2025;Banque Populaire;Fournisseurs marchandises;Fournisseurs marchandises;;12 985,68;-67 276,89
+19/02/2025;CIH Bank;Salaires;Salaires;;11 282,49;68 858,87
+19/02/2025;Banque Populaire;Règlement client;Encaissements clients;21 977,05;;-45 299,84
+20/02/2025;Banque Populaire;Règlement client;Encaissements clients;10 760,09;;-34 539,75
+24/02/2025;CIH Bank;Règlement client;Encaissements clients;9 218,14;;78 077,01
+26/02/2025;CIH Bank;Fournisseurs marchandises;Fournisseurs marchandises;;22 572,04;55 504,97
+26/02/2025;Banque Populaire;Règlement client;Encaissements clients;21 989,62;;-12 550,13
+28/02/2025;CIH Bank;Règlement client;Encaissements clients;13 773,67;;69 278,64
+03/03/2025;CIH Bank;Règlement client;Encaissements clients;16 415,81;;85 694,45
+03/03/2025;Banque Populaire;Règlement client;Encaissements clients;15 418,49;;2 868,36
+05/03/2025;CIH Bank;CNSS;CNSS;;15 248,03;70 446,42
+05/03/2025;Banque Populaire;Règlement client;Encaissements clients;19 479,73;;22 348,09
+06/03/2025;Banque Populaire;Règlement client;Encaissements clients;6 507,96;;28 856,05
+11/03/2025;Banque Populaire;Fournisseurs marchandises;Fournisseurs marchandises;;21 259,13;7 596,92
+12/03/2025;CIH Bank;Fournisseurs marchandises;Fournisseurs marchandises;;15 823,14;54 623,28
+13/03/2025;CIH Bank;Règlement client;Encaissements clients;4 097,68;;58 720,96
+14/03/2025;CIH Bank;Fournisseurs marchandises;Fournisseurs marchandises;;22 100,98;36 619,98
+17/03/2025;Banque Populaire;Règlement client;Encaissements clients;18 024,62;;25 621,54
+18/03/2025;CIH Bank;Fournisseurs marchandises;Fournisseurs marchandises;;15 691,29;20 928,69
+19/03/2025;Banque Populaire;Règlement client;Encaissements clients;13 260,45;;38 881,99
+20/03/2025;Banque Populaire;Règlement client;Encaissements clients;12 388,61;;51 270,60
+21/03/2025;CIH Bank;Fournisseurs marchandises;Fournisseurs marchandises;;12 871,86;8 056,83
+24/03/2025;Banque Populaire;Fournisseurs marchandises;Fournisseurs marchandises;;19 059,62;32 210,98
+25/03/2025;CIH Bank;Règlement client;Encaissements clients;18 804,17;;26 861,00
+01/04/2025;CIH Bank;Règlement client;Encaissements clients;22 961,64;;49 822,64
+02/04/2025;Banque Populaire;Règlement client;Encaissements clients;18 431,33;;50 642,31
+03/04/2025;CIH Bank;Règlement client;Encaissements clients;25 349,86;;75 172,50
+03/04/2025;Banque Populaire;Salaires;Salaires;;41 506,34;9 135,97
+04/04/2025;Banque Populaire;Règlement client;Encaissements clients;22 983,00;;32 118,97
+07/04/2025;CIH Bank;Salaires;Salaires;;28 188,01;46 984,49
+08/04/2025;Banque Populaire;Fournisseurs marchandises;Fournisseurs marchandises;;18 204,82;13 914,15
+09/04/2025;Banque Populaire;Règlement client;Encaissements clients;24 111,41;;38 025,56
+10/04/2025;CIH Bank;Fournisseurs marchandises;Fournisseurs marchandises;;5 878,62;41 105,87
+10/04/2025;Banque Populaire;Règlement client;Encaissements clients;22 622,65;;60 648,21
+14/04/2025;CIH Bank;Règlement client;Encaissements clients;6 142,88;;47 248,75
+17/04/2025;CIH Bank;Règlement client;Encaissements clients;4 717,64;;51 966,39
+21/04/2025;CIH Bank;Carburant et transport;Carburant et transport;;8 937,19;43 029,20
+22/04/2025;Banque Populaire;Règlement client;Encaissements clients;7 490,37;;68 138,58
+23/04/2025;CIH Bank;Règlement client;Encaissements clients;25 746,55;;68 775,75
+24/04/2025;CIH Bank;Fournisseurs marchandises;Fournisseurs marchandises;;15 099,89;53 675,86
+29/04/2025;CIH Bank;Règlement client;Encaissements clients;18 720,62;;72 396,48
+30/04/2025;Banque Populaire;Fournisseurs marchandises;Fournisseurs marchandises;;15 448,33;52 690,25
+01/05/2025;CIH Bank;Règlement client;Encaissements clients;15 314,41;;87 710,89
+05/05/2025;Banque Populaire;Règlement client;Encaissements clients;25 518,55;;78 208,80
+09/05/2025;CIH Bank;Fournisseurs marchandises;Fournisseurs marchandises;;11 945,58;75 765,31
+09/05/2025;Banque Populaire;Règlement client;Encaissements clients;23 512,59;;101 721,39
+12/05/2025;Banque Populaire;Fournisseurs marchandises;Fournisseurs marchandises;;12 694,10;89 027,29
+14/05/2025;CIH Bank;Fournisseurs marchandises;Fournisseurs marchandises;;18 155,58;57 609,73
+16/05/2025;CIH Bank;Salaires;Salaires;;39 159,49;18 450,24
+16/05/2025;Banque Populaire;Règlement client;Encaissements clients;19 896,83;;108 924,12
+20/05/2025;CIH Bank;Règlement client;Encaissements clients;9 295,43;;27 745,67
+20/05/2025;Banque Populaire;Salaires;Salaires;;13 068,92;95 855,20
+22/05/2025;CIH Bank;Règlement client;Encaissements clients;18 673,39;;46 419,06
+22/05/2025;Banque Populaire;Règlement client;Encaissements clients;23 994,19;;119 849,39
+23/05/2025;CIH Bank;Règlement client;Encaissements clients;10 241,92;;56 660,98
+26/05/2025;CIH Bank;Règlement client;Encaissements clients;9 534,49;;66 195,47
+26/05/2025;Banque Populaire;Règlement client;Encaissements clients;5 301,96;;125 151,35
+27/05/2025;CIH Bank;Règlement client;Encaissements clients;19 482,03;;85 677,50
+28/05/2025;Banque Populaire;Fournisseurs marchandises;Fournisseurs marchandises;;9 223,01;115 928,34
+29/05/2025;CIH Bank;Règlement client;Encaissements clients;22 560,29;;108 237,79
+29/05/2025;Banque Populaire;Règlement client;Encaissements clients;17 204,38;;133 132,72
+30/05/2025;CIH Bank;Fournisseurs marchandises;Fournisseurs marchandises;;6 260,35;101 977,44
+30/05/2025;Banque Populaire;Règlement client;Encaissements clients;21 218,27;;154 350,99
+02/06/2025;CIH Bank;Carburant et transport;Carburant et transport;;7 856,50;94 120,94
+05/06/2025;CIH Bank;Règlement client;Encaissements clients;6 687,94;;100 808,88
+05/06/2025;Banque Populaire;Fournisseurs marchandises;Fournisseurs marchandises;;6 289,32;148 061,67
+06/06/2025;CIH Bank;Règlement client;Encaissements clients;17 980,99;;118 789,87
+09/06/2025;CIH Bank;Règlement client;Encaissements clients;7 676,83;;126 466,70
+09/06/2025;Banque Populaire;Impôts et taxes;Impôts et taxes;;15 728,21;132 333,46
+10/06/2025;CIH Bank;Règlement client;Encaissements clients;22 448,83;;148 915,53
+10/06/2025;Banque Populaire;Règlement client;Encaissements clients;20 127,05;;152 460,51
+11/06/2025;Banque Populaire;Salaires;Salaires;;31 429,53;121 030,98
+12/06/2025;CIH Bank;Fournisseurs marchandises;Fournisseurs marchandises;;15 637,35;133 278,18
+12/06/2025;Banque Populaire;Fournisseurs marchandises;Fournisseurs marchandises;;14 939,35;106 091,63
+13/06/2025;CIH Bank;Fournisseurs marchandises;Fournisseurs marchandises;;6 213,30;127 064,88
+13/06/2025;Banque Populaire;Fournisseurs marchandises;Fournisseurs marchandises;;3 145,74;102 945,89
+16/06/2025;Banque Populaire;Règlement client;Encaissements clients;22 271,03;;125 216,92
+17/06/2025;CIH Bank;Télécom et divers;Télécom et divers;;5 248,51;121 816,37
+17/06/2025;Banque Populaire;Règlement client;Encaissements clients;9 802,37;;135 019,29
+20/06/2025;CIH Bank;Fournisseurs marchandises;Fournisseurs marchandises;;19 306,38;102 509,99
+20/06/2025;Banque Populaire;Fournisseurs marchandises;Fournisseurs marchandises;;9 151,24;125 868,05
+24/06/2025;CIH Bank;Règlement client;Encaissements clients;20 250,63;;122 760,62
+24/06/2025;Banque Populaire;Fournisseurs marchandises;Fournisseurs marchandises;;11 376,84;114 491,21
+25/06/2025;CIH Bank;Règlement client;Encaissements clients;21 446,93;;144 207,55
+26/06/2025;CIH Bank;Règlement client;Encaissements clients;12 643,98;;156 851,53
+30/06/2025;Banque Populaire;Règlement client;Encaissements clients;18 490,57;;132 981,78
+01/07/2025;Banque Populaire;Fournisseurs marchandises;Fournisseurs marchandises;;5 443,63;127 538,15
+02/07/2025;Banque Populaire;Fournisseurs marchandises;Fournisseurs marchandises;;13 185,04;114 353,11
+03/07/2025;Banque Populaire;Règlement client;Encaissements clients;5 743,12;;120 096,23
+04/07/2025;CIH Bank;Règlement client;Encaissements clients;23 410,71;;180 262,24
+04/07/2025;Banque Populaire;Impôts et taxes;Impôts et taxes;;13 898,18;106 198,05
+07/07/2025;CIH Bank;Carburant et transport;Carburant et transport;;11 629,91;168 632,33
+08/07/2025;CIH Bank;Règlement client;Encaissements clients;11 753,92;;180 386,25
+09/07/2025;Banque Populaire;Règlement client;Encaissements clients;9 602,99;;115 801,04
+14/07/2025;CIH Bank;Règlement client;Encaissements clients;25 082,86;;205 469,11
+14/07/2025;Banque Populaire;Règlement client;Encaissements clients;7 746,53;;123 547,57
+15/07/2025;CIH Bank;Fournisseurs marchandises;Fournisseurs marchandises;;6 647,87;198 821,24
+17/07/2025;CIH Bank;Salaires;Salaires;;23 140,97;175 680,27
+18/07/2025;CIH Bank;Règlement client;Encaissements clients;16 717,21;;192 397,48
+21/07/2025;Banque Populaire;Télécom et divers;Télécom et divers;;10 566,21;112 981,36
+22/07/2025;Banque Populaire;Règlement client;Encaissements clients;17 018,29;;129 999,65
+24/07/2025;CIH Bank;Règlement client;Encaissements clients;24 142,30;;216 539,78
+25/07/2025;Banque Populaire;Fournisseurs marchandises;Fournisseurs marchandises;;5 648,26;124 351,39
+28/07/2025;CIH Bank;Règlement client;Encaissements clients;20 810,11;;237 349,89
+28/07/2025;Banque Populaire;Règlement client;Encaissements clients;23 457,96;;147 809,35
+29/07/2025;Banque Populaire;Fournisseurs marchandises;Fournisseurs marchandises;;9 532,02;138 277,33
+30/07/2025;Banque Populaire;Règlement client;Encaissements clients;8 838,19;;147 115,52
+31/07/2025;Banque Populaire;Télécom et divers;Télécom et divers;;15 256,27;131 859,25
+01/08/2025;Banque Populaire;Fournisseurs marchandises;Fournisseurs marchandises;;13 251,21;118 608,04
+04/08/2025;CIH Bank;Règlement client;Encaissements clients;24 594,73;;261 944,62
+05/08/2025;CIH Bank;Loyer;Loyer;;23 042,08;238 902,54
+05/08/2025;Banque Populaire;Règlement client;Encaissements clients;20 959,76;;139 567,80
+06/08/2025;Banque Populaire;Règlement client;Encaissements clients;17 542,96;;157 110,76
+08/08/2025;CIH Bank;Règlement client;Encaissements clients;5 061,85;;243 964,39
+08/08/2025;Banque Populaire;Règlement client;Encaissements clients;12 555,19;;169 665,95
+15/08/2025;CIH Bank;Fournisseurs marchandises;Fournisseurs marchandises;;8 440,54;235 523,85
+15/08/2025;Banque Populaire;Règlement client;Encaissements clients;6 514,75;;176 180,70
+18/08/2025;CIH Bank;Règlement client;Encaissements clients;19 478,03;;255 001,88
+20/08/2025;Banque Populaire;Fournisseurs marchandises;Fournisseurs marchandises;;12 618,50;163 562,20
+22/08/2025;CIH Bank;Règlement client;Encaissements clients;12 248,60;;267 250,48
+25/08/2025;Banque Populaire;Règlement client;Encaissements clients;13 762,69;;177 324,89
+26/08/2025;CIH Bank;Règlement client;Encaissements clients;23 697,43;;290 947,91
+27/08/2025;Banque Populaire;Règlement client;Encaissements clients;6 610,24;;183 935,13
+28/08/2025;CIH Bank;Règlement client;Encaissements clients;5 417,02;;296 364,93
+29/08/2025;CIH Bank;Fournisseurs marchandises;Fournisseurs marchandises;;8 406,38;287 958,55
+01/09/2025;CIH Bank;Règlement client;Encaissements clients;9 977,54;;297 936,09
+02/09/2025;CIH Bank;Règlement client;Encaissements clients;12 089,27;;310 025,36
+03/09/2025;CIH Bank;Fournisseurs marchandises;Fournisseurs marchandises;;3 898,26;306 127,10
+04/09/2025;Banque Populaire;Fournisseurs marchandises;Fournisseurs marchandises;;10 915,82;173 019,31
+08/09/2025;Banque Populaire;Carburant et transport;Carburant et transport;;17 934,65;155 084,66
+09/09/2025;CIH Bank;CNSS;CNSS;;3 949,51;302 177,59
+09/09/2025;Banque Populaire;CNSS;CNSS;;17 668,79;137 415,87
+10/09/2025;CIH Bank;Fournisseurs marchandises;Fournisseurs marchandises;;7 557,59;294 620,00
+11/09/2025;CIH Bank;CNSS;CNSS;;4 754,62;289 865,38
+11/09/2025;Banque Populaire;Règlement client;Encaissements clients;5 588,27;;143 004,14
+12/09/2025;CIH Bank;Règlement client;Encaissements clients;4 405,60;;294 270,98
+15/09/2025;Banque Populaire;Règlement client;Encaissements clients;16 935,63;;159 939,77
+17/09/2025;CIH Bank;Fournisseurs marchandises;Fournisseurs marchandises;;21 977,60;272 293,38
+18/09/2025;CIH Bank;Salaires;Salaires;;36 493,59;235 799,79
+18/09/2025;Banque Populaire;Fournisseurs marchandises;Fournisseurs marchandises;;20 487,17;139 452,60
+19/09/2025;CIH Bank;Fournisseurs marchandises;Fournisseurs marchandises;;8 785,11;227 014,68
+19/09/2025;Banque Populaire;Règlement client;Encaissements clients;23 293,56;;162 746,16
+22/09/2025;CIH Bank;Règlement client;Encaissements clients;25 270,54;;252 285,22
+23/09/2025;CIH Bank;Impôts et taxes;Impôts et taxes;;11 332,99;240 952,23
+23/09/2025;Banque Populaire;Salaires;Salaires;;33 981,60;128 764,56
+24/09/2025;Banque Populaire;Règlement client;Encaissements clients;6 504,41;;135 268,97
+26/09/2025;CIH Bank;Règlement client;Encaissements clients;4 613,06;;245 565,29
+26/09/2025;Banque Populaire;Fournisseurs marchandises;Fournisseurs marchandises;;8 404,71;126 864,26
+29/09/2025;CIH Bank;Fournisseurs marchandises;Fournisseurs marchandises;;13 572,56;231 992,73
+29/09/2025;Banque Populaire;Règlement client;Encaissements clients;18 235,24;;145 099,50
+30/09/2025;CIH Bank;Salaires;Salaires;;37 278,10;194 714,63

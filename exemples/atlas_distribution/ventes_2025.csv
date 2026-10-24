@@ -1,0 +1,401 @@
+Date facture;Client;Article;Commercial;Ville;Quantité;Montant HT (MAD);Coût d'achat;Statut paiement;Échéance
+15/06/2025;Marjane;Sucre 2kg;Karim;Agadir;106;2 968,00;2 332,00;Réglé;14/08/2025
+30/01/2025;Carrefour Market;Lait 1L;Nadia;Casablanca;59;413,00;306,80;Réglé;31/03/2025
+04/05/2025;Supérette Atlas;Huile 5L;Karim;Rabat;146;13 870,00;10 512,00;Réglé;03/07/2025
+01/02/2025;Label'Vie;Lait 1L;Karim;Fès;154;1 078,00;800,80;Réglé;02/04/2025
+10/03/2025;Marjane;Thé vert 500g;Youssef;Fès;112;4 704,00;3 024,00;Réglé;09/05/2025
+03/04/2025;Label'Vie;Huile 5L;Youssef;Casablanca;153;14 535,00;11 016,00;Réglé;02/06/2025
+02/02/2025;Carrefour Market;Lait 1L;Nadia;Agadir;20;140,00;104,00;Réglé;03/04/2025
+27/08/2025;Label'Vie;Lait 1L;Salma;Rabat;121;847,00;629,20;Réglé;26/10/2025
+11/02/2025;BIM;Lait 1L;Nadia;Agadir;81;567,00;421,20;Réglé;12/04/2025
+07/02/2025;Supérette Atlas;Huile 5L;Youssef;Rabat;136;12 920,00;9 792,00;Réglé;08/04/2025
+08/09/2025;Marjane;Farine 10kg;Youssef;Agadir;15;1 125,00;870,00;Non réglé;07/11/2025
+29/06/2025;Carrefour Market;Lait 1L;Karim;Casablanca;132;924,00;686,40;Réglé;28/08/2025
+19/05/2025;Marjane;Farine 10kg;Youssef;Fès;183;13 725,00;10 614,00;Réglé;18/07/2025
+17/08/2025;Épicerie Nour;Thé vert 500g;Youssef;Casablanca;188;7 896,00;5 076,00;Réglé;16/10/2025
+25/08/2025;Carrefour Market;Thé vert 500g;Karim;Rabat;48;2 016,00;1 296,00;Réglé;24/10/2025
+28/05/2025;Carrefour Market;Sucre 2kg;Nadia;Casablanca;194;5 432,00;4 268,00;Réglé;27/07/2025
+27/03/2025;Label'Vie;Farine 10kg;Nadia;Fès;107;8 025,00;6 206,00;Réglé;26/05/2025
+23/05/2025;Épicerie Nour;Café 250g;Nadia;Rabat;111;4 218,00;2 664,00;Non réglé;22/07/2025
+19/03/2025;Épicerie Nour;Huile 5L;Salma;Casablanca;50;4 750,00;3 600,00;Réglé;18/05/2025
+06/09/2025;Marjane;Lait 1L;Salma;Marrakech;51;357,00;265,20;Réglé;05/11/2025
+09/07/2025;Label'Vie;Lait 1L;Karim;Marrakech;149;1 043,00;774,80;Réglé;07/09/2025
+20/07/2025;Carrefour Market;Farine 10kg;Nadia;Casablanca;107;8 025,00;6 206,00;Réglé;18/09/2025
+08/04/2025;Marjane;Huile 5L;Youssef;Fès;58;5 510,00;4 176,00;Réglé;07/06/2025
+27/01/2025;Aswak Assalam;Huile 5L;Karim;Agadir;5;475,00;360,00;Réglé;28/03/2025
+14/01/2025;Label'Vie;Huile 5L;Youssef;Agadir;58;5 510,00;4 176,00;Réglé;15/03/2025
+06/07/2025;Carrefour Market;Farine 10kg;Nadia;Marrakech;36;2 700,00;2 088,00;Réglé;04/09/2025
+05/09/2025;Épicerie Nour;Thé vert 500g;Youssef;Agadir;26;1 092,00;702,00;Réglé;04/11/2025
+03/09/2025;Label'Vie;Café 250g;Youssef;Rabat;46;1 748,00;1 104,00;Réglé;02/11/2025
+14/01/2025;Supérette Atlas;Lait 1L;Karim;Agadir;81;567,00;421,20;Non réglé;15/03/2025
+23/09/2025;Label'Vie;Thé vert 500g;Youssef;Rabat;47;1 974,00;1 269,00;Réglé;22/11/2025
+10/04/2025;Label'Vie;Sucre 2kg;Salma;Fès;107;2 996,00;2 354,00;Réglé;09/06/2025
+10/09/2025;Marjane;Thé vert 500g;Youssef;Marrakech;192;8 064,00;5 184,00;Réglé;09/11/2025
+13/05/2025;BIM;Sucre 2kg;Nadia;Agadir;182;5 096,00;4 004,00;Réglé;12/07/2025
+06/07/2025;Carrefour Market;Huile 5L;Salma;Agadir;61;5 795,00;4 392,00;Réglé;04/09/2025
+15/04/2025;Aswak Assalam;Farine 10kg;Karim;Marrakech;164;12 300,00;9 512,00;Non réglé;14/06/2025
+26/06/2025;Marjane;Café 250g;Nadia;Rabat;26;988,00;624,00;Non réglé;25/08/2025
+02/09/2025;BIM;Sucre 2kg;Karim;Marrakech;116;3 248,00;2 552,00;Réglé;01/11/2025
+26/08/2025;Épicerie Nour;Farine 10kg;Salma;Rabat;195;14 625,00;11 310,00;Non réglé;25/10/2025
+07/03/2025;Carrefour Market;Huile 5L;Salma;Fès;43;4 085,00;3 096,00;Réglé;06/05/2025
+31/08/2025;Aswak Assalam;Café 250g;Salma;Casablanca;94;3 572,00;2 256,00;Réglé;30/10/2025
+08/01/2025;Épicerie Nour;Café 250g;Salma;Marrakech;171;6 498,00;4 104,00;Réglé;09/03/2025
+10/04/2025;BIM;Sucre 2kg;Salma;Fès;12;336,00;264,00;Réglé;09/06/2025
+16/06/2025;Label'Vie;Thé vert 500g;Karim;Agadir;144;6 048,00;3 888,00;Réglé;15/08/2025
+23/08/2025;Aswak Assalam;Café 250g;Nadia;Fès;154;5 852,00;3 696,00;Réglé;22/10/2025
+08/03/2025;Marjane;Lait 1L;Nadia;Rabat;43;301,00;223,60;Réglé;07/05/2025
+03/01/2025;Aswak Assalam;Sucre 2kg;Karim;Fès;49;1 372,00;1 078,00;Réglé;04/03/2025
+01/02/2025;Aswak Assalam;Thé vert 500g;Nadia;Casablanca;179;7 518,00;4 833,00;Réglé;02/04/2025
+30/01/2025;Supérette Atlas;Sucre 2kg;Karim;Fès;53;1 484,00;1 166,00;Réglé;31/03/2025
+20/08/2025;Marjane;Lait 1L;Nadia;Agadir;12;84,00;62,40;Réglé;19/10/2025
+16/09/2025;BIM;Lait 1L;Nadia;Fès;136;952,00;707,20;Réglé;15/11/2025
+02/09/2025;BIM;Lait 1L;Salma;Marrakech;68;476,00;353,60;Réglé;01/11/2025
+12/03/2025;BIM;Farine 10kg;Karim;Rabat;36;2 700,00;2 088,00;Réglé;11/05/2025
+08/08/2025;Supérette Atlas;Huile 5L;Karim;Rabat;59;5 605,00;4 248,00;Réglé;07/10/2025
+07/07/2025;Carrefour Market;Sucre 2kg;Salma;Casablanca;69;1 932,00;1 518,00;Non réglé;05/09/2025
+23/07/2025;Supérette Atlas;Farine 10kg;Salma;Rabat;46;3 450,00;2 668,00;Non réglé;21/09/2025
+09/08/2025;Label'Vie;Lait 1L;Youssef;Agadir;108;756,00;561,60;Réglé;08/10/2025
+17/02/2025;Aswak Assalam;Café 250g;Nadia;Marrakech;98;3 724,00;2 352,00;Réglé;18/04/2025
+10/01/2025;BIM;Farine 10kg;Karim;Casablanca;89;6 675,00;5 162,00;Réglé;11/03/2025
+28/04/2025;Marjane;Huile 5L;Salma;Agadir;26;2 470,00;1 872,00;Réglé;27/06/2025
+08/03/2025;BIM;Farine 10kg;Nadia;Rabat;178;13 350,00;10 324,00;Réglé;07/05/2025
+21/09/2025;Marjane;Lait 1L;Youssef;Casablanca;131;917,00;681,20;Réglé;20/11/2025
+04/04/2025;Marjane;Farine 10kg;Karim;Agadir;23;1 725,00;1 334,00;Réglé;03/06/2025
+12/02/2025;Supérette Atlas;Lait 1L;Karim;Marrakech;61;427,00;317,20;Réglé;13/04/2025
+06/01/2025;BIM;Thé vert 500g;Salma;Casablanca;146;6 132,00;3 942,00;Réglé;07/03/2025
+27/09/2025;Label'Vie;Café 250g;Youssef;Casablanca;66;2 508,00;1 584,00;Non réglé;26/11/2025
+03/04/2025;Aswak Assalam;Sucre 2kg;Salma;Agadir;84;2 352,00;1 848,00;Réglé;02/06/2025
+17/08/2025;BIM;Lait 1L;Karim;Agadir;177;1 239,00;920,40;Réglé;16/10/2025
+19/01/2025;Aswak Assalam;Huile 5L;Salma;Fès;9;855,00;648,00;Réglé;20/03/2025
+01/09/2025;Supérette Atlas;Sucre 2kg;Nadia;Marrakech;119;3 332,00;2 618,00;Réglé;31/10/2025
+21/07/2025;Label'Vie;Lait 1L;Youssef;Rabat;83;581,00;431,60;Réglé;19/09/2025
+13/03/2025;Supérette Atlas;Farine 10kg;Salma;Casablanca;93;6 975,00;5 394,00;Non réglé;12/05/2025
+06/02/2025;Carrefour Market;Café 250g;Salma;Casablanca;194;7 372,00;4 656,00;Non réglé;07/04/2025
+13/02/2025;Épicerie Nour;Café 250g;Youssef;Fès;102;3 876,00;2 448,00;Non réglé;14/04/2025
+05/05/2025;Label'Vie;Café 250g;Salma;Agadir;80;3 040,00;1 920,00;Réglé;04/07/2025
+17/08/2025;BIM;Huile 5L;Youssef;Rabat;72;6 840,00;5 184,00;Réglé;16/10/2025
+18/01/2025;Marjane;Thé vert 500g;Youssef;Marrakech;60;2 520,00;1 620,00;Réglé;19/03/2025
+12/02/2025;Label'Vie;Farine 10kg;Salma;Fès;76;5 700,00;4 408,00;Réglé;13/04/2025
+03/01/2025;Label'Vie;Huile 5L;Nadia;Fès;72;6 840,00;5 184,00;Réglé;04/03/2025
+22/01/2025;Épicerie Nour;Farine 10kg;Salma;Casablanca;10;750,00;580,00;Réglé;23/03/2025
+28/09/2025;Supérette Atlas;Sucre 2kg;Nadia;Agadir;173;4 844,00;3 806,00;Non réglé;27/11/2025
+11/09/2025;Épicerie Nour;Sucre 2kg;Salma;Casablanca;77;2 156,00;1 694,00;Réglé;10/11/2025
+20/09/2025;Supérette Atlas;Café 250g;Salma;Fès;114;4 332,00;2 736,00;Réglé;19/11/2025
+16/09/2025;Aswak Assalam;Lait 1L;Salma;Casablanca;9;63,00;46,80;Non réglé;15/11/2025
+16/01/2025;Marjane;Huile 5L;Nadia;Marrakech;39;3 705,00;2 808,00;Réglé;17/03/2025
+26/01/2025;Épicerie Nour;Café 250g;Salma;Marrakech;9;342,00;216,00;Réglé;27/03/2025
+16/05/2025;Épicerie Nour;Huile 5L;Karim;Fès;121;11 495,00;8 712,00;Réglé;15/07/2025
+03/02/2025;Supérette Atlas;Café 250g;Karim;Agadir;193;7 334,00;4 632,00;Réglé;04/04/2025
+01/05/2025;Épicerie Nour;Café 250g;Nadia;Marrakech;198;7 524,00;4 752,00;Réglé;30/06/2025
+15/07/2025;BIM;Huile 5L;Karim;Fès;127;12 065,00;9 144,00;Non réglé;13/09/2025
+12/04/2025;BIM;Huile 5L;Youssef;Fès;158;15 010,00;11 376,00;Réglé;11/06/2025
+10/03/2025;BIM;Huile 5L;Karim;Rabat;128;12 160,00;9 216,00;Réglé;09/05/2025
+08/09/2025;Carrefour Market;Thé vert 500g;Nadia;Marrakech;186;7 812,00;5 022,00;Réglé;07/11/2025
+02/03/2025;Marjane;Lait 1L;Nadia;Casablanca;56;392,00;291,20;Réglé;01/05/2025
+29/05/2025;Carrefour Market;Farine 10kg;Youssef;Marrakech;24;1 800,00;1 392,00;Réglé;28/07/2025
+18/04/2025;Label'Vie;Sucre 2kg;Youssef;Agadir;24;672,00;528,00;Réglé;17/06/2025
+09/03/2025;Marjane;Lait 1L;Youssef;Rabat;166;1 162,00;863,20;Réglé;08/05/2025
+12/09/2025;Marjane;Farine 10kg;Nadia;Marrakech;105;7 875,00;6 090,00;Réglé;11/11/2025
+27/07/2025;BIM;Thé vert 500g;Nadia;Agadir;191;8 022,00;5 157,00;Réglé;25/09/2025
+03/03/2025;BIM;Thé vert 500g;Nadia;Casablanca;5;210,00;135,00;Réglé;02/05/2025
+11/04/2025;BIM;Café 250g;Youssef;Agadir;8;304,00;192,00;Non réglé;10/06/2025
+03/02/2025;Aswak Assalam;Farine 10kg;Karim;Agadir;104;7 800,00;6 032,00;Non réglé;04/04/2025
+08/08/2025;Marjane;Thé vert 500g;Youssef;Rabat;17;714,00;459,00;Réglé;07/10/2025
+08/05/2025;Label'Vie;Thé vert 500g;Youssef;Marrakech;116;4 872,00;3 132,00;Réglé;07/07/2025
+15/01/2025;Aswak Assalam;Café 250g;Salma;Casablanca;107;4 066,00;2 568,00;Non réglé;16/03/2025
+26/01/2025;Supérette Atlas;Café 250g;Salma;Agadir;110;4 180,00;2 640,00;Réglé;27/03/2025
+06/09/2025;Carrefour Market;Huile 5L;Nadia;Agadir;145;13 775,00;10 440,00;Réglé;05/11/2025
+25/05/2025;Épicerie Nour;Thé vert 500g;Youssef;Marrakech;70;2 940,00;1 890,00;Réglé;24/07/2025
+03/05/2025;Carrefour Market;Thé vert 500g;Karim;Rabat;128;5 376,00;3 456,00;Réglé;02/07/2025
+24/03/2025;Supérette Atlas;Huile 5L;Nadia;Fès;58;5 510,00;4 176,00;Réglé;23/05/2025
+23/04/2025;Carrefour Market;Farine 10kg;Nadia;Rabat;90;6 750,00;5 220,00;Non réglé;22/06/2025
+09/04/2025;Aswak Assalam;Sucre 2kg;Karim;Agadir;28;784,00;616,00;Réglé;08/06/2025
+03/05/2025;Label'Vie;Thé vert 500g;Karim;Marrakech;71;2 982,00;1 917,00;Réglé;02/07/2025
+16/07/2025;Carrefour Market;Farine 10kg;Youssef;Agadir;195;14 625,00;11 310,00;Réglé;14/09/2025
+01/02/2025;BIM;Farine 10kg;Salma;Fès;76;5 700,00;4 408,00;Réglé;02/04/2025
+28/09/2025;Label'Vie;Café 250g;Nadia;Marrakech;60;2 280,00;1 440,00;Réglé;27/11/2025
+17/08/2025;Supérette Atlas;Farine 10kg;Karim;Rabat;84;6 300,00;4 872,00;Non réglé;16/10/2025
+17/01/2025;Supérette Atlas;Farine 10kg;Nadia;Fès;186;13 950,00;10 788,00;Réglé;18/03/2025
+08/09/2025;Supérette Atlas;Huile 5L;Nadia;Marrakech;23;2 185,00;1 656,00;Réglé;07/11/2025
+08/05/2025;Aswak Assalam;Huile 5L;Karim;Marrakech;62;5 890,00;4 464,00;Réglé;07/07/2025
+13/02/2025;Label'Vie;Lait 1L;Salma;Fès;15;105,00;78,00;Réglé;14/04/2025
+20/01/2025;Label'Vie;Café 250g;Youssef;Fès;188;7 144,00;4 512,00;Réglé;21/03/2025
+12/08/2025;Marjane;Café 250g;Youssef;Fès;200;7 600,00;4 800,00;Réglé;11/10/2025
+09/04/2025;Aswak Assalam;Farine 10kg;Karim;Casablanca;71;5 325,00;4 118,00;Réglé;08/06/2025
+04/06/2025;Épicerie Nour;Farine 10kg;Salma;Marrakech;76;5 700,00;4 408,00;Non réglé;03/08/2025
+27/09/2025;Carrefour Market;Sucre 2kg;Youssef;Casablanca;145;4 060,00;3 190,00;Réglé;26/11/2025
+12/01/2025;Épicerie Nour;Sucre 2kg;Nadia;Casablanca;132;3 696,00;2 904,00;Non réglé;13/03/2025
+12/05/2025;BIM;Sucre 2kg;Salma;Marrakech;175;4 900,00;3 850,00;Réglé;11/07/2025
+18/01/2025;BIM;Café 250g;Nadia;Rabat;91;3 458,00;2 184,00;Réglé;19/03/2025
+04/01/2025;Marjane;Thé vert 500g;Salma;Marrakech;194;8 148,00;5 238,00;Non réglé;05/03/2025
+13/04/2025;Label'Vie;Thé vert 500g;Youssef;Agadir;54;2 268,00;1 458,00;Réglé;12/06/2025
+25/02/2025;Label'Vie;Lait 1L;Nadia;Marrakech;131;917,00;681,20;Réglé;26/04/2025
+29/01/2025;Marjane;Lait 1L;Salma;Casablanca;42;294,00;218,40;Non réglé;30/03/2025
+14/03/2025;Label'Vie;Farine 10kg;Nadia;Marrakech;18;1 350,00;1 044,00;Réglé;13/05/2025
+10/06/2025;Label'Vie;Café 250g;Youssef;Rabat;33;1 254,00;792,00;Non réglé;09/08/2025
+05/04/2025;Marjane;Café 250g;Youssef;Marrakech;139;5 282,00;3 336,00;Réglé;04/06/2025
+11/07/2025;Marjane;Thé vert 500g;Karim;Agadir;118;4 956,00;3 186,00;Réglé;09/09/2025
+11/02/2025;Marjane;Thé vert 500g;Salma;Marrakech;112;4 704,00;3 024,00;Non réglé;12/04/2025
+02/07/2025;Épicerie Nour;Thé vert 500g;Nadia;Rabat;115;4 830,00;3 105,00;Réglé;31/08/2025
+10/07/2025;BIM;Lait 1L;Nadia;Casablanca;119;833,00;618,80;Réglé;08/09/2025
+30/07/2025;Marjane;Sucre 2kg;Nadia;Casablanca;165;4 620,00;3 630,00;Réglé;28/09/2025
+26/08/2025;Épicerie Nour;Huile 5L;Karim;Fès;20;1 900,00;1 440,00;Réglé;25/10/2025
+23/06/2025;Aswak Assalam;Thé vert 500g;Karim;Agadir;74;3 108,00;1 998,00;Réglé;22/08/2025
+12/06/2025;Supérette Atlas;Thé vert 500g;Karim;Casablanca;81;3 402,00;2 187,00;Réglé;11/08/2025
+30/04/2025;Carrefour Market;Huile 5L;Nadia;Agadir;126;11 970,00;9 072,00;Réglé;29/06/2025
+09/08/2025;Label'Vie;Farine 10kg;Karim;Agadir;38;2 850,00;2 204,00;Non réglé;08/10/2025
+19/03/2025;BIM;Lait 1L;Nadia;Agadir;65;455,00;338,00;Réglé;18/05/2025
+10/02/2025;Label'Vie;Lait 1L;Salma;Marrakech;55;385,00;286,00;Réglé;11/04/2025
+03/02/2025;Aswak Assalam;Café 250g;Youssef;Rabat;13;494,00;312,00;Réglé;04/04/2025
+07/08/2025;Marjane;Huile 5L;Salma;Casablanca;23;2 185,00;1 656,00;Réglé;06/10/2025
+04/08/2025;Label'Vie;Farine 10kg;Salma;Rabat;186;13 950,00;10 788,00;Non réglé;03/10/2025
+02/08/2025;Label'Vie;Farine 10kg;Karim;Agadir;163;12 225,00;9 454,00;Non réglé;01/10/2025
+31/05/2025;BIM;Thé vert 500g;Youssef;Rabat;150;6 300,00;4 050,00;Réglé;30/07/2025
+13/08/2025;Label'Vie;Sucre 2kg;Youssef;Fès;52;1 456,00;1 144,00;Réglé;12/10/2025
+07/04/2025;Label'Vie;Thé vert 500g;Salma;Casablanca;21;882,00;567,00;Réglé;06/06/2025
+26/08/2025;Supérette Atlas;Huile 5L;Salma;Marrakech;31;2 945,00;2 232,00;Réglé;25/10/2025
+11/07/2025;Marjane;Huile 5L;Salma;Fès;80;7 600,00;5 760,00;Réglé;09/09/2025
+10/04/2025;Label'Vie;Huile 5L;Nadia;Fès;100;9 500,00;7 200,00;Réglé;09/06/2025
+14/05/2025;Aswak Assalam;Café 250g;Youssef;Rabat;6;228,00;144,00;Réglé;13/07/2025
+20/01/2025;Label'Vie;Thé vert 500g;Youssef;Casablanca;92;3 864,00;2 484,00;Réglé;21/03/2025
+15/04/2025;BIM;Huile 5L;Salma;Fès;88;8 360,00;6 336,00;Réglé;14/06/2025
+09/06/2025;Carrefour Market;Huile 5L;Nadia;Casablanca;57;5 415,00;4 104,00;Réglé;08/08/2025
+28/07/2025;Label'Vie;Huile 5L;Karim;Rabat;106;10 070,00;7 632,00;Réglé;26/09/2025
+23/07/2025;BIM;Café 250g;Youssef;Marrakech;74;2 812,00;1 776,00;Réglé;21/09/2025
+27/01/2025;BIM;Thé vert 500g;Nadia;Marrakech;195;8 190,00;5 265,00;Réglé;28/03/2025
+10/01/2025;Épicerie Nour;Thé vert 500g;Nadia;Rabat;169;7 098,00;4 563,00;Réglé;11/03/2025
+04/01/2025;Supérette Atlas;Farine 10kg;Karim;Marrakech;45;3 375,00;2 610,00;Réglé;05/03/2025
+06/07/2025;Marjane;Farine 10kg;Salma;Marrakech;46;3 450,00;2 668,00;Réglé;04/09/2025
+15/02/2025;Épicerie Nour;Lait 1L;Salma;Rabat;164;1 148,00;852,80;Non réglé;16/04/2025
+28/06/2025;Marjane;Thé vert 500g;Karim;Marrakech;46;1 932,00;1 242,00;Réglé;27/08/2025
+09/09/2025;Marjane;Sucre 2kg;Nadia;Agadir;82;2 296,00;1 804,00;Réglé;08/11/2025
+28/01/2025;Épicerie Nour;Lait 1L;Salma;Rabat;167;1 169,00;868,40;Réglé;29/03/2025
+27/07/2025;Label'Vie;Lait 1L;Salma;Casablanca;55;385,00;286,00;Non réglé;25/09/2025
+24/07/2025;Marjane;Lait 1L;Salma;Rabat;45;315,00;234,00;Réglé;22/09/2025
+09/04/2025;Épicerie Nour;Huile 5L;Karim;Agadir;148;14 060,00;10 656,00;Non réglé;08/06/2025
+02/03/2025;Supérette Atlas;Farine 10kg;Youssef;Marrakech;158;11 850,00;9 164,00;Réglé;01/05/2025
+07/06/2025;Épicerie Nour;Lait 1L;Youssef;Marrakech;68;476,00;353,60;Réglé;06/08/2025
+15/09/2025;Aswak Assalam;Farine 10kg;Nadia;Marrakech;50;3 750,00;2 900,00;Réglé;14/11/2025
+01/05/2025;Supérette Atlas;Farine 10kg;Nadia;Rabat;200;15 000,00;11 600,00;Réglé;30/06/2025
+31/08/2025;BIM;Farine 10kg;Nadia;Agadir;32;2 400,00;1 856,00;Réglé;30/10/2025
+16/02/2025;Marjane;Farine 10kg;Karim;Rabat;134;10 050,00;7 772,00;Réglé;17/04/2025
+12/02/2025;Aswak Assalam;Café 250g;Karim;Casablanca;85;3 230,00;2 040,00;Réglé;13/04/2025
+16/09/2025;Label'Vie;Farine 10kg;Karim;Casablanca;172;12 900,00;9 976,00;Non réglé;15/11/2025
+26/02/2025;Carrefour Market;Sucre 2kg;Youssef;Rabat;38;1 064,00;836,00;Non réglé;27/04/2025
+24/04/2025;BIM;Huile 5L;Salma;Agadir;94;8 930,00;6 768,00;Réglé;23/06/2025
+21/05/2025;Carrefour Market;Farine 10kg;Salma;Fès;41;3 075,00;2 378,00;Réglé;20/07/2025
+15/05/2025;BIM;Lait 1L;Karim;Rabat;134;938,00;696,80;Réglé;14/07/2025
+04/04/2025;BIM;Farine 10kg;Youssef;Marrakech;46;3 450,00;2 668,00;Réglé;03/06/2025
+28/03/2025;Marjane;Thé vert 500g;Youssef;Marrakech;34;1 428,00;918,00;Réglé;27/05/2025
+24/09/2025;Marjane;Lait 1L;Youssef;Fès;181;1 267,00;941,20;Non réglé;23/11/2025
+21/07/2025;BIM;Café 250g;Salma;Agadir;100;3 800,00;2 400,00;Réglé;19/09/2025
+19/06/2025;Aswak Assalam;Huile 5L;Karim;Agadir;118;11 210,00;8 496,00;Réglé;18/08/2025
+22/09/2025;Supérette Atlas;Thé vert 500g;Youssef;Casablanca;84;3 528,00;2 268,00;Réglé;21/11/2025
+18/01/2025;Épicerie Nour;Sucre 2kg;Nadia;Marrakech;43;1 204,00;946,00;Réglé;19/03/2025
+20/09/2025;Label'Vie;Thé vert 500g;Karim;Casablanca;17;714,00;459,00;Réglé;19/11/2025
+28/01/2025;Marjane;Huile 5L;Youssef;Fès;150;14 250,00;10 800,00;Réglé;29/03/2025
+25/04/2025;Label'Vie;Farine 10kg;Salma;Agadir;154;11 550,00;8 932,00;Réglé;24/06/2025
+01/09/2025;Supérette Atlas;Sucre 2kg;Salma;Rabat;39;1 092,00;858,00;Réglé;31/10/2025
+19/08/2025;Supérette Atlas;Huile 5L;Youssef;Marrakech;21;1 995,00;1 512,00;Réglé;18/10/2025
+16/05/2025;Aswak Assalam;Huile 5L;Youssef;Fès;19;1 805,00;1 368,00;Réglé;15/07/2025
+16/08/2025;Label'Vie;Lait 1L;Salma;Casablanca;137;959,00;712,40;Réglé;15/10/2025
+23/01/2025;Label'Vie;Huile 5L;Salma;Rabat;141;13 395,00;10 152,00;Réglé;24/03/2025
+30/01/2025;Épicerie Nour;Huile 5L;Salma;Rabat;8;760,00;576,00;Réglé;31/03/2025
+31/07/2025;Aswak Assalam;Sucre 2kg;Nadia;Fès;137;3 836,00;3 014,00;Réglé;29/09/2025
+31/03/2025;Épicerie Nour;Lait 1L;Karim;Marrakech;84;588,00;436,80;Réglé;30/05/2025
+04/01/2025;Carrefour Market;Farine 10kg;Karim;Marrakech;116;8 700,00;6 728,00;Réglé;05/03/2025
+31/03/2025;Épicerie Nour;Sucre 2kg;Karim;Casablanca;31;868,00;682,00;Réglé;30/05/2025
+21/06/2025;BIM;Café 250g;Karim;Agadir;182;6 916,00;4 368,00;Non réglé;20/08/2025
+12/08/2025;BIM;Café 250g;Salma;Casablanca;138;5 244,00;3 312,00;Non réglé;11/10/2025
+17/09/2025;Label'Vie;Huile 5L;Salma;Rabat;48;4 560,00;3 456,00;Réglé;16/11/2025
+17/06/2025;Label'Vie;Sucre 2kg;Nadia;Fès;104;2 912,00;2 288,00;Réglé;16/08/2025
+29/08/2025;Supérette Atlas;Farine 10kg;Karim;Marrakech;140;10 500,00;8 120,00;Réglé;28/10/2025
+30/04/2025;Carrefour Market;Lait 1L;Karim;Fès;83;581,00;431,60;Réglé;29/06/2025
+29/03/2025;Marjane;Sucre 2kg;Salma;Agadir;13;364,00;286,00;Réglé;28/05/2025
+14/03/2025;Label'Vie;Café 250g;Karim;Casablanca;12;456,00;288,00;Réglé;13/05/2025
+24/01/2025;Label'Vie;Huile 5L;Karim;Marrakech;156;14 820,00;11 232,00;Réglé;25/03/2025
+24/02/2025;Marjane;Sucre 2kg;Karim;Casablanca;57;1 596,00;1 254,00;Réglé;25/04/2025
+28/05/2025;Supérette Atlas;Farine 10kg;Salma;Agadir;30;2 250,00;1 740,00;Réglé;27/07/2025
+13/06/2025;BIM;Thé vert 500g;Youssef;Agadir;113;4 746,00;3 051,00;Réglé;12/08/2025
+25/01/2025;BIM;Café 250g;Nadia;Agadir;199;7 562,00;4 776,00;Réglé;26/03/2025
+16/01/2025;Supérette Atlas;Farine 10kg;Karim;Agadir;12;900,00;696,00;Réglé;17/03/2025
+29/08/2025;Label'Vie;Café 250g;Karim;Fès;17;646,00;408,00;Réglé;28/10/2025
+28/05/2025;Label'Vie;Sucre 2kg;Youssef;Casablanca;116;3 248,00;2 552,00;Réglé;27/07/2025
+03/01/2025;Épicerie Nour;Thé vert 500g;Salma;Marrakech;130;5 460,00;3 510,00;Réglé;04/03/2025
+27/06/2025;Label'Vie;Lait 1L;Youssef;Rabat;71;497,00;369,20;Réglé;26/08/2025
+29/04/2025;Épicerie Nour;Farine 10kg;Karim;Marrakech;47;3 525,00;2 726,00;Réglé;28/06/2025
+23/02/2025;Carrefour Market;Café 250g;Nadia;Casablanca;88;3 344,00;2 112,00;Réglé;24/04/2025
+05/08/2025;BIM;Café 250g;Youssef;Marrakech;11;418,00;264,00;Réglé;04/10/2025
+14/09/2025;Épicerie Nour;Sucre 2kg;Salma;Marrakech;102;2 856,00;2 244,00;Non réglé;13/11/2025
+06/03/2025;Supérette Atlas;Lait 1L;Karim;Agadir;157;1 099,00;816,40;Réglé;05/05/2025
+17/06/2025;Carrefour Market;Lait 1L;Youssef;Rabat;44;308,00;228,80;Non réglé;16/08/2025
+26/08/2025;Aswak Assalam;Farine 10kg;Salma;Rabat;181;13 575,00;10 498,00;Réglé;25/10/2025
+21/06/2025;Label'Vie;Farine 10kg;Salma;Agadir;169;12 675,00;9 802,00;Non réglé;20/08/2025
+04/06/2025;Label'Vie;Café 250g;Salma;Agadir;163;6 194,00;3 912,00;Réglé;03/08/2025
+25/09/2025;Label'Vie;Thé vert 500g;Youssef;Casablanca;46;1 932,00;1 242,00;Réglé;24/11/2025
+26/03/2025;Label'Vie;Café 250g;Salma;Agadir;31;1 178,00;744,00;Réglé;25/05/2025
+02/06/2025;Épicerie Nour;Farine 10kg;Karim;Agadir;75;5 625,00;4 350,00;Réglé;01/08/2025
+16/04/2025;Carrefour Market;Farine 10kg;Nadia;Rabat;123;9 225,00;7 134,00;Réglé;15/06/2025
+14/09/2025;Label'Vie;Café 250g;Youssef;Fès;80;3 040,00;1 920,00;Réglé;13/11/2025
+27/07/2025;Supérette Atlas;Huile 5L;Nadia;Fès;194;18 430,00;13 968,00;Réglé;25/09/2025
+04/08/2025;Supérette Atlas;Sucre 2kg;Salma;Rabat;175;4 900,00;3 850,00;Réglé;03/10/2025
+05/03/2025;Épicerie Nour;Farine 10kg;Karim;Marrakech;115;8 625,00;6 670,00;Réglé;04/05/2025
+05/05/2025;Label'Vie;Farine 10kg;Youssef;Marrakech;187;14 025,00;10 846,00;Réglé;04/07/2025
+05/09/2025;Carrefour Market;Farine 10kg;Salma;Agadir;10;750,00;580,00;Réglé;04/11/2025
+06/01/2025;Marjane;Farine 10kg;Karim;Agadir;130;9 750,00;7 540,00;Non réglé;07/03/2025
+22/04/2025;Label'Vie;Sucre 2kg;Youssef;Casablanca;188;5 264,00;4 136,00;Réglé;21/06/2025
+22/08/2025;Aswak Assalam;Lait 1L;Karim;Agadir;57;399,00;296,40;Réglé;21/10/2025
+25/09/2025;Carrefour Market;Thé vert 500g;Salma;Rabat;110;4 620,00;2 970,00;Réglé;24/11/2025
+20/07/2025;Épicerie Nour;Lait 1L;Youssef;Casablanca;200;1 400,00;1 040,00;Non réglé;18/09/2025
+10/05/2025;Marjane;Thé vert 500g;Karim;Marrakech;102;4 284,00;2 754,00;Réglé;09/07/2025
+04/08/2025;Aswak Assalam;Café 250g;Youssef;Casablanca;183;6 954,00;4 392,00;Réglé;03/10/2025
+25/04/2025;Aswak Assalam;Thé vert 500g;Salma;Marrakech;194;8 148,00;5 238,00;Réglé;24/06/2025
+25/08/2025;Supérette Atlas;Sucre 2kg;Karim;Rabat;47;1 316,00;1 034,00;Réglé;24/10/2025
+29/08/2025;Supérette Atlas;Café 250g;Salma;Agadir;148;5 624,00;3 552,00;Réglé;28/10/2025
+31/07/2025;Épicerie Nour;Farine 10kg;Salma;Marrakech;80;6 000,00;4 640,00;Réglé;29/09/2025
+01/07/2025;Épicerie Nour;Sucre 2kg;Youssef;Marrakech;73;2 044,00;1 606,00;Réglé;30/08/2025
+06/04/2025;Supérette Atlas;Farine 10kg;Youssef;Agadir;5;375,00;290,00;Réglé;05/06/2025
+06/05/2025;Carrefour Market;Café 250g;Nadia;Fès;82;3 116,00;1 968,00;Réglé;05/07/2025
+13/02/2025;BIM;Café 250g;Nadia;Casablanca;97;3 686,00;2 328,00;Réglé;14/04/2025
+13/02/2025;Label'Vie;Lait 1L;Youssef;Fès;88;616,00;457,60;Réglé;14/04/2025
+08/01/2025;Marjane;Café 250g;Youssef;Agadir;7;266,00;168,00;Réglé;09/03/2025
+21/02/2025;Label'Vie;Lait 1L;Nadia;Agadir;41;287,00;213,20;Non réglé;22/04/2025
+20/03/2025;Label'Vie;Sucre 2kg;Karim;Fès;108;3 024,00;2 376,00;Réglé;19/05/2025
+02/06/2025;Aswak Assalam;Sucre 2kg;Karim;Marrakech;131;3 668,00;2 882,00;Réglé;01/08/2025
+01/03/2025;Label'Vie;Lait 1L;Salma;Marrakech;35;245,00;182,00;Réglé;30/04/2025
+10/09/2025;Label'Vie;Lait 1L;Nadia;Rabat;19;133,00;98,80;Réglé;09/11/2025
+13/09/2025;Épicerie Nour;Sucre 2kg;Karim;Rabat;143;4 004,00;3 146,00;Réglé;12/11/2025
+14/06/2025;Épicerie Nour;Farine 10kg;Youssef;Marrakech;183;13 725,00;10 614,00;Réglé;13/08/2025
+11/07/2025;Épicerie Nour;Farine 10kg;Karim;Rabat;112;8 400,00;6 496,00;Non réglé;09/09/2025
+04/07/2025;Aswak Assalam;Café 250g;Karim;Agadir;170;6 460,00;4 080,00;Réglé;02/09/2025
+18/02/2025;Label'Vie;Lait 1L;Karim;Rabat;128;896,00;665,60;Réglé;19/04/2025
+01/08/2025;Supérette Atlas;Café 250g;Youssef;Agadir;37;1 406,00;888,00;Réglé;30/09/2025
+31/08/2025;Label'Vie;Lait 1L;Youssef;Marrakech;146;1 022,00;759,20;Réglé;30/10/2025
+25/06/2025;Supérette Atlas;Farine 10kg;Youssef;Agadir;69;5 175,00;4 002,00;Réglé;24/08/2025
+01/07/2025;BIM;Farine 10kg;Youssef;Rabat;108;8 100,00;6 264,00;Réglé;30/08/2025
+10/09/2025;Épicerie Nour;Huile 5L;Youssef;Rabat;89;8 455,00;6 408,00;Réglé;09/11/2025
+14/02/2025;Carrefour Market;Huile 5L;Karim;Marrakech;107;10 165,00;7 704,00;Réglé;15/04/2025
+03/06/2025;Supérette Atlas;Huile 5L;Nadia;Fès;6;570,00;432,00;Réglé;02/08/2025
+31/01/2025;Aswak Assalam;Lait 1L;Salma;Fès;144;1 008,00;748,80;Réglé;01/04/2025
+12/02/2025;Carrefour Market;Sucre 2kg;Salma;Casablanca;15;420,00;330,00;Réglé;13/04/2025
+03/04/2025;Épicerie Nour;Huile 5L;Karim;Agadir;112;10 640,00;8 064,00;Réglé;02/06/2025
+13/03/2025;Supérette Atlas;Thé vert 500g;Youssef;Rabat;148;6 216,00;3 996,00;Réglé;12/05/2025
+04/08/2025;Aswak Assalam;Huile 5L;Karim;Marrakech;86;8 170,00;6 192,00;Réglé;03/10/2025
+25/09/2025;Carrefour Market;Huile 5L;Nadia;Marrakech;35;3 325,00;2 520,00;Réglé;24/11/2025
+04/02/2025;Aswak Assalam;Huile 5L;Salma;Marrakech;179;17 005,00;12 888,00;Réglé;05/04/2025
+31/07/2025;Carrefour Market;Lait 1L;Salma;Rabat;31;217,00;161,20;Réglé;29/09/2025
+08/01/2025;Épicerie Nour;Farine 10kg;Karim;Casablanca;6;450,00;348,00;Réglé;09/03/2025
+22/04/2025;BIM;Huile 5L;Salma;Marrakech;38;3 610,00;2 736,00;Réglé;21/06/2025
+06/04/2025;Épicerie Nour;Huile 5L;Salma;Casablanca;98;9 310,00;7 056,00;Réglé;05/06/2025
+31/05/2025;Carrefour Market;Café 250g;Youssef;Casablanca;147;5 586,00;3 528,00;Réglé;30/07/2025
+17/01/2025;Épicerie Nour;Huile 5L;Karim;Marrakech;20;1 900,00;1 440,00;Réglé;18/03/2025
+09/06/2025;Supérette Atlas;Thé vert 500g;Nadia;Fès;191;8 022,00;5 157,00;Réglé;08/08/2025
+31/01/2025;Épicerie Nour;Thé vert 500g;Nadia;Marrakech;99;4 158,00;2 673,00;Non réglé;01/04/2025
+27/03/2025;Épicerie Nour;Sucre 2kg;Salma;Marrakech;34;952,00;748,00;Réglé;26/05/2025
+02/09/2025;Supérette Atlas;Farine 10kg;Youssef;Agadir;120;9 000,00;6 960,00;Non réglé;01/11/2025
+24/05/2025;Épicerie Nour;Huile 5L;Youssef;Fès;164;15 580,00;11 808,00;Non réglé;23/07/2025
+08/01/2025;Aswak Assalam;Sucre 2kg;Nadia;Rabat;158;4 424,00;3 476,00;Non réglé;09/03/2025
+12/07/2025;Supérette Atlas;Farine 10kg;Salma;Marrakech;180;13 500,00;10 440,00;Réglé;10/09/2025
+26/05/2025;BIM;Café 250g;Nadia;Rabat;5;190,00;120,00;Réglé;25/07/2025
+22/01/2025;Supérette Atlas;Thé vert 500g;Salma;Agadir;41;1 722,00;1 107,00;Réglé;23/03/2025
+13/09/2025;Aswak Assalam;Thé vert 500g;Nadia;Marrakech;141;5 922,00;3 807,00;Réglé;12/11/2025
+13/04/2025;Marjane;Café 250g;Nadia;Marrakech;64;2 432,00;1 536,00;Réglé;12/06/2025
+16/04/2025;Supérette Atlas;Thé vert 500g;Nadia;Marrakech;155;6 510,00;4 185,00;Réglé;15/06/2025
+14/02/2025;Label'Vie;Lait 1L;Nadia;Fès;95;665,00;494,00;Réglé;15/04/2025
+24/09/2025;Aswak Assalam;Thé vert 500g;Salma;Rabat;138;5 796,00;3 726,00;Réglé;23/11/2025
+19/04/2025;Épicerie Nour;Sucre 2kg;Youssef;Agadir;28;784,00;616,00;Réglé;18/06/2025
+03/07/2025;Label'Vie;Farine 10kg;Karim;Marrakech;137;10 275,00;7 946,00;Non réglé;01/09/2025
+11/07/2025;Supérette Atlas;Huile 5L;Karim;Rabat;100;9 500,00;7 200,00;Réglé;09/09/2025
+11/06/2025;Aswak Assalam;Lait 1L;Karim;Casablanca;12;84,00;62,40;Réglé;10/08/2025
+18/01/2025;Aswak Assalam;Sucre 2kg;Salma;Agadir;149;4 172,00;3 278,00;Réglé;19/03/2025
+24/05/2025;Supérette Atlas;Farine 10kg;Salma;Agadir;29;2 175,00;1 682,00;Non réglé;23/07/2025
+20/01/2025;Carrefour Market;Thé vert 500g;Karim;Casablanca;56;2 352,00;1 512,00;Non réglé;21/03/2025
+27/01/2025;Épicerie Nour;Huile 5L;Nadia;Marrakech;147;13 965,00;10 584,00;Réglé;28/03/2025
+02/02/2025;Marjane;Lait 1L;Karim;Agadir;168;1 176,00;873,60;Réglé;03/04/2025
+13/06/2025;Épicerie Nour;Lait 1L;Nadia;Rabat;64;448,00;332,80;Réglé;12/08/2025
+18/08/2025;Épicerie Nour;Sucre 2kg;Salma;Rabat;99;2 772,00;2 178,00;Non réglé;17/10/2025
+20/01/2025;Aswak Assalam;Thé vert 500g;Karim;Casablanca;95;3 990,00;2 565,00;Réglé;21/03/2025
+13/05/2025;Supérette Atlas;Lait 1L;Nadia;Casablanca;186;1 302,00;967,20;Réglé;12/07/2025
+21/02/2025;Label'Vie;Sucre 2kg;Youssef;Fès;86;2 408,00;1 892,00;Réglé;22/04/2025
+14/08/2025;BIM;Café 250g;Youssef;Marrakech;31;1 178,00;744,00;Réglé;13/10/2025
+05/03/2025;Carrefour Market;Thé vert 500g;Salma;Rabat;128;5 376,00;3 456,00;Réglé;04/05/2025
+07/01/2025;Supérette Atlas;Farine 10kg;Karim;Rabat;188;14 100,00;10 904,00;Non réglé;08/03/2025
+23/04/2025;Épicerie Nour;Huile 5L;Salma;Marrakech;163;15 485,00;11 736,00;Non réglé;22/06/2025
+19/02/2025;Carrefour Market;Farine 10kg;Youssef;Agadir;10;750,00;580,00;Réglé;20/04/2025
+30/04/2025;Label'Vie;Farine 10kg;Youssef;Rabat;34;2 550,00;1 972,00;Réglé;29/06/2025
+30/01/2025;Label'Vie;Sucre 2kg;Nadia;Rabat;187;5 236,00;4 114,00;Réglé;31/03/2025
+17/05/2025;Marjane;Farine 10kg;Youssef;Fès;110;8 250,00;6 380,00;Réglé;16/07/2025
+01/06/2025;Marjane;Thé vert 500g;Youssef;Marrakech;47;1 974,00;1 269,00;Réglé;31/07/2025
+05/09/2025;Marjane;Huile 5L;Salma;Fès;44;4 180,00;3 168,00;Non réglé;04/11/2025
+02/09/2025;Label'Vie;Thé vert 500g;Youssef;Marrakech;35;1 470,00;945,00;Réglé;01/11/2025
+14/05/2025;BIM;Sucre 2kg;Nadia;Rabat;65;1 820,00;1 430,00;Réglé;13/07/2025
+30/01/2025;Épicerie Nour;Café 250g;Karim;Marrakech;80;3 040,00;1 920,00;Réglé;31/03/2025
+17/09/2025;Marjane;Thé vert 500g;Youssef;Rabat;135;5 670,00;3 645,00;Réglé;16/11/2025
+04/07/2025;Label'Vie;Farine 10kg;Youssef;Fès;15;1 125,00;870,00;Non réglé;02/09/2025
+03/04/2025;Label'Vie;Sucre 2kg;Salma;Rabat;51;1 428,00;1 122,00;Réglé;02/06/2025
+10/02/2025;Supérette Atlas;Huile 5L;Youssef;Rabat;160;15 200,00;11 520,00;Réglé;11/04/2025
+16/04/2025;Épicerie Nour;Sucre 2kg;Salma;Fès;161;4 508,00;3 542,00;Réglé;15/06/2025
+07/06/2025;Épicerie Nour;Sucre 2kg;Nadia;Casablanca;7;196,00;154,00;Réglé;06/08/2025
+23/09/2025;Épicerie Nour;Thé vert 500g;Nadia;Casablanca;90;3 780,00;2 430,00;Réglé;22/11/2025
+08/01/2025;Supérette Atlas;Farine 10kg;Youssef;Rabat;200;15 000,00;11 600,00;Réglé;09/03/2025
+06/04/2025;Épicerie Nour;Lait 1L;Youssef;Fès;98;686,00;509,60;Réglé;05/06/2025
+03/01/2025;Aswak Assalam;Thé vert 500g;Karim;Casablanca;138;5 796,00;3 726,00;Non réglé;04/03/2025
+02/07/2025;Supérette Atlas;Café 250g;Youssef;Marrakech;67;2 546,00;1 608,00;Réglé;31/08/2025
+01/02/2025;Carrefour Market;Thé vert 500g;Nadia;Fès;32;1 344,00;864,00;Non réglé;02/04/2025
+14/01/2025;Label'Vie;Lait 1L;Karim;Rabat;142;994,00;738,40;Réglé;15/03/2025
+04/04/2025;Aswak Assalam;Sucre 2kg;Karim;Casablanca;31;868,00;682,00;Réglé;03/06/2025
+19/02/2025;Marjane;Café 250g;Nadia;Fès;194;7 372,00;4 656,00;Réglé;20/04/2025
+03/05/2025;Supérette Atlas;Café 250g;Karim;Rabat;118;4 484,00;2 832,00;Réglé;02/07/2025
+24/01/2025;Aswak Assalam;Thé vert 500g;Youssef;Casablanca;36;1 512,00;972,00;Réglé;25/03/2025
+04/03/2025;Aswak Assalam;Huile 5L;Salma;Rabat;108;10 260,00;7 776,00;Non réglé;03/05/2025
+17/03/2025;Carrefour Market;Café 250g;Salma;Casablanca;151;5 738,00;3 624,00;Réglé;16/05/2025
+19/07/2025;Aswak Assalam;Café 250g;Karim;Marrakech;112;4 256,00;2 688,00;Réglé;17/09/2025
+27/01/2025;Supérette Atlas;Thé vert 500g;Youssef;Marrakech;91;3 822,00;2 457,00;Réglé;28/03/2025
+14/06/2025;Aswak Assalam;Farine 10kg;Salma;Agadir;148;11 100,00;8 584,00;Réglé;13/08/2025
+08/05/2025;BIM;Farine 10kg;Karim;Fès;174;13 050,00;10 092,00;Réglé;07/07/2025
+06/04/2025;Aswak Assalam;Huile 5L;Karim;Rabat;88;8 360,00;6 336,00;Réglé;05/06/2025
+13/03/2025;Carrefour Market;Farine 10kg;Karim;Casablanca;106;7 950,00;6 148,00;Réglé;12/05/2025
+18/01/2025;Épicerie Nour;Café 250g;Youssef;Fès;163;6 194,00;3 912,00;Réglé;19/03/2025
+19/01/2025;Aswak Assalam;Lait 1L;Karim;Marrakech;30;210,00;156,00;Réglé;20/03/2025
+02/05/2025;BIM;Huile 5L;Salma;Casablanca;78;7 410,00;5 616,00;Réglé;01/07/2025
+31/01/2025;Marjane;Lait 1L;Nadia;Fès;136;952,00;707,20;Non réglé;01/04/2025
+17/03/2025;BIM;Farine 10kg;Nadia;Fès;36;2 700,00;2 088,00;Réglé;16/05/2025
+28/05/2025;Épicerie Nour;Thé vert 500g;Youssef;Marrakech;67;2 814,00;1 809,00;Réglé;27/07/2025
+24/04/2025;Épicerie Nour;Café 250g;Youssef;Marrakech;103;3 914,00;2 472,00;Réglé;23/06/2025
+05/06/2025;BIM;Lait 1L;Karim;Rabat;127;889,00;660,40;Réglé;04/08/2025
+20/06/2025;Carrefour Market;Sucre 2kg;Nadia;Casablanca;53;1 484,00;1 166,00;Réglé;19/08/2025
+30/06/2025;BIM;Sucre 2kg;Nadia;Agadir;66;1 848,00;1 452,00;Réglé;29/08/2025
+26/05/2025;Marjane;Sucre 2kg;Salma;Fès;80;2 240,00;1 760,00;Réglé;25/07/2025
+04/02/2025;Marjane;Lait 1L;Nadia;Marrakech;94;658,00;488,80;Réglé;05/04/2025
+01/07/2025;Label'Vie;Café 250g;Salma;Marrakech;200;7 600,00;4 800,00;Réglé;30/08/2025
+22/06/2025;Label'Vie;Café 250g;Youssef;Fès;95;3 610,00;2 280,00;Réglé;21/08/2025
+18/02/2025;Carrefour Market;Café 250g;Youssef;Rabat;195;7 410,00;4 680,00;Non réglé;19/04/2025
+31/07/2025;Aswak Assalam;Huile 5L;Karim;Marrakech;6;570,00;432,00;Réglé;29/09/2025
+23/07/2025;Supérette Atlas;Lait 1L;Youssef;Fès;43;301,00;223,60;Réglé;21/09/2025
+26/02/2025;BIM;Farine 10kg;Youssef;Agadir;120;9 000,00;6 960,00;Réglé;27/04/2025
+30/06/2025;Carrefour Market;Farine 10kg;Youssef;Casablanca;139;10 425,00;8 062,00;Réglé;29/08/2025
+13/09/2025;Aswak Assalam;Farine 10kg;Youssef;Rabat;118;8 850,00;6 844,00;Réglé;12/11/2025
+12/08/2025;Marjane;Lait 1L;Youssef;Agadir;101;707,00;525,20;Réglé;11/10/2025
+05/05/2025;Marjane;Thé vert 500g;Karim;Casablanca;57;2 394,00;1 539,00;Non réglé;04/07/2025
+12/05/2025;Aswak Assalam;Lait 1L;Youssef;Fès;132;924,00;686,40;Réglé;11/07/2025
+12/08/2025;Carrefour Market;Lait 1L;Nadia;Marrakech;137;959,00;712,40;Réglé;11/10/2025
+03/07/2025;Carrefour Market;Huile 5L;Karim;Casablanca;157;14 915,00;11 304,00;Réglé;01/09/2025
+26/09/2025;Aswak Assalam;Sucre 2kg;Nadia;Fès;30;840,00;660,00;Réglé;25/11/2025
+20/03/2025;Carrefour Market;Sucre 2kg;Youssef;Fès;112;3 136,00;2 464,00;Réglé;19/05/2025
+17/02/2025;Marjane;Sucre 2kg;Youssef;Fès;97;2 716,00;2 134,00;Réglé;18/04/2025
+31/03/2025;Épicerie Nour;Huile 5L;Youssef;Fès;172;16 340,00;12 384,00;Non réglé;30/05/2025
+04/08/2025;Supérette Atlas;Café 250g;Salma;Fès;45;1 710,00;1 080,00;Réglé;03/10/2025
+07/04/2025;Aswak Assalam;Farine 10kg;Karim;Agadir;51;3 825,00;2 958,00;Réglé;06/06/2025
+22/01/2025;Marjane;Café 250g;Youssef;Fès;110;4 180,00;2 640,00;Réglé;23/03/2025
+03/01/2025;Aswak Assalam;Thé vert 500g;Karim;Casablanca;106;4 452,00;2 862,00;Non réglé;04/03/2025
+11/04/2025;Aswak Assalam;Sucre 2kg;Youssef;Fès;132;3 696,00;2 904,00;Réglé;10/06/2025
+21/09/2025;Aswak Assalam;Sucre 2kg;Karim;Rabat;152;4 256,00;3 344,00;Réglé;20/11/2025
+22/03/2025;Marjane;Lait 1L;Karim;Casablanca;199;1 393,00;1 034,80;Réglé;21/05/2025
+29/03/2025;Aswak Assalam;Lait 1L;Nadia;Casablanca;130;910,00;676,00;Non réglé;28/05/2025
+07/01/2025;Épicerie Nour;Café 250g;Salma;Agadir;153;5 814,00;3 672,00;Réglé;08/03/2025
+22/05/2025;Marjane;Sucre 2kg;Karim;Agadir;13;364,00;286,00;Réglé;21/07/2025
+09/04/2025;Marjane;Farine 10kg;Salma;Marrakech;164;12 300,00;9 512,00;Réglé;08/06/2025
+23/01/2025;Label'Vie;Farine 10kg;Salma;Casablanca;18;1 350,00;1 044,00;Réglé;24/03/2025
+23/03/2025;Supérette Atlas;Lait 1L;Nadia;Agadir;49;343,00;254,80;Réglé;22/05/2025
+03/08/2025;Carrefour Market;Lait 1L;Karim;Rabat;69;483,00;358,80;Non réglé;02/10/2025
+19/07/2025;Carrefour Market;Café 250g;Youssef;Marrakech;188;7 144,00;4 512,00;Réglé;17/09/2025

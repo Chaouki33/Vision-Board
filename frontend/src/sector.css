@@ -1,0 +1,154 @@
+/* ================================================================ Identité visuelle par secteur
+   --s1 : couleur principale du secteur, --s2 : couleur secondaire (posées par sectorStyle()). */
+
+.sector-scene { display: block; width: 100%; height: 100%; }
+
+/* ---------- Couleurs des décors : bannières (sur fond coloré) */
+.sector-scene.banner .m-fill { fill: rgb(255 255 255 / 16%); }
+.sector-scene.banner .m-fill-2 { fill: var(--s2); opacity: 0.6; }
+.sector-scene.banner .m-fill-dark { fill: rgb(0 0 0 / 16%); }
+.sector-scene.banner .m-stroke { stroke: rgb(255 255 255 / 28%); }
+.sector-scene.banner .m-stroke-2 { stroke: var(--s2); }
+.sector-scene.banner .m-hole { fill: color-mix(in srgb, var(--s1) 80%, #0b1220); }
+.sector-scene.banner .m-hole-stroke { stroke: color-mix(in srgb, var(--s1) 80%, #0b1220); }
+.sector-scene.banner .m-ring { fill: none; stroke: var(--s2); stroke-width: 4; }
+.sector-scene.banner .m-road { stroke: rgb(0 0 0 / 18%); }
+.sector-scene.banner .m-spark, .sector-scene.banner .m-window { fill: var(--s2); }
+
+/* ---------- Couleurs des décors : fond d'écran (discret) */
+.sector-scene.background { opacity: 0.11; }
+:root[data-theme="dark"] .sector-scene.background { opacity: 0.16; }
+@media (prefers-color-scheme: dark) { :root:not([data-theme="light"]) .sector-scene.background { opacity: 0.16; } }
+.sector-scene.background .m-fill { fill: var(--s1); }
+.sector-scene.background .m-fill-2 { fill: var(--s2); }
+.sector-scene.background .m-fill-dark { fill: color-mix(in srgb, var(--s1) 70%, #0b1220); }
+.sector-scene.background .m-stroke { stroke: var(--s1); }
+.sector-scene.background .m-stroke-2 { stroke: var(--s2); }
+.sector-scene.background .m-hole { fill: var(--bg); }
+.sector-scene.background .m-hole-stroke { stroke: var(--bg); }
+.sector-scene.background .m-ring { fill: none; stroke: var(--s2); stroke-width: 4; }
+.sector-scene.background .m-road { stroke: var(--s1); opacity: 0.4; }
+.sector-scene.background .m-spark, .sector-scene.background .m-window { fill: var(--s2); }
+
+/* ---------- Animations des décors */
+.sector-scene .spin { animation: m-spin 26s linear infinite; }
+.sector-scene .spin-rev { animation: m-spin 18s linear infinite reverse; }
+.sector-scene .spin-slow { animation: m-spin 60s linear infinite; }
+.sector-scene .sway { animation: m-sway 5s ease-in-out infinite alternate; }
+.sector-scene .flow { animation: m-flow 3s linear infinite; }
+.sector-scene .flow-rev { animation: m-flow 3.6s linear infinite reverse; }
+.sector-scene .float { animation: m-float 7s ease-in-out infinite alternate; }
+.sector-scene .swing { animation: m-swing 6s ease-in-out infinite alternate; }
+.sector-scene .rise { animation: m-rise 7s var(--ease) infinite; }
+.sector-scene .pulse-ring { transform-box: fill-box; transform-origin: center; animation: m-ring 3.2s ease-out infinite; }
+.sector-scene .pulse-run { animation: m-run 3.6s linear infinite; }
+.sector-scene .ecg { animation: m-run 2.8s linear infinite; }
+.sector-scene .twinkle { animation: m-twinkle 3s ease-in-out infinite; }
+.sector-scene .glow { animation: m-glow 5s ease-in-out infinite alternate; }
+.sector-scene .m-spark { animation: m-twinkle 2.4s ease-in-out infinite; }
+.sector-scene .m-window { animation: m-window 6s steps(1) infinite; }
+
+@keyframes m-spin { to { transform: rotate(360deg); } }
+@keyframes m-sway { from { transform: rotate(-3deg); } to { transform: rotate(3deg); } }
+@keyframes m-flow { to { stroke-dashoffset: -90; } }
+@keyframes m-float { from { transform: translateY(0); } to { transform: translateY(-36px); } }
+@keyframes m-swing { from { transform: rotate(-4deg); } to { transform: rotate(4deg); } }
+@keyframes m-rise { 0% { opacity: 0; transform: translateY(40px); } 15%, 85% { opacity: 1; transform: none; } 100% { opacity: 0; } }
+@keyframes m-ring { from { transform: scale(1); opacity: 0.9; } to { transform: scale(1.9); opacity: 0; } }
+@keyframes m-run { from { stroke-dashoffset: 1; } to { stroke-dashoffset: 0; } }
+@keyframes m-twinkle { 0%, 100% { opacity: 0.25; } 50% { opacity: 1; } }
+@keyframes m-glow { from { opacity: 0.45; } to { opacity: 0.85; } }
+@keyframes m-window { 0%, 100% { opacity: 0.25; } 30% { opacity: 1; } 70% { opacity: 0.5; } }
+
+/* ---------- Bannière (en-tête de société ou de tableau de bord) */
+.sector-banner {
+  position: relative; overflow: hidden; border-radius: 18px; color: #fff; margin-bottom: 20px;
+  background: linear-gradient(120deg, color-mix(in srgb, var(--s1) 72%, #0b1220) 0%, var(--s1) 62%,
+    color-mix(in srgb, var(--s1) 70%, var(--s2)) 100%);
+  box-shadow: 0 18px 40px -22px var(--s1);
+  animation: pop-in 0.6s var(--ease) both;
+}
+.sector-banner .sector-scene { position: absolute; inset: 0; }
+.sector-banner::after {
+  /* voile sur la gauche pour garder le texte lisible */
+  content: ""; position: absolute; inset: 0;
+  background: linear-gradient(90deg, color-mix(in srgb, var(--s1) 70%, #0b1220) 0%, transparent 70%);
+}
+.sector-banner-content { position: relative; z-index: 1; display: flex; align-items: center; gap: 18px; padding: 24px 28px; }
+.sector-banner.compact .sector-banner-content { padding: 16px 22px; }
+.sector-badge {
+  flex: none; display: grid; place-items: center; width: 56px; height: 56px; border-radius: 16px;
+  background: rgb(255 255 255 / 16%); border: 1px solid rgb(255 255 255 / 30%); color: #fff;
+  -webkit-backdrop-filter: blur(6px); backdrop-filter: blur(6px);
+}
+.sector-banner.compact .sector-badge { width: 44px; height: 44px; border-radius: 12px; }
+.sector-banner h1 { margin: 0; color: #fff; font-size: clamp(1.4rem, 2.6vw, 2rem); text-shadow: 0 2px 12px rgb(0 0 0 / 25%); }
+.sector-banner .banner-sub { margin: 4px 0 0; color: rgb(255 255 255 / 85%); }
+.sector-banner .banner-tags { display: flex; flex-wrap: wrap; gap: 6px; margin-top: 10px; }
+.sector-banner .banner-tags span {
+  font-size: 0.75rem; font-weight: 600; padding: 3px 10px; border-radius: 999px;
+  background: rgb(255 255 255 / 16%); border: 1px solid rgb(255 255 255 / 22%);
+}
+.sector-banner .banner-actions { margin-left: auto; display: flex; flex-wrap: wrap; gap: 8px; }
+.sector-banner .btn { background: rgb(255 255 255 / 14%); border-color: rgb(255 255 255 / 35%); color: #fff; }
+.sector-banner .btn:hover:not(:disabled) { background: rgb(255 255 255 / 24%); }
+.sector-banner .btn.primary { background: #fff; border-color: #fff; color: color-mix(in srgb, var(--s1) 85%, #0b1220); }
+.sector-banner .back { color: rgb(255 255 255 / 80%); margin: 0 0 6px; }
+.sector-banner .back:hover { color: #fff; }
+
+/* ---------- Menu « Exporter » du tableau de bord */
+/* La bannière passe au-dessus des cartes qui la suivent, pour que le menu déroulant reste visible. */
+.sector-banner { overflow: visible; z-index: 5; }
+.sector-banner .sector-scene, .sector-banner::after { border-radius: inherit; }
+.sector-banner .sector-scene { overflow: hidden; }
+.export-menu { position: relative; }
+.export-list {
+  position: absolute; right: 0; top: calc(100% + 8px); z-index: 30; width: 300px; padding: 6px;
+  background: var(--surface); color: var(--text); border: 1px solid var(--border); border-radius: 14px;
+  box-shadow: 0 18px 40px -16px rgb(0 0 0 / 35%); animation: pop-in 0.18s var(--ease) both;
+}
+.export-list button {
+  display: grid; gap: 2px; width: 100%; padding: 10px 12px; text-align: left; border: 0; border-radius: 10px;
+  background: transparent; color: inherit; cursor: pointer; font: inherit;
+}
+.export-list button:hover:not(:disabled), .export-list button:focus-visible { background: var(--surface-2); }
+.export-list button:disabled { opacity: 0.6; cursor: progress; }
+.export-list strong { font-size: 0.92rem; }
+.export-list span { font-size: 0.8rem; color: var(--muted); }
+.export-list .error { margin: 6px 8px; }
+
+/* ---------- Cartes « Mes sociétés » */
+.company-card.themed { padding: 0; overflow: hidden; border-top: 0; }
+.company-card.themed .card-art {
+  position: relative; height: 104px; overflow: hidden;
+  background: linear-gradient(120deg, color-mix(in srgb, var(--s1) 72%, #0b1220), var(--s1));
+}
+.company-card.themed .card-art .sector-scene { position: absolute; inset: 0; transition: transform 0.6s var(--ease); }
+.company-card.themed:hover .card-art .sector-scene { transform: scale(1.08); }
+.company-card.themed { position: relative; }
+.company-card.themed > .sector-badge { position: absolute; left: 16px; top: 80px; z-index: 1; background: var(--s1);
+  border: 3px solid var(--surface); width: 50px; height: 50px; box-shadow: 0 6px 16px -6px var(--s1); }
+.company-card.themed .card-body { padding: 30px 18px 16px; }
+.company-card.themed h3 { margin: 0 0 2px; padding-right: 0; }
+.company-card.themed .sector-name { color: var(--s1); font-weight: 600; font-size: 0.9rem; }
+:root[data-theme="dark"] .company-card.themed .sector-name { color: color-mix(in srgb, var(--s1) 55%, white); }
+@media (prefers-color-scheme: dark) {
+  :root:not([data-theme="light"]) .company-card.themed .sector-name { color: color-mix(in srgb, var(--s1) 55%, white); }
+}
+.company-card.themed:hover { border-color: var(--s1); box-shadow: 0 16px 34px -18px var(--s1); }
+.company-card-wrap .card-delete { top: 10px; right: 10px; z-index: 2; background: rgb(255 255 255 / 92%); }
+.company-card-wrap .card-delete:hover:not(:disabled) { background: #fff; }
+
+/* ---------- Barre latérale : pastille couleur du secteur */
+.side-title .sector-dot { display: inline-block; width: 8px; height: 8px; border-radius: 50%; margin-right: 6px; background: var(--s1);
+  box-shadow: 0 0 0 3px color-mix(in srgb, var(--s1) 30%, transparent); }
+
+/* ---------- Fond d'écran teinté par le secteur */
+.bg-scene .sector-scene.background { position: absolute; inset: 0; }
+.bg-scene.sector { --orb-1: color-mix(in srgb, var(--s1) 32%, transparent); --orb-2: color-mix(in srgb, var(--s2) 24%, transparent);
+  --curve-1: var(--s2); --curve-2: var(--s1); }
+
+@media (max-width: 640px) {
+  .sector-banner-content { flex-wrap: wrap; padding: 18px; }
+  .sector-banner .banner-actions { margin-left: 0; width: 100%; }
+}

@@ -1,0 +1,21 @@
+﻿Date inventaire;Article;Famille;Dépôt;Quantité en stock;Stock minimum;Prix unitaire;Sorties;Date de péremption
+31/08/2026;Engrais NPK (sac 50 kg);Intrants;Ferme Ain Reggada;224;120;420,00;424;
+31/08/2026;Produits phytosanitaires (bidon);Intrants;Ferme Ain Reggada;96;40;680,00;150;28/05/2027
+31/08/2026;Cartons export 10 kg;Emballages;Ferme Ain Reggada;8544;20000;7,50;35720;
+31/08/2026;Filets 2 kg;Emballages;Ferme Ain Reggada;35914;30000;1,20;47268;
+31/08/2026;Cire d'enrobage (bidon);Conditionnement;Station Berkane;63;20;950,00;80;14/01/2027
+31/08/2026;Gasoil irrigation (litre);Énergie;Station Berkane;6141;5000;12,50;7502;
+31/08/2026;Goutteurs irrigation (lot);Irrigation;Station Berkane;178;50;320,00;160;
+31/08/2026;Clémentines en chambre froide (kg);Produits;Station Berkane;21275;20000;4,60;56933;13/03/2027
+31/08/2026;Ancien pulvérisateur;Matériel;Ferme Ain Reggada;0;1;9 500,00;0;
+31/08/2026;Palettes export;Emballages;Ferme Ain Reggada;284;800;75,00;2206;
+30/09/2026;Engrais NPK (sac 50 kg);Intrants;Station Berkane;249;120;420,00;546;
+30/09/2026;Produits phytosanitaires (bidon);Intrants;Station Berkane;11;40;680,00;102;17/11/2026
+30/09/2026;Cartons export 10 kg;Emballages;Ferme Ain Reggada;35142;20000;7,50;69194;
+30/09/2026;Filets 2 kg;Emballages;Ferme Ain Reggada;31008;30000;1,20;41124;
+30/09/2026;Cire d'enrobage (bidon);Conditionnement;Station Berkane;10;20;950,00;98;24/04/2027
+30/09/2026;Gasoil irrigation (litre);Énergie;Ferme Ain Reggada;11027;5000;12,50;13159;
+30/09/2026;Goutteurs irrigation (lot);Irrigation;Station Berkane;74;50;320,00;215;
+30/09/2026;Clémentines en chambre froide (kg);Produits;Ferme Ain Reggada;56749;20000;4,60;30654;18/02/2027
+30/09/2026;Ancien pulvérisateur;Matériel;Station Berkane;1;1;9 500,00;0;
+30/09/2026;Palettes export;Emballages;Station Berkane;0;800;75,00;2816;

@@ -1,0 +1,21 @@
+﻿Date inventaire;Article;Famille;Dépôt;Quantité en stock;Stock minimum;Prix unitaire;Sorties;Date de péremption
+31/08/2026;Viande bovine (kg);Restauration;Cuisine centrale;161;60;120,00;245;04/05/2027
+31/08/2026;Poulet fermier (kg);Restauration;Économat;215;80;48,00;124;13/01/2027
+31/08/2026;Huile d'olive (litre);Épicerie;Cuisine centrale;109;40;75,00;66;15/10/2026
+31/08/2026;Légumes frais (kg);Restauration;Économat;89;200;9,00;560;11/12/2026
+31/08/2026;Thé vert et menthe (kg);Épicerie;Économat;61;20;120,00;59;23/02/2027
+31/08/2026;Eau minérale (pack);Boissons;Cuisine centrale;122;150;30,00;607;06/12/2026
+31/08/2026;Jus d'orange frais (litre);Boissons;Cuisine centrale;213;100;14,00;306;06/04/2027
+31/08/2026;Linge de lit (parure);Hébergement;Économat;212;80;450,00;260;
+31/08/2026;Produits d'accueil (kit);Hébergement;Cuisine centrale;969;600;22,00;0;
+31/08/2026;Vaisselle de réception (ancien modèle);Restauration;Économat;18;10;85,00;23;
+30/09/2026;Viande bovine (kg);Restauration;Cuisine centrale;162;60;120,00;220;06/04/2027
+30/09/2026;Poulet fermier (kg);Restauration;Cuisine centrale;207;80;48,00;124;06/04/2027
+30/09/2026;Huile d'olive (litre);Épicerie;Économat;69;40;75,00;40;19/01/2027
+30/09/2026;Légumes frais (kg);Restauration;Économat;356;200;9,00;291;15/03/2027
+30/09/2026;Thé vert et menthe (kg);Épicerie;Économat;53;20;120,00;35;15/12/2026
+30/09/2026;Eau minérale (pack);Boissons;Cuisine centrale;105;150;30,00;381;02/02/2027
+30/09/2026;Jus d'orange frais (litre);Boissons;Économat;247;100;14,00;426;01/11/2026
+30/09/2026;Linge de lit (parure);Hébergement;Économat;33;80;450,00;167;
+30/09/2026;Produits d'accueil (kit);Hébergement;Économat;825;600;22,00;0;
+30/09/2026;Vaisselle de réception (ancien modèle);Restauration;Économat;0;10;85,00;44;

@@ -1,0 +1,384 @@
+﻿Date facture;Client;Produit;Commercial;Ville;Canal;Quantité;Montant HT;Coût de revient;Statut paiement;Échéance;Objectif mensuel
+03/01/2026;Inditex (sous-traitance);Jean denim;Tarik;Tanger;Sous-traitance export;692;78 923,52;59 512,00;Réglé;17/02/2026;1900000
+05/01/2026;Inditex (sous-traitance);Chemise coton;Tarik;Tanger;Sous-traitance export;563;37 557,47;28 150,00;Réglé;19/02/2026;1900000
+06/01/2026;Marjane (textile);Jean denim;Hanane;Rabat;Direct;308;34 647,10;26 488,00;Réglé;20/02/2026;1900000
+07/01/2026;Inditex (sous-traitance);T-shirt imprimé;Tarik;Tanger;Sous-traitance export;1512;46 214,06;34 776,00;Réglé;21/02/2026;1900000
+07/01/2026;Inditex (sous-traitance);Veste de travail;Tarik;Tanger;Sous-traitance export;72;10 555,81;7 488,00;Réglé;21/02/2026;1900000
+07/01/2026;Boutiques Defacto;T-shirt imprimé;Tarik;Tanger;Direct;2452;75 556,08;56 396,00;Réglé;21/02/2026;1900000
+08/01/2026;Decathlon Maroc;T-shirt imprimé;Tarik;Casablanca;Direct;1477;49 184,59;33 971,00;Non réglé;22/02/2026;1900000
+08/01/2026;Mango;Veste de travail;Tarik;Tanger;Sous-traitance export;85;12 573,48;8 840,00;Réglé;22/02/2026;1900000
+08/01/2026;Boutiques Defacto;Veste de travail;Tarik;Tanger;Direct;344;51 226,44;35 776,00;Réglé;22/02/2026;1900000
+09/01/2026;Export France;Jean denim;Hanane;Export;Export;198;23 545,15;17 028,00;Réglé;23/02/2026;1900000
+09/01/2026;Boutiques Defacto;Veste de travail;Tarik;Tanger;Direct;318;47 260,61;33 072,00;Réglé;23/02/2026;1900000
+10/01/2026;Marjane (textile);T-shirt imprimé;Hanane;Rabat;Direct;951;29 437,88;21 873,00;Réglé;24/02/2026;1900000
+12/01/2026;Export France;Jean denim;Tarik;Export;Export;901;99 916,13;77 486,00;Réglé;26/02/2026;1900000
+12/01/2026;Mango;T-shirt imprimé;Tarik;Tanger;Sous-traitance export;429;13 146,71;9 867,00;Réglé;26/02/2026;1900000
+13/01/2026;Mango;Jean denim;Tarik;Tanger;Sous-traitance export;1148;127 558,10;98 728,00;Réglé;27/02/2026;1900000
+13/01/2026;Mango;T-shirt imprimé;Tarik;Tanger;Sous-traitance export;1554;48 944,56;35 742,00;Non réglé;27/02/2026;1900000
+13/01/2026;Decathlon Maroc;T-shirt imprimé;Hanane;Casablanca;Direct;2276;71 240,09;52 348,00;Réglé;27/02/2026;1900000
+14/01/2026;Inditex (sous-traitance);Jean denim;Hanane;Tanger;Sous-traitance export;631;75 196,95;54 266,00;Réglé;28/02/2026;1900000
+14/01/2026;Inditex (sous-traitance);Veste de travail;Tarik;Tanger;Sous-traitance export;60;8 782,06;6 240,00;Réglé;28/02/2026;1900000
+14/01/2026;Inditex (sous-traitance);T-shirt imprimé;Tarik;Tanger;Sous-traitance export;1865;56 856,20;42 895,00;Réglé;28/02/2026;1900000
+16/01/2026;Mango;Veste de travail;Hanane;Tanger;Sous-traitance export;350;49 691,97;36 400,00;Réglé;02/03/2026;1900000
+16/01/2026;Inditex (sous-traitance);Veste de travail;Hanane;Tanger;Sous-traitance export;148;22 113,15;15 392,00;Réglé;02/03/2026;1900000
+17/01/2026;Boutiques Defacto;Chemise coton;Hanane;Tanger;Direct;738;47 798,22;36 900,00;Réglé;03/03/2026;1900000
+17/01/2026;Mango;Jean denim;Hanane;Tanger;Sous-traitance export;174;20 090,84;14 964,00;Réglé;03/03/2026;1900000
+19/01/2026;Boutiques Defacto;Jean denim;Hanane;Tanger;Direct;1179;139 105,55;101 394,00;Réglé;05/03/2026;1900000
+20/01/2026;Inditex (sous-traitance);Jean denim;Hanane;Tanger;Sous-traitance export;851;95 094,80;73 186,00;Réglé;06/03/2026;1900000
+21/01/2026;Boutiques Defacto;Veste de travail;Tarik;Tanger;Direct;202;29 584,71;21 008,00;Réglé;07/03/2026;1900000
+21/01/2026;Boutiques Defacto;T-shirt imprimé;Hanane;Tanger;Direct;2126;65 290,25;48 898,00;Réglé;07/03/2026;1900000
+21/01/2026;Export France;T-shirt imprimé;Tarik;Export;Export;870;28 131,84;20 010,00;Réglé;07/03/2026;1900000
+22/01/2026;Inditex (sous-traitance);Jean denim;Tarik;Tanger;Sous-traitance export;895;105 602,92;76 970,00;Réglé;08/03/2026;1900000
+24/01/2026;Export France;T-shirt imprimé;Hanane;Export;Export;2473;77 658,20;56 879,00;Réglé;10/03/2026;1900000
+24/01/2026;Decathlon Maroc;Chemise coton;Tarik;Casablanca;Direct;498;34 225,63;24 900,00;Réglé;10/03/2026;1900000
+24/01/2026;Inditex (sous-traitance);Jean denim;Tarik;Tanger;Sous-traitance export;458;52 842,81;39 388,00;Réglé;10/03/2026;1900000
+28/01/2026;Marjane (textile);Chemise coton;Tarik;Rabat;Direct;1457;98 362,84;72 850,00;Réglé;14/03/2026;1900000
+28/01/2026;Decathlon Maroc;Jean denim;Tarik;Casablanca;Direct;1009;111 218,82;86 774,00;Réglé;14/03/2026;1900000
+30/01/2026;Marjane (textile);T-shirt imprimé;Tarik;Rabat;Direct;1483;46 144,27;34 109,00;Réglé;16/03/2026;1900000
+30/01/2026;Inditex (sous-traitance);Chemise coton;Tarik;Tanger;Sous-traitance export;551;36 450,33;27 550,00;Réglé;16/03/2026;1900000
+30/01/2026;Mango;Jean denim;Tarik;Tanger;Sous-traitance export;1137;124 222,19;97 782,00;Réglé;16/03/2026;1900000
+31/01/2026;Inditex (sous-traitance);Jean denim;Hanane;Tanger;Sous-traitance export;1170;141 173,65;100 620,00;Réglé;17/03/2026;1900000
+02/02/2026;Boutiques Defacto;T-shirt imprimé;Hanane;Tanger;Direct;2435;76 236,88;56 005,00;Réglé;19/03/2026;1900000
+02/02/2026;Mango;Jean denim;Hanane;Tanger;Sous-traitance export;287;33 236,06;24 682,00;Réglé;19/03/2026;1900000
+03/02/2026;Inditex (sous-traitance);Chemise coton;Hanane;Tanger;Sous-traitance export;300;21 034,22;15 000,00;Réglé;20/03/2026;1900000
+03/02/2026;Inditex (sous-traitance);Veste de travail;Tarik;Tanger;Sous-traitance export;213;29 523,30;22 152,00;Réglé;20/03/2026;1900000
+03/02/2026;Inditex (sous-traitance);T-shirt imprimé;Hanane;Tanger;Sous-traitance export;480;14 863,96;11 040,00;Réglé;20/03/2026;1900000
+04/02/2026;Marjane (textile);T-shirt imprimé;Hanane;Rabat;Direct;1811;59 524,56;41 653,00;Réglé;21/03/2026;1900000
+04/02/2026;Inditex (sous-traitance);Chemise coton;Hanane;Tanger;Sous-traitance export;1180;77 582,51;59 000,00;Réglé;21/03/2026;1900000
+05/02/2026;Inditex (sous-traitance);Chemise coton;Hanane;Tanger;Sous-traitance export;1000;68 834,92;50 000,00;Réglé;22/03/2026;1900000
+07/02/2026;Mango;Veste de travail;Tarik;Tanger;Sous-traitance export;360;54 388,19;37 440,00;Réglé;24/03/2026;1900000
+09/02/2026;Export France;Veste de travail;Hanane;Export;Export;324;47 504,94;33 696,00;Réglé;26/03/2026;1900000
+09/02/2026;Inditex (sous-traitance);Chemise coton;Tarik;Tanger;Sous-traitance export;203;13 883,20;10 150,00;Non réglé;26/03/2026;1900000
+09/02/2026;Mango;T-shirt imprimé;Hanane;Tanger;Sous-traitance export;2018;63 836,35;46 414,00;Réglé;26/03/2026;1900000
+10/02/2026;Inditex (sous-traitance);Veste de travail;Hanane;Tanger;Sous-traitance export;201;28 234,54;20 904,00;Réglé;27/03/2026;1900000
+11/02/2026;Mango;T-shirt imprimé;Hanane;Tanger;Sous-traitance export;2487;82 596,58;57 201,00;Réglé;28/03/2026;1900000
+12/02/2026;Inditex (sous-traitance);T-shirt imprimé;Hanane;Tanger;Sous-traitance export;918;30 772,96;21 114,00;Réglé;29/03/2026;1900000
+12/02/2026;Decathlon Maroc;Jean denim;Tarik;Casablanca;Direct;362;40 975,68;31 132,00;Réglé;29/03/2026;1900000
+13/02/2026;Mango;Chemise coton;Hanane;Tanger;Sous-traitance export;1111;78 351,50;55 550,00;Réglé;30/03/2026;1900000
+14/02/2026;Decathlon Maroc;Jean denim;Hanane;Casablanca;Direct;1174;133 707,76;100 964,00;Réglé;31/03/2026;1900000
+14/02/2026;Export France;Veste de travail;Tarik;Export;Export;163;23 662,10;16 952,00;Réglé;31/03/2026;1900000
+14/02/2026;Inditex (sous-traitance);Veste de travail;Hanane;Tanger;Sous-traitance export;323;45 345,98;33 592,00;Réglé;31/03/2026;1900000
+16/02/2026;Inditex (sous-traitance);Veste de travail;Hanane;Tanger;Sous-traitance export;104;15 011,97;10 816,00;Réglé;02/04/2026;1900000
+17/02/2026;Inditex (sous-traitance);Veste de travail;Hanane;Tanger;Sous-traitance export;294;44 170,69;30 576,00;Réglé;03/04/2026;1900000
+17/02/2026;Mango;T-shirt imprimé;Hanane;Tanger;Sous-traitance export;2142;71 841,80;49 266,00;Réglé;03/04/2026;1900000
+18/02/2026;Inditex (sous-traitance);Veste de travail;Hanane;Tanger;Sous-traitance export;144;21 200,58;14 976,00;Réglé;04/04/2026;1900000
+18/02/2026;Decathlon Maroc;Veste de travail;Tarik;Casablanca;Direct;179;25 942,50;18 616,00;Réglé;04/04/2026;1900000
+20/02/2026;Inditex (sous-traitance);Jean denim;Tarik;Tanger;Sous-traitance export;1034;120 827,20;88 924,00;Réglé;06/04/2026;1900000
+20/02/2026;Export France;Veste de travail;Hanane;Export;Export;53;8 020,15;5 512,00;Réglé;06/04/2026;1900000
+20/02/2026;Inditex (sous-traitance);Chemise coton;Hanane;Tanger;Sous-traitance export;306;21 360,06;15 300,00;Réglé;06/04/2026;1900000
+21/02/2026;Mango;T-shirt imprimé;Tarik;Tanger;Sous-traitance export;1792;55 785,27;41 216,00;Réglé;07/04/2026;1900000
+21/02/2026;Marjane (textile);Chemise coton;Tarik;Rabat;Direct;203;14 352,15;10 150,00;Réglé;07/04/2026;1900000
+21/02/2026;Marjane (textile);Jean denim;Tarik;Rabat;Direct;746;89 193,73;64 156,00;Réglé;07/04/2026;1900000
+24/02/2026;Export France;Chemise coton;Hanane;Export;Export;1087;73 834,21;54 350,00;Réglé;10/04/2026;1900000
+24/02/2026;Decathlon Maroc;Jean denim;Hanane;Casablanca;Direct;416;47 744,83;35 776,00;Réglé;10/04/2026;1900000
+24/02/2026;Boutiques Defacto;Veste de travail;Hanane;Tanger;Direct;335;49 430,51;34 840,00;Réglé;10/04/2026;1900000
+25/02/2026;Mango;Chemise coton;Hanane;Tanger;Sous-traitance export;1424;92 039,18;71 200,00;Réglé;11/04/2026;1900000
+25/02/2026;Inditex (sous-traitance);Jean denim;Hanane;Tanger;Sous-traitance export;1046;126 076,73;89 956,00;Réglé;11/04/2026;1900000
+25/02/2026;Inditex (sous-traitance);Veste de travail;Tarik;Tanger;Sous-traitance export;127;18 380,83;13 208,00;Réglé;11/04/2026;1900000
+26/02/2026;Decathlon Maroc;Chemise coton;Tarik;Casablanca;Direct;648;43 250,30;32 400,00;Réglé;12/04/2026;1900000
+26/02/2026;Mango;Chemise coton;Hanane;Tanger;Sous-traitance export;466;31 552,46;23 300,00;Réglé;12/04/2026;1900000
+26/02/2026;Marjane (textile);Chemise coton;Hanane;Rabat;Direct;330;23 004,56;16 500,00;Non réglé;12/04/2026;1900000
+27/02/2026;Export France;T-shirt imprimé;Hanane;Export;Export;400;12 688,87;9 200,00;Réglé;13/04/2026;1900000
+27/02/2026;Inditex (sous-traitance);Veste de travail;Tarik;Tanger;Sous-traitance export;119;16 814,72;12 376,00;Réglé;13/04/2026;1900000
+27/02/2026;Inditex (sous-traitance);Chemise coton;Tarik;Tanger;Sous-traitance export;1075;75 865,22;53 750,00;Réglé;13/04/2026;1900000
+28/02/2026;Boutiques Defacto;Jean denim;Hanane;Tanger;Direct;698;79 086,75;60 028,00;Réglé;14/04/2026;1900000
+28/02/2026;Marjane (textile);Chemise coton;Hanane;Rabat;Direct;468;32 139,33;23 400,00;Réglé;14/04/2026;1900000
+02/03/2026;Boutiques Defacto;Veste de travail;Hanane;Tanger;Direct;188;26 687,45;19 552,00;Réglé;16/04/2026;1900000
+04/03/2026;Inditex (sous-traitance);Veste de travail;Hanane;Tanger;Sous-traitance export;106;16 003,44;11 024,00;Réglé;18/04/2026;1900000
+04/03/2026;Inditex (sous-traitance);Veste de travail;Hanane;Tanger;Sous-traitance export;273;40 277,52;28 392,00;Réglé;18/04/2026;1900000
+04/03/2026;Marjane (textile);Jean denim;Tarik;Rabat;Direct;958;108 689,25;82 388,00;Réglé;18/04/2026;1900000
+07/03/2026;Marjane (textile);Chemise coton;Tarik;Rabat;Direct;923;60 855,48;46 150,00;Réglé;21/04/2026;1900000
+07/03/2026;Inditex (sous-traitance);Chemise coton;Tarik;Tanger;Sous-traitance export;452;31 497,69;22 600,00;Non réglé;21/04/2026;1900000
+07/03/2026;Inditex (sous-traitance);T-shirt imprimé;Hanane;Tanger;Sous-traitance export;1293;43 346,80;29 739,00;Réglé;21/04/2026;1900000
+09/03/2026;Marjane (textile);Veste de travail;Hanane;Rabat;Direct;369;53 153,70;38 376,00;Réglé;23/04/2026;1900000
+09/03/2026;Decathlon Maroc;Jean denim;Tarik;Casablanca;Direct;343;38 626,62;29 498,00;Réglé;23/04/2026;1900000
+10/03/2026;Marjane (textile);Jean denim;Hanane;Rabat;Direct;1012;115 149,04;87 032,00;Réglé;24/04/2026;1900000
+11/03/2026;Marjane (textile);Veste de travail;Tarik;Rabat;Direct;73;11 050,53;7 592,00;Réglé;25/04/2026;1900000
+11/03/2026;Marjane (textile);Chemise coton;Tarik;Rabat;Direct;507;35 084,44;25 350,00;Réglé;25/04/2026;1900000
+12/03/2026;Inditex (sous-traitance);T-shirt imprimé;Hanane;Tanger;Sous-traitance export;1724;55 801,33;39 652,00;Réglé;26/04/2026;1900000
+12/03/2026;Decathlon Maroc;Chemise coton;Hanane;Casablanca;Direct;769;49 702,20;38 450,00;Réglé;26/04/2026;1900000
+12/03/2026;Mango;Jean denim;Hanane;Tanger;Sous-traitance export;464;52 670,59;39 904,00;Réglé;26/04/2026;1900000
+13/03/2026;Mango;Veste de travail;Hanane;Tanger;Sous-traitance export;131;18 260,82;13 624,00;Réglé;27/04/2026;1900000
+14/03/2026;Inditex (sous-traitance);Chemise coton;Tarik;Tanger;Sous-traitance export;939;65 595,36;46 950,00;Non réglé;28/04/2026;1900000
+16/03/2026;Inditex (sous-traitance);Veste de travail;Hanane;Tanger;Sous-traitance export;79;11 575,87;8 216,00;Réglé;30/04/2026;1900000
+17/03/2026;Inditex (sous-traitance);T-shirt imprimé;Tarik;Tanger;Sous-traitance export;1099;35 311,15;25 277,00;Réglé;01/05/2026;1900000
+17/03/2026;Inditex (sous-traitance);Veste de travail;Hanane;Tanger;Sous-traitance export;238;33 161,53;24 752,00;Réglé;01/05/2026;1900000
+18/03/2026;Decathlon Maroc;Veste de travail;Tarik;Casablanca;Direct;367;52 696,30;38 168,00;Réglé;02/05/2026;1900000
+18/03/2026;Mango;Veste de travail;Hanane;Tanger;Sous-traitance export;98;14 709,41;10 192,00;Réglé;02/05/2026;1900000
+18/03/2026;Inditex (sous-traitance);Chemise coton;Hanane;Tanger;Sous-traitance export;746;49 457,77;37 300,00;Réglé;02/05/2026;1900000
+19/03/2026;Export France;Veste de travail;Tarik;Export;Export;282;39 911,38;29 328,00;Réglé;03/05/2026;1900000
+19/03/2026;Boutiques Defacto;T-shirt imprimé;Hanane;Tanger;Direct;2320;72 995,92;53 360,00;Réglé;03/05/2026;1900000
+19/03/2026;Decathlon Maroc;T-shirt imprimé;Hanane;Casablanca;Direct;1203;39 487,93;27 669,00;Réglé;03/05/2026;1900000
+20/03/2026;Decathlon Maroc;Chemise coton;Tarik;Casablanca;Direct;1372;95 771,35;68 600,00;Réglé;04/05/2026;1900000
+21/03/2026;Boutiques Defacto;Chemise coton;Hanane;Tanger;Direct;582;41 390,37;29 100,00;Réglé;05/05/2026;1900000
+21/03/2026;Mango;Chemise coton;Hanane;Tanger;Sous-traitance export;772;54 159,41;38 600,00;Réglé;05/05/2026;1900000
+23/03/2026;Inditex (sous-traitance);Veste de travail;Tarik;Tanger;Sous-traitance export;166;24 847,69;17 264,00;Non réglé;07/05/2026;1900000
+24/03/2026;Inditex (sous-traitance);T-shirt imprimé;Hanane;Tanger;Sous-traitance export;467;15 361,42;10 741,00;Réglé;08/05/2026;1900000
+24/03/2026;Inditex (sous-traitance);Veste de travail;Hanane;Tanger;Sous-traitance export;54;7 751,66;5 616,00;Réglé;08/05/2026;1900000
+24/03/2026;Inditex (sous-traitance);T-shirt imprimé;Tarik;Tanger;Sous-traitance export;1077;35 000,11;24 771,00;Réglé;08/05/2026;1900000
+25/03/2026;Export France;Chemise coton;Hanane;Export;Export;958;66 377,01;47 900,00;Réglé;09/05/2026;1900000
+28/03/2026;Export France;T-shirt imprimé;Hanane;Export;Export;790;24 816,38;18 170,00;Réglé;12/05/2026;1900000
+30/03/2026;Mango;T-shirt imprimé;Tarik;Tanger;Sous-traitance export;1599;52 659,09;36 777,00;Réglé;14/05/2026;1900000
+31/03/2026;Boutiques Defacto;Chemise coton;Hanane;Tanger;Direct;821;55 000,33;41 050,00;Réglé;15/05/2026;1900000
+01/04/2026;Inditex (sous-traitance);Jean denim;Tarik;Tanger;Sous-traitance export;811;91 511,14;69 746,00;Réglé;16/05/2026;1900000
+01/04/2026;Marjane (textile);Veste de travail;Hanane;Rabat;Direct;83;11 469,27;8 632,00;Réglé;16/05/2026;1900000
+03/04/2026;Inditex (sous-traitance);Jean denim;Tarik;Tanger;Sous-traitance export;418;49 945,38;35 948,00;Réglé;18/05/2026;1900000
+04/04/2026;Decathlon Maroc;T-shirt imprimé;Tarik;Casablanca;Direct;1868;57 174,91;42 964,00;Réglé;19/05/2026;1900000
+04/04/2026;Inditex (sous-traitance);Jean denim;Tarik;Tanger;Sous-traitance export;977;109 032,55;84 022,00;Réglé;19/05/2026;1900000
+06/04/2026;Inditex (sous-traitance);Chemise coton;Hanane;Tanger;Sous-traitance export;1128;79 113,57;56 400,00;Réglé;21/05/2026;1900000
+06/04/2026;Inditex (sous-traitance);T-shirt imprimé;Tarik;Tanger;Sous-traitance export;1097;33 672,59;25 231,00;Non réglé;21/05/2026;1900000
+07/04/2026;Export France;Veste de travail;Hanane;Export;Export;279;41 210,18;29 016,00;Réglé;22/05/2026;1900000
+08/04/2026;Inditex (sous-traitance);Veste de travail;Hanane;Tanger;Sous-traitance export;326;46 166,98;33 904,00;Réglé;23/05/2026;1900000
+08/04/2026;Decathlon Maroc;Veste de travail;Hanane;Casablanca;Direct;339;47 679,50;35 256,00;Non réglé;23/05/2026;1900000
+09/04/2026;Boutiques Defacto;Chemise coton;Tarik;Tanger;Direct;938;61 682,46;46 900,00;Réglé;24/05/2026;1900000
+09/04/2026;Inditex (sous-traitance);Chemise coton;Hanane;Tanger;Sous-traitance export;400;26 252,95;20 000,00;Réglé;24/05/2026;1900000
+10/04/2026;Marjane (textile);T-shirt imprimé;Tarik;Rabat;Direct;1961;64 735,17;45 103,00;Réglé;25/05/2026;1900000
+10/04/2026;Inditex (sous-traitance);Veste de travail;Hanane;Tanger;Sous-traitance export;141;20 025,61;14 664,00;Réglé;25/05/2026;1900000
+11/04/2026;Decathlon Maroc;Jean denim;Tarik;Casablanca;Direct;846;93 298,79;72 756,00;Réglé;26/05/2026;1900000
+11/04/2026;Decathlon Maroc;Veste de travail;Hanane;Casablanca;Direct;143;20 279,77;14 872,00;Réglé;26/05/2026;1900000
+11/04/2026;Mango;Chemise coton;Hanane;Tanger;Sous-traitance export;796;53 708,77;39 800,00;Réglé;26/05/2026;1900000
+13/04/2026;Inditex (sous-traitance);Jean denim;Hanane;Tanger;Sous-traitance export;630;70 542,01;54 180,00;Réglé;28/05/2026;1900000
+15/04/2026;Mango;Veste de travail;Hanane;Tanger;Sous-traitance export;245;34 850,26;25 480,00;Réglé;30/05/2026;1900000
+16/04/2026;Decathlon Maroc;T-shirt imprimé;Hanane;Casablanca;Direct;1910;62 446,98;43 930,00;Réglé;31/05/2026;1900000
+16/04/2026;Boutiques Defacto;Chemise coton;Hanane;Tanger;Direct;797;56 733,24;39 850,00;Réglé;31/05/2026;1900000
+16/04/2026;Mango;T-shirt imprimé;Hanane;Tanger;Sous-traitance export;533;17 253,80;12 259,00;Réglé;31/05/2026;1900000
+17/04/2026;Marjane (textile);Jean denim;Tarik;Rabat;Direct;1190;143 136,30;102 340,00;Réglé;01/06/2026;1900000
+17/04/2026;Inditex (sous-traitance);Chemise coton;Hanane;Tanger;Sous-traitance export;1169;79 544,74;58 450,00;Réglé;01/06/2026;1900000
+18/04/2026;Export France;T-shirt imprimé;Hanane;Export;Export;2414;77 073,74;55 522,00;Non réglé;02/06/2026;1900000
+18/04/2026;Export France;Veste de travail;Hanane;Export;Export;242;36 055,96;25 168,00;Réglé;02/06/2026;1900000
+18/04/2026;Inditex (sous-traitance);Jean denim;Hanane;Tanger;Sous-traitance export;553;65 187,96;47 558,00;Réglé;02/06/2026;1900000
+20/04/2026;Inditex (sous-traitance);Jean denim;Tarik;Tanger;Sous-traitance export;893;102 010,45;76 798,00;Réglé;04/06/2026;1900000
+20/04/2026;Inditex (sous-traitance);Veste de travail;Hanane;Tanger;Sous-traitance export;86;12 472,01;8 944,00;Réglé;04/06/2026;1900000
+21/04/2026;Inditex (sous-traitance);Jean denim;Tarik;Tanger;Sous-traitance export;766;92 018,79;65 876,00;Réglé;05/06/2026;1900000
+23/04/2026;Inditex (sous-traitance);Chemise coton;Tarik;Tanger;Sous-traitance export;394;25 512,96;19 700,00;Non réglé;07/06/2026;1900000
+23/04/2026;Inditex (sous-traitance);Jean denim;Hanane;Tanger;Sous-traitance export;1086;127 363,17;93 396,00;Non réglé;07/06/2026;1900000
+24/04/2026;Inditex (sous-traitance);Chemise coton;Hanane;Tanger;Sous-traitance export;1423;100 202,92;71 150,00;Réglé;08/06/2026;1900000
+25/04/2026;Inditex (sous-traitance);Veste de travail;Hanane;Tanger;Sous-traitance export;386;57 090,78;40 144,00;Réglé;09/06/2026;1900000
+27/04/2026;Inditex (sous-traitance);T-shirt imprimé;Tarik;Tanger;Sous-traitance export;516;17 309,69;11 868,00;Réglé;11/06/2026;1900000
+27/04/2026;Marjane (textile);Chemise coton;Hanane;Rabat;Direct;672;47 694,38;33 600,00;Réglé;11/06/2026;1900000
+28/04/2026;Boutiques Defacto;Jean denim;Tarik;Tanger;Direct;495;58 553,36;42 570,00;Réglé;12/06/2026;1900000
+28/04/2026;Decathlon Maroc;T-shirt imprimé;Hanane;Casablanca;Direct;1323;43 085,90;30 429,00;Réglé;12/06/2026;1900000
+29/04/2026;Boutiques Defacto;Jean denim;Hanane;Tanger;Direct;810;95 327,89;69 660,00;Réglé;13/06/2026;1900000
+29/04/2026;Decathlon Maroc;Veste de travail;Hanane;Casablanca;Direct;54;7 787,54;5 616,00;Réglé;13/06/2026;1900000
+29/04/2026;Export France;Jean denim;Hanane;Export;Export;312;34 467,43;26 832,00;Réglé;13/06/2026;1900000
+30/04/2026;Marjane (textile);Chemise coton;Hanane;Rabat;Direct;1220;86 884,01;61 000,00;Réglé;14/06/2026;1900000
+01/05/2026;Inditex (sous-traitance);T-shirt imprimé;Tarik;Tanger;Sous-traitance export;2434;77 349,32;55 982,00;Réglé;15/06/2026;1900000
+01/05/2026;Mango;Veste de travail;Hanane;Tanger;Sous-traitance export;217;30 704,98;22 568,00;Réglé;15/06/2026;1900000
+01/05/2026;Inditex (sous-traitance);T-shirt imprimé;Tarik;Tanger;Sous-traitance export;2004;65 953,26;46 092,00;Réglé;15/06/2026;1900000
+04/05/2026;Marjane (textile);T-shirt imprimé;Hanane;Rabat;Direct;1095;33 871,15;25 185,00;Non réglé;18/06/2026;1900000
+05/05/2026;Inditex (sous-traitance);Veste de travail;Tarik;Tanger;Sous-traitance export;53;7 755,28;5 512,00;Réglé;19/06/2026;1900000
+06/05/2026;Mango;Chemise coton;Hanane;Tanger;Sous-traitance export;1341;87 697,86;67 050,00;Réglé;20/06/2026;1900000
+06/05/2026;Boutiques Defacto;Chemise coton;Tarik;Tanger;Direct;1145;80 066,41;57 250,00;Réglé;20/06/2026;1900000
+06/05/2026;Decathlon Maroc;Jean denim;Hanane;Casablanca;Direct;620;73 521,58;53 320,00;Réglé;20/06/2026;1900000
+07/05/2026;Inditex (sous-traitance);T-shirt imprimé;Hanane;Tanger;Sous-traitance export;2219;72 476,88;51 037,00;Réglé;21/06/2026;1900000
+07/05/2026;Decathlon Maroc;T-shirt imprimé;Tarik;Casablanca;Direct;1434;43 920,03;32 982,00;Réglé;21/06/2026;1900000
+09/05/2026;Decathlon Maroc;Veste de travail;Hanane;Casablanca;Direct;273;39 864,00;28 392,00;Réglé;23/06/2026;1900000
+09/05/2026;Inditex (sous-traitance);T-shirt imprimé;Tarik;Tanger;Sous-traitance export;1854;58 442,83;42 642,00;Réglé;23/06/2026;1900000
+09/05/2026;Inditex (sous-traitance);Chemise coton;Tarik;Tanger;Sous-traitance export;1243;84 619,60;62 150,00;Réglé;23/06/2026;1900000
+11/05/2026;Marjane (textile);Chemise coton;Tarik;Rabat;Direct;881;57 818,39;44 050,00;Réglé;25/06/2026;1900000
+11/05/2026;Inditex (sous-traitance);T-shirt imprimé;Hanane;Tanger;Sous-traitance export;2415;74 591,21;55 545,00;Réglé;25/06/2026;1900000
+12/05/2026;Decathlon Maroc;Veste de travail;Hanane;Casablanca;Direct;179;26 831,42;18 616,00;Réglé;26/06/2026;1900000
+12/05/2026;Export France;Veste de travail;Tarik;Export;Export;53;7 765,61;5 512,00;Réglé;26/06/2026;1900000
+12/05/2026;Decathlon Maroc;Veste de travail;Hanane;Casablanca;Direct;189;27 970,19;19 656,00;Réglé;26/06/2026;1900000
+13/05/2026;Mango;Jean denim;Tarik;Tanger;Sous-traitance export;1097;131 737,06;94 342,00;Réglé;27/06/2026;1900000
+13/05/2026;Inditex (sous-traitance);T-shirt imprimé;Hanane;Tanger;Sous-traitance export;2255;72 358,76;51 865,00;Réglé;27/06/2026;1900000
+14/05/2026;Inditex (sous-traitance);T-shirt imprimé;Tarik;Tanger;Sous-traitance export;1275;39 853,94;29 325,00;Réglé;28/06/2026;1900000
+14/05/2026;Decathlon Maroc;Veste de travail;Hanane;Casablanca;Direct;60;8 289,37;6 240,00;Non réglé;28/06/2026;1900000
+15/05/2026;Inditex (sous-traitance);T-shirt imprimé;Hanane;Tanger;Sous-traitance export;869;27 805,20;19 987,00;Réglé;29/06/2026;1900000
+15/05/2026;Mango;Veste de travail;Tarik;Tanger;Sous-traitance export;354;50 444,77;36 816,00;Réglé;29/06/2026;1900000
+15/05/2026;Export France;Chemise coton;Tarik;Export;Export;946;64 998,49;47 300,00;Réglé;29/06/2026;1900000
+16/05/2026;Marjane (textile);Chemise coton;Tarik;Rabat;Direct;1084;73 721,99;54 200,00;Non réglé;30/06/2026;1900000
+16/05/2026;Marjane (textile);T-shirt imprimé;Tarik;Rabat;Direct;1202;40 168,10;27 646,00;Réglé;30/06/2026;1900000
+16/05/2026;Mango;Veste de travail;Hanane;Tanger;Sous-traitance export;398;59 940,49;41 392,00;Réglé;30/06/2026;1900000
+18/05/2026;Boutiques Defacto;Jean denim;Hanane;Tanger;Direct;958;113 512,13;82 388,00;Réglé;02/07/2026;1900000
+18/05/2026;Export France;Veste de travail;Tarik;Export;Export;182;26 708,24;18 928,00;Réglé;02/07/2026;1900000
+18/05/2026;Decathlon Maroc;T-shirt imprimé;Tarik;Casablanca;Direct;1493;49 796,73;34 339,00;Réglé;02/07/2026;1900000
+19/05/2026;Inditex (sous-traitance);Veste de travail;Tarik;Tanger;Sous-traitance export;284;41 732,38;29 536,00;Réglé;03/07/2026;1900000
+20/05/2026;Inditex (sous-traitance);Veste de travail;Tarik;Tanger;Sous-traitance export;247;34 519,29;25 688,00;Réglé;04/07/2026;1900000
+20/05/2026;Mango;T-shirt imprimé;Hanane;Tanger;Sous-traitance export;899;28 964,08;20 677,00;Réglé;04/07/2026;1900000
+20/05/2026;Inditex (sous-traitance);Chemise coton;Hanane;Tanger;Sous-traitance export;1457;100 539,45;72 850,00;Réglé;04/07/2026;1900000
+21/05/2026;Mango;Chemise coton;Hanane;Tanger;Sous-traitance export;728;50 186,83;36 400,00;Réglé;05/07/2026;1900000
+22/05/2026;Mango;Veste de travail;Hanane;Tanger;Sous-traitance export;212;31 251,10;22 048,00;Réglé;06/07/2026;1900000
+22/05/2026;Export France;Chemise coton;Hanane;Export;Export;805;52 194,90;40 250,00;Réglé;06/07/2026;1900000
+22/05/2026;Inditex (sous-traitance);T-shirt imprimé;Tarik;Tanger;Sous-traitance export;1268;41 792,50;29 164,00;Réglé;06/07/2026;1900000
+25/05/2026;Marjane (textile);Jean denim;Hanane;Rabat;Direct;902;105 244,75;77 572,00;Réglé;09/07/2026;1900000
+26/05/2026;Inditex (sous-traitance);Jean denim;Hanane;Tanger;Sous-traitance export;291;32 063,02;25 026,00;Réglé;10/07/2026;1900000
+26/05/2026;Inditex (sous-traitance);Chemise coton;Tarik;Tanger;Sous-traitance export;307;21 379,18;15 350,00;Réglé;10/07/2026;1900000
+26/05/2026;Marjane (textile);Veste de travail;Tarik;Rabat;Direct;276;39 222,03;28 704,00;Réglé;10/07/2026;1900000
+27/05/2026;Inditex (sous-traitance);Jean denim;Tarik;Tanger;Sous-traitance export;486;54 235,78;41 796,00;Réglé;11/07/2026;1900000
+27/05/2026;Mango;Jean denim;Hanane;Tanger;Sous-traitance export;617;69 448,58;53 062,00;Réglé;11/07/2026;1900000
+28/05/2026;Inditex (sous-traitance);Chemise coton;Hanane;Tanger;Sous-traitance export;676;44 742,59;33 800,00;Réglé;12/07/2026;1900000
+28/05/2026;Boutiques Defacto;Jean denim;Hanane;Tanger;Direct;1098;128 371,83;94 428,00;Réglé;12/07/2026;1900000
+29/05/2026;Inditex (sous-traitance);Chemise coton;Hanane;Tanger;Sous-traitance export;912;64 301,47;45 600,00;Réglé;13/07/2026;1900000
+29/05/2026;Decathlon Maroc;Veste de travail;Hanane;Casablanca;Direct;109;16 272,78;11 336,00;Réglé;13/07/2026;1900000
+30/05/2026;Decathlon Maroc;T-shirt imprimé;Hanane;Casablanca;Direct;916;27 927,77;21 068,00;Réglé;14/07/2026;1900000
+30/05/2026;Mango;Veste de travail;Hanane;Tanger;Sous-traitance export;249;34 791,76;25 896,00;Réglé;14/07/2026;1900000
+30/05/2026;Mango;Veste de travail;Hanane;Tanger;Sous-traitance export;187;26 675,41;19 448,00;Réglé;14/07/2026;1900000
+01/06/2026;Inditex (sous-traitance);T-shirt imprimé;Hanane;Tanger;Sous-traitance export;1198;39 708,05;27 554,00;Réglé;16/07/2026;1900000
+01/06/2026;Inditex (sous-traitance);Veste de travail;Tarik;Tanger;Sous-traitance export;179;24 885,66;18 616,00;Réglé;16/07/2026;1900000
+02/06/2026;Decathlon Maroc;Veste de travail;Tarik;Casablanca;Direct;329;49 225,68;34 216,00;Réglé;17/07/2026;1900000
+02/06/2026;Mango;Veste de travail;Hanane;Tanger;Sous-traitance export;285;41 904,43;29 640,00;Réglé;17/07/2026;1900000
+03/06/2026;Mango;Veste de travail;Hanane;Tanger;Sous-traitance export;84;12 115,07;8 736,00;Réglé;18/07/2026;1900000
+04/06/2026;Inditex (sous-traitance);Chemise coton;Hanane;Tanger;Sous-traitance export;1318;90 223,82;65 900,00;Réglé;19/07/2026;1900000
+04/06/2026;Marjane (textile);Chemise coton;Hanane;Rabat;Direct;810;56 361,11;40 500,00;Réglé;19/07/2026;1900000
+05/06/2026;Inditex (sous-traitance);T-shirt imprimé;Hanane;Tanger;Sous-traitance export;2062;62 732,84;47 426,00;Réglé;20/07/2026;1900000
+06/06/2026;Export France;Jean denim;Hanane;Export;Export;306;33 986,87;26 316,00;Réglé;21/07/2026;1900000
+06/06/2026;Inditex (sous-traitance);T-shirt imprimé;Hanane;Tanger;Sous-traitance export;1380;44 958,65;31 740,00;Réglé;21/07/2026;1900000
+06/06/2026;Mango;Chemise coton;Tarik;Tanger;Sous-traitance export;1163;79 321,10;58 150,00;Réglé;21/07/2026;1900000
+09/06/2026;Marjane (textile);Veste de travail;Hanane;Rabat;Direct;182;26 133,20;18 928,00;Réglé;24/07/2026;1900000
+09/06/2026;Inditex (sous-traitance);Veste de travail;Tarik;Tanger;Sous-traitance export;153;21 175,86;15 912,00;Réglé;24/07/2026;1900000
+10/06/2026;Inditex (sous-traitance);Jean denim;Hanane;Tanger;Sous-traitance export;173;19 377,52;14 878,00;Réglé;25/07/2026;1900000
+10/06/2026;Decathlon Maroc;T-shirt imprimé;Hanane;Casablanca;Direct;1361;45 054,57;31 303,00;Réglé;25/07/2026;1900000
+10/06/2026;Mango;Jean denim;Hanane;Tanger;Sous-traitance export;685;74 840,27;58 910,00;Réglé;25/07/2026;1900000
+11/06/2026;Inditex (sous-traitance);Veste de travail;Tarik;Tanger;Sous-traitance export;215;31 181,88;22 360,00;Réglé;26/07/2026;1900000
+11/06/2026;Inditex (sous-traitance);Chemise coton;Hanane;Tanger;Sous-traitance export;1274;85 667,01;63 700,00;Réglé;26/07/2026;1900000
+11/06/2026;Marjane (textile);Veste de travail;Tarik;Rabat;Direct;65;9 429,44;6 760,00;Réglé;26/07/2026;1900000
+12/06/2026;Marjane (textile);Jean denim;Tarik;Rabat;Direct;553;63 489,97;47 558,00;Réglé;27/07/2026;1900000
+12/06/2026;Inditex (sous-traitance);Jean denim;Tarik;Tanger;Sous-traitance export;684;75 977,19;58 824,00;Réglé;27/07/2026;1900000
+12/06/2026;Mango;T-shirt imprimé;Hanane;Tanger;Sous-traitance export;884;27 379,57;20 332,00;Réglé;27/07/2026;1900000
+15/06/2026;Inditex (sous-traitance);T-shirt imprimé;Tarik;Tanger;Sous-traitance export;416;13 275,02;9 568,00;Réglé;30/07/2026;1900000
+15/06/2026;Marjane (textile);T-shirt imprimé;Tarik;Rabat;Direct;450;14 556,05;10 350,00;Réglé;30/07/2026;1900000
+15/06/2026;Mango;Jean denim;Hanane;Tanger;Sous-traitance export;207;23 446,29;17 802,00;Réglé;30/07/2026;1900000
+16/06/2026;Inditex (sous-traitance);Chemise coton;Hanane;Tanger;Sous-traitance export;1008;71 111,31;50 400,00;Réglé;31/07/2026;1900000
+17/06/2026;Inditex (sous-traitance);Veste de travail;Tarik;Tanger;Sous-traitance export;348;48 122,08;36 192,00;Non réglé;01/08/2026;1900000
+18/06/2026;Boutiques Defacto;T-shirt imprimé;Hanane;Tanger;Direct;1567;51 929,81;36 041,00;Réglé;02/08/2026;1900000
+18/06/2026;Marjane (textile);T-shirt imprimé;Tarik;Rabat;Direct;1779;54 850,28;40 917,00;Réglé;02/08/2026;1900000
+19/06/2026;Mango;Veste de travail;Hanane;Tanger;Sous-traitance export;202;29 835,52;21 008,00;Réglé;03/08/2026;1900000
+19/06/2026;Inditex (sous-traitance);Veste de travail;Hanane;Tanger;Sous-traitance export;134;19 774,01;13 936,00;Réglé;03/08/2026;1900000
+19/06/2026;Decathlon Maroc;Jean denim;Hanane;Casablanca;Direct;686;78 747,65;58 996,00;Non réglé;03/08/2026;1900000
+20/06/2026;Marjane (textile);T-shirt imprimé;Tarik;Rabat;Direct;478;15 493,45;10 994,00;Réglé;04/08/2026;1900000
+22/06/2026;Export France;Chemise coton;Hanane;Export;Export;469;33 448,51;23 450,00;Réglé;06/08/2026;1900000
+22/06/2026;Inditex (sous-traitance);Veste de travail;Hanane;Tanger;Sous-traitance export;255;36 606,01;26 520,00;Réglé;06/08/2026;1900000
+23/06/2026;Boutiques Defacto;Chemise coton;Hanane;Tanger;Direct;408;28 516,08;20 400,00;Réglé;07/08/2026;1900000
+24/06/2026;Boutiques Defacto;Chemise coton;Hanane;Tanger;Direct;538;34 773,76;26 900,00;Réglé;08/08/2026;1900000
+24/06/2026;Mango;T-shirt imprimé;Hanane;Tanger;Sous-traitance export;470;15 316,95;10 810,00;Réglé;08/08/2026;1900000
+25/06/2026;Decathlon Maroc;Jean denim;Hanane;Casablanca;Direct;1117;133 824,02;96 062,00;Réglé;09/08/2026;1900000
+26/06/2026;Mango;T-shirt imprimé;Hanane;Tanger;Sous-traitance export;1927;59 646,21;44 321,00;Réglé;10/08/2026;1900000
+26/06/2026;Inditex (sous-traitance);Veste de travail;Tarik;Tanger;Sous-traitance export;266;39 805,02;27 664,00;Réglé;10/08/2026;1900000
+27/06/2026;Decathlon Maroc;Jean denim;Hanane;Casablanca;Direct;910;106 540,91;78 260,00;Réglé;11/08/2026;1900000
+27/06/2026;Inditex (sous-traitance);Jean denim;Tarik;Tanger;Sous-traitance export;342;40 626,89;29 412,00;Réglé;11/08/2026;1900000
+29/06/2026;Mango;Jean denim;Tarik;Tanger;Sous-traitance export;1086;128 267,92;93 396,00;Réglé;13/08/2026;1900000
+30/06/2026;Inditex (sous-traitance);Veste de travail;Hanane;Tanger;Sous-traitance export;144;21 083,51;14 976,00;Réglé;14/08/2026;1900000
+01/07/2026;Decathlon Maroc;T-shirt imprimé;Hanane;Casablanca;Direct;1980;63 557,74;45 540,00;Réglé;15/08/2026;1900000
+01/07/2026;Inditex (sous-traitance);Veste de travail;Tarik;Tanger;Sous-traitance export;214;32 102,53;22 256,00;Réglé;15/08/2026;1900000
+01/07/2026;Decathlon Maroc;Chemise coton;Hanane;Casablanca;Direct;338;23 710,86;16 900,00;Réglé;15/08/2026;1900000
+02/07/2026;Boutiques Defacto;Veste de travail;Tarik;Tanger;Direct;269;37 605,32;27 976,00;Réglé;16/08/2026;1900000
+02/07/2026;Export France;T-shirt imprimé;Hanane;Export;Export;2135;71 366,69;49 105,00;Réglé;16/08/2026;1900000
+02/07/2026;Mango;Veste de travail;Tarik;Tanger;Sous-traitance export;161;23 729,41;16 744,00;Réglé;16/08/2026;1900000
+03/07/2026;Marjane (textile);Chemise coton;Hanane;Rabat;Direct;1168;81 180,45;58 400,00;Réglé;17/08/2026;1900000
+04/07/2026;Inditex (sous-traitance);Veste de travail;Hanane;Tanger;Sous-traitance export;53;7 530,88;5 512,00;Non réglé;18/08/2026;1900000
+06/07/2026;Inditex (sous-traitance);Chemise coton;Hanane;Tanger;Sous-traitance export;584;39 967,00;29 200,00;Réglé;20/08/2026;1900000
+06/07/2026;Marjane (textile);T-shirt imprimé;Tarik;Rabat;Direct;602;19 759,23;13 846,00;Non réglé;20/08/2026;1900000
+07/07/2026;Decathlon Maroc;Chemise coton;Tarik;Casablanca;Direct;1196;84 225,86;59 800,00;Réglé;21/08/2026;1900000
+07/07/2026;Mango;T-shirt imprimé;Tarik;Tanger;Sous-traitance export;1917;63 062,12;44 091,00;Réglé;21/08/2026;1900000
+09/07/2026;Export France;Veste de travail;Hanane;Export;Export;270;38 790,12;28 080,00;Réglé;23/08/2026;1900000
+10/07/2026;Inditex (sous-traitance);Jean denim;Hanane;Tanger;Sous-traitance export;739;87 045,68;63 554,00;Réglé;24/08/2026;1900000
+10/07/2026;Mango;T-shirt imprimé;Tarik;Tanger;Sous-traitance export;2297;70 621,72;52 831,00;Réglé;24/08/2026;1900000
+10/07/2026;Decathlon Maroc;Jean denim;Tarik;Casablanca;Direct;784;88 482,63;67 424,00;Réglé;24/08/2026;1900000
+11/07/2026;Decathlon Maroc;T-shirt imprimé;Tarik;Casablanca;Direct;1983;65 779,15;45 609,00;Réglé;25/08/2026;1900000
+15/07/2026;Inditex (sous-traitance);Veste de travail;Hanane;Tanger;Sous-traitance export;75;11 091,61;7 800,00;Non réglé;29/08/2026;1900000
+15/07/2026;Mango;Jean denim;Hanane;Tanger;Sous-traitance export;468;55 298,13;40 248,00;Réglé;29/08/2026;1900000
+15/07/2026;Inditex (sous-traitance);Veste de travail;Hanane;Tanger;Sous-traitance export;360;50 430,35;37 440,00;Réglé;29/08/2026;1900000
+16/07/2026;Mango;Chemise coton;Hanane;Tanger;Sous-traitance export;1484;102 262,80;74 200,00;Réglé;30/08/2026;1900000
+16/07/2026;Export France;Chemise coton;Hanane;Export;Export;1011;68 786,49;50 550,00;Réglé;30/08/2026;1900000
+16/07/2026;Marjane (textile);Chemise coton;Tarik;Rabat;Direct;1048;73 244,23;52 400,00;Réglé;30/08/2026;1900000
+17/07/2026;Export France;Jean denim;Hanane;Export;Export;1089;120 420,91;93 654,00;Réglé;31/08/2026;1900000
+17/07/2026;Inditex (sous-traitance);T-shirt imprimé;Tarik;Tanger;Sous-traitance export;1887;59 112,31;43 401,00;Réglé;31/08/2026;1900000
+17/07/2026;Inditex (sous-traitance);Veste de travail;Hanane;Tanger;Sous-traitance export;229;34 809,74;23 816,00;Réglé;31/08/2026;1900000
+20/07/2026;Inditex (sous-traitance);T-shirt imprimé;Hanane;Tanger;Sous-traitance export;2382;79 237,15;54 786,00;Non réglé;03/09/2026;1900000
+20/07/2026;Mango;Chemise coton;Hanane;Tanger;Sous-traitance export;1003;66 091,28;50 150,00;Réglé;03/09/2026;1900000
+20/07/2026;Inditex (sous-traitance);Chemise coton;Tarik;Tanger;Sous-traitance export;399;26 892,93;19 950,00;Réglé;03/09/2026;1900000
+21/07/2026;Mango;Chemise coton;Hanane;Tanger;Sous-traitance export;318;21 956,86;15 900,00;Réglé;04/09/2026;1900000
+22/07/2026;Boutiques Defacto;Chemise coton;Hanane;Tanger;Direct;646;43 583,14;32 300,00;Réglé;05/09/2026;1900000
+23/07/2026;Decathlon Maroc;Jean denim;Hanane;Casablanca;Direct;990;118 236,88;85 140,00;Réglé;06/09/2026;1900000
+23/07/2026;Inditex (sous-traitance);T-shirt imprimé;Tarik;Tanger;Sous-traitance export;949;31 035,65;21 827,00;Réglé;06/09/2026;1900000
+24/07/2026;Marjane (textile);Jean denim;Tarik;Rabat;Direct;158;18 780,33;13 588,00;Réglé;07/09/2026;1900000
+27/07/2026;Boutiques Defacto;T-shirt imprimé;Hanane;Tanger;Direct;940;28 921,92;21 620,00;Réglé;10/09/2026;1900000
+28/07/2026;Marjane (textile);Veste de travail;Hanane;Rabat;Direct;153;22 390,89;15 912,00;Réglé;11/09/2026;1900000
+29/07/2026;Inditex (sous-traitance);Chemise coton;Tarik;Tanger;Sous-traitance export;831;58 211,93;41 550,00;Réglé;12/09/2026;1900000
+29/07/2026;Mango;T-shirt imprimé;Hanane;Tanger;Sous-traitance export;2342;77 133,69;53 866,00;Réglé;12/09/2026;1900000
+31/07/2026;Marjane (textile);T-shirt imprimé;Hanane;Rabat;Direct;471;14 895,09;10 833,00;Réglé;14/09/2026;1900000
+31/07/2026;Inditex (sous-traitance);Veste de travail;Hanane;Tanger;Sous-traitance export;314;47 582,01;32 656,00;Réglé;14/09/2026;1900000
+01/08/2026;Inditex (sous-traitance);Jean denim;Hanane;Tanger;Sous-traitance export;600;70 569,49;51 600,00;Non réglé;15/09/2026;1900000
+01/08/2026;Export France;T-shirt imprimé;Tarik;Export;Export;1932;61 635,36;44 436,00;Réglé;15/09/2026;1900000
+01/08/2026;Decathlon Maroc;T-shirt imprimé;Hanane;Casablanca;Direct;1580;48 649,71;36 340,00;Réglé;15/09/2026;1900000
+03/08/2026;Inditex (sous-traitance);Veste de travail;Hanane;Tanger;Sous-traitance export;229;32 444,26;23 816,00;Réglé;17/09/2026;1900000
+05/08/2026;Mango;Chemise coton;Tarik;Tanger;Sous-traitance export;657;43 303,67;32 850,00;Réglé;19/09/2026;1900000
+07/08/2026;Inditex (sous-traitance);Chemise coton;Hanane;Tanger;Sous-traitance export;844;56 857,49;42 200,00;Réglé;21/09/2026;1900000
+07/08/2026;Boutiques Defacto;Jean denim;Hanane;Tanger;Direct;765;85 199,52;65 790,00;Réglé;21/09/2026;1900000
+07/08/2026;Inditex (sous-traitance);T-shirt imprimé;Tarik;Tanger;Sous-traitance export;633;19 247,73;14 559,00;Réglé;21/09/2026;1900000
+08/08/2026;Inditex (sous-traitance);Jean denim;Tarik;Tanger;Sous-traitance export;352;42 183,93;30 272,00;Réglé;22/09/2026;1900000
+08/08/2026;Decathlon Maroc;Jean denim;Tarik;Casablanca;Direct;446;49 907,63;38 356,00;Réglé;22/09/2026;1900000
+08/08/2026;Decathlon Maroc;Veste de travail;Hanane;Casablanca;Direct;149;20 787,83;15 496,00;Non réglé;22/09/2026;1900000
+10/08/2026;Boutiques Defacto;Chemise coton;Hanane;Tanger;Direct;1047;73 378,26;52 350,00;Réglé;24/09/2026;1900000
+10/08/2026;Inditex (sous-traitance);T-shirt imprimé;Hanane;Tanger;Sous-traitance export;2256;71 929,91;51 888,00;Réglé;24/09/2026;1900000
+11/08/2026;Marjane (textile);T-shirt imprimé;Tarik;Rabat;Direct;2329;72 672,03;53 567,00;Réglé;25/09/2026;1900000
+12/08/2026;Decathlon Maroc;T-shirt imprimé;Hanane;Casablanca;Direct;953;31 655,68;21 919,00;Réglé;26/09/2026;1900000
+12/08/2026;Inditex (sous-traitance);T-shirt imprimé;Hanane;Tanger;Sous-traitance export;2247;69 113,82;51 681,00;Réglé;26/09/2026;1900000
+14/08/2026;Inditex (sous-traitance);Chemise coton;Tarik;Tanger;Sous-traitance export;1315;90 417,72;65 750,00;Réglé;28/09/2026;1900000
+14/08/2026;Boutiques Defacto;T-shirt imprimé;Tarik;Tanger;Direct;1511;46 487,01;34 753,00;Réglé;28/09/2026;1900000
+14/08/2026;Inditex (sous-traitance);Chemise coton;Hanane;Tanger;Sous-traitance export;515;33 869,25;25 750,00;Réglé;28/09/2026;1900000
+15/08/2026;Inditex (sous-traitance);T-shirt imprimé;Hanane;Tanger;Sous-traitance export;1230;39 289,53;28 290,00;Réglé;29/09/2026;1900000
+17/08/2026;Export France;Chemise coton;Tarik;Export;Export;619;41 017,92;30 950,00;Réglé;01/10/2026;1900000
+18/08/2026;Export France;Chemise coton;Tarik;Export;Export;325;22 714,26;16 250,00;Réglé;02/10/2026;1900000
+18/08/2026;Inditex (sous-traitance);Veste de travail;Tarik;Tanger;Sous-traitance export;203;29 023,82;21 112,00;Non réglé;02/10/2026;1900000
+19/08/2026;Marjane (textile);Veste de travail;Hanane;Rabat;Direct;179;25 055,31;18 616,00;Réglé;03/10/2026;1900000
+19/08/2026;Inditex (sous-traitance);Jean denim;Hanane;Tanger;Sous-traitance export;264;29 537,58;22 704,00;Réglé;03/10/2026;1900000
+19/08/2026;Inditex (sous-traitance);Jean denim;Tarik;Tanger;Sous-traitance export;917;107 509,69;78 862,00;Réglé;03/10/2026;1900000
+20/08/2026;Boutiques Defacto;Chemise coton;Tarik;Tanger;Direct;1189;81 846,90;59 450,00;Réglé;04/10/2026;1900000
+20/08/2026;Decathlon Maroc;Veste de travail;Hanane;Casablanca;Direct;73;10 888,15;7 592,00;Réglé;04/10/2026;1900000
+21/08/2026;Inditex (sous-traitance);T-shirt imprimé;Tarik;Tanger;Sous-traitance export;1729;54 619,73;39 767,00;Réglé;05/10/2026;1900000
+21/08/2026;Inditex (sous-traitance);T-shirt imprimé;Hanane;Tanger;Sous-traitance export;458;14 156,72;10 534,00;Réglé;05/10/2026;1900000
+22/08/2026;Mango;Veste de travail;Tarik;Tanger;Sous-traitance export;195;28 316,57;20 280,00;Réglé;06/10/2026;1900000
+22/08/2026;Mango;T-shirt imprimé;Hanane;Tanger;Sous-traitance export;1162;37 111,92;26 726,00;Réglé;06/10/2026;1900000
+22/08/2026;Inditex (sous-traitance);Jean denim;Tarik;Tanger;Sous-traitance export;684;75 375,99;58 824,00;Non réglé;06/10/2026;1900000
+25/08/2026;Inditex (sous-traitance);Chemise coton;Hanane;Tanger;Sous-traitance export;1230;81 339,98;61 500,00;Réglé;09/10/2026;1900000
+25/08/2026;Decathlon Maroc;Jean denim;Tarik;Casablanca;Direct;952;112 670,23;81 872,00;Réglé;09/10/2026;1900000
+25/08/2026;Inditex (sous-traitance);Veste de travail;Hanane;Tanger;Sous-traitance export;264;36 527,95;27 456,00;Réglé;09/10/2026;1900000
+26/08/2026;Inditex (sous-traitance);Jean denim;Hanane;Tanger;Sous-traitance export;1079;123 974,18;92 794,00;Réglé;10/10/2026;1900000
+26/08/2026;Mango;T-shirt imprimé;Hanane;Tanger;Sous-traitance export;2300;76 420,54;52 900,00;Réglé;10/10/2026;1900000
+26/08/2026;Decathlon Maroc;Jean denim;Tarik;Casablanca;Direct;474;54 283,56;40 764,00;Réglé;10/10/2026;1900000
+27/08/2026;Decathlon Maroc;T-shirt imprimé;Tarik;Casablanca;Direct;2180;68 353,34;50 140,00;Réglé;11/10/2026;1900000
+27/08/2026;Decathlon Maroc;T-shirt imprimé;Hanane;Casablanca;Direct;1359;43 037,71;31 257,00;Réglé;11/10/2026;1900000
+27/08/2026;Inditex (sous-traitance);Jean denim;Hanane;Tanger;Sous-traitance export;357;39 642,61;30 702,00;Réglé;11/10/2026;1900000
+28/08/2026;Mango;Chemise coton;Tarik;Tanger;Sous-traitance export;547;37 704,48;27 350,00;Réglé;12/10/2026;1900000
+29/08/2026;Marjane (textile);Veste de travail;Tarik;Rabat;Direct;143;21 361,64;14 872,00;Réglé;13/10/2026;1900000
+29/08/2026;Decathlon Maroc;Veste de travail;Hanane;Casablanca;Direct;287;40 824,17;29 848,00;Réglé;13/10/2026;1900000
+31/08/2026;Boutiques Defacto;Chemise coton;Hanane;Tanger;Direct;615;41 089,60;30 750,00;Réglé;15/10/2026;1900000
+01/09/2026;Inditex (sous-traitance);T-shirt imprimé;Tarik;Tanger;Sous-traitance export;1152;35 760,52;26 496,00;Réglé;16/10/2026;1900000
+02/09/2026;Boutiques Defacto;Chemise coton;Tarik;Tanger;Direct;752;50 584,11;37 600,00;Réglé;17/10/2026;1900000
+04/09/2026;Inditex (sous-traitance);T-shirt imprimé;Tarik;Tanger;Sous-traitance export;428;14 183,36;9 844,00;Réglé;19/10/2026;1900000
+04/09/2026;Export France;Jean denim;Tarik;Export;Export;363;43 588,01;31 218,00;Réglé;19/10/2026;1900000
+05/09/2026;Inditex (sous-traitance);Veste de travail;Hanane;Tanger;Sous-traitance export;211;30 873,95;21 944,00;Réglé;20/10/2026;1900000
+07/09/2026;Inditex (sous-traitance);Veste de travail;Tarik;Tanger;Sous-traitance export;332;48 961,10;34 528,00;Réglé;22/10/2026;1900000
+07/09/2026;Marjane (textile);Chemise coton;Tarik;Rabat;Direct;906;60 057,66;45 300,00;Réglé;22/10/2026;1900000
+08/09/2026;Inditex (sous-traitance);Chemise coton;Tarik;Tanger;Sous-traitance export;277;19 559,27;13 850,00;Réglé;23/10/2026;1900000
+08/09/2026;Mango;T-shirt imprimé;Hanane;Tanger;Sous-traitance export;1946;61 637,27;44 758,00;Réglé;23/10/2026;1900000
+09/09/2026;Inditex (sous-traitance);Chemise coton;Tarik;Tanger;Sous-traitance export;1211;80 871,02;60 550,00;Réglé;24/10/2026;1900000
+11/09/2026;Mango;Chemise coton;Hanane;Tanger;Sous-traitance export;887;57 723,05;44 350,00;Réglé;26/10/2026;1900000
+12/09/2026;Export France;T-shirt imprimé;Tarik;Export;Export;2350;76 309,15;54 050,00;Réglé;27/10/2026;1900000
+12/09/2026;Mango;T-shirt imprimé;Tarik;Tanger;Sous-traitance export;1035;33 510,29;23 805,00;Non réglé;27/10/2026;1900000
+12/09/2026;Mango;Chemise coton;Tarik;Tanger;Sous-traitance export;1143;76 825,98;57 150,00;Réglé;27/10/2026;1900000
+14/09/2026;Marjane (textile);Veste de travail;Hanane;Rabat;Direct;246;35 498,73;25 584,00;Réglé;29/10/2026;1900000
+15/09/2026;Mango;Chemise coton;Tarik;Tanger;Sous-traitance export;1417;95 479,11;70 850,00;Réglé;30/10/2026;1900000
+15/09/2026;Decathlon Maroc;Jean denim;Tarik;Casablanca;Direct;852;101 372,97;73 272,00;Réglé;30/10/2026;1900000
+15/09/2026;Export France;Chemise coton;Hanane;Export;Export;703;48 830,90;35 150,00;Réglé;30/10/2026;1900000
+16/09/2026;Marjane (textile);T-shirt imprimé;Tarik;Rabat;Direct;1829;58 846,78;42 067,00;Réglé;31/10/2026;1900000
+17/09/2026;Inditex (sous-traitance);Veste de travail;Tarik;Tanger;Sous-traitance export;387;56 504,44;40 248,00;Réglé;01/11/2026;1900000
+17/09/2026;Export France;Veste de travail;Hanane;Export;Export;397;55 520,16;41 288,00;Réglé;01/11/2026;1900000
+17/09/2026;Marjane (textile);Jean denim;Tarik;Rabat;Direct;156;17 261,35;13 416,00;Réglé;01/11/2026;1900000
+18/09/2026;Decathlon Maroc;Chemise coton;Tarik;Casablanca;Direct;893;59 026,22;44 650,00;Réglé;02/11/2026;1900000
+18/09/2026;Inditex (sous-traitance);Chemise coton;Hanane;Tanger;Sous-traitance export;254;17 519,65;12 700,00;Réglé;02/11/2026;1900000
+22/09/2026;Export France;T-shirt imprimé;Hanane;Export;Export;1990;63 825,36;45 770,00;Réglé;06/11/2026;1900000
+23/09/2026;Marjane (textile);Veste de travail;Hanane;Rabat;Direct;261;39 711,80;27 144,00;Réglé;07/11/2026;1900000
+23/09/2026;Mango;T-shirt imprimé;Tarik;Tanger;Sous-traitance export;1481;48 459,27;34 063,00;Réglé;07/11/2026;1900000
+23/09/2026;Inditex (sous-traitance);Jean denim;Tarik;Tanger;Sous-traitance export;903;109 004,31;77 658,00;Réglé;07/11/2026;1900000
+24/09/2026;Marjane (textile);Chemise coton;Tarik;Rabat;Direct;812;52 899,27;40 600,00;Réglé;08/11/2026;1900000
+24/09/2026;Mango;Veste de travail;Tarik;Tanger;Sous-traitance export;242;35 407,44;25 168,00;Réglé;08/11/2026;1900000
+25/09/2026;Boutiques Defacto;Jean denim;Hanane;Tanger;Direct;626;73 208,74;53 836,00;Réglé;09/11/2026;1900000
+25/09/2026;Marjane (textile);Veste de travail;Hanane;Rabat;Direct;163;23 171,74;16 952,00;Réglé;09/11/2026;1900000
+25/09/2026;Inditex (sous-traitance);Chemise coton;Hanane;Tanger;Sous-traitance export;335;23 695,54;16 750,00;Réglé;09/11/2026;1900000
+28/09/2026;Export France;Veste de travail;Tarik;Export;Export;182;26 375,93;18 928,00;Réglé;12/11/2026;1900000
+28/09/2026;Mango;Chemise coton;Tarik;Tanger;Sous-traitance export;745;50 506,70;37 250,00;Réglé;12/11/2026;1900000
+29/09/2026;Decathlon Maroc;T-shirt imprimé;Tarik;Casablanca;Direct;1628;50 936,06;37 444,00;Réglé;13/11/2026;1900000
+30/09/2026;Mango;Chemise coton;Hanane;Tanger;Sous-traitance export;1369;93 397,11;68 450,00;Non réglé;14/11/2026;1900000

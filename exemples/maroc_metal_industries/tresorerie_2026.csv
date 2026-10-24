@@ -1,0 +1,368 @@
+﻿Date opération;Banque;Libellé;Catégorie;Crédit;Débit;Solde
+03/01/2026;Société Générale Maroc;Règlement client;Encaissements clients;132 339,14;;582 339,14
+04/01/2026;Société Générale Maroc;Règlement client;Encaissements clients;116 805,41;;699 144,56
+04/01/2026;Société Générale Maroc;Énergie et télécoms;Énergie et télécoms;;4 862,27;694 282,29
+04/01/2026;Société Générale Maroc;Énergie et télécoms;Énergie et télécoms;;5 252,70;689 029,59
+05/01/2026;Société Générale Maroc;Règlement client;Encaissements clients;174 585,04;;863 614,63
+06/01/2026;Attijariwafa bank;Fournisseurs;Fournisseurs;;326 143,48;873 856,52
+08/01/2026;Attijariwafa bank;Fournisseurs;Fournisseurs;;311 489,07;562 367,46
+08/01/2026;Société Générale Maroc;Énergie et télécoms;Énergie et télécoms;;5 152,35;858 462,28
+09/01/2026;Société Générale Maroc;Fournisseurs;Fournisseurs;;309 158,38;549 303,90
+09/01/2026;Attijariwafa bank;Loyer et charges;Loyer et charges;;9 075,17;553 292,28
+10/01/2026;Société Générale Maroc;Règlement client;Encaissements clients;94 645,83;;643 949,73
+10/01/2026;Société Générale Maroc;Règlement client;Encaissements clients;115 808,06;;759 757,79
+10/01/2026;Attijariwafa bank;Règlement client;Encaissements clients;138 162,76;;691 455,04
+10/01/2026;Attijariwafa bank;CNSS;CNSS;;103 894,03;587 561,01
+10/01/2026;Société Générale Maroc;Investissements;Investissements;;19 243,95;740 513,84
+10/01/2026;Attijariwafa bank;TVA à payer;TVA à payer;;33 742,51;553 818,50
+11/01/2026;Attijariwafa bank;Loyer et charges;Loyer et charges;;7 293,52;546 524,98
+11/01/2026;Attijariwafa bank;Loyer et charges;Loyer et charges;;9 022,50;537 502,48
+11/01/2026;Société Générale Maroc;TVA à payer;TVA à payer;;36 284,54;704 229,30
+12/01/2026;Société Générale Maroc;Investissements;Investissements;;15 938,21;688 291,09
+13/01/2026;Société Générale Maroc;Investissements;Investissements;;15 552,32;672 738,77
+13/01/2026;Attijariwafa bank;TVA à payer;TVA à payer;;29 703,98;507 798,49
+14/01/2026;Société Générale Maroc;Investissements;Investissements;;18 493,04;654 245,74
+16/01/2026;Société Générale Maroc;Impôt sur les sociétés;Impôt sur les sociétés;;1 007,88;653 237,86
+16/01/2026;Attijariwafa bank;Impôt sur les sociétés;Impôt sur les sociétés;;1 115,79;506 682,70
+16/01/2026;Société Générale Maroc;TVA à payer;TVA à payer;;33 553,40;619 684,46
+17/01/2026;Attijariwafa bank;Règlement client;Encaissements clients;168 244,98;;674 927,69
+18/01/2026;Attijariwafa bank;Impôt sur les sociétés;Impôt sur les sociétés;;987,38;673 940,31
+18/01/2026;Attijariwafa bank;Loyer et charges;Loyer et charges;;7 855,50;666 084,81
+19/01/2026;Société Générale Maroc;Impôts et taxes;Impôts et taxes;;17 907,41;601 777,05
+20/01/2026;Société Générale Maroc;Règlement client;Encaissements clients;154 520,69;;756 297,73
+20/01/2026;Société Générale Maroc;Échéance d'emprunt;Échéance d'emprunt;;88 953,34;667 344,40
+21/01/2026;Société Générale Maroc;Règlement client;Encaissements clients;139 454,74;;806 799,14
+21/01/2026;Attijariwafa bank;Impôt sur les sociétés;Impôt sur les sociétés;;1 168,06;664 916,75
+22/01/2026;Société Générale Maroc;Fournisseurs;Fournisseurs;;303 476,37;503 322,77
+23/01/2026;Société Générale Maroc;Règlement client;Encaissements clients;107 453,23;;610 776,00
+23/01/2026;Attijariwafa bank;Règlement client;Encaissements clients;112 492,83;;777 409,58
+25/01/2026;Société Générale Maroc;Règlement client;Encaissements clients;129 222,26;;739 998,26
+25/01/2026;Attijariwafa bank;Énergie et télécoms;Énergie et télécoms;;5 641,88;771 767,70
+28/01/2026;Attijariwafa bank;Salaires;Salaires;;499 098,52;272 669,18
+02/02/2026;Attijariwafa bank;Règlement client;Encaissements clients;173 289,15;;445 958,33
+03/02/2026;Attijariwafa bank;Fournisseurs;Fournisseurs;;330 397,99;115 560,33
+04/02/2026;Attijariwafa bank;Loyer et charges;Loyer et charges;;7 442,09;108 118,24
+05/02/2026;Attijariwafa bank;Échéance d'emprunt;Échéance d'emprunt;;71 252,82;36 865,42
+06/02/2026;Société Générale Maroc;Règlement client;Encaissements clients;189 439,57;;929 437,83
+06/02/2026;Société Générale Maroc;Fournisseurs;Fournisseurs;;250 639,23;678 798,60
+06/02/2026;Attijariwafa bank;Impôt sur les sociétés;Impôt sur les sociétés;;1 169,41;35 696,02
+07/02/2026;Société Générale Maroc;Règlement client;Encaissements clients;172 923,69;;851 722,29
+07/02/2026;Société Générale Maroc;Impôts et taxes;Impôts et taxes;;17 393,48;834 328,81
+08/02/2026;Attijariwafa bank;Investissements;Investissements;;16 587,99;19 108,03
+09/02/2026;Société Générale Maroc;Règlement client;Encaissements clients;91 874,32;;926 203,13
+10/02/2026;Attijariwafa bank;Règlement client;Encaissements clients;123 634,99;;142 743,01
+10/02/2026;Attijariwafa bank;CNSS;CNSS;;105 732,15;37 010,87
+11/02/2026;Attijariwafa bank;Énergie et télécoms;Énergie et télécoms;;5 160,04;31 850,83
+12/02/2026;Attijariwafa bank;Règlement client;Encaissements clients;205 180,42;;237 031,25
+12/02/2026;Société Générale Maroc;Investissements;Investissements;;14 882,97;911 320,15
+12/02/2026;Attijariwafa bank;Investissements;Investissements;;17 447,52;219 583,73
+12/02/2026;Société Générale Maroc;Énergie et télécoms;Énergie et télécoms;;5 245,32;906 074,83
+13/02/2026;Société Générale Maroc;Énergie et télécoms;Énergie et télécoms;;5 492,09;900 582,74
+14/02/2026;Attijariwafa bank;Règlement client;Encaissements clients;96 766,31;;316 350,04
+15/02/2026;Attijariwafa bank;Fournisseurs;Fournisseurs;;329 000,07;-12 650,02
+15/02/2026;Attijariwafa bank;Énergie et télécoms;Énergie et télécoms;;4 420,31;-17 070,34
+16/02/2026;Société Générale Maroc;Règlement client;Encaissements clients;160 388,75;;1 060 971,49
+17/02/2026;Société Générale Maroc;Règlement client;Encaissements clients;130 681,08;;1 191 652,57
+17/02/2026;Société Générale Maroc;Investissements;Investissements;;14 961,43;1 176 691,14
+18/02/2026;Société Générale Maroc;Loyer et charges;Loyer et charges;;8 436,23;1 168 254,91
+19/02/2026;Attijariwafa bank;Fournisseurs;Fournisseurs;;252 516,64;-269 586,98
+19/02/2026;Attijariwafa bank;Impôt sur les sociétés;Impôt sur les sociétés;;1 058,58;-270 645,56
+19/02/2026;Société Générale Maroc;TVA à payer;TVA à payer;;36 908,20;1 131 346,71
+20/02/2026;Société Générale Maroc;Impôt sur les sociétés;Impôt sur les sociétés;;998,18;1 130 348,53
+20/02/2026;Attijariwafa bank;Loyer et charges;Loyer et charges;;9 704,34;-280 349,89
+20/02/2026;Attijariwafa bank;Loyer et charges;Loyer et charges;;9 743,69;-290 093,59
+21/02/2026;Société Générale Maroc;TVA à payer;TVA à payer;;34 975,07;1 095 373,45
+22/02/2026;Société Générale Maroc;Règlement client;Encaissements clients;140 854,67;;1 236 228,12
+23/02/2026;Attijariwafa bank;Règlement client;Encaissements clients;192 191,24;;-97 902,35
+23/02/2026;Attijariwafa bank;TVA à payer;TVA à payer;;35 882,90;-133 785,25
+26/02/2026;Attijariwafa bank;Règlement client;Encaissements clients;102 904,65;;-30 880,61
+26/02/2026;Société Générale Maroc;Règlement client;Encaissements clients;120 652,39;;1 356 880,51
+27/02/2026;Société Générale Maroc;Impôt sur les sociétés;Impôt sur les sociétés;;984,17;1 355 896,34
+27/02/2026;Attijariwafa bank;TVA à payer;TVA à payer;;34 910,98;-65 791,58
+28/02/2026;Attijariwafa bank;Salaires;Salaires;;501 919,99;-567 711,57
+03/03/2026;Attijariwafa bank;Investissements;Investissements;;19 921,40;-587 632,97
+04/03/2026;Société Générale Maroc;Investissements;Investissements;;15 867,55;1 340 028,79
+07/03/2026;Attijariwafa bank;Fournisseurs;Fournisseurs;;324 675,70;-912 308,67
+07/03/2026;Société Générale Maroc;Impôt sur les sociétés;Impôt sur les sociétés;;1 121,48;1 338 907,31
+08/03/2026;Attijariwafa bank;Règlement client;Encaissements clients;191 461,68;;-720 846,99
+08/03/2026;Société Générale Maroc;Règlement client;Encaissements clients;212 768,67;;1 551 675,98
+08/03/2026;Société Générale Maroc;Loyer et charges;Loyer et charges;;8 779,51;1 542 896,47
+09/03/2026;Attijariwafa bank;Loyer et charges;Loyer et charges;;8 525,34;-729 372,33
+10/03/2026;Attijariwafa bank;Règlement client;Encaissements clients;98 772,45;;-630 599,88
+10/03/2026;Attijariwafa bank;CNSS;CNSS;;93 259,57;-723 859,46
+10/03/2026;Société Générale Maroc;Fournisseurs;Fournisseurs;;321 026,48;1 221 869,99
+10/03/2026;Attijariwafa bank;Loyer et charges;Loyer et charges;;7 562,07;-731 421,52
+11/03/2026;Attijariwafa bank;Énergie et télécoms;Énergie et télécoms;;4 434,05;-735 855,58
+12/03/2026;Attijariwafa bank;Règlement client;Encaissements clients;156 138,42;;-579 717,16
+12/03/2026;Société Générale Maroc;Impôt sur les sociétés;Impôt sur les sociétés;;1 093,76;1 220 776,22
+13/03/2026;Société Générale Maroc;Impôts et taxes;Impôts et taxes;;15 418,70;1 205 357,52
+13/03/2026;Attijariwafa bank;TVA à payer;TVA à payer;;35 291,26;-615 008,42
+14/03/2026;Société Générale Maroc;Règlement client;Encaissements clients;188 795,04;;1 394 152,56
+14/03/2026;Attijariwafa bank;Énergie et télécoms;Énergie et télécoms;;4 631,97;-619 640,39
+15/03/2026;Attijariwafa bank;Énergie et télécoms;Énergie et télécoms;;5 849,67;-625 490,06
+18/03/2026;Société Générale Maroc;Fournisseurs;Fournisseurs;;307 799,24;1 086 353,33
+18/03/2026;Attijariwafa bank;Impôt sur les sociétés;Impôt sur les sociétés;;1 014,10;-626 504,16
+19/03/2026;Attijariwafa bank;Investissements;Investissements;;18 809,45;-645 313,61
+19/03/2026;Attijariwafa bank;TVA à payer;TVA à payer;;29 634,75;-674 948,36
+20/03/2026;Attijariwafa bank;Échéance d'emprunt;Échéance d'emprunt;;71 687,00;-746 635,35
+22/03/2026;Société Générale Maroc;Règlement client;Encaissements clients;136 956,15;;1 223 309,48
+22/03/2026;Attijariwafa bank;Règlement client;Encaissements clients;138 246,76;;-608 388,59
+22/03/2026;Société Générale Maroc;Loyer et charges;Loyer et charges;;8 423,98;1 214 885,50
+22/03/2026;Attijariwafa bank;TVA à payer;TVA à payer;;33 994,84;-642 383,43
+23/03/2026;Société Générale Maroc;Règlement client;Encaissements clients;155 005,49;;1 369 890,99
+24/03/2026;Attijariwafa bank;Règlement client;Encaissements clients;113 862,20;;-528 521,23
+24/03/2026;Attijariwafa bank;Règlement client;Encaissements clients;144 289,92;;-384 231,31
+24/03/2026;Attijariwafa bank;Fournisseurs;Fournisseurs;;318 120,39;-702 351,70
+25/03/2026;Société Générale Maroc;Règlement client;Encaissements clients;112 547,62;;1 482 438,61
+25/03/2026;Attijariwafa bank;TVA à payer;TVA à payer;;32 130,32;-734 482,02
+25/03/2026;Société Générale Maroc;Énergie et télécoms;Énergie et télécoms;;4 760,23;1 477 678,38
+26/03/2026;Attijariwafa bank;Impôt sur les sociétés;Impôt sur les sociétés;;1 207,41;-735 689,43
+26/03/2026;Société Générale Maroc;Investissements;Investissements;;19 764,66;1 457 913,71
+28/03/2026;Attijariwafa bank;Salaires;Salaires;;470 898,93;-1 206 588,36
+04/04/2026;Société Générale Maroc;Énergie et télécoms;Énergie et télécoms;;4 903,58;1 453 010,13
+05/04/2026;Société Générale Maroc;Énergie et télécoms;Énergie et télécoms;;5 344,95;1 447 665,19
+06/04/2026;Société Générale Maroc;Règlement client;Encaissements clients;158 216,34;;1 605 881,53
+06/04/2026;Attijariwafa bank;Impôt sur les sociétés;Impôt sur les sociétés;;915,43;-1 207 503,79
+06/04/2026;Société Générale Maroc;Énergie et télécoms;Énergie et télécoms;;4 775,39;1 601 106,14
+07/04/2026;Attijariwafa bank;Impôts et taxes;Impôts et taxes;;15 798,12;-1 223 301,90
+07/04/2026;Attijariwafa bank;Loyer et charges;Loyer et charges;;8 267,52;-1 231 569,42
+08/04/2026;Société Générale Maroc;TVA à payer;TVA à payer;;32 023,94;1 569 082,19
+10/04/2026;Attijariwafa bank;Règlement client;Encaissements clients;129 288,34;;-1 102 281,08
+10/04/2026;Attijariwafa bank;CNSS;CNSS;;101 418,41;-1 203 699,49
+11/04/2026;Société Générale Maroc;Investissements;Investissements;;17 787,58;1 551 294,61
+11/04/2026;Attijariwafa bank;Énergie et télécoms;Énergie et télécoms;;4 649,77;-1 208 349,26
+12/04/2026;Attijariwafa bank;Règlement client;Encaissements clients;182 150,92;;-1 026 198,34
+12/04/2026;Société Générale Maroc;Impôt sur les sociétés;Impôt sur les sociétés;;1 157,83;1 550 136,79
+13/04/2026;Attijariwafa bank;Règlement client;Encaissements clients;120 641,58;;-905 556,76
+13/04/2026;Attijariwafa bank;Impôt sur les sociétés;Impôt sur les sociétés;;938,17;-906 494,93
+13/04/2026;Société Générale Maroc;Loyer et charges;Loyer et charges;;8 834,77;1 541 302,02
+14/04/2026;Société Générale Maroc;TVA à payer;TVA à payer;;34 653,34;1 506 648,68
+15/04/2026;Société Générale Maroc;Règlement client;Encaissements clients;169 791,99;;1 676 440,67
+16/04/2026;Société Générale Maroc;Fournisseurs;Fournisseurs;;249 868,99;1 426 571,68
+16/04/2026;Attijariwafa bank;Impôt sur les sociétés;Impôt sur les sociétés;;1 035,76;-907 530,69
+16/04/2026;Attijariwafa bank;Investissements;Investissements;;19 522,02;-927 052,72
+16/04/2026;Attijariwafa bank;TVA à payer;TVA à payer;;34 332,62;-961 385,34
+17/04/2026;Société Générale Maroc;Échéance d'emprunt;Échéance d'emprunt;;80 805,75;1 345 765,93
+18/04/2026;Société Générale Maroc;Investissements;Investissements;;17 517,84;1 328 248,08
+19/04/2026;Attijariwafa bank;Règlement client;Encaissements clients;104 327,78;;-857 057,56
+19/04/2026;Attijariwafa bank;Fournisseurs;Fournisseurs;;289 676,16;-1 146 733,72
+19/04/2026;Attijariwafa bank;Fournisseurs;Fournisseurs;;324 469,15;-1 471 202,87
+19/04/2026;Société Générale Maroc;TVA à payer;TVA à payer;;33 609,09;1 294 638,99
+21/04/2026;Société Générale Maroc;Fournisseurs;Fournisseurs;;275 763,27;1 018 875,72
+23/04/2026;Société Générale Maroc;Loyer et charges;Loyer et charges;;8 864,68;1 010 011,05
+25/04/2026;Attijariwafa bank;Règlement client;Encaissements clients;150 811,92;;-1 320 390,94
+26/04/2026;Société Générale Maroc;Investissements;Investissements;;18 891,56;991 119,49
+27/04/2026;Société Générale Maroc;Règlement client;Encaissements clients;181 037,41;;1 172 156,90
+27/04/2026;Société Générale Maroc;Loyer et charges;Loyer et charges;;8 815,53;1 163 341,36
+28/04/2026;Société Générale Maroc;Règlement client;Encaissements clients;166 209,81;;1 329 551,17
+28/04/2026;Société Générale Maroc;Règlement client;Encaissements clients;211 472,67;;1 541 023,85
+28/04/2026;Attijariwafa bank;Salaires;Salaires;;512 792,57;-1 833 183,51
+04/05/2026;Société Générale Maroc;TVA à payer;TVA à payer;;38 614,22;1 502 409,63
+05/05/2026;Attijariwafa bank;Impôt sur les sociétés;Impôt sur les sociétés;;983,61;-1 834 167,12
+06/05/2026;Société Générale Maroc;Règlement client;Encaissements clients;111 295,15;;1 613 704,78
+06/05/2026;Société Générale Maroc;Impôt sur les sociétés;Impôt sur les sociétés;;1 217,00;1 612 487,78
+07/05/2026;Attijariwafa bank;Règlement client;Encaissements clients;123 281,45;;-1 710 885,67
+07/05/2026;Attijariwafa bank;Loyer et charges;Loyer et charges;;8 371,73;-1 719 257,40
+08/05/2026;Attijariwafa bank;Règlement client;Encaissements clients;189 880,11;;-1 529 377,29
+08/05/2026;Société Générale Maroc;Énergie et télécoms;Énergie et télécoms;;5 016,59;1 607 471,19
+09/05/2026;Attijariwafa bank;Règlement client;Encaissements clients;197 214,34;;-1 332 162,95
+10/05/2026;Attijariwafa bank;Règlement client;Encaissements clients;158 733,82;;-1 173 429,13
+10/05/2026;Attijariwafa bank;CNSS;CNSS;;116 529,21;-1 289 958,34
+10/05/2026;Société Générale Maroc;Énergie et télécoms;Énergie et télécoms;;5 860,51;1 601 610,68
+11/05/2026;Société Générale Maroc;Investissements;Investissements;;14 912,03;1 586 698,65
+12/05/2026;Société Générale Maroc;Fournisseurs;Fournisseurs;;250 061,71;1 336 636,95
+13/05/2026;Attijariwafa bank;Règlement client;Encaissements clients;173 090,55;;-1 116 867,79
+14/05/2026;Société Générale Maroc;Règlement client;Encaissements clients;138 784,26;;1 475 421,21
+14/05/2026;Attijariwafa bank;Impôts et taxes;Impôts et taxes;;18 651,49;-1 135 519,28
+14/05/2026;Société Générale Maroc;TVA à payer;TVA à payer;;34 674,00;1 440 747,20
+14/05/2026;Attijariwafa bank;Échéance d'emprunt;Échéance d'emprunt;;85 716,72;-1 221 235,99
+15/05/2026;Société Générale Maroc;Impôt sur les sociétés;Impôt sur les sociétés;;1 061,03;1 439 686,17
+15/05/2026;Attijariwafa bank;Loyer et charges;Loyer et charges;;8 275,37;-1 229 511,36
+16/05/2026;Société Générale Maroc;Règlement client;Encaissements clients;102 780,37;;1 542 466,53
+16/05/2026;Société Générale Maroc;Règlement client;Encaissements clients;189 740,86;;1 732 207,39
+16/05/2026;Attijariwafa bank;TVA à payer;TVA à payer;;37 449,48;-1 266 960,85
+17/05/2026;Société Générale Maroc;Règlement client;Encaissements clients;99 445,45;;1 831 652,84
+17/05/2026;Société Générale Maroc;Règlement client;Encaissements clients;125 615,10;;1 957 267,94
+19/05/2026;Société Générale Maroc;Impôt sur les sociétés;Impôt sur les sociétés;;912,52;1 956 355,42
+19/05/2026;Attijariwafa bank;Investissements;Investissements;;19 955,29;-1 286 916,14
+19/05/2026;Société Générale Maroc;Énergie et télécoms;Énergie et télécoms;;4 522,99;1 951 832,43
+21/05/2026;Attijariwafa bank;Règlement client;Encaissements clients;157 503,46;;-1 129 412,68
+21/05/2026;Attijariwafa bank;Loyer et charges;Loyer et charges;;8 561,40;-1 137 974,08
+22/05/2026;Société Générale Maroc;Règlement client;Encaissements clients;94 126,62;;2 045 959,04
+22/05/2026;Attijariwafa bank;Règlement client;Encaissements clients;103 563,77;;-1 034 410,30
+22/05/2026;Attijariwafa bank;TVA à payer;TVA à payer;;32 557,50;-1 066 967,80
+22/05/2026;Société Générale Maroc;Énergie et télécoms;Énergie et télécoms;;4 953,30;2 041 005,75
+23/05/2026;Attijariwafa bank;Fournisseurs;Fournisseurs;;279 959,75;-1 346 927,55
+23/05/2026;Société Générale Maroc;Fournisseurs;Fournisseurs;;297 273,46;1 743 732,29
+23/05/2026;Société Générale Maroc;Investissements;Investissements;;20 091,84;1 723 640,44
+24/05/2026;Attijariwafa bank;Loyer et charges;Loyer et charges;;8 543,15;-1 355 470,70
+25/05/2026;Société Générale Maroc;Fournisseurs;Fournisseurs;;314 962,92;1 408 677,52
+27/05/2026;Attijariwafa bank;Investissements;Investissements;;15 906,23;-1 371 376,93
+28/05/2026;Attijariwafa bank;Règlement client;Encaissements clients;189 524,48;;-1 181 852,45
+28/05/2026;Attijariwafa bank;Salaires;Salaires;;428 484,21;-1 610 336,66
+04/06/2026;Société Générale Maroc;Énergie et télécoms;Énergie et télécoms;;5 554,20;1 403 123,32
+05/06/2026;Société Générale Maroc;TVA à payer;TVA à payer;;38 443,48;1 364 679,84
+06/06/2026;Attijariwafa bank;Impôt sur les sociétés;Impôt sur les sociétés;;1 166,63;-1 611 503,29
+06/06/2026;Société Générale Maroc;Énergie et télécoms;Énergie et télécoms;;5 651,71;1 359 028,13
+07/06/2026;Société Générale Maroc;Règlement client;Encaissements clients;167 424,19;;1 526 452,31
+08/06/2026;Société Générale Maroc;Fournisseurs;Fournisseurs;;300 282,22;1 226 170,09
+08/06/2026;Attijariwafa bank;Loyer et charges;Loyer et charges;;8 614,83;-1 620 118,12
+09/06/2026;Société Générale Maroc;Règlement client;Encaissements clients;122 952,24;;1 349 122,33
+09/06/2026;Société Générale Maroc;Règlement client;Encaissements clients;172 388,24;;1 521 510,58
+09/06/2026;Société Générale Maroc;TVA à payer;TVA à payer;;35 032,50;1 486 478,08
+09/06/2026;Société Générale Maroc;Échéance d'emprunt;Échéance d'emprunt;;87 450,74;1 399 027,35
+10/06/2026;Attijariwafa bank;CNSS;CNSS;;111 645,66;-1 731 763,79
+11/06/2026;Attijariwafa bank;Règlement client;Encaissements clients;174 068,29;;-1 557 695,50
+11/06/2026;Attijariwafa bank;Impôt sur les sociétés;Impôt sur les sociétés;;1 060,45;-1 558 755,95
+12/06/2026;Société Générale Maroc;Investissements;Investissements;;16 574,37;1 382 452,98
+12/06/2026;Attijariwafa bank;Loyer et charges;Loyer et charges;;9 711,33;-1 568 467,28
+12/06/2026;Attijariwafa bank;TVA à payer;TVA à payer;;39 102,22;-1 607 569,49
+12/06/2026;Société Générale Maroc;Énergie et télécoms;Énergie et télécoms;;4 394,23;1 378 058,75
+13/06/2026;Société Générale Maroc;Règlement client;Encaissements clients;91 635,14;;1 469 693,89
+14/06/2026;Société Générale Maroc;Fournisseurs;Fournisseurs;;310 908,40;1 158 785,48
+15/06/2026;Société Générale Maroc;Énergie et télécoms;Énergie et télécoms;;4 883,58;1 153 901,90
+16/06/2026;Attijariwafa bank;Règlement client;Encaissements clients;152 216,39;;-1 455 353,10
+16/06/2026;Société Générale Maroc;Fournisseurs;Fournisseurs;;328 074,18;825 827,73
+16/06/2026;Attijariwafa bank;Impôt sur les sociétés;Impôt sur les sociétés;;1 141,78;-1 456 494,89
+16/06/2026;Société Générale Maroc;Investissements;Investissements;;16 198,96;809 628,77
+16/06/2026;Attijariwafa bank;TVA à payer;TVA à payer;;35 295,98;-1 491 790,86
+19/06/2026;Société Générale Maroc;Investissements;Investissements;;19 101,46;790 527,31
+20/06/2026;Société Générale Maroc;Règlement client;Encaissements clients;120 506,66;;911 033,97
+21/06/2026;Société Générale Maroc;Fournisseurs;Fournisseurs;;306 706,61;604 327,35
+21/06/2026;Société Générale Maroc;Impôt sur les sociétés;Impôt sur les sociétés;;1 016,56;603 310,80
+23/06/2026;Société Générale Maroc;Règlement client;Encaissements clients;103 825,14;;707 135,94
+23/06/2026;Société Générale Maroc;Impôts et taxes;Impôts et taxes;;16 636,87;690 499,07
+23/06/2026;Attijariwafa bank;Loyer et charges;Loyer et charges;;8 330,12;-1 500 120,99
+24/06/2026;Attijariwafa bank;Règlement client;Encaissements clients;150 941,71;;-1 349 179,28
+24/06/2026;Société Générale Maroc;Investissements;Investissements;;18 637,62;671 861,44
+25/06/2026;Société Générale Maroc;Loyer et charges;Loyer et charges;;9 528,73;662 332,72
+26/06/2026;Société Générale Maroc;Règlement client;Encaissements clients;198 137,05;;860 469,77
+27/06/2026;Société Générale Maroc;Règlement client;Encaissements clients;114 093,51;;974 563,28
+28/06/2026;Attijariwafa bank;Règlement client;Encaissements clients;186 648,96;;-1 162 530,32
+28/06/2026;Attijariwafa bank;Salaires;Salaires;;577 008,25;-1 739 538,57
+03/07/2026;Attijariwafa bank;Investissements;Investissements;;15 910,72;-1 755 449,30
+04/07/2026;Attijariwafa bank;Fournisseurs;Fournisseurs;;302 312,79;-2 057 762,09
+04/07/2026;Société Générale Maroc;Échéance d'emprunt;Échéance d'emprunt;;91 337,87;883 225,41
+06/07/2026;Société Générale Maroc;Loyer et charges;Loyer et charges;;9 380,91;873 844,50
+07/07/2026;Attijariwafa bank;Règlement client;Encaissements clients;112 319,18;;-1 945 442,91
+07/07/2026;Société Générale Maroc;Fournisseurs;Fournisseurs;;302 658,12;571 186,38
+10/07/2026;Attijariwafa bank;CNSS;CNSS;;106 187,84;-2 051 630,75
+10/07/2026;Société Générale Maroc;TVA à payer;TVA à payer;;34 435,45;536 750,93
+10/07/2026;Attijariwafa bank;TVA à payer;TVA à payer;;36 770,88;-2 088 401,63
+11/07/2026;Société Générale Maroc;Investissements;Investissements;;16 102,10;520 648,84
+12/07/2026;Société Générale Maroc;Règlement client;Encaissements clients;149 432,05;;670 080,89
+12/07/2026;Attijariwafa bank;Impôts et taxes;Impôts et taxes;;17 696,21;-2 106 097,84
+13/07/2026;Société Générale Maroc;TVA à payer;TVA à payer;;35 610,52;634 470,36
+14/07/2026;Société Générale Maroc;Règlement client;Encaissements clients;144 296,14;;778 766,50
+14/07/2026;Attijariwafa bank;Règlement client;Encaissements clients;207 063,96;;-1 899 033,88
+14/07/2026;Attijariwafa bank;Impôt sur les sociétés;Impôt sur les sociétés;;1 041,56;-1 900 075,45
+17/07/2026;Attijariwafa bank;Règlement client;Encaissements clients;159 324,37;;-1 740 751,08
+17/07/2026;Attijariwafa bank;Règlement client;Encaissements clients;205 163,18;;-1 535 587,90
+17/07/2026;Attijariwafa bank;Loyer et charges;Loyer et charges;;8 518,68;-1 544 106,58
+18/07/2026;Attijariwafa bank;Règlement client;Encaissements clients;143 166,46;;-1 400 940,12
+19/07/2026;Attijariwafa bank;Loyer et charges;Loyer et charges;;7 536,08;-1 408 476,20
+20/07/2026;Société Générale Maroc;Règlement client;Encaissements clients;129 737,85;;908 504,35
+20/07/2026;Attijariwafa bank;Règlement client;Encaissements clients;144 288,60;;-1 264 187,60
+20/07/2026;Attijariwafa bank;Règlement client;Encaissements clients;148 396,94;;-1 115 790,66
+20/07/2026;Attijariwafa bank;Règlement client;Encaissements clients;171 607,81;;-944 182,85
+20/07/2026;Attijariwafa bank;Impôt sur les sociétés;Impôt sur les sociétés;;1 121,50;-945 304,35
+20/07/2026;Attijariwafa bank;Énergie et télécoms;Énergie et télécoms;;4 943,23;-950 247,58
+21/07/2026;Société Générale Maroc;Énergie et télécoms;Énergie et télécoms;;5 364,68;903 139,67
+22/07/2026;Société Générale Maroc;Fournisseurs;Fournisseurs;;286 505,67;616 633,99
+23/07/2026;Attijariwafa bank;Règlement client;Encaissements clients;176 459,12;;-773 788,46
+23/07/2026;Attijariwafa bank;Fournisseurs;Fournisseurs;;271 405,86;-1 045 194,32
+23/07/2026;Attijariwafa bank;Impôt sur les sociétés;Impôt sur les sociétés;;1 162,00;-1 046 356,32
+23/07/2026;Attijariwafa bank;Investissements;Investissements;;19 402,70;-1 065 759,02
+23/07/2026;Société Générale Maroc;TVA à payer;TVA à payer;;32 023,22;584 610,77
+24/07/2026;Société Générale Maroc;Énergie et télécoms;Énergie et télécoms;;5 825,50;578 785,27
+25/07/2026;Société Générale Maroc;Règlement client;Encaissements clients;190 664,75;;769 450,03
+25/07/2026;Société Générale Maroc;Investissements;Investissements;;18 640,49;750 809,53
+26/07/2026;Attijariwafa bank;Règlement client;Encaissements clients;101 185,33;;-964 573,69
+26/07/2026;Attijariwafa bank;Règlement client;Encaissements clients;113 630,87;;-850 942,82
+26/07/2026;Société Générale Maroc;Loyer et charges;Loyer et charges;;8 121,18;742 688,35
+26/07/2026;Société Générale Maroc;Énergie et télécoms;Énergie et télécoms;;4 390,99;738 297,37
+27/07/2026;Société Générale Maroc;Règlement client;Encaissements clients;181 202,52;;919 499,89
+27/07/2026;Attijariwafa bank;Impôt sur les sociétés;Impôt sur les sociétés;;1 023,37;-851 966,20
+28/07/2026;Attijariwafa bank;Salaires;Salaires;;493 515,87;-1 345 482,06
+03/08/2026;Attijariwafa bank;Fournisseurs;Fournisseurs;;262 964,07;-1 608 446,13
+03/08/2026;Attijariwafa bank;Énergie et télécoms;Énergie et télécoms;;5 169,11;-1 613 615,24
+05/08/2026;Société Générale Maroc;Impôts et taxes;Impôts et taxes;;18 193,41;901 306,47
+06/08/2026;Société Générale Maroc;Règlement client;Encaissements clients;213 025,01;;1 114 331,49
+07/08/2026;Attijariwafa bank;Règlement client;Encaissements clients;193 801,11;;-1 419 814,13
+07/08/2026;Société Générale Maroc;Investissements;Investissements;;18 929,39;1 095 402,10
+07/08/2026;Attijariwafa bank;TVA à payer;TVA à payer;;38 841,79;-1 458 655,93
+08/08/2026;Attijariwafa bank;Fournisseurs;Fournisseurs;;294 329,68;-1 752 985,61
+09/08/2026;Société Générale Maroc;Règlement client;Encaissements clients;96 903,86;;1 192 305,96
+09/08/2026;Attijariwafa bank;Règlement client;Encaissements clients;147 164,23;;-1 605 821,38
+10/08/2026;Société Générale Maroc;Règlement client;Encaissements clients;146 459,22;;1 338 765,18
+10/08/2026;Attijariwafa bank;CNSS;CNSS;;109 332,67;-1 715 154,05
+10/08/2026;Société Générale Maroc;Impôt sur les sociétés;Impôt sur les sociétés;;1 214,06;1 337 551,13
+10/08/2026;Attijariwafa bank;Échéance d'emprunt;Échéance d'emprunt;;71 452,62;-1 786 606,67
+10/08/2026;Attijariwafa bank;Énergie et télécoms;Énergie et télécoms;;4 385,45;-1 790 992,12
+12/08/2026;Attijariwafa bank;Règlement client;Encaissements clients;109 418,51;;-1 681 573,61
+12/08/2026;Société Générale Maroc;Loyer et charges;Loyer et charges;;8 326,51;1 329 224,61
+14/08/2026;Attijariwafa bank;Règlement client;Encaissements clients;123 674,49;;-1 557 899,13
+15/08/2026;Attijariwafa bank;Énergie et télécoms;Énergie et télécoms;;5 093,72;-1 562 992,85
+17/08/2026;Société Générale Maroc;Règlement client;Encaissements clients;177 732,30;;1 506 956,91
+17/08/2026;Attijariwafa bank;Règlement client;Encaissements clients;197 681,03;;-1 365 311,82
+18/08/2026;Attijariwafa bank;Règlement client;Encaissements clients;98 860,58;;-1 266 451,24
+18/08/2026;Attijariwafa bank;Règlement client;Encaissements clients;194 960,85;;-1 071 490,39
+18/08/2026;Société Générale Maroc;Investissements;Investissements;;15 739,65;1 491 217,26
+18/08/2026;Attijariwafa bank;TVA à payer;TVA à payer;;32 863,83;-1 104 354,22
+20/08/2026;Société Générale Maroc;Règlement client;Encaissements clients;148 081,78;;1 639 299,04
+20/08/2026;Société Générale Maroc;Loyer et charges;Loyer et charges;;7 494,28;1 631 804,77
+21/08/2026;Société Générale Maroc;Impôt sur les sociétés;Impôt sur les sociétés;;916,86;1 630 887,91
+21/08/2026;Attijariwafa bank;Impôt sur les sociétés;Impôt sur les sociétés;;1 154,51;-1 105 508,72
+21/08/2026;Attijariwafa bank;Énergie et télécoms;Énergie et télécoms;;5 266,87;-1 110 775,59
+22/08/2026;Attijariwafa bank;Impôt sur les sociétés;Impôt sur les sociétés;;971,41;-1 111 747,00
+22/08/2026;Attijariwafa bank;TVA à payer;TVA à payer;;33 601,18;-1 145 348,19
+23/08/2026;Attijariwafa bank;Investissements;Investissements;;18 550,06;-1 163 898,25
+23/08/2026;Attijariwafa bank;Loyer et charges;Loyer et charges;;7 822,01;-1 171 720,26
+24/08/2026;Société Générale Maroc;Fournisseurs;Fournisseurs;;330 618,93;1 300 268,97
+24/08/2026;Attijariwafa bank;Investissements;Investissements;;20 082,82;-1 191 803,08
+25/08/2026;Attijariwafa bank;Règlement client;Encaissements clients;99 425,87;;-1 092 377,21
+25/08/2026;Attijariwafa bank;Fournisseurs;Fournisseurs;;330 462,54;-1 422 839,75
+26/08/2026;Société Générale Maroc;Règlement client;Encaissements clients;117 643,39;;1 417 912,37
+26/08/2026;Société Générale Maroc;Loyer et charges;Loyer et charges;;8 565,38;1 409 346,98
+26/08/2026;Société Générale Maroc;TVA à payer;TVA à payer;;35 849,52;1 373 497,47
+27/08/2026;Société Générale Maroc;Règlement client;Encaissements clients;170 299,61;;1 543 797,08
+28/08/2026;Attijariwafa bank;Salaires;Salaires;;451 072,06;-1 873 911,81
+02/09/2026;Société Générale Maroc;Règlement client;Encaissements clients;118 905,11;;1 662 702,19
+04/09/2026;Société Générale Maroc;Règlement client;Encaissements clients;145 616,31;;1 808 318,50
+04/09/2026;Société Générale Maroc;Règlement client;Encaissements clients;154 903,05;;1 963 221,55
+05/09/2026;Société Générale Maroc;Règlement client;Encaissements clients;165 017,97;;2 128 239,51
+05/09/2026;Société Générale Maroc;Impôt sur les sociétés;Impôt sur les sociétés;;1 215,67;2 127 023,84
+06/09/2026;Attijariwafa bank;Règlement client;Encaissements clients;175 393,74;;-1 698 518,06
+06/09/2026;Société Générale Maroc;Fournisseurs;Fournisseurs;;256 792,85;1 870 230,99
+07/09/2026;Société Générale Maroc;TVA à payer;TVA à payer;;37 989,18;1 832 241,81
+09/09/2026;Société Générale Maroc;Règlement client;Encaissements clients;181 878,33;;2 014 120,14
+09/09/2026;Attijariwafa bank;Impôt sur les sociétés;Impôt sur les sociétés;;950,64;-1 699 468,70
+09/09/2026;Société Générale Maroc;TVA à payer;TVA à payer;;38 554,11;1 975 566,04
+10/09/2026;Attijariwafa bank;CNSS;CNSS;;109 728,45;-1 809 197,16
+10/09/2026;Attijariwafa bank;TVA à payer;TVA à payer;;29 461,87;-1 838 659,02
+10/09/2026;Attijariwafa bank;Énergie et télécoms;Énergie et télécoms;;5 328,80;-1 843 987,82
+11/09/2026;Attijariwafa bank;Règlement client;Encaissements clients;182 288,47;;-1 661 699,35
+12/09/2026;Attijariwafa bank;Investissements;Investissements;;15 728,35;-1 677 427,70
+13/09/2026;Attijariwafa bank;Fournisseurs;Fournisseurs;;273 924,35;-1 951 352,05
+14/09/2026;Société Générale Maroc;Règlement client;Encaissements clients;140 022,00;;2 115 588,04
+14/09/2026;Société Générale Maroc;Échéance d'emprunt;Échéance d'emprunt;;74 401,55;2 041 186,49
+15/09/2026;Société Générale Maroc;Règlement client;Encaissements clients;95 917,02;;2 137 103,51
+15/09/2026;Société Générale Maroc;Impôt sur les sociétés;Impôt sur les sociétés;;1 145,82;2 135 957,69
+15/09/2026;Attijariwafa bank;Loyer et charges;Loyer et charges;;9 695,31;-1 961 047,37
+16/09/2026;Attijariwafa bank;Impôt sur les sociétés;Impôt sur les sociétés;;1 025,94;-1 962 073,31
+16/09/2026;Attijariwafa bank;Investissements;Investissements;;18 070,61;-1 980 143,92
+16/09/2026;Attijariwafa bank;TVA à payer;TVA à payer;;36 166,21;-2 016 310,13
+17/09/2026;Société Générale Maroc;Règlement client;Encaissements clients;163 841,68;;2 299 799,37
+17/09/2026;Société Générale Maroc;Fournisseurs;Fournisseurs;;262 163,49;2 037 635,88
+17/09/2026;Attijariwafa bank;Fournisseurs;Fournisseurs;;285 796,85;-2 302 106,98
+19/09/2026;Attijariwafa bank;Investissements;Investissements;;15 805,83;-2 317 912,81
+19/09/2026;Attijariwafa bank;Énergie et télécoms;Énergie et télécoms;;5 337,02;-2 323 249,83
+20/09/2026;Société Générale Maroc;Loyer et charges;Loyer et charges;;8 175,87;2 029 460,02
+21/09/2026;Société Générale Maroc;Règlement client;Encaissements clients;130 995,11;;2 160 455,12
+22/09/2026;Société Générale Maroc;Loyer et charges;Loyer et charges;;7 950,17;2 152 504,95
+23/09/2026;Attijariwafa bank;Investissements;Investissements;;17 219,90;-2 340 469,73
+23/09/2026;Société Générale Maroc;Loyer et charges;Loyer et charges;;9 299,74;2 143 205,21
+24/09/2026;Attijariwafa bank;Impôts et taxes;Impôts et taxes;;18 592,31;-2 359 062,04
+24/09/2026;Société Générale Maroc;Énergie et télécoms;Énergie et télécoms;;5 080,94;2 138 124,27
+25/09/2026;Attijariwafa bank;Énergie et télécoms;Énergie et télécoms;;5 565,28;-2 364 627,32
+28/09/2026;Attijariwafa bank;Salaires;Salaires;;440 709,61;-2 805 336,93

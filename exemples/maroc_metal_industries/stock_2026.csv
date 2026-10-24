@@ -1,0 +1,21 @@
+﻿Date inventaire;Article;Famille;Dépôt;Quantité en stock;Stock minimum;Prix unitaire;Sorties;Date de péremption
+31/08/2026;Tôle acier 2 mm (feuille);Matières premières;Atelier;120;80;640,00;219;
+31/08/2026;Tube carré 40x40 (barre);Matières premières;Atelier;441;150;185,00;628;
+31/08/2026;Inox 304 (feuille);Matières premières;Atelier;12;40;1 450,00;105;
+31/08/2026;Fil de soudure (bobine);Consommables;Magasin central;67;30;320,00;129;
+31/08/2026;Gaz argon (bouteille);Consommables;Atelier;24;12;540,00;37;
+31/08/2026;Peinture époxy (seau);Consommables;Magasin central;60;20;760,00;38;21/04/2027
+31/08/2026;Boulonnerie (lot);Consommables;Atelier;115;100;95,00;485;
+31/08/2026;Palettes bois;Emballages;Atelier;74;200;70,00;697;
+31/08/2026;Ancien moule presse;Outillage;Magasin central;2;1;4 800,00;0;
+31/08/2026;Disques de découpe;Consommables;Magasin central;306;150;38,00;593;
+30/09/2026;Tôle acier 2 mm (feuille);Matières premières;Magasin central;106;80;640,00;175;
+30/09/2026;Tube carré 40x40 (barre);Matières premières;Atelier;199;150;185,00;598;
+30/09/2026;Inox 304 (feuille);Matières premières;Atelier;99;40;1 450,00;65;
+30/09/2026;Fil de soudure (bobine);Consommables;Atelier;41;30;320,00;100;
+30/09/2026;Gaz argon (bouteille);Consommables;Atelier;23;12;540,00;28;
+30/09/2026;Peinture époxy (seau);Consommables;Magasin central;29;20;760,00;77;19/01/2027
+30/09/2026;Boulonnerie (lot);Consommables;Magasin central;59;100;95,00;318;
+30/09/2026;Palettes bois;Emballages;Atelier;708;200;70,00;493;
+30/09/2026;Ancien moule presse;Outillage;Atelier;2;1;4 800,00;0;
+30/09/2026;Disques de découpe;Consommables;Atelier;0;150;38,00;395;

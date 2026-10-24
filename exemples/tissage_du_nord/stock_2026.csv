@@ -1,0 +1,21 @@
+﻿Date inventaire;Article;Famille;Dépôt;Quantité en stock;Stock minimum;Prix unitaire;Sorties;Date de péremption
+31/08/2026;Tissu denim (mètre);Tissus;Entrepôt Tanger Free Zone;12205;4000;38,00;19825;
+31/08/2026;Coton popeline (mètre);Tissus;Entrepôt Tanger Free Zone;13481;5000;24,00;11166;
+31/08/2026;Fil polyester (cône);Mercerie;Entrepôt Tanger Free Zone;152;600;22,00;1550;
+31/08/2026;Boutons métal (millier);Mercerie;Entrepôt Tanger Free Zone;24;40;180,00;96;
+31/08/2026;Fermetures éclair (centaine);Mercerie;Entrepôt Tanger Free Zone;87;80;95,00;262;
+31/08/2026;Étiquettes tissées (millier);Mercerie;Entrepôt Tanger Free Zone;60;30;140,00;76;
+31/08/2026;Encre sérigraphie (kg);Consommables;Entrepôt Tanger Free Zone;86;50;210,00;222;04/03/2027
+31/08/2026;Cartons d'expédition;Emballages;Entrepôt Tanger Free Zone;8128;3000;6,00;12229;
+31/08/2026;Tissu imprimé collection 2024;Tissus;Entrepôt Tanger Free Zone;26;100;30,00;0;
+31/08/2026;Toile de travail (mètre);Tissus;Entrepôt Tanger Free Zone;2602;2000;31,00;4073;
+30/09/2026;Tissu denim (mètre);Tissus;Entrepôt Tanger Free Zone;4782;4000;38,00;17674;
+30/09/2026;Coton popeline (mètre);Tissus;Entrepôt Tanger Free Zone;2553;5000;24,00;7487;
+30/09/2026;Fil polyester (cône);Mercerie;Entrepôt Tanger Free Zone;1547;600;22,00;1762;
+30/09/2026;Boutons métal (millier);Mercerie;Entrepôt Tanger Free Zone;59;40;180,00;194;
+30/09/2026;Fermetures éclair (centaine);Mercerie;Entrepôt Tanger Free Zone;124;80;95,00;162;
+30/09/2026;Étiquettes tissées (millier);Mercerie;Entrepôt Tanger Free Zone;25;30;140,00;112;
+30/09/2026;Encre sérigraphie (kg);Consommables;Entrepôt Tanger Free Zone;113;50;210,00;210;30/01/2027
+30/09/2026;Cartons d'expédition;Emballages;Entrepôt Tanger Free Zone;2280;3000;6,00;4777;
+30/09/2026;Tissu imprimé collection 2024;Tissus;Entrepôt Tanger Free Zone;64;100;30,00;0;
+30/09/2026;Toile de travail (mètre);Tissus;Entrepôt Tanger Free Zone;0;2000;31,00;5791;

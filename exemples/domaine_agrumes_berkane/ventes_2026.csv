@@ -1,0 +1,341 @@
+﻿Date facture;Client;Produit;Commercial;Ville;Canal;Quantité;Montant HT;Coût de revient;Statut paiement;Échéance;Objectif mensuel
+02/01/2026;Exportateur Rungis (France);Oranges Maroc Late (kg);Mustapha;Export;Export;24837;126 463,35;72 027,30;Réglé;03/03/2026;2000000
+03/01/2026;Grande distribution Maroc;Oranges Maroc Late (kg);Mustapha;Berkane;Direct;15817;80 477,84;45 869,30;Réglé;04/03/2026;2000000
+03/01/2026;Grande distribution Maroc;Oranges Maroc Late (kg);Service export;Berkane;Direct;15222;79 938,49;44 143,80;Réglé;04/03/2026;2000000
+03/01/2026;Export Russie;Oranges Maroc Late (kg);Mustapha;Export;Export;16507;83 995,43;47 870,30;Réglé;04/03/2026;2000000
+05/01/2026;Export Russie;Clémentines calibre 1 (kg);Mustapha;Export;Export;4278;36 031,90;19 678,80;Réglé;06/03/2026;2000000
+05/01/2026;Grande distribution Maroc;Oranges Maroc Late (kg);Service export;Berkane;Direct;14738;75 353,98;42 740,20;Réglé;06/03/2026;2000000
+05/01/2026;Export Russie;Clémentines calibre 1 (kg);Service export;Export;Export;4140;34 161,75;19 044,00;Réglé;06/03/2026;2000000
+07/01/2026;Export Russie;Clémentines calibre 1 (kg);Mustapha;Export;Export;3221;27 935,36;14 816,60;Réglé;08/03/2026;2000000
+07/01/2026;Exportateur Rungis (France);Agrumes à jus (kg);Service export;Export;Export;5536;11 403,82;7 750,40;Réglé;08/03/2026;2000000
+09/01/2026;Marché de gros Casablanca;Agrumes à jus (kg);Service export;Casablanca;Marché de gros;29575;65 056,17;41 405,00;Réglé;10/03/2026;2000000
+09/01/2026;Grande distribution Maroc;Oranges Maroc Late (kg);Mustapha;Berkane;Direct;18403;97 617,08;53 368,70;Réglé;10/03/2026;2000000
+09/01/2026;Marché de gros Casablanca;Agrumes à jus (kg);Service export;Casablanca;Marché de gros;21998;44 576,41;30 797,20;Réglé;10/03/2026;2000000
+10/01/2026;Exportateur Rungis (France);Agrumes à jus (kg);Mustapha;Export;Export;22529;49 631,98;31 540,60;Non réglé;11/03/2026;2000000
+10/01/2026;Grande distribution Maroc;Agrumes à jus (kg);Service export;Berkane;Direct;12974;28 325,93;18 163,60;Réglé;11/03/2026;2000000
+10/01/2026;Export Russie;Clémentines calibre 1 (kg);Service export;Export;Export;11928;105 541,21;54 868,80;Réglé;11/03/2026;2000000
+12/01/2026;Export Canada;Oranges Maroc Late (kg);Service export;Export;Export;17267;93 233,67;50 074,30;Réglé;13/03/2026;2000000
+12/01/2026;Exportateur Rungis (France);Agrumes à jus (kg);Service export;Export;Export;28028;59 239,89;39 239,20;Réglé;13/03/2026;2000000
+12/01/2026;Exportateur Rungis (France);Clémentines calibre 1 (kg);Service export;Export;Export;13218;108 589,41;60 802,80;Réglé;13/03/2026;2000000
+13/01/2026;Export Canada;Oranges Maroc Late (kg);Mustapha;Export;Export;3422;18 381,42;9 923,80;Non réglé;14/03/2026;2000000
+13/01/2026;Marché de gros Casablanca;Clémentines calibre 1 (kg);Mustapha;Casablanca;Marché de gros;5153;45 161,70;23 703,80;Réglé;14/03/2026;2000000
+20/01/2026;Marché de gros Casablanca;Clémentines calibre 1 (kg);Service export;Casablanca;Marché de gros;16424;146 342,26;75 550,40;Réglé;21/03/2026;2000000
+22/01/2026;Usine de jus (Agadir);Oranges Maroc Late (kg);Mustapha;Agadir;Direct;9803;48 834,84;28 428,70;Réglé;23/03/2026;2000000
+22/01/2026;Exportateur Rungis (France);Agrumes à jus (kg);Service export;Export;Export;11421;24 868,97;15 989,40;Réglé;23/03/2026;2000000
+23/01/2026;Export Russie;Oranges Maroc Late (kg);Service export;Export;Export;15197;79 177,92;44 071,30;Réglé;24/03/2026;2000000
+24/01/2026;Export Russie;Oranges Maroc Late (kg);Service export;Export;Export;19193;99 049,15;55 659,70;Réglé;25/03/2026;2000000
+24/01/2026;Exportateur Rungis (France);Agrumes à jus (kg);Service export;Export;Export;7961;16 182,03;11 145,40;Réglé;25/03/2026;2000000
+26/01/2026;Grande distribution Maroc;Agrumes à jus (kg);Service export;Berkane;Direct;8264;17 076,81;11 569,60;Réglé;27/03/2026;2000000
+27/01/2026;Marché de gros Casablanca;Clémentines calibre 1 (kg);Mustapha;Casablanca;Marché de gros;8384;68 610,22;38 566,40;Réglé;28/03/2026;2000000
+27/01/2026;Exportateur Rungis (France);Agrumes à jus (kg);Mustapha;Export;Export;25377;51 713,52;35 527,80;Réglé;28/03/2026;2000000
+29/01/2026;Marché de gros Casablanca;Oranges Maroc Late (kg);Service export;Casablanca;Marché de gros;22037;118 587,36;63 907,30;Réglé;30/03/2026;2000000
+31/01/2026;Exportateur Rungis (France);Clémentines calibre 1 (kg);Mustapha;Export;Export;7777;68 232,37;35 774,20;Réglé;01/04/2026;2000000
+31/01/2026;Marché de gros Casablanca;Agrumes à jus (kg);Service export;Casablanca;Marché de gros;9982;20 687,17;13 974,80;Réglé;01/04/2026;2000000
+03/02/2026;Export Canada;Agrumes à jus (kg);Service export;Export;Export;21741;46 080,97;30 437,40;Réglé;04/04/2026;2000000
+03/02/2026;Exportateur Rungis (France);Clémentines calibre 1 (kg);Service export;Export;Export;3090;25 228,12;14 214,00;Réglé;04/04/2026;2000000
+03/02/2026;Usine de jus (Agadir);Oranges Maroc Late (kg);Mustapha;Agadir;Direct;5732;29 177,80;16 622,80;Réglé;04/04/2026;2000000
+04/02/2026;Usine de jus (Agadir);Oranges Maroc Late (kg);Mustapha;Agadir;Direct;8185;42 985,52;23 736,50;Réglé;05/04/2026;2000000
+04/02/2026;Marché de gros Casablanca;Clémentines calibre 1 (kg);Mustapha;Casablanca;Marché de gros;2432;21 363,97;11 187,20;Réglé;05/04/2026;2000000
+05/02/2026;Exportateur Rungis (France);Agrumes à jus (kg);Service export;Export;Export;20921;44 074,10;29 289,40;Réglé;06/04/2026;2000000
+05/02/2026;Exportateur Rungis (France);Oranges Maroc Late (kg);Mustapha;Export;Export;22640;120 012,40;65 656,00;Réglé;06/04/2026;2000000
+05/02/2026;Exportateur Rungis (France);Clémentines calibre 1 (kg);Mustapha;Export;Export;12633;112 608,41;58 111,80;Réglé;06/04/2026;2000000
+06/02/2026;Marché de gros Casablanca;Agrumes à jus (kg);Service export;Casablanca;Marché de gros;12073;26 253,94;16 902,20;Réglé;07/04/2026;2000000
+06/02/2026;Marché de gros Casablanca;Oranges Maroc Late (kg);Mustapha;Casablanca;Marché de gros;16882;83 819,54;48 957,80;Réglé;07/04/2026;2000000
+06/02/2026;Grande distribution Maroc;Clémentines calibre 1 (kg);Service export;Berkane;Direct;4760;39 844,19;21 896,00;Réglé;07/04/2026;2000000
+07/02/2026;Exportateur Rungis (France);Agrumes à jus (kg);Service export;Export;Export;12847;26 306,25;17 985,80;Réglé;08/04/2026;2000000
+07/02/2026;Export Canada;Agrumes à jus (kg);Mustapha;Export;Export;9071;18 483,86;12 699,40;Réglé;08/04/2026;2000000
+07/02/2026;Grande distribution Maroc;Clémentines calibre 1 (kg);Mustapha;Berkane;Direct;17395;149 951,60;80 017,00;Réglé;08/04/2026;2000000
+09/02/2026;Exportateur Rungis (France);Clémentines calibre 1 (kg);Service export;Export;Export;11253;91 617,43;51 763,80;Réglé;10/04/2026;2000000
+09/02/2026;Marché de gros Casablanca;Oranges Maroc Late (kg);Service export;Casablanca;Marché de gros;15494;83 314,35;44 932,60;Réglé;10/04/2026;2000000
+09/02/2026;Grande distribution Maroc;Oranges Maroc Late (kg);Service export;Berkane;Direct;7035;36 633,48;20 401,50;Réglé;10/04/2026;2000000
+10/02/2026;Exportateur Rungis (France);Oranges Maroc Late (kg);Mustapha;Export;Export;22474;117 256,67;65 174,60;Réglé;11/04/2026;2000000
+11/02/2026;Marché de gros Casablanca;Agrumes à jus (kg);Mustapha;Casablanca;Marché de gros;27145;59 349,14;38 003,00;Réglé;12/04/2026;2000000
+11/02/2026;Marché de gros Casablanca;Agrumes à jus (kg);Mustapha;Casablanca;Marché de gros;15744;31 922,29;22 041,60;Réglé;12/04/2026;2000000
+12/02/2026;Export Russie;Agrumes à jus (kg);Service export;Export;Export;5576;11 646,80;7 806,40;Réglé;13/04/2026;2000000
+12/02/2026;Exportateur Rungis (France);Oranges Maroc Late (kg);Mustapha;Export;Export;23085;115 286,10;66 946,50;Réglé;13/04/2026;2000000
+12/02/2026;Exportateur Rungis (France);Agrumes à jus (kg);Service export;Export;Export;10416;22 232,50;14 582,40;Réglé;13/04/2026;2000000
+13/02/2026;Exportateur Rungis (France);Clémentines calibre 1 (kg);Mustapha;Export;Export;11409;98 640,97;52 481,40;Réglé;14/04/2026;2000000
+14/02/2026;Exportateur Rungis (France);Oranges Maroc Late (kg);Service export;Export;Export;18025;97 363,37;52 272,50;Réglé;15/04/2026;2000000
+14/02/2026;Grande distribution Maroc;Oranges Maroc Late (kg);Service export;Berkane;Direct;20873;106 167,69;60 531,70;Réglé;15/04/2026;2000000
+14/02/2026;Exportateur Rungis (France);Oranges Maroc Late (kg);Service export;Export;Export;21460;112 025,97;62 234,00;Réglé;15/04/2026;2000000
+20/02/2026;Grande distribution Maroc;Clémentines calibre 1 (kg);Mustapha;Berkane;Direct;8972;77 427,77;41 271,20;Réglé;21/04/2026;2000000
+20/02/2026;Usine de jus (Agadir);Clémentines calibre 1 (kg);Service export;Agadir;Direct;8380;73 822,64;38 548,00;Réglé;21/04/2026;2000000
+24/02/2026;Export Russie;Clémentines calibre 1 (kg);Mustapha;Export;Export;14271;121 302,15;65 646,60;Réglé;25/04/2026;2000000
+25/02/2026;Exportateur Rungis (France);Agrumes à jus (kg);Mustapha;Export;Export;17821;36 110,44;24 949,40;Réglé;26/04/2026;2000000
+26/02/2026;Exportateur Rungis (France);Clémentines calibre 1 (kg);Service export;Export;Export;15202;128 030,39;69 929,20;Réglé;27/04/2026;2000000
+27/02/2026;Marché de gros Casablanca;Clémentines calibre 1 (kg);Mustapha;Casablanca;Marché de gros;16461;135 407,97;75 720,60;Non réglé;28/04/2026;2000000
+27/02/2026;Usine de jus (Agadir);Agrumes à jus (kg);Mustapha;Agadir;Direct;10133;21 856,58;14 186,20;Réglé;28/04/2026;2000000
+27/02/2026;Exportateur Rungis (France);Clémentines calibre 1 (kg);Service export;Export;Export;3851;32 209,24;17 714,60;Réglé;28/04/2026;2000000
+04/03/2026;Grande distribution Maroc;Agrumes à jus (kg);Mustapha;Berkane;Direct;20873;44 401,59;29 222,20;Réglé;03/05/2026;2000000
+04/03/2026;Exportateur Rungis (France);Oranges Maroc Late (kg);Mustapha;Export;Export;13099;70 581,55;37 987,10;Réglé;03/05/2026;2000000
+04/03/2026;Usine de jus (Agadir);Clémentines calibre 1 (kg);Mustapha;Agadir;Direct;10929;88 708,48;50 273,40;Réglé;03/05/2026;2000000
+05/03/2026;Grande distribution Maroc;Clémentines calibre 1 (kg);Service export;Berkane;Direct;12109;98 810,10;55 701,40;Réglé;04/05/2026;2000000
+06/03/2026;Exportateur Rungis (France);Clémentines calibre 1 (kg);Service export;Export;Export;11198;99 213,75;51 510,80;Réglé;05/05/2026;2000000
+07/03/2026;Grande distribution Maroc;Clémentines calibre 1 (kg);Mustapha;Berkane;Direct;12160;101 933,29;55 936,00;Réglé;06/05/2026;2000000
+07/03/2026;Grande distribution Maroc;Oranges Maroc Late (kg);Mustapha;Berkane;Direct;6851;35 717,72;19 867,90;Réglé;06/05/2026;2000000
+07/03/2026;Marché de gros Casablanca;Oranges Maroc Late (kg);Service export;Casablanca;Marché de gros;4447;22 437,63;12 896,30;Réglé;06/05/2026;2000000
+09/03/2026;Exportateur Rungis (France);Agrumes à jus (kg);Service export;Export;Export;15701;33 180,48;21 981,40;Non réglé;08/05/2026;2000000
+09/03/2026;Export Canada;Clémentines calibre 1 (kg);Service export;Export;Export;15605;126 194,32;71 783,00;Réglé;08/05/2026;2000000
+09/03/2026;Marché de gros Casablanca;Agrumes à jus (kg);Service export;Casablanca;Marché de gros;22420;48 341,62;31 388,00;Réglé;08/05/2026;2000000
+10/03/2026;Marché de gros Casablanca;Clémentines calibre 1 (kg);Service export;Casablanca;Marché de gros;6409;53 562,03;29 481,40;Réglé;09/05/2026;2000000
+10/03/2026;Exportateur Rungis (France);Agrumes à jus (kg);Mustapha;Export;Export;17167;35 531,15;24 033,80;Réglé;09/05/2026;2000000
+11/03/2026;Exportateur Rungis (France);Agrumes à jus (kg);Mustapha;Export;Export;5286;10 764,39;7 400,40;Réglé;10/05/2026;2000000
+11/03/2026;Grande distribution Maroc;Clémentines calibre 1 (kg);Mustapha;Berkane;Direct;6116;52 344,55;28 133,60;Réglé;10/05/2026;2000000
+12/03/2026;Exportateur Rungis (France);Clémentines calibre 1 (kg);Service export;Export;Export;2341;19 492,98;10 768,60;Réglé;11/05/2026;2000000
+14/03/2026;Exportateur Rungis (France);Clémentines calibre 1 (kg);Service export;Export;Export;7193;59 848,27;33 087,80;Réglé;13/05/2026;2000000
+14/03/2026;Grande distribution Maroc;Agrumes à jus (kg);Service export;Berkane;Direct;16675;35 577,40;23 345,00;Réglé;13/05/2026;2000000
+14/03/2026;Export Russie;Agrumes à jus (kg);Mustapha;Export;Export;11386;23 456,60;15 940,40;Non réglé;13/05/2026;2000000
+17/03/2026;Marché de gros Casablanca;Clémentines calibre 1 (kg);Mustapha;Casablanca;Marché de gros;5335;47 473,29;24 541,00;Réglé;16/05/2026;2000000
+17/03/2026;Export Russie;Oranges Maroc Late (kg);Mustapha;Export;Export;16616;84 342,38;48 186,40;Réglé;16/05/2026;2000000
+17/03/2026;Marché de gros Casablanca;Clémentines calibre 1 (kg);Service export;Casablanca;Marché de gros;17672;155 318,22;81 291,20;Réglé;16/05/2026;2000000
+18/03/2026;Marché de gros Casablanca;Agrumes à jus (kg);Service export;Casablanca;Marché de gros;26188;54 592,45;36 663,20;Non réglé;17/05/2026;2000000
+18/03/2026;Exportateur Rungis (France);Oranges Maroc Late (kg);Mustapha;Export;Export;3604;17 829,98;10 451,60;Réglé;17/05/2026;2000000
+18/03/2026;Exportateur Rungis (France);Clémentines calibre 1 (kg);Service export;Export;Export;5307;46 424,33;24 412,20;Réglé;17/05/2026;2000000
+23/03/2026;Exportateur Rungis (France);Oranges Maroc Late (kg);Mustapha;Export;Export;12709;64 015,23;36 856,10;Réglé;22/05/2026;2000000
+23/03/2026;Marché de gros Casablanca;Agrumes à jus (kg);Service export;Casablanca;Marché de gros;24134;51 011,56;33 787,60;Réglé;22/05/2026;2000000
+23/03/2026;Exportateur Rungis (France);Agrumes à jus (kg);Service export;Export;Export;6157;12 889,69;8 619,80;Réglé;22/05/2026;2000000
+24/03/2026;Export Canada;Clémentines calibre 1 (kg);Mustapha;Export;Export;11590;99 554,16;53 314,00;Réglé;23/05/2026;2000000
+24/03/2026;Exportateur Rungis (France);Agrumes à jus (kg);Mustapha;Export;Export;13219;27 641,56;18 506,60;Réglé;23/05/2026;2000000
+24/03/2026;Usine de jus (Agadir);Agrumes à jus (kg);Mustapha;Agadir;Direct;29759;62 090,18;41 662,60;Réglé;23/05/2026;2000000
+25/03/2026;Exportateur Rungis (France);Agrumes à jus (kg);Service export;Export;Export;13840;28 064,07;19 376,00;Réglé;24/05/2026;2000000
+25/03/2026;Exportateur Rungis (France);Agrumes à jus (kg);Mustapha;Export;Export;19614;39 298,08;27 459,60;Non réglé;24/05/2026;2000000
+26/03/2026;Export Canada;Oranges Maroc Late (kg);Mustapha;Export;Export;5512;27 429,96;15 984,80;Réglé;25/05/2026;2000000
+26/03/2026;Marché de gros Casablanca;Clémentines calibre 1 (kg);Service export;Casablanca;Marché de gros;16985;148 429,86;78 131,00;Réglé;25/05/2026;2000000
+26/03/2026;Marché de gros Casablanca;Clémentines calibre 1 (kg);Mustapha;Casablanca;Marché de gros;11508;102 358,69;52 936,80;Réglé;25/05/2026;2000000
+28/03/2026;Marché de gros Casablanca;Oranges Maroc Late (kg);Service export;Casablanca;Marché de gros;9440;49 482,51;27 376,00;Réglé;27/05/2026;2000000
+30/03/2026;Exportateur Rungis (France);Agrumes à jus (kg);Service export;Export;Export;15706;33 908,55;21 988,40;Réglé;29/05/2026;2000000
+30/03/2026;Exportateur Rungis (France);Oranges Maroc Late (kg);Service export;Export;Export;16296;82 925,64;47 258,40;Réglé;29/05/2026;2000000
+31/03/2026;Marché de gros Casablanca;Clémentines calibre 1 (kg);Mustapha;Casablanca;Marché de gros;3566;30 481,21;16 403,60;Réglé;30/05/2026;2000000
+31/03/2026;Grande distribution Maroc;Agrumes à jus (kg);Mustapha;Berkane;Direct;10488;21 604,01;14 683,20;Non réglé;30/05/2026;2000000
+02/04/2026;Exportateur Rungis (France);Agrumes à jus (kg);Service export;Export;Export;6162;13 454,80;8 626,80;Réglé;01/06/2026;2000000
+02/04/2026;Exportateur Rungis (France);Clémentines calibre 1 (kg);Mustapha;Export;Export;2283;19 479,30;10 501,80;Réglé;01/06/2026;2000000
+02/04/2026;Grande distribution Maroc;Oranges Maroc Late (kg);Mustapha;Berkane;Direct;11576;61 515,22;33 570,40;Réglé;01/06/2026;2000000
+03/04/2026;Export Russie;Clémentines calibre 1 (kg);Service export;Export;Export;14274;119 742,90;65 660,40;Réglé;02/06/2026;2000000
+03/04/2026;Export Russie;Oranges Maroc Late (kg);Service export;Export;Export;17099;88 745,19;49 587,10;Réglé;02/06/2026;2000000
+04/04/2026;Marché de gros Casablanca;Clémentines calibre 1 (kg);Mustapha;Casablanca;Marché de gros;17719;146 472,76;81 507,40;Réglé;03/06/2026;2000000
+04/04/2026;Grande distribution Maroc;Oranges Maroc Late (kg);Mustapha;Berkane;Direct;11808;60 940,31;34 243,20;Réglé;03/06/2026;2000000
+06/04/2026;Exportateur Rungis (France);Oranges Maroc Late (kg);Service export;Export;Export;8628;42 807,49;25 021,20;Non réglé;05/06/2026;2000000
+06/04/2026;Exportateur Rungis (France);Oranges Maroc Late (kg);Mustapha;Export;Export;19801;106 774,56;57 422,90;Réglé;05/06/2026;2000000
+06/04/2026;Exportateur Rungis (France);Agrumes à jus (kg);Mustapha;Export;Export;21216;44 829,74;29 702,40;Réglé;05/06/2026;2000000
+07/04/2026;Marché de gros Casablanca;Oranges Maroc Late (kg);Mustapha;Casablanca;Marché de gros;14394;73 738,71;41 742,60;Réglé;06/06/2026;2000000
+07/04/2026;Exportateur Rungis (France);Agrumes à jus (kg);Service export;Export;Export;22550;46 552,24;31 570,00;Réglé;06/06/2026;2000000
+08/04/2026;Grande distribution Maroc;Oranges Maroc Late (kg);Mustapha;Berkane;Direct;6752;34 815,89;19 580,80;Réglé;07/06/2026;2000000
+09/04/2026;Exportateur Rungis (France);Clémentines calibre 1 (kg);Service export;Export;Export;10685;88 115,43;49 151,00;Réglé;08/06/2026;2000000
+11/04/2026;Export Canada;Agrumes à jus (kg);Mustapha;Export;Export;27153;57 696,94;38 014,20;Réglé;10/06/2026;2000000
+11/04/2026;Marché de gros Casablanca;Clémentines calibre 1 (kg);Mustapha;Casablanca;Marché de gros;5515;48 182,97;25 369,00;Réglé;10/06/2026;2000000
+13/04/2026;Export Canada;Clémentines calibre 1 (kg);Service export;Export;Export;7648;66 613,23;35 180,80;Réglé;12/06/2026;2000000
+13/04/2026;Marché de gros Casablanca;Oranges Maroc Late (kg);Service export;Casablanca;Marché de gros;23698;126 360,09;68 724,20;Réglé;12/06/2026;2000000
+13/04/2026;Export Russie;Agrumes à jus (kg);Service export;Export;Export;6705;13 940,02;9 387,00;Réglé;12/06/2026;2000000
+14/04/2026;Exportateur Rungis (France);Agrumes à jus (kg);Service export;Export;Export;9000;19 377,17;12 600,00;Réglé;13/06/2026;2000000
+15/04/2026;Export Russie;Clémentines calibre 1 (kg);Mustapha;Export;Export;16151;142 191,96;74 294,60;Réglé;14/06/2026;2000000
+15/04/2026;Export Russie;Oranges Maroc Late (kg);Mustapha;Export;Export;14016;72 929,91;40 646,40;Réglé;14/06/2026;2000000
+16/04/2026;Usine de jus (Agadir);Oranges Maroc Late (kg);Service export;Agadir;Direct;19606;98 122,60;56 857,40;Réglé;15/06/2026;2000000
+17/04/2026;Marché de gros Casablanca;Agrumes à jus (kg);Service export;Casablanca;Marché de gros;12608;25 898,22;17 651,20;Réglé;16/06/2026;2000000
+17/04/2026;Grande distribution Maroc;Agrumes à jus (kg);Service export;Berkane;Direct;15382;30 839,82;21 534,80;Réglé;16/06/2026;2000000
+18/04/2026;Usine de jus (Agadir);Agrumes à jus (kg);Service export;Agadir;Direct;22707;48 674,95;31 789,80;Réglé;17/06/2026;2000000
+18/04/2026;Marché de gros Casablanca;Agrumes à jus (kg);Mustapha;Casablanca;Marché de gros;17286;35 168,41;24 200,40;Réglé;17/06/2026;2000000
+21/04/2026;Grande distribution Maroc;Clémentines calibre 1 (kg);Service export;Berkane;Direct;8354;71 732,37;38 428,40;Réglé;20/06/2026;2000000
+22/04/2026;Export Canada;Oranges Maroc Late (kg);Mustapha;Export;Export;11738;61 517,98;34 040,20;Non réglé;21/06/2026;2000000
+22/04/2026;Export Canada;Agrumes à jus (kg);Mustapha;Export;Export;7624;16 360,92;10 673,60;Réglé;21/06/2026;2000000
+22/04/2026;Marché de gros Casablanca;Clémentines calibre 1 (kg);Mustapha;Casablanca;Marché de gros;8173;69 977,61;37 595,80;Réglé;21/06/2026;2000000
+23/04/2026;Export Russie;Oranges Maroc Late (kg);Service export;Export;Export;8777;44 149,49;25 453,30;Réglé;22/06/2026;2000000
+23/04/2026;Grande distribution Maroc;Oranges Maroc Late (kg);Service export;Berkane;Direct;14124;74 769,96;40 959,60;Réglé;22/06/2026;2000000
+23/04/2026;Exportateur Rungis (France);Agrumes à jus (kg);Service export;Export;Export;18421;39 293,32;25 789,40;Réglé;22/06/2026;2000000
+24/04/2026;Marché de gros Casablanca;Agrumes à jus (kg);Service export;Casablanca;Marché de gros;24082;53 019,76;33 714,80;Réglé;23/06/2026;2000000
+24/04/2026;Marché de gros Casablanca;Oranges Maroc Late (kg);Mustapha;Casablanca;Marché de gros;24310;120 712,16;70 499,00;Non réglé;23/06/2026;2000000
+25/04/2026;Export Russie;Oranges Maroc Late (kg);Mustapha;Export;Export;13766;69 552,60;39 921,40;Réglé;24/06/2026;2000000
+25/04/2026;Usine de jus (Agadir);Clémentines calibre 1 (kg);Mustapha;Agadir;Direct;9090;78 771,91;41 814,00;Réglé;24/06/2026;2000000
+25/04/2026;Exportateur Rungis (France);Clémentines calibre 1 (kg);Service export;Export;Export;17459;153 729,66;80 311,40;Réglé;24/06/2026;2000000
+27/04/2026;Export Russie;Oranges Maroc Late (kg);Mustapha;Export;Export;19214;102 620,39;55 720,60;Réglé;26/06/2026;2000000
+27/04/2026;Marché de gros Casablanca;Clémentines calibre 1 (kg);Mustapha;Casablanca;Marché de gros;17267;146 976,80;79 428,20;Réglé;26/06/2026;2000000
+28/04/2026;Exportateur Rungis (France);Clémentines calibre 1 (kg);Mustapha;Export;Export;5864;51 062,11;26 974,40;Réglé;27/06/2026;2000000
+28/04/2026;Export Canada;Agrumes à jus (kg);Mustapha;Export;Export;17322;37 762,66;24 250,80;Réglé;27/06/2026;2000000
+28/04/2026;Exportateur Rungis (France);Agrumes à jus (kg);Service export;Export;Export;11282;24 697,04;15 794,80;Réglé;27/06/2026;2000000
+29/04/2026;Usine de jus (Agadir);Agrumes à jus (kg);Service export;Agadir;Direct;21125;45 425,10;29 575,00;Réglé;28/06/2026;2000000
+29/04/2026;Export Russie;Oranges Maroc Late (kg);Service export;Export;Export;20715;107 696,57;60 073,50;Réglé;28/06/2026;2000000
+01/05/2026;Marché de gros Casablanca;Clémentines calibre 1 (kg);Mustapha;Casablanca;Marché de gros;10360;83 885,68;47 656,00;Réglé;30/06/2026;2000000
+02/05/2026;Export Canada;Agrumes à jus (kg);Service export;Export;Export;14239;30 076,40;19 934,60;Réglé;01/07/2026;2000000
+02/05/2026;Usine de jus (Agadir);Agrumes à jus (kg);Service export;Agadir;Direct;5962;12 898,27;8 346,80;Réglé;01/07/2026;2000000
+07/05/2026;Exportateur Rungis (France);Agrumes à jus (kg);Mustapha;Export;Export;10869;22 704,57;15 216,60;Réglé;06/07/2026;2000000
+08/05/2026;Exportateur Rungis (France);Clémentines calibre 1 (kg);Mustapha;Export;Export;9276;79 130,06;42 669,60;Non réglé;07/07/2026;2000000
+08/05/2026;Export Russie;Clémentines calibre 1 (kg);Mustapha;Export;Export;5053;45 056,79;23 243,80;Réglé;07/07/2026;2000000
+11/05/2026;Export Russie;Oranges Maroc Late (kg);Service export;Export;Export;18220;95 321,77;52 838,00;Réglé;10/07/2026;2000000
+11/05/2026;Marché de gros Casablanca;Agrumes à jus (kg);Mustapha;Casablanca;Marché de gros;23963;49 750,25;33 548,20;Réglé;10/07/2026;2000000
+11/05/2026;Exportateur Rungis (France);Clémentines calibre 1 (kg);Mustapha;Export;Export;11315;91 747,77;52 049,00;Réglé;10/07/2026;2000000
+14/05/2026;Exportateur Rungis (France);Oranges Maroc Late (kg);Service export;Export;Export;22155;114 514,88;64 249,50;Réglé;13/07/2026;2000000
+15/05/2026;Export Russie;Oranges Maroc Late (kg);Service export;Export;Export;4296;22 220,44;12 458,40;Réglé;14/07/2026;2000000
+16/05/2026;Marché de gros Casablanca;Clémentines calibre 1 (kg);Mustapha;Casablanca;Marché de gros;10964;92 651,68;50 434,40;Réglé;15/07/2026;2000000
+16/05/2026;Export Canada;Agrumes à jus (kg);Service export;Export;Export;23891;49 560,32;33 447,40;Réglé;15/07/2026;2000000
+18/05/2026;Usine de jus (Agadir);Agrumes à jus (kg);Mustapha;Agadir;Direct;9359;19 487,21;13 102,60;Réglé;17/07/2026;2000000
+18/05/2026;Exportateur Rungis (France);Clémentines calibre 1 (kg);Mustapha;Export;Export;5974;51 833,31;27 480,40;Réglé;17/07/2026;2000000
+18/05/2026;Exportateur Rungis (France);Oranges Maroc Late (kg);Service export;Export;Export;15502;79 621,75;44 955,80;Réglé;17/07/2026;2000000
+20/05/2026;Usine de jus (Agadir);Clémentines calibre 1 (kg);Service export;Agadir;Direct;6868;60 401,43;31 592,80;Non réglé;19/07/2026;2000000
+20/05/2026;Usine de jus (Agadir);Agrumes à jus (kg);Mustapha;Agadir;Direct;5285;11 606,57;7 399,00;Réglé;19/07/2026;2000000
+20/05/2026;Export Russie;Clémentines calibre 1 (kg);Service export;Export;Export;6310;53 565,97;29 026,00;Réglé;19/07/2026;2000000
+21/05/2026;Exportateur Rungis (France);Oranges Maroc Late (kg);Mustapha;Export;Export;5738;28 996,49;16 640,20;Réglé;20/07/2026;2000000
+21/05/2026;Grande distribution Maroc;Clémentines calibre 1 (kg);Mustapha;Berkane;Direct;10714;94 867,27;49 284,40;Réglé;20/07/2026;2000000
+22/05/2026;Export Canada;Oranges Maroc Late (kg);Mustapha;Export;Export;4974;25 358,18;14 424,60;Réglé;21/07/2026;2000000
+25/05/2026;Exportateur Rungis (France);Oranges Maroc Late (kg);Mustapha;Export;Export;3658;18 993,81;10 608,20;Réglé;24/07/2026;2000000
+25/05/2026;Marché de gros Casablanca;Clémentines calibre 1 (kg);Mustapha;Casablanca;Marché de gros;17493;152 614,31;80 467,80;Réglé;24/07/2026;2000000
+25/05/2026;Export Russie;Agrumes à jus (kg);Service export;Export;Export;12806;25 790,48;17 928,40;Réglé;24/07/2026;2000000
+26/05/2026;Usine de jus (Agadir);Clémentines calibre 1 (kg);Service export;Agadir;Direct;3556;30 621,84;16 357,60;Réglé;25/07/2026;2000000
+26/05/2026;Exportateur Rungis (France);Clémentines calibre 1 (kg);Service export;Export;Export;12394;103 761,47;57 012,40;Réglé;25/07/2026;2000000
+27/05/2026;Export Russie;Oranges Maroc Late (kg);Service export;Export;Export;4926;26 414,71;14 285,40;Réglé;26/07/2026;2000000
+27/05/2026;Exportateur Rungis (France);Oranges Maroc Late (kg);Service export;Export;Export;3186;16 326,67;9 239,40;Réglé;26/07/2026;2000000
+27/05/2026;Marché de gros Casablanca;Clémentines calibre 1 (kg);Mustapha;Casablanca;Marché de gros;10615;88 815,83;48 829,00;Réglé;26/07/2026;2000000
+28/05/2026;Exportateur Rungis (France);Clémentines calibre 1 (kg);Mustapha;Export;Export;5978;51 078,52;27 498,80;Réglé;27/07/2026;2000000
+28/05/2026;Usine de jus (Agadir);Clémentines calibre 1 (kg);Mustapha;Agadir;Direct;2455;21 072,50;11 293,00;Réglé;27/07/2026;2000000
+28/05/2026;Marché de gros Casablanca;Agrumes à jus (kg);Mustapha;Casablanca;Marché de gros;17563;37 079,82;24 588,20;Réglé;27/07/2026;2000000
+29/05/2026;Usine de jus (Agadir);Oranges Maroc Late (kg);Service export;Agadir;Direct;8121;43 209,39;23 550,90;Réglé;28/07/2026;2000000
+29/05/2026;Export Canada;Agrumes à jus (kg);Mustapha;Export;Export;22207;46 847,44;31 089,80;Réglé;28/07/2026;2000000
+30/05/2026;Usine de jus (Agadir);Agrumes à jus (kg);Service export;Agadir;Direct;9641;19 423,32;13 497,40;Réglé;29/07/2026;2000000
+02/06/2026;Export Russie;Agrumes à jus (kg);Service export;Export;Export;25547;54 232,95;35 765,80;Réglé;01/08/2026;2000000
+02/06/2026;Export Canada;Agrumes à jus (kg);Mustapha;Export;Export;21943;45 430,85;30 720,20;Réglé;01/08/2026;2000000
+03/06/2026;Marché de gros Casablanca;Oranges Maroc Late (kg);Service export;Casablanca;Marché de gros;23301;123 347,44;67 572,90;Réglé;02/08/2026;2000000
+03/06/2026;Exportateur Rungis (France);Oranges Maroc Late (kg);Mustapha;Export;Export;6859;34 683,73;19 891,10;Réglé;02/08/2026;2000000
+03/06/2026;Grande distribution Maroc;Oranges Maroc Late (kg);Mustapha;Berkane;Direct;18067;90 723,14;52 394,30;Réglé;02/08/2026;2000000
+05/06/2026;Grande distribution Maroc;Agrumes à jus (kg);Mustapha;Berkane;Direct;15268;31 134,35;21 375,20;Réglé;04/08/2026;2000000
+05/06/2026;Exportateur Rungis (France);Agrumes à jus (kg);Mustapha;Export;Export;7614;15 635,43;10 659,60;Réglé;04/08/2026;2000000
+05/06/2026;Marché de gros Casablanca;Oranges Maroc Late (kg);Service export;Casablanca;Marché de gros;5476;27 759,61;15 880,40;Réglé;04/08/2026;2000000
+06/06/2026;Marché de gros Casablanca;Clémentines calibre 1 (kg);Service export;Casablanca;Marché de gros;10006;84 719,26;46 027,60;Réglé;05/08/2026;2000000
+10/06/2026;Grande distribution Maroc;Agrumes à jus (kg);Service export;Berkane;Direct;25648;51 307,16;35 907,20;Réglé;09/08/2026;2000000
+11/06/2026;Grande distribution Maroc;Oranges Maroc Late (kg);Mustapha;Berkane;Direct;20367;102 791,35;59 064,30;Réglé;10/08/2026;2000000
+11/06/2026;Exportateur Rungis (France);Clémentines calibre 1 (kg);Service export;Export;Export;11080;93 242,06;50 968,00;Réglé;10/08/2026;2000000
+11/06/2026;Grande distribution Maroc;Clémentines calibre 1 (kg);Mustapha;Berkane;Direct;8248;69 311,30;37 940,80;Réglé;10/08/2026;2000000
+12/06/2026;Export Russie;Clémentines calibre 1 (kg);Service export;Export;Export;9327;76 583,54;42 904,20;Réglé;11/08/2026;2000000
+12/06/2026;Exportateur Rungis (France);Agrumes à jus (kg);Service export;Export;Export;24641;51 256,09;34 497,40;Non réglé;11/08/2026;2000000
+13/06/2026;Export Canada;Clémentines calibre 1 (kg);Service export;Export;Export;15418;129 642,44;70 922,80;Réglé;12/08/2026;2000000
+13/06/2026;Export Russie;Clémentines calibre 1 (kg);Service export;Export;Export;17623;156 525,57;81 065,80;Réglé;12/08/2026;2000000
+15/06/2026;Grande distribution Maroc;Clémentines calibre 1 (kg);Service export;Berkane;Direct;2756;24 454,78;12 677,60;Réglé;14/08/2026;2000000
+15/06/2026;Usine de jus (Agadir);Oranges Maroc Late (kg);Service export;Agadir;Direct;21716;115 132,24;62 976,40;Réglé;14/08/2026;2000000
+17/06/2026;Export Canada;Agrumes à jus (kg);Service export;Export;Export;19139;38 392,89;26 794,60;Réglé;16/08/2026;2000000
+17/06/2026;Export Canada;Oranges Maroc Late (kg);Service export;Export;Export;6790;34 127,84;19 691,00;Non réglé;16/08/2026;2000000
+17/06/2026;Grande distribution Maroc;Agrumes à jus (kg);Mustapha;Berkane;Direct;15715;33 174,58;22 001,00;Non réglé;16/08/2026;2000000
+18/06/2026;Export Canada;Clémentines calibre 1 (kg);Mustapha;Export;Export;10447;87 368,77;48 056,20;Réglé;17/08/2026;2000000
+19/06/2026;Marché de gros Casablanca;Clémentines calibre 1 (kg);Service export;Casablanca;Marché de gros;2199;18 290,34;10 115,40;Réglé;18/08/2026;2000000
+19/06/2026;Marché de gros Casablanca;Agrumes à jus (kg);Mustapha;Casablanca;Marché de gros;7330;15 963,90;10 262,00;Réglé;18/08/2026;2000000
+19/06/2026;Exportateur Rungis (France);Agrumes à jus (kg);Service export;Export;Export;15237;33 389,78;21 331,80;Réglé;18/08/2026;2000000
+20/06/2026;Export Russie;Agrumes à jus (kg);Service export;Export;Export;13525;29 116,69;18 935,00;Réglé;19/08/2026;2000000
+20/06/2026;Grande distribution Maroc;Clémentines calibre 1 (kg);Mustapha;Berkane;Direct;13798;119 701,86;63 470,80;Réglé;19/08/2026;2000000
+20/06/2026;Export Canada;Clémentines calibre 1 (kg);Service export;Export;Export;8640;75 817,01;39 744,00;Réglé;19/08/2026;2000000
+22/06/2026;Exportateur Rungis (France);Agrumes à jus (kg);Mustapha;Export;Export;23524;50 328,66;32 933,60;Réglé;21/08/2026;2000000
+23/06/2026;Exportateur Rungis (France);Clémentines calibre 1 (kg);Mustapha;Export;Export;13373;108 750,60;61 515,80;Réglé;22/08/2026;2000000
+24/06/2026;Export Russie;Agrumes à jus (kg);Service export;Export;Export;17753;36 626,54;24 854,20;Réglé;23/08/2026;2000000
+24/06/2026;Grande distribution Maroc;Oranges Maroc Late (kg);Service export;Berkane;Direct;15469;83 340,57;44 860,10;Réglé;23/08/2026;2000000
+25/06/2026;Usine de jus (Agadir);Agrumes à jus (kg);Mustapha;Agadir;Direct;9427;20 126,63;13 197,80;Réglé;24/08/2026;2000000
+25/06/2026;Marché de gros Casablanca;Oranges Maroc Late (kg);Service export;Casablanca;Marché de gros;4477;22 464,41;12 983,30;Réglé;24/08/2026;2000000
+25/06/2026;Exportateur Rungis (France);Clémentines calibre 1 (kg);Service export;Export;Export;12893;104 211,71;59 307,80;Réglé;24/08/2026;2000000
+26/06/2026;Exportateur Rungis (France);Clémentines calibre 1 (kg);Mustapha;Export;Export;15774;134 236,61;72 560,40;Réglé;25/08/2026;2000000
+26/06/2026;Exportateur Rungis (France);Clémentines calibre 1 (kg);Mustapha;Export;Export;16220;141 454,54;74 612,00;Réglé;25/08/2026;2000000
+29/06/2026;Marché de gros Casablanca;Clémentines calibre 1 (kg);Service export;Casablanca;Marché de gros;15268;133 935,31;70 232,80;Réglé;28/08/2026;2000000
+29/06/2026;Export Russie;Clémentines calibre 1 (kg);Mustapha;Export;Export;17254;144 320,61;79 368,40;Non réglé;28/08/2026;2000000
+30/06/2026;Grande distribution Maroc;Oranges Maroc Late (kg);Mustapha;Berkane;Direct;17804;90 725,22;51 631,60;Réglé;29/08/2026;2000000
+02/07/2026;Marché de gros Casablanca;Agrumes à jus (kg);Mustapha;Casablanca;Marché de gros;6337;13 643,48;8 871,80;Réglé;31/08/2026;2000000
+02/07/2026;Usine de jus (Agadir);Oranges Maroc Late (kg);Mustapha;Agadir;Direct;5392;29 168,41;15 636,80;Réglé;31/08/2026;2000000
+02/07/2026;Export Canada;Oranges Maroc Late (kg);Mustapha;Export;Export;4421;22 681,80;12 820,90;Réglé;31/08/2026;2000000
+03/07/2026;Export Canada;Clémentines calibre 1 (kg);Service export;Export;Export;11033;97 232,32;50 751,80;Réglé;01/09/2026;2000000
+03/07/2026;Grande distribution Maroc;Clémentines calibre 1 (kg);Service export;Berkane;Direct;4642;40 423,65;21 353,20;Réglé;01/09/2026;2000000
+03/07/2026;Exportateur Rungis (France);Clémentines calibre 1 (kg);Service export;Export;Export;3073;25 804,91;14 135,80;Réglé;01/09/2026;2000000
+04/07/2026;Exportateur Rungis (France);Clémentines calibre 1 (kg);Mustapha;Export;Export;5698;49 286,59;26 210,80;Réglé;02/09/2026;2000000
+04/07/2026;Grande distribution Maroc;Oranges Maroc Late (kg);Mustapha;Berkane;Direct;7489;38 316,73;21 718,10;Non réglé;02/09/2026;2000000
+07/07/2026;Exportateur Rungis (France);Agrumes à jus (kg);Service export;Export;Export;12727;27 577,54;17 817,80;Réglé;05/09/2026;2000000
+07/07/2026;Exportateur Rungis (France);Agrumes à jus (kg);Service export;Export;Export;23776;50 661,82;33 286,40;Réglé;05/09/2026;2000000
+07/07/2026;Marché de gros Casablanca;Agrumes à jus (kg);Service export;Casablanca;Marché de gros;22521;48 378,67;31 529,40;Réglé;05/09/2026;2000000
+08/07/2026;Export Russie;Clémentines calibre 1 (kg);Mustapha;Export;Export;11186;96 173,33;51 455,60;Réglé;06/09/2026;2000000
+08/07/2026;Marché de gros Casablanca;Clémentines calibre 1 (kg);Service export;Casablanca;Marché de gros;9403;81 845,13;43 253,80;Réglé;06/09/2026;2000000
+10/07/2026;Exportateur Rungis (France);Clémentines calibre 1 (kg);Mustapha;Export;Export;3762;32 865,01;17 305,20;Réglé;08/09/2026;2000000
+14/07/2026;Export Russie;Agrumes à jus (kg);Service export;Export;Export;24415;53 111,58;34 181,00;Réglé;12/09/2026;2000000
+20/07/2026;Exportateur Rungis (France);Agrumes à jus (kg);Service export;Export;Export;22920;47 800,19;32 088,00;Réglé;18/09/2026;2000000
+20/07/2026;Marché de gros Casablanca;Oranges Maroc Late (kg);Mustapha;Casablanca;Marché de gros;9004;45 859,30;26 111,60;Réglé;18/09/2026;2000000
+20/07/2026;Export Canada;Agrumes à jus (kg);Mustapha;Export;Export;14974;31 075,51;20 963,60;Réglé;18/09/2026;2000000
+21/07/2026;Export Russie;Clémentines calibre 1 (kg);Service export;Export;Export;13710;118 970,40;63 066,00;Réglé;19/09/2026;2000000
+21/07/2026;Export Canada;Oranges Maroc Late (kg);Service export;Export;Export;13472;67 128,89;39 068,80;Réglé;19/09/2026;2000000
+23/07/2026;Exportateur Rungis (France);Oranges Maroc Late (kg);Service export;Export;Export;11792;60 174,60;34 196,80;Réglé;21/09/2026;2000000
+23/07/2026;Usine de jus (Agadir);Oranges Maroc Late (kg);Mustapha;Agadir;Direct;15647;83 589,49;45 376,30;Réglé;21/09/2026;2000000
+23/07/2026;Grande distribution Maroc;Oranges Maroc Late (kg);Mustapha;Berkane;Direct;22159;115 210,00;64 261,10;Réglé;21/09/2026;2000000
+24/07/2026;Grande distribution Maroc;Clémentines calibre 1 (kg);Mustapha;Berkane;Direct;9183;81 557,63;42 241,80;Réglé;22/09/2026;2000000
+25/07/2026;Exportateur Rungis (France);Agrumes à jus (kg);Mustapha;Export;Export;11017;24 266,19;15 423,80;Réglé;23/09/2026;2000000
+27/07/2026;Export Russie;Clémentines calibre 1 (kg);Mustapha;Export;Export;5620;48 683,09;25 852,00;Non réglé;25/09/2026;2000000
+27/07/2026;Marché de gros Casablanca;Clémentines calibre 1 (kg);Mustapha;Casablanca;Marché de gros;12180;98 902,14;56 028,00;Réglé;25/09/2026;2000000
+28/07/2026;Export Russie;Agrumes à jus (kg);Mustapha;Export;Export;22669;49 737,27;31 736,60;Réglé;26/09/2026;2000000
+28/07/2026;Exportateur Rungis (France);Agrumes à jus (kg);Mustapha;Export;Export;14585;31 299,59;20 419,00;Réglé;26/09/2026;2000000
+28/07/2026;Exportateur Rungis (France);Oranges Maroc Late (kg);Service export;Export;Export;23812;118 058,86;69 054,80;Réglé;26/09/2026;2000000
+29/07/2026;Exportateur Rungis (France);Clémentines calibre 1 (kg);Mustapha;Export;Export;8677;70 463,67;39 914,20;Réglé;27/09/2026;2000000
+29/07/2026;Exportateur Rungis (France);Agrumes à jus (kg);Mustapha;Export;Export;16649;33 673,99;23 308,60;Réglé;27/09/2026;2000000
+29/07/2026;Usine de jus (Agadir);Clémentines calibre 1 (kg);Service export;Agadir;Direct;4588;38 341,66;21 104,80;Non réglé;27/09/2026;2000000
+31/07/2026;Marché de gros Casablanca;Clémentines calibre 1 (kg);Service export;Casablanca;Marché de gros;12972;112 912,73;59 671,20;Réglé;29/09/2026;2000000
+31/07/2026;Marché de gros Casablanca;Agrumes à jus (kg);Service export;Casablanca;Marché de gros;23914;49 328,93;33 479,60;Réglé;29/09/2026;2000000
+01/08/2026;Exportateur Rungis (France);Clémentines calibre 1 (kg);Service export;Export;Export;12545;108 274,04;57 707,00;Réglé;30/09/2026;2000000
+01/08/2026;Export Russie;Clémentines calibre 1 (kg);Service export;Export;Export;4949;41 893,65;22 765,40;Réglé;30/09/2026;2000000
+01/08/2026;Export Canada;Clémentines calibre 1 (kg);Mustapha;Export;Export;13638;113 246,69;62 734,80;Non réglé;30/09/2026;2000000
+03/08/2026;Marché de gros Casablanca;Agrumes à jus (kg);Service export;Casablanca;Marché de gros;27749;60 015,01;38 848,60;Réglé;02/10/2026;2000000
+03/08/2026;Export Russie;Clémentines calibre 1 (kg);Service export;Export;Export;17605;153 833,83;80 983,00;Réglé;02/10/2026;2000000
+03/08/2026;Grande distribution Maroc;Agrumes à jus (kg);Service export;Berkane;Direct;20145;43 732,13;28 203,00;Réglé;02/10/2026;2000000
+05/08/2026;Marché de gros Casablanca;Oranges Maroc Late (kg);Service export;Casablanca;Marché de gros;21484;112 377,03;62 303,60;Réglé;04/10/2026;2000000
+05/08/2026;Grande distribution Maroc;Agrumes à jus (kg);Service export;Berkane;Direct;18792;38 645,92;26 308,80;Réglé;04/10/2026;2000000
+06/08/2026;Exportateur Rungis (France);Clémentines calibre 1 (kg);Mustapha;Export;Export;8684;70 723,46;39 946,40;Réglé;05/10/2026;2000000
+06/08/2026;Exportateur Rungis (France);Agrumes à jus (kg);Mustapha;Export;Export;16850;36 351,14;23 590,00;Réglé;05/10/2026;2000000
+10/08/2026;Grande distribution Maroc;Oranges Maroc Late (kg);Service export;Berkane;Direct;22501;112 978,24;65 252,90;Réglé;09/10/2026;2000000
+10/08/2026;Exportateur Rungis (France);Agrumes à jus (kg);Service export;Export;Export;27049;56 412,70;37 868,60;Réglé;09/10/2026;2000000
+11/08/2026;Exportateur Rungis (France);Oranges Maroc Late (kg);Service export;Export;Export;19445;96 821,29;56 390,50;Réglé;10/10/2026;2000000
+11/08/2026;Export Russie;Agrumes à jus (kg);Service export;Export;Export;22657;47 677,65;31 719,80;Réglé;10/10/2026;2000000
+12/08/2026;Grande distribution Maroc;Agrumes à jus (kg);Mustapha;Berkane;Direct;12576;26 775,49;17 606,40;Réglé;11/10/2026;2000000
+12/08/2026;Exportateur Rungis (France);Oranges Maroc Late (kg);Mustapha;Export;Export;8056;41 079,30;23 362,40;Réglé;11/10/2026;2000000
+12/08/2026;Grande distribution Maroc;Clémentines calibre 1 (kg);Mustapha;Berkane;Direct;12552;105 336,39;57 739,20;Réglé;11/10/2026;2000000
+13/08/2026;Exportateur Rungis (France);Clémentines calibre 1 (kg);Service export;Export;Export;7326;65 065,38;33 699,60;Réglé;12/10/2026;2000000
+13/08/2026;Export Canada;Oranges Maroc Late (kg);Mustapha;Export;Export;24107;129 821,70;69 910,30;Réglé;12/10/2026;2000000
+14/08/2026;Exportateur Rungis (France);Oranges Maroc Late (kg);Mustapha;Export;Export;18557;93 210,52;53 815,30;Réglé;13/10/2026;2000000
+17/08/2026;Exportateur Rungis (France);Clémentines calibre 1 (kg);Service export;Export;Export;10125;89 527,19;46 575,00;Réglé;16/10/2026;2000000
+17/08/2026;Marché de gros Casablanca;Clémentines calibre 1 (kg);Service export;Casablanca;Marché de gros;17400;146 574,31;80 040,00;Réglé;16/10/2026;2000000
+17/08/2026;Exportateur Rungis (France);Agrumes à jus (kg);Mustapha;Export;Export;27147;58 320,94;38 005,80;Réglé;16/10/2026;2000000
+18/08/2026;Usine de jus (Agadir);Agrumes à jus (kg);Mustapha;Agadir;Direct;26187;55 882,26;36 661,80;Réglé;17/10/2026;2000000
+20/08/2026;Usine de jus (Agadir);Oranges Maroc Late (kg);Mustapha;Agadir;Direct;14888;76 057,71;43 175,20;Réglé;19/10/2026;2000000
+20/08/2026;Grande distribution Maroc;Oranges Maroc Late (kg);Mustapha;Berkane;Direct;14859;73 810,53;43 091,10;Réglé;19/10/2026;2000000
+20/08/2026;Exportateur Rungis (France);Clémentines calibre 1 (kg);Service export;Export;Export;17168;151 466,23;78 972,80;Réglé;19/10/2026;2000000
+21/08/2026;Export Russie;Clémentines calibre 1 (kg);Mustapha;Export;Export;2074;18 285,15;9 540,40;Réglé;20/10/2026;2000000
+21/08/2026;Usine de jus (Agadir);Oranges Maroc Late (kg);Mustapha;Agadir;Direct;19696;97 466,52;57 118,40;Réglé;20/10/2026;2000000
+22/08/2026;Marché de gros Casablanca;Agrumes à jus (kg);Mustapha;Casablanca;Marché de gros;21153;43 871,53;29 614,20;Réglé;21/10/2026;2000000
+22/08/2026;Exportateur Rungis (France);Clémentines calibre 1 (kg);Mustapha;Export;Export;11470;96 099,06;52 762,00;Réglé;21/10/2026;2000000
+22/08/2026;Marché de gros Casablanca;Agrumes à jus (kg);Service export;Casablanca;Marché de gros;20400;42 021,19;28 560,00;Non réglé;21/10/2026;2000000
+24/08/2026;Exportateur Rungis (France);Oranges Maroc Late (kg);Mustapha;Export;Export;5010;25 772,50;14 529,00;Réglé;23/10/2026;2000000
+24/08/2026;Export Canada;Oranges Maroc Late (kg);Mustapha;Export;Export;16705;88 598,29;48 444,50;Réglé;23/10/2026;2000000
+24/08/2026;Exportateur Rungis (France);Agrumes à jus (kg);Service export;Export;Export;22819;45 759,23;31 946,60;Réglé;23/10/2026;2000000
+25/08/2026;Export Russie;Oranges Maroc Late (kg);Mustapha;Export;Export;7681;39 320,20;22 274,90;Réglé;24/10/2026;2000000
+26/08/2026;Marché de gros Casablanca;Agrumes à jus (kg);Mustapha;Casablanca;Marché de gros;28359;62 207,37;39 702,60;Réglé;25/10/2026;2000000
+26/08/2026;Marché de gros Casablanca;Agrumes à jus (kg);Mustapha;Casablanca;Marché de gros;12951;27 567,56;18 131,40;Réglé;25/10/2026;2000000
+27/08/2026;Exportateur Rungis (France);Oranges Maroc Late (kg);Service export;Export;Export;3097;16 530,26;8 981,30;Réglé;26/10/2026;2000000
+31/08/2026;Exportateur Rungis (France);Clémentines calibre 1 (kg);Service export;Export;Export;16218;132 810,31;74 602,80;Réglé;30/10/2026;2000000
+31/08/2026;Exportateur Rungis (France);Oranges Maroc Late (kg);Mustapha;Export;Export;8721;45 182,68;25 290,90;Réglé;30/10/2026;2000000
+31/08/2026;Grande distribution Maroc;Agrumes à jus (kg);Service export;Berkane;Direct;25633;54 402,29;35 886,20;Réglé;30/10/2026;2000000
+02/09/2026;Usine de jus (Agadir);Clémentines calibre 1 (kg);Mustapha;Agadir;Direct;9568;77 419,21;44 012,80;Réglé;01/11/2026;2000000
+03/09/2026;Export Russie;Oranges Maroc Late (kg);Mustapha;Export;Export;7670;40 864,58;22 243,00;Réglé;02/11/2026;2000000
+03/09/2026;Export Russie;Clémentines calibre 1 (kg);Mustapha;Export;Export;17192;141 383,69;79 083,20;Réglé;02/11/2026;2000000
+03/09/2026;Export Russie;Clémentines calibre 1 (kg);Mustapha;Export;Export;8707;71 716,64;40 052,20;Réglé;02/11/2026;2000000
+04/09/2026;Exportateur Rungis (France);Agrumes à jus (kg);Service export;Export;Export;7609;15 847,36;10 652,60;Réglé;03/11/2026;2000000
+05/09/2026;Export Russie;Agrumes à jus (kg);Service export;Export;Export;5238;11 239,38;7 333,20;Réglé;04/11/2026;2000000
+07/09/2026;Grande distribution Maroc;Clémentines calibre 1 (kg);Service export;Berkane;Direct;12667;104 412,44;58 268,20;Réglé;06/11/2026;2000000
+09/09/2026;Marché de gros Casablanca;Agrumes à jus (kg);Service export;Casablanca;Marché de gros;5770;12 155,34;8 078,00;Réglé;08/11/2026;2000000
+09/09/2026;Exportateur Rungis (France);Agrumes à jus (kg);Mustapha;Export;Export;23454;47 537,51;32 835,60;Réglé;08/11/2026;2000000
+10/09/2026;Exportateur Rungis (France);Agrumes à jus (kg);Service export;Export;Export;17171;36 193,36;24 039,40;Réglé;09/11/2026;2000000
+11/09/2026;Grande distribution Maroc;Oranges Maroc Late (kg);Mustapha;Berkane;Direct;5599;29 727,38;16 237,10;Réglé;10/11/2026;2000000
+12/09/2026;Exportateur Rungis (France);Agrumes à jus (kg);Service export;Export;Export;29294;64 233,33;41 011,60;Réglé;11/11/2026;2000000
+15/09/2026;Export Canada;Agrumes à jus (kg);Mustapha;Export;Export;9237;18 844,69;12 931,80;Réglé;14/11/2026;2000000
+15/09/2026;Usine de jus (Agadir);Agrumes à jus (kg);Service export;Agadir;Direct;14973;31 158,66;20 962,20;Réglé;14/11/2026;2000000
+15/09/2026;Grande distribution Maroc;Clémentines calibre 1 (kg);Service export;Berkane;Direct;5166;46 014,46;23 763,60;Réglé;14/11/2026;2000000
+16/09/2026;Export Canada;Clémentines calibre 1 (kg);Mustapha;Export;Export;5952;48 986,33;27 379,20;Réglé;15/11/2026;2000000
+16/09/2026;Grande distribution Maroc;Oranges Maroc Late (kg);Service export;Berkane;Direct;17131;88 146,41;49 679,90;Réglé;15/11/2026;2000000
+18/09/2026;Export Canada;Oranges Maroc Late (kg);Service export;Export;Export;11933;59 060,79;34 605,70;Réglé;17/11/2026;2000000
+18/09/2026;Grande distribution Maroc;Oranges Maroc Late (kg);Service export;Berkane;Direct;13341;71 064,40;38 688,90;Réglé;17/11/2026;2000000
+18/09/2026;Export Canada;Clémentines calibre 1 (kg);Mustapha;Export;Export;8454;70 058,25;38 888,40;Réglé;17/11/2026;2000000
+19/09/2026;Usine de jus (Agadir);Oranges Maroc Late (kg);Service export;Agadir;Direct;6402;32 552,01;18 565,80;Réglé;18/11/2026;2000000
+19/09/2026;Export Canada;Oranges Maroc Late (kg);Service export;Export;Export;21412;116 590,92;62 094,80;Réglé;18/11/2026;2000000
+21/09/2026;Exportateur Rungis (France);Agrumes à jus (kg);Service export;Export;Export;20697;44 616,87;28 975,80;Réglé;20/11/2026;2000000
+23/09/2026;Marché de gros Casablanca;Clémentines calibre 1 (kg);Mustapha;Casablanca;Marché de gros;10127;89 105,16;46 584,20;Réglé;22/11/2026;2000000
+23/09/2026;Exportateur Rungis (France);Clémentines calibre 1 (kg);Mustapha;Export;Export;11526;100 291,59;53 019,60;Réglé;22/11/2026;2000000
+23/09/2026;Export Canada;Oranges Maroc Late (kg);Mustapha;Export;Export;5244;26 595,64;15 207,60;Réglé;22/11/2026;2000000
+25/09/2026;Export Canada;Clémentines calibre 1 (kg);Service export;Export;Export;2505;21 257,19;11 523,00;Non réglé;24/11/2026;2000000
+25/09/2026;Marché de gros Casablanca;Oranges Maroc Late (kg);Service export;Casablanca;Marché de gros;20713;109 915,65;60 067,70;Réglé;24/11/2026;2000000
+25/09/2026;Grande distribution Maroc;Oranges Maroc Late (kg);Mustapha;Berkane;Direct;12822;66 659,37;37 183,80;Réglé;24/11/2026;2000000
+30/09/2026;Exportateur Rungis (France);Clémentines calibre 1 (kg);Service export;Export;Export;10847;92 588,25;49 896,20;Réglé;29/11/2026;2000000
+30/09/2026;Exportateur Rungis (France);Clémentines calibre 1 (kg);Service export;Export;Export;12550;106 441,96;57 730,00;Réglé;29/11/2026;2000000
+30/09/2026;Grande distribution Maroc;Oranges Maroc Late (kg);Service export;Berkane;Direct;10426;55 901,10;30 235,40;Réglé;29/11/2026;2000000

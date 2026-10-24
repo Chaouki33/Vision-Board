@@ -1,0 +1,373 @@
+﻿Date opération;Banque;Libellé;Catégorie;Crédit;Débit;Solde
+02/01/2026;Banque Populaire;Règlement client;Encaissements clients;180 761,30;;380 761,30
+03/01/2026;Société Générale Maroc;Énergie et télécoms;Énergie et télécoms;;25 636,28;574 363,72
+04/01/2026;Société Générale Maroc;Énergie et télécoms;Énergie et télécoms;;22 830,64;551 533,09
+05/01/2026;Société Générale Maroc;Règlement client;Encaissements clients;130 228,37;;681 761,45
+06/01/2026;Société Générale Maroc;Règlement client;Encaissements clients;188 380,79;;870 142,24
+06/01/2026;Société Générale Maroc;Fournisseurs;Fournisseurs;;126 858,09;743 284,15
+07/01/2026;Société Générale Maroc;TVA à payer;TVA à payer;;38 614,84;704 669,31
+09/01/2026;Banque Populaire;Énergie et télécoms;Énergie et télécoms;;21 365,98;359 395,31
+10/01/2026;Société Générale Maroc;CNSS;CNSS;;107 769,57;596 899,74
+11/01/2026;Banque Populaire;Règlement client;Encaissements clients;122 981,87;;482 377,18
+11/01/2026;Banque Populaire;Règlement client;Encaissements clients;145 300,80;;627 677,98
+12/01/2026;Banque Populaire;Règlement client;Encaissements clients;132 472,80;;760 150,78
+12/01/2026;Société Générale Maroc;Fournisseurs;Fournisseurs;;129 243,43;467 656,31
+12/01/2026;Banque Populaire;Investissements;Investissements;;30 056,96;730 093,82
+13/01/2026;Société Générale Maroc;Loyer et charges;Loyer et charges;;36 276,33;431 379,97
+14/01/2026;Société Générale Maroc;Règlement client;Encaissements clients;114 008,58;;545 388,56
+14/01/2026;Banque Populaire;Investissements;Investissements;;31 397,27;698 696,55
+15/01/2026;Banque Populaire;Impôt sur les sociétés;Impôt sur les sociétés;;8 604,51;690 092,03
+15/01/2026;Société Générale Maroc;Impôts et taxes;Impôts et taxes;;16 980,86;528 407,69
+15/01/2026;Société Générale Maroc;Énergie et télécoms;Énergie et télécoms;;23 624,62;504 783,07
+17/01/2026;Société Générale Maroc;Règlement client;Encaissements clients;135 256,74;;640 039,81
+18/01/2026;Banque Populaire;Règlement client;Encaissements clients;97 014,28;;787 106,31
+18/01/2026;Société Générale Maroc;Règlement client;Encaissements clients;115 244,22;;755 284,03
+18/01/2026;Banque Populaire;Impôt sur les sociétés;Impôt sur les sociétés;;8 775,96;778 330,36
+18/01/2026;Banque Populaire;Investissements;Investissements;;28 864,50;749 465,86
+18/01/2026;Banque Populaire;Loyer et charges;Loyer et charges;;42 984,52;706 481,34
+19/01/2026;Société Générale Maroc;TVA à payer;TVA à payer;;40 527,46;714 756,57
+20/01/2026;Banque Populaire;Règlement client;Encaissements clients;97 178,32;;803 659,66
+21/01/2026;Banque Populaire;Fournisseurs;Fournisseurs;;106 220,90;697 438,77
+21/01/2026;Banque Populaire;Loyer et charges;Loyer et charges;;46 167,15;651 271,62
+21/01/2026;Société Générale Maroc;TVA à payer;TVA à payer;;45 012,51;669 744,06
+22/01/2026;Société Générale Maroc;Investissements;Investissements;;25 233,46;644 510,60
+24/01/2026;Banque Populaire;Règlement client;Encaissements clients;107 276,24;;758 547,85
+24/01/2026;Banque Populaire;Fournisseurs;Fournisseurs;;111 062,91;647 484,94
+24/01/2026;Société Générale Maroc;Impôt sur les sociétés;Impôt sur les sociétés;;9 125,62;635 384,98
+24/01/2026;Société Générale Maroc;Loyer et charges;Loyer et charges;;38 691,80;596 693,18
+24/01/2026;Société Générale Maroc;TVA à payer;TVA à payer;;50 303,64;546 389,54
+25/01/2026;Société Générale Maroc;Impôt sur les sociétés;Impôt sur les sociétés;;7 906,46;538 483,08
+25/01/2026;Banque Populaire;Échéance d'emprunt;Échéance d'emprunt;;144 552,00;502 932,95
+28/01/2026;Société Générale Maroc;Salaires;Salaires;;456 745,85;81 737,23
+03/02/2026;Société Générale Maroc;Fournisseurs;Fournisseurs;;107 218,11;-25 480,88
+03/02/2026;Société Générale Maroc;Énergie et télécoms;Énergie et télécoms;;23 979,26;-49 460,15
+04/02/2026;Banque Populaire;Règlement client;Encaissements clients;153 741,91;;656 674,86
+04/02/2026;Banque Populaire;Impôt sur les sociétés;Impôt sur les sociétés;;8 471,77;648 203,09
+06/02/2026;Banque Populaire;Loyer et charges;Loyer et charges;;35 655,71;612 547,38
+09/02/2026;Banque Populaire;TVA à payer;TVA à payer;;41 487,53;571 059,85
+10/02/2026;Société Générale Maroc;CNSS;CNSS;;97 210,73;-146 670,88
+10/02/2026;Société Générale Maroc;Fournisseurs;Fournisseurs;;102 303,82;-248 974,70
+10/02/2026;Société Générale Maroc;TVA à payer;TVA à payer;;42 038,17;-291 012,87
+10/02/2026;Société Générale Maroc;TVA à payer;TVA à payer;;51 506,87;-342 519,74
+11/02/2026;Banque Populaire;Règlement client;Encaissements clients;110 022,23;;681 082,07
+12/02/2026;Banque Populaire;Investissements;Investissements;;26 984,12;654 097,95
+13/02/2026;Banque Populaire;Règlement client;Encaissements clients;118 679,27;;772 777,22
+13/02/2026;Société Générale Maroc;Fournisseurs;Fournisseurs;;130 149,53;-472 669,27
+14/02/2026;Société Générale Maroc;Investissements;Investissements;;23 498,73;-496 168,00
+14/02/2026;Banque Populaire;Loyer et charges;Loyer et charges;;40 305,30;732 471,92
+15/02/2026;Banque Populaire;Règlement client;Encaissements clients;94 512,85;;826 984,78
+15/02/2026;Banque Populaire;Impôts et taxes;Impôts et taxes;;15 380,07;811 604,71
+15/02/2026;Société Générale Maroc;Investissements;Investissements;;23 975,07;-520 143,07
+16/02/2026;Banque Populaire;Règlement client;Encaissements clients;120 234,65;;931 839,36
+16/02/2026;Banque Populaire;Règlement client;Encaissements clients;158 600,33;;1 090 439,69
+16/02/2026;Société Générale Maroc;Échéance d'emprunt;Échéance d'emprunt;;163 238,62;-683 381,69
+17/02/2026;Banque Populaire;Règlement client;Encaissements clients;141 098,64;;1 231 538,34
+19/02/2026;Société Générale Maroc;Règlement client;Encaissements clients;149 569,88;;-533 811,82
+20/02/2026;Société Générale Maroc;Énergie et télécoms;Énergie et télécoms;;23 965,14;-557 776,96
+20/02/2026;Société Générale Maroc;Énergie et télécoms;Énergie et télécoms;;25 103,45;-582 880,41
+21/02/2026;Société Générale Maroc;Règlement client;Encaissements clients;142 374,39;;-440 506,02
+21/02/2026;Banque Populaire;Règlement client;Encaissements clients;161 894,75;;1 393 433,08
+21/02/2026;Banque Populaire;Impôt sur les sociétés;Impôt sur les sociétés;;7 569,28;1 385 863,81
+22/02/2026;Société Générale Maroc;Règlement client;Encaissements clients;174 464,20;;-266 041,82
+22/02/2026;Société Générale Maroc;Fournisseurs;Fournisseurs;;100 176,84;-366 218,66
+23/02/2026;Banque Populaire;Investissements;Investissements;;26 053,25;1 359 810,56
+23/02/2026;Société Générale Maroc;TVA à payer;TVA à payer;;40 283,66;-406 502,32
+24/02/2026;Société Générale Maroc;Loyer et charges;Loyer et charges;;45 798,96;-452 301,28
+24/02/2026;Banque Populaire;Énergie et télécoms;Énergie et télécoms;;24 762,30;1 335 048,26
+26/02/2026;Banque Populaire;Impôt sur les sociétés;Impôt sur les sociétés;;7 350,36;1 327 697,90
+26/02/2026;Banque Populaire;Impôt sur les sociétés;Impôt sur les sociétés;;8 986,27;1 318 711,63
+26/02/2026;Société Générale Maroc;Loyer et charges;Loyer et charges;;45 924,59;-498 225,87
+28/02/2026;Société Générale Maroc;Salaires;Salaires;;485 236,45;-983 462,32
+02/03/2026;Banque Populaire;Règlement client;Encaissements clients;128 087,22;;1 446 798,85
+04/03/2026;Société Générale Maroc;Investissements;Investissements;;30 248,97;-1 013 711,29
+04/03/2026;Banque Populaire;Énergie et télécoms;Énergie et télécoms;;25 185,91;1 421 612,95
+06/03/2026;Société Générale Maroc;Règlement client;Encaissements clients;130 240,41;;-883 470,87
+06/03/2026;Banque Populaire;Fournisseurs;Fournisseurs;;127 348,91;1 294 264,03
+08/03/2026;Banque Populaire;TVA à payer;TVA à payer;;45 183,62;1 249 080,41
+09/03/2026;Société Générale Maroc;Règlement client;Encaissements clients;114 386,58;;-769 084,30
+10/03/2026;Société Générale Maroc;CNSS;CNSS;;103 770,27;-872 854,57
+10/03/2026;Société Générale Maroc;Impôt sur les sociétés;Impôt sur les sociétés;;7 334,48;-880 189,05
+10/03/2026;Société Générale Maroc;Loyer et charges;Loyer et charges;;37 100,21;-917 289,26
+12/03/2026;Banque Populaire;Fournisseurs;Fournisseurs;;102 337,93;1 146 742,48
+13/03/2026;Banque Populaire;Investissements;Investissements;;31 290,78;1 115 451,71
+14/03/2026;Banque Populaire;Règlement client;Encaissements clients;152 030,94;;1 267 482,64
+14/03/2026;Banque Populaire;Fournisseurs;Fournisseurs;;125 287,21;1 142 195,43
+15/03/2026;Banque Populaire;Règlement client;Encaissements clients;88 258,34;;1 230 453,77
+15/03/2026;Société Générale Maroc;Impôts et taxes;Impôts et taxes;;16 509,99;-933 799,25
+15/03/2026;Banque Populaire;Investissements;Investissements;;29 768,73;1 200 685,04
+16/03/2026;Société Générale Maroc;Fournisseurs;Fournisseurs;;103 991,05;-1 037 790,30
+16/03/2026;Société Générale Maroc;Loyer et charges;Loyer et charges;;41 526,50;-1 079 316,81
+16/03/2026;Banque Populaire;TVA à payer;TVA à payer;;40 812,65;1 159 872,40
+16/03/2026;Banque Populaire;TVA à payer;TVA à payer;;48 106,48;1 111 765,92
+16/03/2026;Société Générale Maroc;Énergie et télécoms;Énergie et télécoms;;22 529,67;-1 101 846,47
+17/03/2026;Banque Populaire;Règlement client;Encaissements clients;133 986,20;;1 245 752,11
+17/03/2026;Société Générale Maroc;Règlement client;Encaissements clients;146 749,34;;-955 097,13
+18/03/2026;Banque Populaire;Loyer et charges;Loyer et charges;;40 781,30;1 204 970,81
+19/03/2026;Société Générale Maroc;Règlement client;Encaissements clients;147 425,04;;-807 672,09
+19/03/2026;Société Générale Maroc;Règlement client;Encaissements clients;152 388,23;;-655 283,86
+22/03/2026;Banque Populaire;Impôt sur les sociétés;Impôt sur les sociétés;;8 013,68;1 196 957,13
+22/03/2026;Société Générale Maroc;Impôt sur les sociétés;Impôt sur les sociétés;;9 220,23;-664 504,09
+22/03/2026;Société Générale Maroc;Loyer et charges;Loyer et charges;;46 273,85;-710 777,94
+22/03/2026;Banque Populaire;Énergie et télécoms;Énergie et télécoms;;26 418,40;1 170 538,73
+22/03/2026;Société Générale Maroc;Énergie et télécoms;Énergie et télécoms;;27 854,29;-738 632,23
+23/03/2026;Société Générale Maroc;Impôt sur les sociétés;Impôt sur les sociétés;;7 309,29;-745 941,52
+23/03/2026;Banque Populaire;Investissements;Investissements;;31 310,77;1 139 227,96
+24/03/2026;Société Générale Maroc;Règlement client;Encaissements clients;84 817,51;;-661 124,02
+25/03/2026;Société Générale Maroc;Règlement client;Encaissements clients;126 536,97;;-534 587,05
+25/03/2026;Banque Populaire;TVA à payer;TVA à payer;;50 989,18;1 088 238,78
+27/03/2026;Société Générale Maroc;Règlement client;Encaissements clients;116 418,47;;-418 168,58
+27/03/2026;Banque Populaire;Règlement client;Encaissements clients;184 716,45;;1 272 955,23
+27/03/2026;Banque Populaire;Échéance d'emprunt;Échéance d'emprunt;;156 680,23;1 116 275,00
+28/03/2026;Banque Populaire;Règlement client;Encaissements clients;105 423,57;;1 221 698,58
+28/03/2026;Banque Populaire;Règlement client;Encaissements clients;115 271,02;;1 336 969,60
+28/03/2026;Société Générale Maroc;Salaires;Salaires;;497 014,95;-915 183,53
+02/04/2026;Banque Populaire;Règlement client;Encaissements clients;88 193,75;;1 425 163,36
+04/04/2026;Société Générale Maroc;Fournisseurs;Fournisseurs;;110 792,81;-1 025 976,33
+04/04/2026;Banque Populaire;Fournisseurs;Fournisseurs;;123 862,81;1 301 300,55
+05/04/2026;Banque Populaire;Règlement client;Encaissements clients;91 190,93;;1 392 491,48
+08/04/2026;Banque Populaire;Investissements;Investissements;;29 160,10;1 363 331,38
+08/04/2026;Banque Populaire;Loyer et charges;Loyer et charges;;43 155,60;1 320 175,79
+08/04/2026;Société Générale Maroc;TVA à payer;TVA à payer;;47 188,84;-1 073 165,18
+08/04/2026;Société Générale Maroc;Échéance d'emprunt;Échéance d'emprunt;;159 918,46;-1 233 083,64
+10/04/2026;Société Générale Maroc;CNSS;CNSS;;105 846,95;-1 338 930,58
+10/04/2026;Banque Populaire;TVA à payer;TVA à payer;;46 968,50;1 273 207,29
+11/04/2026;Banque Populaire;Impôt sur les sociétés;Impôt sur les sociétés;;8 514,90;1 264 692,39
+12/04/2026;Société Générale Maroc;Impôts et taxes;Impôts et taxes;;15 458,85;-1 354 389,44
+13/04/2026;Banque Populaire;Investissements;Investissements;;31 182,40;1 233 509,99
+14/04/2026;Société Générale Maroc;Impôt sur les sociétés;Impôt sur les sociétés;;6 899,80;-1 361 289,23
+14/04/2026;Banque Populaire;Énergie et télécoms;Énergie et télécoms;;27 342,33;1 206 167,66
+15/04/2026;Société Générale Maroc;Règlement client;Encaissements clients;194 476,41;;-1 166 812,83
+15/04/2026;Banque Populaire;TVA à payer;TVA à payer;;45 563,97;1 160 603,69
+15/04/2026;Banque Populaire;Énergie et télécoms;Énergie et télécoms;;22 941,96;1 137 661,73
+15/04/2026;Société Générale Maroc;Énergie et télécoms;Énergie et télécoms;;25 446,99;-1 192 259,81
+16/04/2026;Société Générale Maroc;Investissements;Investissements;;25 897,85;-1 218 157,67
+16/04/2026;Société Générale Maroc;Loyer et charges;Loyer et charges;;37 100,80;-1 255 258,47
+17/04/2026;Société Générale Maroc;Fournisseurs;Fournisseurs;;126 483,47;-1 381 741,94
+19/04/2026;Société Générale Maroc;Règlement client;Encaissements clients;169 769,52;;-1 211 972,42
+19/04/2026;Société Générale Maroc;Investissements;Investissements;;24 911,15;-1 236 883,57
+19/04/2026;Banque Populaire;Loyer et charges;Loyer et charges;;37 408,84;1 100 252,89
+22/04/2026;Société Générale Maroc;Règlement client;Encaissements clients;119 510,67;;-1 117 372,90
+22/04/2026;Société Générale Maroc;Fournisseurs;Fournisseurs;;126 872,57;-1 244 245,47
+22/04/2026;Banque Populaire;Impôt sur les sociétés;Impôt sur les sociétés;;6 995,47;1 093 257,42
+22/04/2026;Banque Populaire;Loyer et charges;Loyer et charges;;43 650,98;1 049 606,44
+22/04/2026;Société Générale Maroc;Énergie et télécoms;Énergie et télécoms;;25 623,87;-1 269 869,34
+23/04/2026;Banque Populaire;Règlement client;Encaissements clients;181 886,22;;1 231 492,66
+25/04/2026;Banque Populaire;Règlement client;Encaissements clients;177 833,58;;1 409 326,24
+25/04/2026;Banque Populaire;TVA à payer;TVA à payer;;39 813,35;1 369 512,89
+26/04/2026;Banque Populaire;Règlement client;Encaissements clients;86 046,34;;1 455 559,23
+26/04/2026;Banque Populaire;Impôt sur les sociétés;Impôt sur les sociétés;;8 157,78;1 447 401,45
+27/04/2026;Société Générale Maroc;Règlement client;Encaissements clients;129 817,96;;-1 140 051,39
+28/04/2026;Société Générale Maroc;Règlement client;Encaissements clients;104 439,63;;-1 035 611,76
+28/04/2026;Société Générale Maroc;Salaires;Salaires;;412 992,11;-1 448 603,86
+04/05/2026;Société Générale Maroc;Impôt sur les sociétés;Impôt sur les sociétés;;8 431,55;-1 457 035,42
+05/05/2026;Banque Populaire;Règlement client;Encaissements clients;113 086,75;;1 560 488,21
+05/05/2026;Banque Populaire;Impôt sur les sociétés;Impôt sur les sociétés;;7 233,78;1 553 254,43
+06/05/2026;Banque Populaire;TVA à payer;TVA à payer;;41 254,27;1 512 000,16
+07/05/2026;Société Générale Maroc;Énergie et télécoms;Énergie et télécoms;;23 765,09;-1 480 800,51
+08/05/2026;Société Générale Maroc;Règlement client;Encaissements clients;153 622,36;;-1 327 178,15
+10/05/2026;Société Générale Maroc;CNSS;CNSS;;97 935,70;-1 425 113,85
+10/05/2026;Société Générale Maroc;Impôt sur les sociétés;Impôt sur les sociétés;;7 103,82;-1 432 217,67
+11/05/2026;Banque Populaire;Investissements;Investissements;;29 969,05;1 482 031,11
+11/05/2026;Société Générale Maroc;TVA à payer;TVA à payer;;49 379,62;-1 481 597,29
+12/05/2026;Banque Populaire;Règlement client;Encaissements clients;100 752,80;;1 582 783,92
+12/05/2026;Société Générale Maroc;Règlement client;Encaissements clients;106 197,24;;-1 375 400,05
+12/05/2026;Société Générale Maroc;Règlement client;Encaissements clients;187 187,44;;-1 188 212,61
+12/05/2026;Société Générale Maroc;Investissements;Investissements;;31 248,47;-1 219 461,08
+12/05/2026;Société Générale Maroc;Énergie et télécoms;Énergie et télécoms;;27 734,88;-1 247 195,96
+13/05/2026;Société Générale Maroc;Fournisseurs;Fournisseurs;;106 607,04;-1 353 802,99
+15/05/2026;Société Générale Maroc;Règlement client;Encaissements clients;113 701,76;;-1 240 101,23
+16/05/2026;Société Générale Maroc;Règlement client;Encaissements clients;106 287,15;;-1 133 814,08
+16/05/2026;Banque Populaire;Règlement client;Encaissements clients;134 162,82;;1 716 946,73
+16/05/2026;Société Générale Maroc;Loyer et charges;Loyer et charges;;45 897,30;-1 179 711,38
+17/05/2026;Banque Populaire;Règlement client;Encaissements clients;108 261,62;;1 825 208,35
+18/05/2026;Société Générale Maroc;Règlement client;Encaissements clients;168 412,27;;-1 011 299,11
+18/05/2026;Banque Populaire;Loyer et charges;Loyer et charges;;44 789,22;1 780 419,13
+19/05/2026;Banque Populaire;Règlement client;Encaissements clients;139 974,08;;1 920 393,21
+19/05/2026;Société Générale Maroc;Énergie et télécoms;Énergie et télécoms;;23 796,78;-1 035 095,89
+20/05/2026;Société Générale Maroc;Fournisseurs;Fournisseurs;;105 733,40;-1 140 829,29
+20/05/2026;Banque Populaire;Investissements;Investissements;;29 408,86;1 890 984,35
+20/05/2026;Banque Populaire;TVA à payer;TVA à payer;;50 398,02;1 840 586,33
+21/05/2026;Société Générale Maroc;Impôt sur les sociétés;Impôt sur les sociétés;;7 954,63;-1 148 783,92
+21/05/2026;Société Générale Maroc;Loyer et charges;Loyer et charges;;35 580,61;-1 184 364,53
+22/05/2026;Société Générale Maroc;Impôts et taxes;Impôts et taxes;;14 583,63;-1 198 948,17
+23/05/2026;Société Générale Maroc;Règlement client;Encaissements clients;112 482,79;;-1 086 465,38
+23/05/2026;Société Générale Maroc;Fournisseurs;Fournisseurs;;114 450,79;-1 200 916,17
+24/05/2026;Société Générale Maroc;Règlement client;Encaissements clients;101 255,16;;-1 099 661,01
+24/05/2026;Société Générale Maroc;TVA à payer;TVA à payer;;41 161,81;-1 140 822,82
+24/05/2026;Banque Populaire;Énergie et télécoms;Énergie et télécoms;;22 299,58;1 818 286,76
+25/05/2026;Banque Populaire;Fournisseurs;Fournisseurs;;120 961,99;1 697 324,76
+25/05/2026;Banque Populaire;Échéance d'emprunt;Échéance d'emprunt;;149 521,09;1 547 803,67
+26/05/2026;Société Générale Maroc;Loyer et charges;Loyer et charges;;46 763,70;-1 187 586,52
+27/05/2026;Société Générale Maroc;Investissements;Investissements;;30 242,91;-1 217 829,42
+28/05/2026;Société Générale Maroc;Règlement client;Encaissements clients;101 963,00;;-1 115 866,43
+28/05/2026;Société Générale Maroc;Salaires;Salaires;;394 485,47;-1 510 351,90
+02/06/2026;Banque Populaire;Règlement client;Encaissements clients;124 987,49;;1 672 791,16
+03/06/2026;Banque Populaire;Impôt sur les sociétés;Impôt sur les sociétés;;9 096,97;1 663 694,19
+03/06/2026;Banque Populaire;TVA à payer;TVA à payer;;47 379,42;1 616 314,77
+05/06/2026;Société Générale Maroc;Investissements;Investissements;;27 772,96;-1 538 124,86
+06/06/2026;Société Générale Maroc;Règlement client;Encaissements clients;159 699,00;;-1 378 425,85
+06/06/2026;Banque Populaire;Règlement client;Encaissements clients;179 641,49;;1 795 956,26
+06/06/2026;Société Générale Maroc;Fournisseurs;Fournisseurs;;131 211,23;-1 509 637,08
+06/06/2026;Banque Populaire;Loyer et charges;Loyer et charges;;42 749,58;1 753 206,67
+06/06/2026;Banque Populaire;TVA à payer;TVA à payer;;50 828,67;1 702 378,01
+07/06/2026;Société Générale Maroc;Règlement client;Encaissements clients;124 167,31;;-1 385 469,77
+07/06/2026;Banque Populaire;Règlement client;Encaissements clients;149 976,42;;1 852 354,42
+08/06/2026;Banque Populaire;TVA à payer;TVA à payer;;42 584,41;1 809 770,02
+09/06/2026;Banque Populaire;Règlement client;Encaissements clients;189 561,18;;1 999 331,19
+09/06/2026;Société Générale Maroc;Impôt sur les sociétés;Impôt sur les sociétés;;8 520,92;-1 393 990,69
+09/06/2026;Société Générale Maroc;Échéance d'emprunt;Échéance d'emprunt;;177 148,92;-1 571 139,61
+10/06/2026;Société Générale Maroc;CNSS;CNSS;;80 930,33;-1 652 069,95
+10/06/2026;Banque Populaire;Investissements;Investissements;;27 234,74;1 972 096,45
+12/06/2026;Société Générale Maroc;Loyer et charges;Loyer et charges;;42 981,63;-1 695 051,58
+12/06/2026;Société Générale Maroc;TVA à payer;TVA à payer;;42 392,38;-1 737 443,96
+13/06/2026;Société Générale Maroc;Énergie et télécoms;Énergie et télécoms;;21 572,11;-1 759 016,07
+13/06/2026;Banque Populaire;Énergie et télécoms;Énergie et télécoms;;25 158,02;1 946 938,43
+14/06/2026;Société Générale Maroc;Règlement client;Encaissements clients;105 114,98;;-1 653 901,09
+16/06/2026;Société Générale Maroc;Règlement client;Encaissements clients;130 753,61;;-1 523 147,48
+16/06/2026;Banque Populaire;Fournisseurs;Fournisseurs;;124 643,94;1 822 294,50
+16/06/2026;Banque Populaire;Loyer et charges;Loyer et charges;;35 314,34;1 786 980,15
+17/06/2026;Banque Populaire;Règlement client;Encaissements clients;145 343,81;;1 932 323,96
+17/06/2026;Société Générale Maroc;Énergie et télécoms;Énergie et télécoms;;26 586,01;-1 549 733,49
+18/06/2026;Société Générale Maroc;Impôt sur les sociétés;Impôt sur les sociétés;;7 219,89;-1 556 953,38
+19/06/2026;Société Générale Maroc;Impôts et taxes;Impôts et taxes;;13 655,91;-1 570 609,29
+20/06/2026;Banque Populaire;Règlement client;Encaissements clients;187 401,70;;2 119 725,66
+20/06/2026;Banque Populaire;Fournisseurs;Fournisseurs;;118 985,76;2 000 739,90
+21/06/2026;Banque Populaire;Règlement client;Encaissements clients;165 688,45;;2 166 428,35
+21/06/2026;Société Générale Maroc;Impôt sur les sociétés;Impôt sur les sociétés;;8 072,30;-1 578 681,59
+22/06/2026;Société Générale Maroc;Fournisseurs;Fournisseurs;;122 062,67;-1 700 744,26
+22/06/2026;Société Générale Maroc;Investissements;Investissements;;28 928,16;-1 729 672,42
+23/06/2026;Banque Populaire;Règlement client;Encaissements clients;180 944,50;;2 347 372,85
+24/06/2026;Banque Populaire;Règlement client;Encaissements clients;171 353,16;;2 518 726,01
+24/06/2026;Banque Populaire;Énergie et télécoms;Énergie et télécoms;;22 173,44;2 496 552,57
+25/06/2026;Société Générale Maroc;Règlement client;Encaissements clients;129 578,88;;-1 600 093,54
+25/06/2026;Banque Populaire;Loyer et charges;Loyer et charges;;36 982,05;2 459 570,52
+26/06/2026;Société Générale Maroc;Règlement client;Encaissements clients;105 338,24;;-1 494 755,30
+26/06/2026;Banque Populaire;Investissements;Investissements;;27 193,17;2 432 377,36
+28/06/2026;Banque Populaire;Règlement client;Encaissements clients;171 683,28;;2 604 060,64
+28/06/2026;Société Générale Maroc;Salaires;Salaires;;425 438,08;-1 920 193,38
+02/07/2026;Société Générale Maroc;Règlement client;Encaissements clients;104 269,61;;-1 815 923,77
+03/07/2026;Société Générale Maroc;Règlement client;Encaissements clients;146 419,24;;-1 669 504,53
+03/07/2026;Société Générale Maroc;Loyer et charges;Loyer et charges;;42 335,09;-1 711 839,61
+05/07/2026;Société Générale Maroc;TVA à payer;TVA à payer;;48 241,75;-1 760 081,37
+05/07/2026;Société Générale Maroc;Énergie et télécoms;Énergie et télécoms;;27 637,66;-1 787 719,03
+06/07/2026;Société Générale Maroc;Fournisseurs;Fournisseurs;;100 222,36;-1 887 941,38
+08/07/2026;Banque Populaire;Règlement client;Encaissements clients;179 657,45;;2 783 718,10
+08/07/2026;Société Générale Maroc;Fournisseurs;Fournisseurs;;112 067,49;-2 000 008,88
+08/07/2026;Société Générale Maroc;Impôts et taxes;Impôts et taxes;;14 968,84;-2 014 977,72
+10/07/2026;Société Générale Maroc;Règlement client;Encaissements clients;95 089,40;;-1 919 888,32
+10/07/2026;Société Générale Maroc;CNSS;CNSS;;98 958,54;-2 018 846,85
+11/07/2026;Société Générale Maroc;Règlement client;Encaissements clients;129 431,42;;-1 889 415,43
+11/07/2026;Banque Populaire;Règlement client;Encaissements clients;147 031,97;;2 930 750,07
+11/07/2026;Société Générale Maroc;Fournisseurs;Fournisseurs;;108 012,69;-1 997 428,13
+11/07/2026;Banque Populaire;Impôt sur les sociétés;Impôt sur les sociétés;;7 385,98;2 923 364,09
+12/07/2026;Banque Populaire;Loyer et charges;Loyer et charges;;46 309,10;2 877 054,98
+13/07/2026;Société Générale Maroc;Règlement client;Encaissements clients;128 761,06;;-1 868 667,07
+13/07/2026;Société Générale Maroc;Investissements;Investissements;;30 252,77;-1 898 919,84
+14/07/2026;Banque Populaire;TVA à payer;TVA à payer;;43 983,29;2 833 071,70
+15/07/2026;Société Générale Maroc;Règlement client;Encaissements clients;191 738,34;;-1 707 181,50
+15/07/2026;Société Générale Maroc;Loyer et charges;Loyer et charges;;45 824,98;-1 753 006,48
+16/07/2026;Banque Populaire;TVA à payer;TVA à payer;;42 355,10;2 790 716,60
+17/07/2026;Société Générale Maroc;Impôt sur les sociétés;Impôt sur les sociétés;;7 306,38;-1 760 312,86
+18/07/2026;Société Générale Maroc;Impôt sur les sociétés;Impôt sur les sociétés;;9 141,55;-1 769 454,41
+18/07/2026;Société Générale Maroc;Énergie et télécoms;Énergie et télécoms;;27 973,43;-1 797 427,84
+19/07/2026;Banque Populaire;Règlement client;Encaissements clients;140 148,42;;2 930 865,02
+19/07/2026;Société Générale Maroc;Impôt sur les sociétés;Impôt sur les sociétés;;7 536,08;-1 804 963,92
+19/07/2026;Société Générale Maroc;Investissements;Investissements;;31 172,41;-1 836 136,33
+20/07/2026;Banque Populaire;TVA à payer;TVA à payer;;42 802,30;2 888 062,72
+21/07/2026;Société Générale Maroc;Énergie et télécoms;Énergie et télécoms;;24 952,55;-1 861 088,88
+22/07/2026;Société Générale Maroc;Règlement client;Encaissements clients;151 546,53;;-1 709 542,35
+22/07/2026;Société Générale Maroc;Fournisseurs;Fournisseurs;;120 559,58;-1 830 101,93
+22/07/2026;Société Générale Maroc;Investissements;Investissements;;28 980,32;-1 859 082,25
+23/07/2026;Société Générale Maroc;Règlement client;Encaissements clients;139 647,60;;-1 719 434,65
+23/07/2026;Société Générale Maroc;Règlement client;Encaissements clients;184 390,62;;-1 535 044,03
+24/07/2026;Banque Populaire;Règlement client;Encaissements clients;93 841,28;;2 981 904,00
+25/07/2026;Banque Populaire;Investissements;Investissements;;26 599,78;2 955 304,22
+25/07/2026;Société Générale Maroc;Échéance d'emprunt;Échéance d'emprunt;;145 896,10;-1 680 940,13
+26/07/2026;Banque Populaire;Loyer et charges;Loyer et charges;;36 608,18;2 918 696,04
+27/07/2026;Banque Populaire;Règlement client;Encaissements clients;148 999,46;;3 067 695,49
+27/07/2026;Société Générale Maroc;Énergie et télécoms;Énergie et télécoms;;24 425,34;-1 705 365,47
+28/07/2026;Banque Populaire;Règlement client;Encaissements clients;184 357,26;;3 252 052,75
+28/07/2026;Société Générale Maroc;Salaires;Salaires;;441 967,27;-2 147 332,74
+04/08/2026;Société Générale Maroc;TVA à payer;TVA à payer;;51 183,07;-2 198 515,81
+05/08/2026;Société Générale Maroc;Investissements;Investissements;;29 671,71;-2 228 187,52
+06/08/2026;Société Générale Maroc;Impôt sur les sociétés;Impôt sur les sociétés;;8 417,51;-2 236 605,03
+06/08/2026;Banque Populaire;Investissements;Investissements;;25 804,64;3 226 248,12
+07/08/2026;Société Générale Maroc;Règlement client;Encaissements clients;179 452,36;;-2 057 152,67
+09/08/2026;Banque Populaire;Règlement client;Encaissements clients;124 969,75;;3 351 217,87
+09/08/2026;Banque Populaire;Règlement client;Encaissements clients;140 814,83;;3 492 032,70
+09/08/2026;Société Générale Maroc;Règlement client;Encaissements clients;179 007,72;;-1 878 144,94
+09/08/2026;Banque Populaire;TVA à payer;TVA à payer;;42 644,95;3 449 387,74
+10/08/2026;Société Générale Maroc;Règlement client;Encaissements clients;97 771,01;;-1 780 373,93
+10/08/2026;Société Générale Maroc;Règlement client;Encaissements clients;132 237,45;;-1 648 136,48
+10/08/2026;Société Générale Maroc;CNSS;CNSS;;89 287,21;-1 737 423,69
+10/08/2026;Banque Populaire;Loyer et charges;Loyer et charges;;37 994,98;3 411 392,77
+10/08/2026;Société Générale Maroc;Loyer et charges;Loyer et charges;;41 359,94;-1 778 783,64
+10/08/2026;Banque Populaire;TVA à payer;TVA à payer;;39 305,15;3 372 087,62
+11/08/2026;Société Générale Maroc;Investissements;Investissements;;26 619,18;-1 805 402,82
+12/08/2026;Société Générale Maroc;Investissements;Investissements;;23 955,22;-1 829 358,04
+12/08/2026;Société Générale Maroc;Énergie et télécoms;Énergie et télécoms;;25 005,79;-1 854 363,83
+13/08/2026;Société Générale Maroc;Règlement client;Encaissements clients;110 538,61;;-1 743 825,21
+13/08/2026;Société Générale Maroc;Énergie et télécoms;Énergie et télécoms;;21 020,91;-1 764 846,13
+15/08/2026;Société Générale Maroc;Fournisseurs;Fournisseurs;;111 910,53;-1 876 756,65
+17/08/2026;Banque Populaire;Règlement client;Encaissements clients;113 529,06;;3 485 616,68
+17/08/2026;Banque Populaire;Règlement client;Encaissements clients;118 216,17;;3 603 832,85
+18/08/2026;Société Générale Maroc;Règlement client;Encaissements clients;100 552,79;;-1 776 203,87
+18/08/2026;Banque Populaire;Loyer et charges;Loyer et charges;;36 610,65;3 567 222,19
+19/08/2026;Banque Populaire;Énergie et télécoms;Énergie et télécoms;;22 121,64;3 545 100,56
+20/08/2026;Société Générale Maroc;Règlement client;Encaissements clients;108 712,09;;-1 667 491,77
+22/08/2026;Banque Populaire;Règlement client;Encaissements clients;136 483,22;;3 681 583,77
+22/08/2026;Banque Populaire;Règlement client;Encaissements clients;173 650,21;;3 855 233,98
+22/08/2026;Société Générale Maroc;Impôt sur les sociétés;Impôt sur les sociétés;;7 591,08;-1 675 082,86
+22/08/2026;Banque Populaire;Échéance d'emprunt;Échéance d'emprunt;;179 509,13;3 675 724,85
+22/08/2026;Société Générale Maroc;Énergie et télécoms;Énergie et télécoms;;24 766,42;-1 699 849,28
+23/08/2026;Banque Populaire;Fournisseurs;Fournisseurs;;122 201,49;3 553 523,37
+24/08/2026;Société Générale Maroc;Impôt sur les sociétés;Impôt sur les sociétés;;7 223,18;-1 707 072,46
+25/08/2026;Banque Populaire;Loyer et charges;Loyer et charges;;39 355,15;3 514 168,22
+26/08/2026;Société Générale Maroc;Fournisseurs;Fournisseurs;;100 583,24;-1 807 655,70
+26/08/2026;Banque Populaire;Fournisseurs;Fournisseurs;;112 649,56;3 401 518,66
+26/08/2026;Société Générale Maroc;Impôts et taxes;Impôts et taxes;;15 600,84;-1 823 256,54
+27/08/2026;Banque Populaire;Règlement client;Encaissements clients;193 290,13;;3 594 808,79
+27/08/2026;Banque Populaire;Impôt sur les sociétés;Impôt sur les sociétés;;7 914,71;3 586 894,09
+27/08/2026;Société Générale Maroc;TVA à payer;TVA à payer;;40 128,84;-1 863 385,38
+28/08/2026;Société Générale Maroc;Salaires;Salaires;;490 542,88;-2 353 928,25
+03/09/2026;Société Générale Maroc;Impôt sur les sociétés;Impôt sur les sociétés;;8 490,44;-2 362 418,69
+03/09/2026;Société Générale Maroc;Loyer et charges;Loyer et charges;;41 646,26;-2 404 064,94
+04/09/2026;Société Générale Maroc;Impôt sur les sociétés;Impôt sur les sociétés;;8 356,72;-2 412 421,66
+05/09/2026;Société Générale Maroc;Règlement client;Encaissements clients;120 082,46;;-2 292 339,21
+05/09/2026;Banque Populaire;Règlement client;Encaissements clients;141 791,00;;3 728 685,09
+05/09/2026;Banque Populaire;Échéance d'emprunt;Échéance d'emprunt;;186 967,56;3 541 717,54
+06/09/2026;Banque Populaire;Règlement client;Encaissements clients;83 860,45;;3 625 577,98
+06/09/2026;Banque Populaire;Règlement client;Encaissements clients;131 386,58;;3 756 964,57
+06/09/2026;Banque Populaire;Investissements;Investissements;;23 581,68;3 733 382,89
+07/09/2026;Société Générale Maroc;Règlement client;Encaissements clients;157 859,69;;-2 134 479,52
+07/09/2026;Société Générale Maroc;Règlement client;Encaissements clients;176 286,72;;-1 958 192,80
+07/09/2026;Société Générale Maroc;Investissements;Investissements;;27 229,48;-1 985 422,28
+07/09/2026;Banque Populaire;Loyer et charges;Loyer et charges;;35 649,41;3 697 733,48
+08/09/2026;Société Générale Maroc;Fournisseurs;Fournisseurs;;125 941,90;-2 111 364,18
+10/09/2026;Société Générale Maroc;CNSS;CNSS;;89 175,09;-2 200 539,27
+10/09/2026;Banque Populaire;Loyer et charges;Loyer et charges;;46 267,77;3 651 465,71
+10/09/2026;Société Générale Maroc;Énergie et télécoms;Énergie et télécoms;;23 065,86;-2 223 605,13
+12/09/2026;Société Générale Maroc;TVA à payer;TVA à payer;;47 443,55;-2 271 048,68
+12/09/2026;Banque Populaire;Énergie et télécoms;Énergie et télécoms;;22 991,45;3 628 474,26
+13/09/2026;Banque Populaire;Impôt sur les sociétés;Impôt sur les sociétés;;8 487,93;3 619 986,33
+16/09/2026;Banque Populaire;Règlement client;Encaissements clients;100 447,28;;3 720 433,61
+16/09/2026;Banque Populaire;Fournisseurs;Fournisseurs;;135 301,70;3 585 131,91
+16/09/2026;Société Générale Maroc;Investissements;Investissements;;25 244,52;-2 296 293,20
+16/09/2026;Banque Populaire;Énergie et télécoms;Énergie et télécoms;;22 356,25;3 562 775,66
+17/09/2026;Banque Populaire;Fournisseurs;Fournisseurs;;117 132,86;3 445 642,80
+18/09/2026;Société Générale Maroc;Règlement client;Encaissements clients;163 940,38;;-2 132 352,82
+18/09/2026;Banque Populaire;TVA à payer;TVA à payer;;44 377,19;3 401 265,62
+19/09/2026;Société Générale Maroc;Règlement client;Encaissements clients;129 091,10;;-2 003 261,72
+19/09/2026;Société Générale Maroc;Fournisseurs;Fournisseurs;;119 195,08;-2 122 456,80
+22/09/2026;Banque Populaire;Règlement client;Encaissements clients;126 795,86;;3 528 061,48
+22/09/2026;Société Générale Maroc;Énergie et télécoms;Énergie et télécoms;;26 304,25;-2 148 761,05
+23/09/2026;Société Générale Maroc;Règlement client;Encaissements clients;145 463,70;;-2 003 297,36
+24/09/2026;Banque Populaire;Impôt sur les sociétés;Impôt sur les sociétés;;7 903,47;3 520 158,01
+25/09/2026;Banque Populaire;Règlement client;Encaissements clients;162 651,77;;3 682 809,78
+25/09/2026;Société Générale Maroc;Investissements;Investissements;;25 763,48;-2 029 060,84
+25/09/2026;Banque Populaire;TVA à payer;TVA à payer;;45 745,47;3 637 064,30
+25/09/2026;Banque Populaire;TVA à payer;TVA à payer;;50 956,29;3 586 108,02
+26/09/2026;Société Générale Maroc;Impôts et taxes;Impôts et taxes;;16 398,54;-2 045 459,38
+26/09/2026;Société Générale Maroc;Loyer et charges;Loyer et charges;;40 532,33;-2 085 991,71
+28/09/2026;Banque Populaire;Règlement client;Encaissements clients;190 837,57;;3 776 945,58
+28/09/2026;Société Générale Maroc;Salaires;Salaires;;443 087,18;-2 529 078,89

@@ -1,0 +1,215 @@
+﻿Date facture;Client;Produit;Commercial;Ville;Canal;Quantité;Montant HT;Coût de revient;Statut paiement;Échéance;Objectif mensuel
+03/01/2026;Clients SaaS PME (abonnements);Développement sur mesure (jour);Reda;Casablanca;Abonnement;36;192 292,46;93 600,00;Réglé;17/02/2026;1050000
+05/01/2026;Clients SaaS PME (abonnements);Abonnement SaaS (mensuel);Reda;Casablanca;Abonnement;9;16 708,56;3 420,00;Réglé;19/02/2026;1050000
+06/01/2026;Groupe de distribution;Abonnement SaaS (mensuel);Reda;Casablanca;Direct;6;11 100,22;2 280,00;Réglé;20/02/2026;1050000
+07/01/2026;Administration publique;Abonnement SaaS (mensuel);Reda;Casablanca;Direct;1;1 948,90;380,00;Réglé;21/02/2026;1050000
+07/01/2026;Administration publique;Maintenance applicative (mois);Reda;Casablanca;Direct;3;40 144,63;19 500,00;Non réglé;21/02/2026;1050000
+08/01/2026;Clients SaaS PME (abonnements);Hébergement cloud (mois);Kawtar;Casablanca;Abonnement;1;3 336,96;2 100,00;Réglé;22/02/2026;1050000
+10/01/2026;Clients SaaS PME (abonnements);Développement sur mesure (jour);Reda;Casablanca;Abonnement;29;148 702,84;75 400,00;Réglé;24/02/2026;1050000
+13/01/2026;Groupe de distribution;Maintenance applicative (mois);Reda;Casablanca;Direct;2;26 668,74;13 000,00;Réglé;27/02/2026;1050000
+14/01/2026;Assurance Atlas;Maintenance applicative (mois);Reda;Casablanca;Direct;3;40 791,40;19 500,00;Non réglé;28/02/2026;1050000
+16/01/2026;Clients SaaS PME (abonnements);Maintenance applicative (mois);Kawtar;Casablanca;Abonnement;3;43 318,91;19 500,00;Réglé;02/03/2026;1050000
+17/01/2026;Clients SaaS PME (abonnements);Maintenance applicative (mois);Kawtar;Casablanca;Abonnement;2;27 292,88;13 000,00;Réglé;03/03/2026;1050000
+17/01/2026;Startup fintech;Développement sur mesure (jour);Reda;Casablanca;Direct;29;154 915,31;75 400,00;Réglé;03/03/2026;1050000
+19/01/2026;Clients SaaS PME (abonnements);Abonnement SaaS (mensuel);Reda;Casablanca;Abonnement;4;7 516,16;1 520,00;Réglé;05/03/2026;1050000
+20/01/2026;Startup fintech;Développement sur mesure (jour);Reda;Casablanca;Direct;18;96 910,74;46 800,00;Réglé;06/03/2026;1050000
+20/01/2026;Assurance Atlas;Développement sur mesure (jour);Reda;Casablanca;Direct;26;137 185,61;67 600,00;Réglé;06/03/2026;1050000
+21/01/2026;Startup fintech;Hébergement cloud (mois);Reda;Casablanca;Direct;3;10 438,47;6 300,00;Réglé;07/03/2026;1050000
+22/01/2026;Clients SaaS PME (abonnements);Abonnement SaaS (mensuel);Reda;Casablanca;Abonnement;8;14 882,05;3 040,00;Réglé;08/03/2026;1050000
+23/01/2026;Clients SaaS PME (abonnements);Maintenance applicative (mois);Reda;Casablanca;Abonnement;3;40 305,04;19 500,00;Non réglé;09/03/2026;1050000
+23/01/2026;Clients SaaS PME (abonnements);Maintenance applicative (mois);Kawtar;Casablanca;Abonnement;1;14 108,81;6 500,00;Réglé;09/03/2026;1050000
+24/01/2026;Groupe de distribution;Maintenance applicative (mois);Kawtar;Casablanca;Direct;2;28 527,58;13 000,00;Non réglé;10/03/2026;1050000
+24/01/2026;Administration publique;Développement sur mesure (jour);Kawtar;Casablanca;Direct;39;193 561,42;101 400,00;Réglé;10/03/2026;1050000
+26/01/2026;Assurance Atlas;Maintenance applicative (mois);Kawtar;Casablanca;Direct;3;44 050,64;19 500,00;Réglé;12/03/2026;1050000
+26/01/2026;Clients SaaS PME (abonnements);Développement sur mesure (jour);Reda;Casablanca;Abonnement;10;49 563,19;26 000,00;Réglé;12/03/2026;1050000
+28/01/2026;Groupe de distribution;Hébergement cloud (mois);Reda;Casablanca;Direct;1;3 514,76;2 100,00;Réglé;14/03/2026;1050000
+29/01/2026;Groupe de distribution;Maintenance applicative (mois);Reda;Casablanca;Direct;3;42 781,33;19 500,00;Réglé;15/03/2026;1050000
+29/01/2026;Clients SaaS PME (abonnements);Abonnement SaaS (mensuel);Reda;Casablanca;Abonnement;4;7 952,35;1 520,00;Réglé;15/03/2026;1050000
+30/01/2026;Startup fintech;Abonnement SaaS (mensuel);Kawtar;Casablanca;Direct;1;1 851,53;380,00;Réglé;16/03/2026;1050000
+31/01/2026;Clients SaaS PME (abonnements);Développement sur mesure (jour);Reda;Casablanca;Abonnement;20;103 252,77;52 000,00;Réglé;17/03/2026;1050000
+02/02/2026;Startup fintech;Hébergement cloud (mois);Reda;Casablanca;Direct;1;3 663,10;2 100,00;Réglé;19/03/2026;1050000
+02/02/2026;Startup fintech;Développement sur mesure (jour);Kawtar;Casablanca;Direct;38;205 800,19;98 800,00;Réglé;19/03/2026;1050000
+03/02/2026;Groupe de distribution;Maintenance applicative (mois);Reda;Casablanca;Direct;2;26 919,60;13 000,00;Réglé;20/03/2026;1050000
+03/02/2026;Clients SaaS PME (abonnements);Abonnement SaaS (mensuel);Kawtar;Casablanca;Abonnement;1;1 890,01;380,00;Réglé;20/03/2026;1050000
+05/02/2026;Clients SaaS PME (abonnements);Développement sur mesure (jour);Reda;Casablanca;Abonnement;31;157 334,19;80 600,00;Réglé;22/03/2026;1050000
+06/02/2026;Clients SaaS PME (abonnements);Abonnement SaaS (mensuel);Reda;Casablanca;Abonnement;8;15 323,36;3 040,00;Réglé;23/03/2026;1050000
+06/02/2026;Startup fintech;Abonnement SaaS (mensuel);Kawtar;Casablanca;Direct;4;7 247,35;1 520,00;Réglé;23/03/2026;1050000
+07/02/2026;Clients SaaS PME (abonnements);Maintenance applicative (mois);Kawtar;Casablanca;Abonnement;2;28 008,52;13 000,00;Réglé;24/03/2026;1050000
+09/02/2026;Groupe de distribution;Développement sur mesure (jour);Reda;Casablanca;Direct;6;32 224,17;15 600,00;Non réglé;26/03/2026;1050000
+09/02/2026;Client export (France);Abonnement SaaS (mensuel);Reda;Export;Export;9;17 627,84;3 420,00;Réglé;26/03/2026;1050000
+10/02/2026;Assurance Atlas;Hébergement cloud (mois);Kawtar;Casablanca;Direct;3;10 019,96;6 300,00;Réglé;27/03/2026;1050000
+11/02/2026;Administration publique;Hébergement cloud (mois);Reda;Casablanca;Direct;6;21 884,31;12 600,00;Réglé;28/03/2026;1050000
+11/02/2026;Groupe de distribution;Développement sur mesure (jour);Reda;Casablanca;Direct;31;168 121,60;80 600,00;Réglé;28/03/2026;1050000
+13/02/2026;Clients SaaS PME (abonnements);Abonnement SaaS (mensuel);Kawtar;Casablanca;Abonnement;3;5 496,35;1 140,00;Réglé;30/03/2026;1050000
+16/02/2026;Clients SaaS PME (abonnements);Maintenance applicative (mois);Reda;Casablanca;Abonnement;1;13 849,03;6 500,00;Réglé;02/04/2026;1050000
+16/02/2026;Startup fintech;Abonnement SaaS (mensuel);Kawtar;Casablanca;Direct;11;21 861,39;4 180,00;Réglé;02/04/2026;1050000
+18/02/2026;Clients SaaS PME (abonnements);Abonnement SaaS (mensuel);Reda;Casablanca;Abonnement;10;19 249,31;3 800,00;Réglé;04/04/2026;1050000
+18/02/2026;Client export (France);Hébergement cloud (mois);Reda;Export;Export;2;7 110,40;4 200,00;Non réglé;04/04/2026;1050000
+23/02/2026;Startup fintech;Hébergement cloud (mois);Kawtar;Casablanca;Direct;6;21 591,62;12 600,00;Réglé;09/04/2026;1050000
+23/02/2026;Assurance Atlas;Maintenance applicative (mois);Reda;Casablanca;Direct;2;27 459,59;13 000,00;Réglé;09/04/2026;1050000
+25/02/2026;Clients SaaS PME (abonnements);Maintenance applicative (mois);Kawtar;Casablanca;Abonnement;3;41 393,16;19 500,00;Réglé;11/04/2026;1050000
+25/02/2026;Assurance Atlas;Maintenance applicative (mois);Kawtar;Casablanca;Direct;1;14 369,22;6 500,00;Réglé;11/04/2026;1050000
+26/02/2026;Groupe de distribution;Abonnement SaaS (mensuel);Reda;Casablanca;Direct;2;3 986,41;760,00;Réglé;12/04/2026;1050000
+27/02/2026;Assurance Atlas;Abonnement SaaS (mensuel);Kawtar;Casablanca;Direct;12;23 328,18;4 560,00;Réglé;13/04/2026;1050000
+27/02/2026;Startup fintech;Hébergement cloud (mois);Kawtar;Casablanca;Direct;2;6 732,10;4 200,00;Réglé;13/04/2026;1050000
+28/02/2026;Client export (France);Maintenance applicative (mois);Reda;Export;Export;3;40 976,29;19 500,00;Réglé;14/04/2026;1050000
+28/02/2026;Assurance Atlas;Abonnement SaaS (mensuel);Reda;Casablanca;Direct;11;19 982,27;4 180,00;Réglé;14/04/2026;1050000
+02/03/2026;Client export (France);Développement sur mesure (jour);Kawtar;Export;Export;29;148 253,06;75 400,00;Réglé;16/04/2026;1050000
+02/03/2026;Assurance Atlas;Développement sur mesure (jour);Reda;Casablanca;Direct;36;190 546,21;93 600,00;Non réglé;16/04/2026;1050000
+05/03/2026;Clients SaaS PME (abonnements);Abonnement SaaS (mensuel);Kawtar;Casablanca;Abonnement;4;7 425,26;1 520,00;Réglé;19/04/2026;1050000
+06/03/2026;Groupe de distribution;Abonnement SaaS (mensuel);Kawtar;Casablanca;Direct;11;20 231,71;4 180,00;Non réglé;20/04/2026;1050000
+09/03/2026;Assurance Atlas;Hébergement cloud (mois);Reda;Casablanca;Direct;6;21 733,32;12 600,00;Non réglé;23/04/2026;1050000
+09/03/2026;Client export (France);Maintenance applicative (mois);Reda;Export;Export;1;14 243,70;6 500,00;Réglé;23/04/2026;1050000
+10/03/2026;Clients SaaS PME (abonnements);Développement sur mesure (jour);Reda;Casablanca;Abonnement;22;116 058,22;57 200,00;Réglé;24/04/2026;1050000
+10/03/2026;Groupe de distribution;Maintenance applicative (mois);Kawtar;Casablanca;Direct;1;14 275,95;6 500,00;Réglé;24/04/2026;1050000
+13/03/2026;Client export (France);Abonnement SaaS (mensuel);Kawtar;Export;Export;12;21 695,50;4 560,00;Réglé;27/04/2026;1050000
+13/03/2026;Client export (France);Développement sur mesure (jour);Reda;Export;Export;12;62 235,83;31 200,00;Réglé;27/04/2026;1050000
+16/03/2026;Clients SaaS PME (abonnements);Développement sur mesure (jour);Reda;Casablanca;Abonnement;22;111 496,71;57 200,00;Réglé;30/04/2026;1050000
+16/03/2026;Clients SaaS PME (abonnements);Abonnement SaaS (mensuel);Reda;Casablanca;Abonnement;6;11 187,93;2 280,00;Réglé;30/04/2026;1050000
+17/03/2026;Administration publique;Hébergement cloud (mois);Kawtar;Casablanca;Direct;5;16 690,19;10 500,00;Réglé;01/05/2026;1050000
+17/03/2026;Clients SaaS PME (abonnements);Développement sur mesure (jour);Reda;Casablanca;Abonnement;16;83 164,28;41 600,00;Réglé;01/05/2026;1050000
+21/03/2026;Groupe de distribution;Abonnement SaaS (mensuel);Kawtar;Casablanca;Direct;2;3 702,99;760,00;Réglé;05/05/2026;1050000
+24/03/2026;Groupe de distribution;Maintenance applicative (mois);Reda;Casablanca;Direct;2;27 844,59;13 000,00;Réglé;08/05/2026;1050000
+24/03/2026;Client export (France);Abonnement SaaS (mensuel);Reda;Export;Export;2;3 951,43;760,00;Réglé;08/05/2026;1050000
+25/03/2026;Clients SaaS PME (abonnements);Hébergement cloud (mois);Reda;Casablanca;Abonnement;4;14 517,12;8 400,00;Non réglé;09/05/2026;1050000
+01/04/2026;Clients SaaS PME (abonnements);Développement sur mesure (jour);Reda;Casablanca;Abonnement;26;129 338,13;67 600,00;Non réglé;16/05/2026;1050000
+02/04/2026;Clients SaaS PME (abonnements);Hébergement cloud (mois);Reda;Casablanca;Abonnement;1;3 619,33;2 100,00;Réglé;17/05/2026;1050000
+02/04/2026;Assurance Atlas;Abonnement SaaS (mensuel);Reda;Casablanca;Direct;10;18 561,67;3 800,00;Réglé;17/05/2026;1050000
+04/04/2026;Groupe de distribution;Développement sur mesure (jour);Reda;Casablanca;Direct;18;95 507,13;46 800,00;Réglé;19/05/2026;1050000
+06/04/2026;Assurance Atlas;Abonnement SaaS (mensuel);Kawtar;Casablanca;Direct;8;15 620,79;3 040,00;Réglé;21/05/2026;1050000
+07/04/2026;Client export (France);Maintenance applicative (mois);Reda;Export;Export;1;14 095,55;6 500,00;Réglé;22/05/2026;1050000
+09/04/2026;Clients SaaS PME (abonnements);Maintenance applicative (mois);Reda;Casablanca;Abonnement;3;43 704,28;19 500,00;Réglé;24/05/2026;1050000
+09/04/2026;Clients SaaS PME (abonnements);Développement sur mesure (jour);Kawtar;Casablanca;Abonnement;14;74 142,17;36 400,00;Réglé;24/05/2026;1050000
+13/04/2026;Clients SaaS PME (abonnements);Développement sur mesure (jour);Reda;Casablanca;Abonnement;17;91 072,30;44 200,00;Réglé;28/05/2026;1050000
+14/04/2026;Clients SaaS PME (abonnements);Abonnement SaaS (mensuel);Kawtar;Casablanca;Abonnement;6;11 312,98;2 280,00;Non réglé;29/05/2026;1050000
+15/04/2026;Startup fintech;Développement sur mesure (jour);Kawtar;Casablanca;Direct;38;193 950,74;98 800,00;Non réglé;30/05/2026;1050000
+17/04/2026;Startup fintech;Hébergement cloud (mois);Kawtar;Casablanca;Direct;3;10 786,64;6 300,00;Réglé;01/06/2026;1050000
+18/04/2026;Clients SaaS PME (abonnements);Développement sur mesure (jour);Reda;Casablanca;Abonnement;35;189 311,15;91 000,00;Non réglé;02/06/2026;1050000
+18/04/2026;Administration publique;Maintenance applicative (mois);Kawtar;Casablanca;Direct;3;43 650,49;19 500,00;Réglé;02/06/2026;1050000
+20/04/2026;Clients SaaS PME (abonnements);Développement sur mesure (jour);Reda;Casablanca;Abonnement;7;35 485,95;18 200,00;Réglé;04/06/2026;1050000
+21/04/2026;Groupe de distribution;Développement sur mesure (jour);Kawtar;Casablanca;Direct;28;150 023,72;72 800,00;Réglé;05/06/2026;1050000
+25/04/2026;Groupe de distribution;Hébergement cloud (mois);Reda;Casablanca;Direct;4;14 125,91;8 400,00;Réglé;09/06/2026;1050000
+25/04/2026;Clients SaaS PME (abonnements);Maintenance applicative (mois);Kawtar;Casablanca;Abonnement;2;27 980,94;13 000,00;Réglé;09/06/2026;1050000
+29/04/2026;Clients SaaS PME (abonnements);Développement sur mesure (jour);Reda;Casablanca;Abonnement;38;195 373,37;98 800,00;Réglé;13/06/2026;1050000
+30/04/2026;Startup fintech;Maintenance applicative (mois);Kawtar;Casablanca;Direct;2;27 464,30;13 000,00;Réglé;14/06/2026;1050000
+30/04/2026;Administration publique;Hébergement cloud (mois);Kawtar;Casablanca;Direct;5;16 695,19;10 500,00;Réglé;14/06/2026;1050000
+01/05/2026;Client export (France);Abonnement SaaS (mensuel);Reda;Export;Export;3;5 593,16;1 140,00;Réglé;15/06/2026;1050000
+01/05/2026;Administration publique;Développement sur mesure (jour);Reda;Casablanca;Direct;23;114 064,47;59 800,00;Réglé;15/06/2026;1050000
+04/05/2026;Assurance Atlas;Hébergement cloud (mois);Kawtar;Casablanca;Direct;5;17 394,06;10 500,00;Réglé;18/06/2026;1050000
+04/05/2026;Assurance Atlas;Développement sur mesure (jour);Reda;Casablanca;Direct;12;63 789,96;31 200,00;Réglé;18/06/2026;1050000
+05/05/2026;Clients SaaS PME (abonnements);Développement sur mesure (jour);Reda;Casablanca;Abonnement;11;56 239,65;28 600,00;Réglé;19/06/2026;1050000
+05/05/2026;Clients SaaS PME (abonnements);Hébergement cloud (mois);Kawtar;Casablanca;Abonnement;3;10 955,75;6 300,00;Non réglé;19/06/2026;1050000
+07/05/2026;Groupe de distribution;Abonnement SaaS (mensuel);Reda;Casablanca;Direct;10;18 358,60;3 800,00;Réglé;21/06/2026;1050000
+07/05/2026;Administration publique;Abonnement SaaS (mensuel);Reda;Casablanca;Direct;3;5 758,01;1 140,00;Réglé;21/06/2026;1050000
+11/05/2026;Assurance Atlas;Développement sur mesure (jour);Reda;Casablanca;Direct;6;31 800,19;15 600,00;Réglé;25/06/2026;1050000
+12/05/2026;Clients SaaS PME (abonnements);Hébergement cloud (mois);Kawtar;Casablanca;Abonnement;4;14 276,18;8 400,00;Non réglé;26/06/2026;1050000
+12/05/2026;Groupe de distribution;Développement sur mesure (jour);Reda;Casablanca;Direct;35;186 591,80;91 000,00;Réglé;26/06/2026;1050000
+16/05/2026;Administration publique;Abonnement SaaS (mensuel);Kawtar;Casablanca;Direct;6;11 814,39;2 280,00;Non réglé;30/06/2026;1050000
+18/05/2026;Clients SaaS PME (abonnements);Développement sur mesure (jour);Reda;Casablanca;Abonnement;25;128 641,38;65 000,00;Non réglé;02/07/2026;1050000
+19/05/2026;Clients SaaS PME (abonnements);Abonnement SaaS (mensuel);Kawtar;Casablanca;Abonnement;2;3 789,28;760,00;Réglé;03/07/2026;1050000
+19/05/2026;Clients SaaS PME (abonnements);Développement sur mesure (jour);Kawtar;Casablanca;Abonnement;10;50 734,20;26 000,00;Réglé;03/07/2026;1050000
+22/05/2026;Administration publique;Hébergement cloud (mois);Reda;Casablanca;Direct;3;10 987,01;6 300,00;Réglé;06/07/2026;1050000
+22/05/2026;Clients SaaS PME (abonnements);Hébergement cloud (mois);Kawtar;Casablanca;Abonnement;4;14 046,66;8 400,00;Non réglé;06/07/2026;1050000
+23/05/2026;Assurance Atlas;Développement sur mesure (jour);Kawtar;Casablanca;Direct;11;59 587,69;28 600,00;Non réglé;07/07/2026;1050000
+23/05/2026;Startup fintech;Maintenance applicative (mois);Reda;Casablanca;Direct;3;41 409,36;19 500,00;Réglé;07/07/2026;1050000
+27/05/2026;Startup fintech;Maintenance applicative (mois);Reda;Casablanca;Direct;2;28 422,77;13 000,00;Réglé;11/07/2026;1050000
+27/05/2026;Client export (France);Abonnement SaaS (mensuel);Reda;Export;Export;10;19 442,69;3 800,00;Réglé;11/07/2026;1050000
+29/05/2026;Clients SaaS PME (abonnements);Maintenance applicative (mois);Kawtar;Casablanca;Abonnement;2;28 150,80;13 000,00;Réglé;13/07/2026;1050000
+29/05/2026;Groupe de distribution;Hébergement cloud (mois);Reda;Casablanca;Direct;2;7 088,97;4 200,00;Réglé;13/07/2026;1050000
+30/05/2026;Groupe de distribution;Maintenance applicative (mois);Reda;Casablanca;Direct;1;13 625,88;6 500,00;Non réglé;14/07/2026;1050000
+01/06/2026;Clients SaaS PME (abonnements);Hébergement cloud (mois);Reda;Casablanca;Abonnement;5;17 030,54;10 500,00;Réglé;16/07/2026;1050000
+01/06/2026;Groupe de distribution;Maintenance applicative (mois);Reda;Casablanca;Direct;1;13 528,55;6 500,00;Réglé;16/07/2026;1050000
+03/06/2026;Groupe de distribution;Abonnement SaaS (mensuel);Kawtar;Casablanca;Direct;9;17 352,51;3 420,00;Réglé;18/07/2026;1050000
+04/06/2026;Assurance Atlas;Abonnement SaaS (mensuel);Kawtar;Casablanca;Direct;7;13 876,69;2 660,00;Réglé;19/07/2026;1050000
+04/06/2026;Client export (France);Développement sur mesure (jour);Reda;Export;Export;5;26 642,53;13 000,00;Non réglé;19/07/2026;1050000
+05/06/2026;Clients SaaS PME (abonnements);Maintenance applicative (mois);Kawtar;Casablanca;Abonnement;2;27 800,24;13 000,00;Réglé;20/07/2026;1050000
+05/06/2026;Clients SaaS PME (abonnements);Développement sur mesure (jour);Kawtar;Casablanca;Abonnement;34;183 268,65;88 400,00;Non réglé;20/07/2026;1050000
+06/06/2026;Administration publique;Abonnement SaaS (mensuel);Kawtar;Casablanca;Direct;12;23 408,83;4 560,00;Réglé;21/07/2026;1050000
+08/06/2026;Administration publique;Maintenance applicative (mois);Kawtar;Casablanca;Direct;2;26 872,57;13 000,00;Réglé;23/07/2026;1050000
+09/06/2026;Clients SaaS PME (abonnements);Abonnement SaaS (mensuel);Reda;Casablanca;Abonnement;8;15 711,34;3 040,00;Non réglé;24/07/2026;1050000
+09/06/2026;Assurance Atlas;Développement sur mesure (jour);Kawtar;Casablanca;Direct;39;209 227,06;101 400,00;Réglé;24/07/2026;1050000
+10/06/2026;Clients SaaS PME (abonnements);Hébergement cloud (mois);Kawtar;Casablanca;Abonnement;1;3 616,60;2 100,00;Réglé;25/07/2026;1050000
+10/06/2026;Startup fintech;Maintenance applicative (mois);Kawtar;Casablanca;Direct;3;42 950,56;19 500,00;Réglé;25/07/2026;1050000
+11/06/2026;Clients SaaS PME (abonnements);Hébergement cloud (mois);Reda;Casablanca;Abonnement;6;20 430,78;12 600,00;Réglé;26/07/2026;1050000
+12/06/2026;Client export (France);Développement sur mesure (jour);Kawtar;Export;Export;10;53 055,01;26 000,00;Réglé;27/07/2026;1050000
+19/06/2026;Groupe de distribution;Développement sur mesure (jour);Reda;Casablanca;Direct;30;151 051,88;78 000,00;Réglé;03/08/2026;1050000
+20/06/2026;Groupe de distribution;Développement sur mesure (jour);Kawtar;Casablanca;Direct;17;88 196,05;44 200,00;Réglé;04/08/2026;1050000
+22/06/2026;Clients SaaS PME (abonnements);Développement sur mesure (jour);Kawtar;Casablanca;Abonnement;29;153 336,70;75 400,00;Réglé;06/08/2026;1050000
+24/06/2026;Groupe de distribution;Abonnement SaaS (mensuel);Kawtar;Casablanca;Direct;2;3 963,43;760,00;Réglé;08/08/2026;1050000
+27/06/2026;Assurance Atlas;Maintenance applicative (mois);Reda;Casablanca;Direct;1;14 273,50;6 500,00;Réglé;11/08/2026;1050000
+27/06/2026;Clients SaaS PME (abonnements);Maintenance applicative (mois);Kawtar;Casablanca;Abonnement;2;28 288,25;13 000,00;Réglé;11/08/2026;1050000
+29/06/2026;Administration publique;Maintenance applicative (mois);Kawtar;Casablanca;Direct;1;13 919,08;6 500,00;Réglé;13/08/2026;1050000
+30/06/2026;Startup fintech;Hébergement cloud (mois);Reda;Casablanca;Direct;5;16 696,77;10 500,00;Réglé;14/08/2026;1050000
+01/07/2026;Assurance Atlas;Maintenance applicative (mois);Reda;Casablanca;Direct;1;13 328,23;6 500,00;Réglé;15/08/2026;1050000
+02/07/2026;Clients SaaS PME (abonnements);Développement sur mesure (jour);Reda;Casablanca;Abonnement;35;184 729,94;91 000,00;Réglé;16/08/2026;1050000
+02/07/2026;Clients SaaS PME (abonnements);Développement sur mesure (jour);Reda;Casablanca;Abonnement;8;41 087,81;20 800,00;Non réglé;16/08/2026;1050000
+03/07/2026;Clients SaaS PME (abonnements);Développement sur mesure (jour);Reda;Casablanca;Abonnement;6;30 221,00;15 600,00;Réglé;17/08/2026;1050000
+03/07/2026;Startup fintech;Hébergement cloud (mois);Kawtar;Casablanca;Direct;6;21 966,96;12 600,00;Réglé;17/08/2026;1050000
+06/07/2026;Groupe de distribution;Développement sur mesure (jour);Reda;Casablanca;Direct;18;93 807,44;46 800,00;Réglé;20/08/2026;1050000
+06/07/2026;Clients SaaS PME (abonnements);Développement sur mesure (jour);Reda;Casablanca;Abonnement;32;159 814,45;83 200,00;Réglé;20/08/2026;1050000
+07/07/2026;Clients SaaS PME (abonnements);Hébergement cloud (mois);Kawtar;Casablanca;Abonnement;3;10 455,73;6 300,00;Réglé;21/08/2026;1050000
+07/07/2026;Administration publique;Maintenance applicative (mois);Kawtar;Casablanca;Direct;3;42 090,05;19 500,00;Réglé;21/08/2026;1050000
+09/07/2026;Clients SaaS PME (abonnements);Hébergement cloud (mois);Kawtar;Casablanca;Abonnement;1;3 648,70;2 100,00;Réglé;23/08/2026;1050000
+09/07/2026;Assurance Atlas;Développement sur mesure (jour);Reda;Casablanca;Direct;22;111 014,83;57 200,00;Réglé;23/08/2026;1050000
+10/07/2026;Groupe de distribution;Maintenance applicative (mois);Reda;Casablanca;Direct;2;29 140,66;13 000,00;Réglé;24/08/2026;1050000
+10/07/2026;Administration publique;Abonnement SaaS (mensuel);Reda;Casablanca;Direct;11;20 755,09;4 180,00;Réglé;24/08/2026;1050000
+16/07/2026;Clients SaaS PME (abonnements);Abonnement SaaS (mensuel);Kawtar;Casablanca;Abonnement;9;16 410,28;3 420,00;Réglé;30/08/2026;1050000
+16/07/2026;Startup fintech;Hébergement cloud (mois);Reda;Casablanca;Direct;5;16 779,44;10 500,00;Réglé;30/08/2026;1050000
+17/07/2026;Clients SaaS PME (abonnements);Développement sur mesure (jour);Reda;Casablanca;Abonnement;16;80 475,68;41 600,00;Non réglé;31/08/2026;1050000
+18/07/2026;Clients SaaS PME (abonnements);Hébergement cloud (mois);Kawtar;Casablanca;Abonnement;6;20 631,69;12 600,00;Réglé;01/09/2026;1050000
+18/07/2026;Assurance Atlas;Développement sur mesure (jour);Kawtar;Casablanca;Direct;17;89 198,71;44 200,00;Réglé;01/09/2026;1050000
+23/07/2026;Client export (France);Maintenance applicative (mois);Reda;Export;Export;2;29 163,43;13 000,00;Réglé;06/09/2026;1050000
+24/07/2026;Administration publique;Maintenance applicative (mois);Kawtar;Casablanca;Direct;1;14 009,50;6 500,00;Réglé;07/09/2026;1050000
+27/07/2026;Clients SaaS PME (abonnements);Développement sur mesure (jour);Kawtar;Casablanca;Abonnement;18;90 019,63;46 800,00;Réglé;10/09/2026;1050000
+27/07/2026;Clients SaaS PME (abonnements);Développement sur mesure (jour);Reda;Casablanca;Abonnement;33;163 440,43;85 800,00;Réglé;10/09/2026;1050000
+28/07/2026;Groupe de distribution;Hébergement cloud (mois);Kawtar;Casablanca;Direct;5;17 323,64;10 500,00;Réglé;11/09/2026;1050000
+28/07/2026;Administration publique;Abonnement SaaS (mensuel);Kawtar;Casablanca;Direct;9;17 107,61;3 420,00;Réglé;11/09/2026;1050000
+30/07/2026;Administration publique;Abonnement SaaS (mensuel);Kawtar;Casablanca;Direct;2;3 898,65;760,00;Réglé;13/09/2026;1050000
+31/07/2026;Clients SaaS PME (abonnements);Maintenance applicative (mois);Kawtar;Casablanca;Abonnement;2;28 199,14;13 000,00;Réglé;14/09/2026;1050000
+31/07/2026;Assurance Atlas;Développement sur mesure (jour);Reda;Casablanca;Direct;38;203 858,59;98 800,00;Non réglé;14/09/2026;1050000
+01/08/2026;Clients SaaS PME (abonnements);Hébergement cloud (mois);Kawtar;Casablanca;Abonnement;5;18 059,36;10 500,00;Réglé;15/09/2026;1050000
+01/08/2026;Assurance Atlas;Maintenance applicative (mois);Reda;Casablanca;Direct;3;43 369,89;19 500,00;Réglé;15/09/2026;1050000
+04/08/2026;Groupe de distribution;Hébergement cloud (mois);Reda;Casablanca;Direct;5;17 299,03;10 500,00;Réglé;18/09/2026;1050000
+04/08/2026;Assurance Atlas;Abonnement SaaS (mensuel);Kawtar;Casablanca;Direct;6;11 268,63;2 280,00;Réglé;18/09/2026;1050000
+06/08/2026;Clients SaaS PME (abonnements);Développement sur mesure (jour);Reda;Casablanca;Abonnement;20;102 339,32;52 000,00;Réglé;20/09/2026;1050000
+07/08/2026;Assurance Atlas;Développement sur mesure (jour);Kawtar;Casablanca;Direct;26;133 595,48;67 600,00;Réglé;21/09/2026;1050000
+07/08/2026;Assurance Atlas;Développement sur mesure (jour);Kawtar;Casablanca;Direct;32;167 025,51;83 200,00;Réglé;21/09/2026;1050000
+08/08/2026;Clients SaaS PME (abonnements);Abonnement SaaS (mensuel);Reda;Casablanca;Abonnement;5;9 881,84;1 900,00;Réglé;22/09/2026;1050000
+08/08/2026;Client export (France);Hébergement cloud (mois);Reda;Export;Export;3;10 225,66;6 300,00;Non réglé;22/09/2026;1050000
+11/08/2026;Startup fintech;Maintenance applicative (mois);Reda;Casablanca;Direct;1;13 866,49;6 500,00;Réglé;25/09/2026;1050000
+12/08/2026;Assurance Atlas;Abonnement SaaS (mensuel);Reda;Casablanca;Direct;5;9 544,67;1 900,00;Réglé;26/09/2026;1050000
+12/08/2026;Client export (France);Abonnement SaaS (mensuel);Kawtar;Export;Export;1;1 859,22;380,00;Réglé;26/09/2026;1050000
+13/08/2026;Groupe de distribution;Hébergement cloud (mois);Kawtar;Casablanca;Direct;4;14 312,83;8 400,00;Réglé;27/09/2026;1050000
+13/08/2026;Client export (France);Hébergement cloud (mois);Kawtar;Export;Export;5;17 410,25;10 500,00;Réglé;27/09/2026;1050000
+14/08/2026;Client export (France);Hébergement cloud (mois);Kawtar;Export;Export;5;17 987,79;10 500,00;Réglé;28/09/2026;1050000
+19/08/2026;Groupe de distribution;Hébergement cloud (mois);Reda;Casablanca;Direct;3;10 338,08;6 300,00;Non réglé;03/10/2026;1050000
+19/08/2026;Groupe de distribution;Hébergement cloud (mois);Kawtar;Casablanca;Direct;6;21 977,25;12 600,00;Réglé;03/10/2026;1050000
+22/08/2026;Clients SaaS PME (abonnements);Maintenance applicative (mois);Reda;Casablanca;Abonnement;1;13 355,64;6 500,00;Réglé;06/10/2026;1050000
+24/08/2026;Clients SaaS PME (abonnements);Maintenance applicative (mois);Reda;Casablanca;Abonnement;1;13 943,74;6 500,00;Réglé;08/10/2026;1050000
+25/08/2026;Clients SaaS PME (abonnements);Abonnement SaaS (mensuel);Reda;Casablanca;Abonnement;6;11 931,62;2 280,00;Réglé;09/10/2026;1050000
+25/08/2026;Clients SaaS PME (abonnements);Maintenance applicative (mois);Kawtar;Casablanca;Abonnement;1;14 397,03;6 500,00;Réglé;09/10/2026;1050000
+27/08/2026;Startup fintech;Développement sur mesure (jour);Kawtar;Casablanca;Direct;18;90 854,94;46 800,00;Réglé;11/10/2026;1050000
+28/08/2026;Clients SaaS PME (abonnements);Développement sur mesure (jour);Kawtar;Casablanca;Abonnement;10;54 063,18;26 000,00;Réglé;12/10/2026;1050000
+28/08/2026;Clients SaaS PME (abonnements);Abonnement SaaS (mensuel);Reda;Casablanca;Abonnement;5;9 621,43;1 900,00;Réglé;12/10/2026;1050000
+01/09/2026;Clients SaaS PME (abonnements);Maintenance applicative (mois);Kawtar;Casablanca;Abonnement;2;26 707,70;13 000,00;Non réglé;16/10/2026;1050000
+03/09/2026;Groupe de distribution;Abonnement SaaS (mensuel);Kawtar;Casablanca;Direct;2;3 940,40;760,00;Réglé;18/10/2026;1050000
+04/09/2026;Clients SaaS PME (abonnements);Maintenance applicative (mois);Reda;Casablanca;Abonnement;3;42 724,51;19 500,00;Réglé;19/10/2026;1050000
+04/09/2026;Client export (France);Développement sur mesure (jour);Reda;Export;Export;33;178 329,52;85 800,00;Réglé;19/10/2026;1050000
+07/09/2026;Client export (France);Maintenance applicative (mois);Kawtar;Export;Export;2;27 058,95;13 000,00;Réglé;22/10/2026;1050000
+07/09/2026;Clients SaaS PME (abonnements);Développement sur mesure (jour);Reda;Casablanca;Abonnement;34;170 702,94;88 400,00;Réglé;22/10/2026;1050000
+08/09/2026;Clients SaaS PME (abonnements);Développement sur mesure (jour);Kawtar;Casablanca;Abonnement;17;92 525,70;44 200,00;Réglé;23/10/2026;1050000
+08/09/2026;Administration publique;Développement sur mesure (jour);Kawtar;Casablanca;Direct;26;134 833,52;67 600,00;Réglé;23/10/2026;1050000
+09/09/2026;Clients SaaS PME (abonnements);Maintenance applicative (mois);Kawtar;Casablanca;Abonnement;2;26 871,76;13 000,00;Non réglé;24/10/2026;1050000
+15/09/2026;Startup fintech;Abonnement SaaS (mensuel);Kawtar;Casablanca;Direct;3;5 942,27;1 140,00;Non réglé;30/10/2026;1050000
+16/09/2026;Clients SaaS PME (abonnements);Hébergement cloud (mois);Reda;Casablanca;Abonnement;5;17 113,54;10 500,00;Réglé;31/10/2026;1050000
+16/09/2026;Groupe de distribution;Hébergement cloud (mois);Kawtar;Casablanca;Direct;1;3 442,76;2 100,00;Non réglé;31/10/2026;1050000
+21/09/2026;Client export (France);Abonnement SaaS (mensuel);Reda;Export;Export;11;20 046,73;4 180,00;Réglé;05/11/2026;1050000
+21/09/2026;Client export (France);Maintenance applicative (mois);Kawtar;Export;Export;3;43 044,45;19 500,00;Non réglé;05/11/2026;1050000
+22/09/2026;Clients SaaS PME (abonnements);Abonnement SaaS (mensuel);Reda;Casablanca;Abonnement;6;11 067,24;2 280,00;Non réglé;06/11/2026;1050000
+23/09/2026;Groupe de distribution;Maintenance applicative (mois);Reda;Casablanca;Direct;1;14 279,49;6 500,00;Réglé;07/11/2026;1050000
+25/09/2026;Groupe de distribution;Maintenance applicative (mois);Reda;Casablanca;Direct;2;29 149,18;13 000,00;Non réglé;09/11/2026;1050000
+25/09/2026;Clients SaaS PME (abonnements);Développement sur mesure (jour);Kawtar;Casablanca;Abonnement;11;58 288,62;28 600,00;Réglé;09/11/2026;1050000
+26/09/2026;Client export (France);Développement sur mesure (jour);Kawtar;Export;Export;19;100 463,50;49 400,00;Réglé;10/11/2026;1050000
+26/09/2026;Startup fintech;Hébergement cloud (mois);Reda;Casablanca;Direct;6;21 755,43;12 600,00;Réglé;10/11/2026;1050000
+28/09/2026;Assurance Atlas;Développement sur mesure (jour);Kawtar;Casablanca;Direct;15;81 776,75;39 000,00;Non réglé;12/11/2026;1050000
+29/09/2026;Assurance Atlas;Maintenance applicative (mois);Kawtar;Casablanca;Direct;2;27 444,37;13 000,00;Réglé;13/11/2026;1050000

@@ -1,0 +1,376 @@
+﻿Date opération;Banque;Libellé;Catégorie;Crédit;Débit;Solde
+03/01/2026;Banque Populaire;Règlement client;Encaissements clients;16 889,64;;156 889,64
+03/01/2026;Banque Populaire;TVA à payer;TVA à payer;;2 367,36;154 522,27
+04/01/2026;Banque Populaire;Fournisseurs;Fournisseurs;;43 381,94;111 140,34
+04/01/2026;Banque Populaire;Énergie et télécoms;Énergie et télécoms;;337,35;110 802,99
+05/01/2026;Banque Populaire;Fournisseurs;Fournisseurs;;49 561,56;61 241,42
+05/01/2026;Banque Populaire;Impôt sur les sociétés;Impôt sur les sociétés;;135,57;61 105,86
+05/01/2026;Banque Populaire;Impôts et taxes;Impôts et taxes;;2 180,42;58 925,44
+06/01/2026;Banque Populaire;Règlement client;Encaissements clients;11 729,70;;70 655,14
+06/01/2026;Banque Populaire;Règlement client;Encaissements clients;15 861,86;;86 516,99
+06/01/2026;Banque Populaire;Règlement client;Encaissements clients;22 434,91;;108 951,90
+07/01/2026;Banque Populaire;Règlement client;Encaissements clients;12 034,24;;120 986,14
+07/01/2026;Banque Populaire;Règlement client;Encaissements clients;24 524,21;;145 510,35
+08/01/2026;Banque Populaire;Règlement client;Encaissements clients;10 892,54;;156 402,89
+08/01/2026;Banque Populaire;Règlement client;Encaissements clients;21 471,82;;177 874,71
+09/01/2026;Banque Populaire;Énergie et télécoms;Énergie et télécoms;;397,44;177 477,26
+10/01/2026;Banque Populaire;Règlement client;Encaissements clients;17 853,54;;195 330,80
+10/01/2026;Banque Populaire;CNSS;CNSS;;10 485,18;184 845,62
+10/01/2026;Banque Populaire;Impôt sur les sociétés;Impôt sur les sociétés;;109,74;184 735,88
+10/01/2026;Banque Populaire;Énergie et télécoms;Énergie et télécoms;;394,03;184 341,85
+11/01/2026;Banque Populaire;Règlement client;Encaissements clients;19 213,14;;203 554,99
+11/01/2026;Banque Populaire;Loyer et charges;Loyer et charges;;691,53;202 863,46
+11/01/2026;Banque Populaire;Énergie et télécoms;Énergie et télécoms;;423,96;202 439,50
+12/01/2026;Banque Populaire;Impôt sur les sociétés;Impôt sur les sociétés;;144,39;202 295,11
+15/01/2026;Banque Populaire;Règlement client;Encaissements clients;14 856,09;;217 151,20
+16/01/2026;Banque Populaire;Règlement client;Encaissements clients;19 707,06;;236 858,25
+18/01/2026;Banque Populaire;Règlement client;Encaissements clients;17 876,65;;254 734,90
+18/01/2026;Banque Populaire;Investissements;Investissements;;841,72;253 893,17
+18/01/2026;Banque Populaire;Loyer et charges;Loyer et charges;;656,13;253 237,05
+18/01/2026;Banque Populaire;TVA à payer;TVA à payer;;2 230,78;251 006,26
+19/01/2026;Banque Populaire;Loyer et charges;Loyer et charges;;649,49;250 356,77
+19/01/2026;Banque Populaire;TVA à payer;TVA à payer;;2 647,49;247 709,28
+20/01/2026;Banque Populaire;Fournisseurs;Fournisseurs;;40 799,67;206 909,61
+20/01/2026;Banque Populaire;Investissements;Investissements;;761,41;206 148,19
+20/01/2026;Banque Populaire;Échéance d'emprunt;Échéance d'emprunt;;4 036,17;202 112,02
+21/01/2026;Banque Populaire;Règlement client;Encaissements clients;19 348,03;;221 460,05
+21/01/2026;Banque Populaire;Investissements;Investissements;;900,08;220 559,97
+23/01/2026;Banque Populaire;Règlement client;Encaissements clients;11 014,88;;231 574,85
+23/01/2026;Banque Populaire;Règlement client;Encaissements clients;24 720,07;;256 294,93
+23/01/2026;Banque Populaire;Investissements;Investissements;;932,94;255 361,99
+23/01/2026;Banque Populaire;Loyer et charges;Loyer et charges;;720,38;254 641,61
+25/01/2026;Banque Populaire;Fournisseurs;Fournisseurs;;44 114,27;210 527,35
+26/01/2026;Banque Populaire;TVA à payer;TVA à payer;;2 677,74;207 849,61
+27/01/2026;Banque Populaire;Impôt sur les sociétés;Impôt sur les sociétés;;109,54;207 740,07
+28/01/2026;Banque Populaire;Salaires;Salaires;;60 104,90;147 635,17
+03/02/2026;Banque Populaire;Règlement client;Encaissements clients;16 027,24;;163 662,41
+03/02/2026;Banque Populaire;Loyer et charges;Loyer et charges;;640,84;163 021,57
+04/02/2026;Banque Populaire;Règlement client;Encaissements clients;16 013,62;;179 035,18
+06/02/2026;Banque Populaire;Impôt sur les sociétés;Impôt sur les sociétés;;128,09;178 907,10
+06/02/2026;Banque Populaire;TVA à payer;TVA à payer;;2 440,20;176 466,90
+06/02/2026;Banque Populaire;Énergie et télécoms;Énergie et télécoms;;381,59;176 085,31
+07/02/2026;Banque Populaire;Impôt sur les sociétés;Impôt sur les sociétés;;108,69;175 976,62
+10/02/2026;Banque Populaire;Règlement client;Encaissements clients;23 405,80;;199 382,42
+10/02/2026;Banque Populaire;CNSS;CNSS;;11 992,44;187 389,98
+10/02/2026;Banque Populaire;Investissements;Investissements;;699,40;186 690,58
+10/02/2026;Banque Populaire;Investissements;Investissements;;754,16;185 936,43
+10/02/2026;Banque Populaire;Investissements;Investissements;;918,74;185 017,68
+13/02/2026;Banque Populaire;Règlement client;Encaissements clients;20 201,41;;205 219,09
+14/02/2026;Banque Populaire;Règlement client;Encaissements clients;10 831,36;;216 050,45
+16/02/2026;Banque Populaire;Fournisseurs;Fournisseurs;;39 385,85;176 664,60
+16/02/2026;Banque Populaire;Impôt sur les sociétés;Impôt sur les sociétés;;121,49;176 543,11
+16/02/2026;Banque Populaire;Impôt sur les sociétés;Impôt sur les sociétés;;126,30;176 416,81
+17/02/2026;Banque Populaire;Règlement client;Encaissements clients;21 048,26;;197 465,07
+17/02/2026;Banque Populaire;Impôts et taxes;Impôts et taxes;;1 922,03;195 543,04
+18/02/2026;Banque Populaire;Règlement client;Encaissements clients;14 644,81;;210 187,86
+19/02/2026;Banque Populaire;Fournisseurs;Fournisseurs;;44 266,59;165 921,27
+20/02/2026;Banque Populaire;Loyer et charges;Loyer et charges;;676,33;165 244,93
+20/02/2026;Banque Populaire;Loyer et charges;Loyer et charges;;710,40;164 534,53
+20/02/2026;Banque Populaire;TVA à payer;TVA à payer;;2 058,92;162 475,61
+21/02/2026;Banque Populaire;Règlement client;Encaissements clients;14 840,94;;177 316,55
+21/02/2026;Banque Populaire;Investissements;Investissements;;749,82;176 566,72
+22/02/2026;Banque Populaire;Règlement client;Encaissements clients;13 071,62;;189 638,34
+22/02/2026;Banque Populaire;Fournisseurs;Fournisseurs;;49 577,88;140 060,46
+24/02/2026;Banque Populaire;Règlement client;Encaissements clients;17 009,76;;157 070,21
+24/02/2026;Banque Populaire;TVA à payer;TVA à payer;;2 722,95;154 347,26
+24/02/2026;Banque Populaire;Énergie et télécoms;Énergie et télécoms;;383,43;153 963,83
+25/02/2026;Banque Populaire;Règlement client;Encaissements clients;19 854,15;;173 817,98
+25/02/2026;Banque Populaire;Fournisseurs;Fournisseurs;;44 941,82;128 876,17
+25/02/2026;Banque Populaire;Loyer et charges;Loyer et charges;;677,44;128 198,73
+25/02/2026;Banque Populaire;TVA à payer;TVA à payer;;2 200,04;125 998,69
+26/02/2026;Banque Populaire;Règlement client;Encaissements clients;17 157,27;;143 155,95
+27/02/2026;Banque Populaire;Règlement client;Encaissements clients;20 526,98;;163 682,93
+27/02/2026;Banque Populaire;Échéance d'emprunt;Échéance d'emprunt;;3 628,84;160 054,10
+27/02/2026;Banque Populaire;Énergie et télécoms;Énergie et télécoms;;349,58;159 704,51
+27/02/2026;Banque Populaire;Énergie et télécoms;Énergie et télécoms;;379,53;159 324,99
+28/02/2026;Banque Populaire;Salaires;Salaires;;62 198,22;97 126,77
+03/03/2026;Banque Populaire;Règlement client;Encaissements clients;13 145,72;;110 272,48
+04/03/2026;Banque Populaire;Règlement client;Encaissements clients;16 035,10;;126 307,58
+04/03/2026;Banque Populaire;TVA à payer;TVA à payer;;2 097,16;124 210,42
+05/03/2026;Banque Populaire;Impôt sur les sociétés;Impôt sur les sociétés;;144,14;124 066,28
+05/03/2026;Banque Populaire;Énergie et télécoms;Énergie et télécoms;;324,36;123 741,92
+05/03/2026;Banque Populaire;Énergie et télécoms;Énergie et télécoms;;408,21;123 333,72
+06/03/2026;Banque Populaire;Règlement client;Encaissements clients;21 495,62;;144 829,34
+07/03/2026;Banque Populaire;Règlement client;Encaissements clients;15 470,93;;160 300,27
+07/03/2026;Banque Populaire;Fournisseurs;Fournisseurs;;49 609,85;110 690,41
+07/03/2026;Banque Populaire;Investissements;Investissements;;751,43;109 938,99
+07/03/2026;Banque Populaire;Échéance d'emprunt;Échéance d'emprunt;;3 870,21;106 068,77
+08/03/2026;Banque Populaire;Impôts et taxes;Impôts et taxes;;2 164,70;103 904,07
+08/03/2026;Banque Populaire;Énergie et télécoms;Énergie et télécoms;;403,91;103 500,16
+09/03/2026;Banque Populaire;Fournisseurs;Fournisseurs;;49 443,40;54 056,76
+09/03/2026;Banque Populaire;Loyer et charges;Loyer et charges;;626,37;53 430,39
+10/03/2026;Banque Populaire;CNSS;CNSS;;10 999,48;42 430,91
+10/03/2026;Banque Populaire;TVA à payer;TVA à payer;;2 590,54;39 840,37
+10/03/2026;Banque Populaire;Énergie et télécoms;Énergie et télécoms;;425,62;39 414,75
+11/03/2026;Banque Populaire;Règlement client;Encaissements clients;21 262,85;;60 677,61
+12/03/2026;Banque Populaire;Impôt sur les sociétés;Impôt sur les sociétés;;108,50;60 569,11
+12/03/2026;Banque Populaire;Impôt sur les sociétés;Impôt sur les sociétés;;127,10;60 442,01
+12/03/2026;Banque Populaire;TVA à payer;TVA à payer;;2 634,81;57 807,20
+13/03/2026;Banque Populaire;Investissements;Investissements;;747,62;57 059,58
+15/03/2026;Banque Populaire;Règlement client;Encaissements clients;14 777,73;;71 837,31
+15/03/2026;Banque Populaire;Loyer et charges;Loyer et charges;;667,10;71 170,21
+16/03/2026;Banque Populaire;Règlement client;Encaissements clients;19 455,30;;90 625,51
+16/03/2026;Banque Populaire;Fournisseurs;Fournisseurs;;45 686,79;44 938,72
+18/03/2026;Banque Populaire;Fournisseurs;Fournisseurs;;45 891,98;-953,25
+18/03/2026;Banque Populaire;Impôt sur les sociétés;Impôt sur les sociétés;;122,83;-1 076,08
+19/03/2026;Banque Populaire;Loyer et charges;Loyer et charges;;666,55;-1 742,63
+21/03/2026;Banque Populaire;Règlement client;Encaissements clients;16 236,25;;14 493,62
+22/03/2026;Banque Populaire;Règlement client;Encaissements clients;17 911,56;;32 405,18
+23/03/2026;Banque Populaire;Investissements;Investissements;;736,50;31 668,68
+23/03/2026;Banque Populaire;TVA à payer;TVA à payer;;2 139,38;29 529,30
+24/03/2026;Banque Populaire;Règlement client;Encaissements clients;11 318,40;;40 847,70
+27/03/2026;Banque Populaire;Investissements;Investissements;;790,47;40 057,23
+27/03/2026;Banque Populaire;Loyer et charges;Loyer et charges;;618,95;39 438,27
+28/03/2026;Banque Populaire;Règlement client;Encaissements clients;24 395,51;;63 833,78
+28/03/2026;Banque Populaire;Salaires;Salaires;;53 460,66;10 373,12
+02/04/2026;Banque Populaire;Règlement client;Encaissements clients;13 852,11;;24 225,23
+03/04/2026;Banque Populaire;Règlement client;Encaissements clients;24 679,88;;48 905,11
+03/04/2026;Banque Populaire;Impôt sur les sociétés;Impôt sur les sociétés;;134,07;48 771,05
+03/04/2026;Banque Populaire;Impôts et taxes;Impôts et taxes;;2 198,26;46 572,79
+03/04/2026;Banque Populaire;Investissements;Investissements;;728,49;45 844,30
+04/04/2026;Banque Populaire;TVA à payer;TVA à payer;;2 136,31;43 707,99
+05/04/2026;Banque Populaire;Fournisseurs;Fournisseurs;;46 144,32;-2 436,33
+08/04/2026;Banque Populaire;Règlement client;Encaissements clients;22 070,38;;19 634,05
+08/04/2026;Banque Populaire;Énergie et télécoms;Énergie et télécoms;;386,60;19 247,45
+10/04/2026;Banque Populaire;Règlement client;Encaissements clients;11 550,14;;30 797,59
+10/04/2026;Banque Populaire;CNSS;CNSS;;12 516,70;18 280,89
+10/04/2026;Banque Populaire;Impôt sur les sociétés;Impôt sur les sociétés;;112,22;18 168,68
+12/04/2026;Banque Populaire;Impôt sur les sociétés;Impôt sur les sociétés;;125,21;18 043,47
+12/04/2026;Banque Populaire;Énergie et télécoms;Énergie et télécoms;;381,10;17 662,37
+13/04/2026;Banque Populaire;Règlement client;Encaissements clients;21 651,89;;39 314,26
+14/04/2026;Banque Populaire;Loyer et charges;Loyer et charges;;631,99;38 682,27
+14/04/2026;Banque Populaire;Énergie et télécoms;Énergie et télécoms;;372,29;38 309,98
+15/04/2026;Banque Populaire;Règlement client;Encaissements clients;20 065,07;;58 375,05
+15/04/2026;Banque Populaire;Impôt sur les sociétés;Impôt sur les sociétés;;134,39;58 240,66
+15/04/2026;Banque Populaire;Loyer et charges;Loyer et charges;;547,93;57 692,73
+16/04/2026;Banque Populaire;Loyer et charges;Loyer et charges;;651,43;57 041,29
+16/04/2026;Banque Populaire;TVA à payer;TVA à payer;;2 593,67;54 447,62
+18/04/2026;Banque Populaire;Loyer et charges;Loyer et charges;;678,26;53 769,36
+19/04/2026;Banque Populaire;Règlement client;Encaissements clients;14 520,41;;68 289,76
+19/04/2026;Banque Populaire;Règlement client;Encaissements clients;20 788,90;;89 078,66
+19/04/2026;Banque Populaire;Énergie et télécoms;Énergie et télécoms;;329,37;88 749,29
+20/04/2026;Banque Populaire;Règlement client;Encaissements clients;13 274,41;;102 023,70
+20/04/2026;Banque Populaire;Fournisseurs;Fournisseurs;;43 348,64;58 675,06
+20/04/2026;Banque Populaire;Fournisseurs;Fournisseurs;;48 151,85;10 523,21
+20/04/2026;Banque Populaire;TVA à payer;TVA à payer;;2 092,16;8 431,05
+21/04/2026;Banque Populaire;Règlement client;Encaissements clients;18 605,06;;27 036,11
+21/04/2026;Banque Populaire;TVA à payer;TVA à payer;;2 725,72;24 310,39
+23/04/2026;Banque Populaire;Règlement client;Encaissements clients;12 851,35;;37 161,74
+23/04/2026;Banque Populaire;Règlement client;Encaissements clients;12 941,37;;50 103,11
+23/04/2026;Banque Populaire;Investissements;Investissements;;780,09;49 323,02
+25/04/2026;Banque Populaire;Investissements;Investissements;;775,52;48 547,50
+25/04/2026;Banque Populaire;Investissements;Investissements;;832,70;47 714,80
+27/04/2026;Banque Populaire;Règlement client;Encaissements clients;15 811,24;;63 526,04
+27/04/2026;Banque Populaire;Fournisseurs;Fournisseurs;;47 756,87;15 769,17
+27/04/2026;Banque Populaire;Échéance d'emprunt;Échéance d'emprunt;;3 687,21;12 081,95
+28/04/2026;Banque Populaire;Salaires;Salaires;;59 650,45;-47 568,50
+03/05/2026;Banque Populaire;Règlement client;Encaissements clients;13 943,18;;-33 625,32
+03/05/2026;Banque Populaire;Loyer et charges;Loyer et charges;;688,33;-34 313,65
+04/05/2026;Banque Populaire;TVA à payer;TVA à payer;;2 341,82;-36 655,47
+05/05/2026;Banque Populaire;Règlement client;Encaissements clients;23 932,35;;-12 723,13
+05/05/2026;Banque Populaire;Loyer et charges;Loyer et charges;;666,08;-13 389,21
+06/05/2026;Banque Populaire;Règlement client;Encaissements clients;16 856,65;;3 467,44
+06/05/2026;Banque Populaire;Investissements;Investissements;;816,73;2 650,71
+06/05/2026;Banque Populaire;Investissements;Investissements;;873,85;1 776,86
+08/05/2026;Banque Populaire;Énergie et télécoms;Énergie et télécoms;;384,18;1 392,69
+10/05/2026;Banque Populaire;CNSS;CNSS;;10 292,41;-8 899,72
+10/05/2026;Banque Populaire;Fournisseurs;Fournisseurs;;41 948,29;-50 848,00
+10/05/2026;Banque Populaire;Loyer et charges;Loyer et charges;;598,64;-51 446,64
+12/05/2026;Banque Populaire;Impôt sur les sociétés;Impôt sur les sociétés;;108,62;-51 555,26
+13/05/2026;Banque Populaire;Règlement client;Encaissements clients;11 079,20;;-40 476,06
+13/05/2026;Banque Populaire;Fournisseurs;Fournisseurs;;45 686,64;-86 162,70
+14/05/2026;Banque Populaire;Impôt sur les sociétés;Impôt sur les sociétés;;141,54;-86 304,24
+15/05/2026;Banque Populaire;Investissements;Investissements;;828,43;-87 132,68
+16/05/2026;Banque Populaire;Règlement client;Encaissements clients;12 235,17;;-74 897,51
+16/05/2026;Banque Populaire;TVA à payer;TVA à payer;;2 676,47;-77 573,98
+16/05/2026;Banque Populaire;Énergie et télécoms;Énergie et télécoms;;361,51;-77 935,49
+17/05/2026;Banque Populaire;Règlement client;Encaissements clients;22 047,49;;-55 887,99
+17/05/2026;Banque Populaire;Règlement client;Encaissements clients;24 474,76;;-31 413,24
+17/05/2026;Banque Populaire;Impôts et taxes;Impôts et taxes;;2 000,55;-33 413,78
+18/05/2026;Banque Populaire;Règlement client;Encaissements clients;13 176,73;;-20 237,05
+18/05/2026;Banque Populaire;Règlement client;Encaissements clients;18 226,99;;-2 010,06
+18/05/2026;Banque Populaire;Règlement client;Encaissements clients;22 540,54;;20 530,48
+19/05/2026;Banque Populaire;Énergie et télécoms;Énergie et télécoms;;323,74;20 206,74
+20/05/2026;Banque Populaire;Investissements;Investissements;;766,67;19 440,07
+20/05/2026;Banque Populaire;Énergie et télécoms;Énergie et télécoms;;418,04;19 022,03
+22/05/2026;Banque Populaire;TVA à payer;TVA à payer;;2 402,80;16 619,24
+24/05/2026;Banque Populaire;Règlement client;Encaissements clients;11 972,33;;28 591,56
+24/05/2026;Banque Populaire;Règlement client;Encaissements clients;24 171,20;;52 762,77
+24/05/2026;Banque Populaire;Loyer et charges;Loyer et charges;;669,30;52 093,47
+24/05/2026;Banque Populaire;TVA à payer;TVA à payer;;2 560,87;49 532,59
+25/05/2026;Banque Populaire;Règlement client;Encaissements clients;15 645,17;;65 177,77
+25/05/2026;Banque Populaire;Règlement client;Encaissements clients;21 971,76;;87 149,52
+25/05/2026;Banque Populaire;Fournisseurs;Fournisseurs;;48 947,31;38 202,22
+25/05/2026;Banque Populaire;Échéance d'emprunt;Échéance d'emprunt;;3 980,15;34 222,06
+26/05/2026;Banque Populaire;Fournisseurs;Fournisseurs;;45 884,53;-11 662,47
+27/05/2026;Banque Populaire;Impôt sur les sociétés;Impôt sur les sociétés;;118,03;-11 780,49
+27/05/2026;Banque Populaire;Impôt sur les sociétés;Impôt sur les sociétés;;118,37;-11 898,87
+28/05/2026;Banque Populaire;Salaires;Salaires;;48 179,31;-60 078,18
+03/06/2026;Banque Populaire;Investissements;Investissements;;743,72;-60 821,90
+03/06/2026;Banque Populaire;Investissements;Investissements;;871,76;-61 693,66
+05/06/2026;Banque Populaire;Règlement client;Encaissements clients;14 766,79;;-46 926,87
+05/06/2026;Banque Populaire;Règlement client;Encaissements clients;22 271,15;;-24 655,71
+05/06/2026;Banque Populaire;Investissements;Investissements;;713,34;-25 369,05
+05/06/2026;Banque Populaire;TVA à payer;TVA à payer;;2 149,32;-27 518,37
+06/06/2026;Banque Populaire;Règlement client;Encaissements clients;21 843,07;;-5 675,30
+06/06/2026;Banque Populaire;Impôts et taxes;Impôts et taxes;;2 168,58;-7 843,88
+07/06/2026;Banque Populaire;Règlement client;Encaissements clients;14 762,98;;6 919,10
+07/06/2026;Banque Populaire;Règlement client;Encaissements clients;18 320,02;;25 239,13
+08/06/2026;Banque Populaire;Règlement client;Encaissements clients;11 817,72;;37 056,85
+08/06/2026;Banque Populaire;Règlement client;Encaissements clients;22 179,49;;59 236,34
+08/06/2026;Banque Populaire;Impôt sur les sociétés;Impôt sur les sociétés;;107,84;59 128,51
+08/06/2026;Banque Populaire;Loyer et charges;Loyer et charges;;654,68;58 473,82
+09/06/2026;Banque Populaire;Fournisseurs;Fournisseurs;;47 931,99;10 541,84
+10/06/2026;Banque Populaire;CNSS;CNSS;;12 340,38;-1 798,54
+10/06/2026;Banque Populaire;Fournisseurs;Fournisseurs;;42 193,60;-43 992,14
+11/06/2026;Banque Populaire;TVA à payer;TVA à payer;;2 337,58;-46 329,73
+13/06/2026;Banque Populaire;Impôt sur les sociétés;Impôt sur les sociétés;;110,66;-46 440,39
+14/06/2026;Banque Populaire;Règlement client;Encaissements clients;16 900,19;;-29 540,20
+14/06/2026;Banque Populaire;Loyer et charges;Loyer et charges;;661,59;-30 201,79
+14/06/2026;Banque Populaire;Échéance d'emprunt;Échéance d'emprunt;;3 209,36;-33 411,15
+15/06/2026;Banque Populaire;Règlement client;Encaissements clients;18 246,78;;-15 164,38
+15/06/2026;Banque Populaire;Énergie et télécoms;Énergie et télécoms;;347,90;-15 512,27
+16/06/2026;Banque Populaire;Fournisseurs;Fournisseurs;;38 482,26;-53 994,54
+19/06/2026;Banque Populaire;Règlement client;Encaissements clients;20 674,78;;-33 319,76
+19/06/2026;Banque Populaire;Impôt sur les sociétés;Impôt sur les sociétés;;108,84;-33 428,60
+19/06/2026;Banque Populaire;Loyer et charges;Loyer et charges;;614,97;-34 043,57
+20/06/2026;Banque Populaire;Règlement client;Encaissements clients;15 866,18;;-18 177,40
+20/06/2026;Banque Populaire;TVA à payer;TVA à payer;;2 619,26;-20 796,66
+21/06/2026;Banque Populaire;Règlement client;Encaissements clients;19 823,65;;-973,00
+21/06/2026;Banque Populaire;Énergie et télécoms;Énergie et télécoms;;369,19;-1 342,19
+22/06/2026;Banque Populaire;Règlement client;Encaissements clients;12 347,71;;11 005,51
+22/06/2026;Banque Populaire;TVA à payer;TVA à payer;;2 283,28;8 722,24
+22/06/2026;Banque Populaire;Énergie et télécoms;Énergie et télécoms;;427,96;8 294,28
+24/06/2026;Banque Populaire;Impôt sur les sociétés;Impôt sur les sociétés;;122,00;8 172,28
+24/06/2026;Banque Populaire;Investissements;Investissements;;705,61;7 466,66
+25/06/2026;Banque Populaire;Énergie et télécoms;Énergie et télécoms;;364,27;7 102,40
+27/06/2026;Banque Populaire;Fournisseurs;Fournisseurs;;47 347,85;-40 245,46
+27/06/2026;Banque Populaire;Loyer et charges;Loyer et charges;;625,02;-40 870,47
+28/06/2026;Banque Populaire;Règlement client;Encaissements clients;15 118,54;;-25 751,93
+28/06/2026;Banque Populaire;Règlement client;Encaissements clients;16 372,86;;-9 379,08
+28/06/2026;Banque Populaire;Salaires;Salaires;;52 179,26;-61 558,34
+06/07/2026;Banque Populaire;Règlement client;Encaissements clients;22 526,18;;-39 032,15
+08/07/2026;Banque Populaire;Règlement client;Encaissements clients;22 581,50;;-16 450,65
+09/07/2026;Banque Populaire;Règlement client;Encaissements clients;11 417,79;;-5 032,86
+09/07/2026;Banque Populaire;Règlement client;Encaissements clients;12 901,18;;7 868,31
+09/07/2026;Banque Populaire;Règlement client;Encaissements clients;15 945,91;;23 814,23
+09/07/2026;Banque Populaire;Impôt sur les sociétés;Impôt sur les sociétés;;107,10;23 707,12
+09/07/2026;Banque Populaire;Impôt sur les sociétés;Impôt sur les sociétés;;120,41;23 586,72
+09/07/2026;Banque Populaire;Échéance d'emprunt;Échéance d'emprunt;;3 209,86;20 376,86
+09/07/2026;Banque Populaire;Énergie et télécoms;Énergie et télécoms;;358,22;20 018,64
+10/07/2026;Banque Populaire;CNSS;CNSS;;9 708,36;10 310,28
+10/07/2026;Banque Populaire;Fournisseurs;Fournisseurs;;39 528,83;-29 218,55
+10/07/2026;Banque Populaire;Impôts et taxes;Impôts et taxes;;1 921,66;-31 140,21
+10/07/2026;Banque Populaire;TVA à payer;TVA à payer;;2 063,33;-33 203,53
+11/07/2026;Banque Populaire;Règlement client;Encaissements clients;13 093,31;;-20 110,22
+11/07/2026;Banque Populaire;Investissements;Investissements;;803,13;-20 913,35
+11/07/2026;Banque Populaire;Loyer et charges;Loyer et charges;;568,19;-21 481,54
+12/07/2026;Banque Populaire;Énergie et télécoms;Énergie et télécoms;;327,75;-21 809,29
+14/07/2026;Banque Populaire;Règlement client;Encaissements clients;24 645,38;;2 836,10
+14/07/2026;Banque Populaire;Fournisseurs;Fournisseurs;;47 228,26;-44 392,16
+14/07/2026;Banque Populaire;Impôt sur les sociétés;Impôt sur les sociétés;;126,94;-44 519,10
+14/07/2026;Banque Populaire;Énergie et télécoms;Énergie et télécoms;;345,60;-44 864,70
+15/07/2026;Banque Populaire;Loyer et charges;Loyer et charges;;714,69;-45 579,39
+16/07/2026;Banque Populaire;Règlement client;Encaissements clients;11 332,41;;-34 246,98
+16/07/2026;Banque Populaire;Énergie et télécoms;Énergie et télécoms;;403,22;-34 650,20
+17/07/2026;Banque Populaire;Investissements;Investissements;;917,43;-35 567,63
+18/07/2026;Banque Populaire;Règlement client;Encaissements clients;23 412,19;;-12 155,44
+18/07/2026;Banque Populaire;Fournisseurs;Fournisseurs;;48 383,95;-60 539,39
+18/07/2026;Banque Populaire;TVA à payer;TVA à payer;;2 640,59;-63 179,98
+21/07/2026;Banque Populaire;Règlement client;Encaissements clients;12 599,80;;-50 580,18
+21/07/2026;Banque Populaire;TVA à payer;TVA à payer;;2 264,52;-52 844,70
+22/07/2026;Banque Populaire;Impôt sur les sociétés;Impôt sur les sociétés;;142,97;-52 987,67
+23/07/2026;Banque Populaire;Règlement client;Encaissements clients;14 805,91;;-38 181,76
+23/07/2026;Banque Populaire;Règlement client;Encaissements clients;24 745,19;;-13 436,57
+24/07/2026;Banque Populaire;Règlement client;Encaissements clients;21 439,00;;8 002,43
+24/07/2026;Banque Populaire;Investissements;Investissements;;885,21;7 117,21
+24/07/2026;Banque Populaire;Loyer et charges;Loyer et charges;;548,86;6 568,35
+24/07/2026;Banque Populaire;TVA à payer;TVA à payer;;2 565,31;4 003,05
+25/07/2026;Banque Populaire;Fournisseurs;Fournisseurs;;49 401,03;-45 397,98
+26/07/2026;Banque Populaire;Règlement client;Encaissements clients;19 348,99;;-26 048,99
+26/07/2026;Banque Populaire;Investissements;Investissements;;777,11;-26 826,10
+27/07/2026;Banque Populaire;Loyer et charges;Loyer et charges;;648,60;-27 474,71
+28/07/2026;Banque Populaire;Règlement client;Encaissements clients;19 742,59;;-7 732,11
+28/07/2026;Banque Populaire;Salaires;Salaires;;58 896,48;-66 628,59
+02/08/2026;Banque Populaire;Règlement client;Encaissements clients;14 806,02;;-51 822,57
+03/08/2026;Banque Populaire;Règlement client;Encaissements clients;11 334,37;;-40 488,20
+04/08/2026;Banque Populaire;Investissements;Investissements;;810,30;-41 298,50
+04/08/2026;Banque Populaire;Échéance d'emprunt;Échéance d'emprunt;;3 638,87;-44 937,36
+05/08/2026;Banque Populaire;Fournisseurs;Fournisseurs;;38 990,49;-83 927,86
+05/08/2026;Banque Populaire;Investissements;Investissements;;760,70;-84 688,56
+05/08/2026;Banque Populaire;TVA à payer;TVA à payer;;2 129,81;-86 818,36
+07/08/2026;Banque Populaire;Règlement client;Encaissements clients;21 850,26;;-64 968,10
+07/08/2026;Banque Populaire;Règlement client;Encaissements clients;25 157,92;;-39 810,18
+07/08/2026;Banque Populaire;Impôt sur les sociétés;Impôt sur les sociétés;;130,28;-39 940,46
+08/08/2026;Banque Populaire;Impôt sur les sociétés;Impôt sur les sociétés;;107,48;-40 047,94
+10/08/2026;Banque Populaire;CNSS;CNSS;;12 714,58;-52 762,52
+10/08/2026;Banque Populaire;Énergie et télécoms;Énergie et télécoms;;351,39;-53 113,91
+11/08/2026;Banque Populaire;Règlement client;Encaissements clients;13 454,26;;-39 659,65
+11/08/2026;Banque Populaire;Fournisseurs;Fournisseurs;;50 918,72;-90 578,38
+11/08/2026;Banque Populaire;Loyer et charges;Loyer et charges;;635,96;-91 214,33
+11/08/2026;Banque Populaire;Énergie et télécoms;Énergie et télécoms;;398,45;-91 612,79
+12/08/2026;Banque Populaire;Impôts et taxes;Impôts et taxes;;2 046,85;-93 659,63
+14/08/2026;Banque Populaire;Fournisseurs;Fournisseurs;;46 192,57;-139 852,21
+14/08/2026;Banque Populaire;Loyer et charges;Loyer et charges;;670,75;-140 522,95
+15/08/2026;Banque Populaire;Règlement client;Encaissements clients;20 045,52;;-120 477,43
+15/08/2026;Banque Populaire;Investissements;Investissements;;748,97;-121 226,40
+15/08/2026;Banque Populaire;Loyer et charges;Loyer et charges;;536,42;-121 762,82
+15/08/2026;Banque Populaire;TVA à payer;TVA à payer;;2 433,65;-124 196,47
+18/08/2026;Banque Populaire;TVA à payer;TVA à payer;;2 493,95;-126 690,42
+19/08/2026;Banque Populaire;Impôt sur les sociétés;Impôt sur les sociétés;;117,17;-126 807,59
+19/08/2026;Banque Populaire;Énergie et télécoms;Énergie et télécoms;;384,00;-127 191,58
+20/08/2026;Banque Populaire;Règlement client;Encaissements clients;24 480,36;;-102 711,22
+21/08/2026;Banque Populaire;Règlement client;Encaissements clients;16 177,07;;-86 534,15
+21/08/2026;Banque Populaire;TVA à payer;TVA à payer;;2 482,67;-89 016,83
+22/08/2026;Banque Populaire;Loyer et charges;Loyer et charges;;590,94;-89 607,77
+23/08/2026;Banque Populaire;Investissements;Investissements;;833,66;-90 441,43
+24/08/2026;Banque Populaire;Règlement client;Encaissements clients;12 778,10;;-77 663,33
+25/08/2026;Banque Populaire;Règlement client;Encaissements clients;20 568,66;;-57 094,67
+26/08/2026;Banque Populaire;Règlement client;Encaissements clients;22 916,08;;-34 178,60
+26/08/2026;Banque Populaire;Fournisseurs;Fournisseurs;;48 404,96;-82 583,56
+26/08/2026;Banque Populaire;Impôt sur les sociétés;Impôt sur les sociétés;;143,44;-82 727,00
+27/08/2026;Banque Populaire;Règlement client;Encaissements clients;17 768,74;;-64 958,25
+27/08/2026;Banque Populaire;Règlement client;Encaissements clients;18 593,12;;-46 365,13
+27/08/2026;Banque Populaire;Énergie et télécoms;Énergie et télécoms;;356,47;-46 721,60
+28/08/2026;Banque Populaire;Règlement client;Encaissements clients;16 666,43;;-30 055,17
+28/08/2026;Banque Populaire;Salaires;Salaires;;54 509,26;-84 564,43
+03/09/2026;Banque Populaire;Règlement client;Encaissements clients;21 273,20;;-63 291,23
+04/09/2026;Banque Populaire;Règlement client;Encaissements clients;11 731,49;;-51 559,73
+04/09/2026;Banque Populaire;Impôt sur les sociétés;Impôt sur les sociétés;;137,33;-51 697,07
+04/09/2026;Banque Populaire;Investissements;Investissements;;701,85;-52 398,92
+04/09/2026;Banque Populaire;Investissements;Investissements;;932,06;-53 330,98
+04/09/2026;Banque Populaire;TVA à payer;TVA à payer;;2 125,83;-55 456,81
+06/09/2026;Banque Populaire;Impôt sur les sociétés;Impôt sur les sociétés;;117,55;-55 574,36
+06/09/2026;Banque Populaire;Investissements;Investissements;;877,47;-56 451,83
+06/09/2026;Banque Populaire;Loyer et charges;Loyer et charges;;628,23;-57 080,06
+07/09/2026;Banque Populaire;Fournisseurs;Fournisseurs;;41 103,51;-98 183,57
+08/09/2026;Banque Populaire;Règlement client;Encaissements clients;12 345,84;;-85 837,73
+09/09/2026;Banque Populaire;Règlement client;Encaissements clients;19 445,27;;-66 392,45
+10/09/2026;Banque Populaire;CNSS;CNSS;;10 255,62;-76 648,08
+10/09/2026;Banque Populaire;Loyer et charges;Loyer et charges;;567,50;-77 215,58
+10/09/2026;Banque Populaire;Énergie et télécoms;Énergie et télécoms;;407,65;-77 623,23
+12/09/2026;Banque Populaire;Règlement client;Encaissements clients;15 580,60;;-62 042,62
+12/09/2026;Banque Populaire;Impôt sur les sociétés;Impôt sur les sociétés;;116,43;-62 159,05
+12/09/2026;Banque Populaire;Investissements;Investissements;;791,33;-62 950,38
+12/09/2026;Banque Populaire;TVA à payer;TVA à payer;;2 549,75;-65 500,12
+12/09/2026;Banque Populaire;TVA à payer;TVA à payer;;2 670,24;-68 170,37
+12/09/2026;Banque Populaire;Énergie et télécoms;Énergie et télécoms;;360,64;-68 531,01
+12/09/2026;Banque Populaire;Énergie et télécoms;Énergie et télécoms;;364,53;-68 895,54
+16/09/2026;Banque Populaire;Règlement client;Encaissements clients;11 175,12;;-57 720,42
+16/09/2026;Banque Populaire;Règlement client;Encaissements clients;23 415,87;;-34 304,55
+16/09/2026;Banque Populaire;Impôts et taxes;Impôts et taxes;;2 001,90;-36 306,46
+17/09/2026;Banque Populaire;Fournisseurs;Fournisseurs;;40 222,85;-76 529,31
+18/09/2026;Banque Populaire;Énergie et télécoms;Énergie et télécoms;;345,99;-76 875,30
+19/09/2026;Banque Populaire;Règlement client;Encaissements clients;22 169,62;;-54 705,68
+19/09/2026;Banque Populaire;Impôt sur les sociétés;Impôt sur les sociétés;;129,53;-54 835,21
+20/09/2026;Banque Populaire;TVA à payer;TVA à payer;;2 588,10;-57 423,31
+20/09/2026;Banque Populaire;Échéance d'emprunt;Échéance d'emprunt;;3 453,43;-60 876,74
+21/09/2026;Banque Populaire;Loyer et charges;Loyer et charges;;660,84;-61 537,58
+22/09/2026;Banque Populaire;Règlement client;Encaissements clients;16 551,05;;-44 986,53
+22/09/2026;Banque Populaire;Fournisseurs;Fournisseurs;;42 365,80;-87 352,32
+23/09/2026;Banque Populaire;Règlement client;Encaissements clients;21 948,03;;-65 404,30
+24/09/2026;Banque Populaire;Loyer et charges;Loyer et charges;;580,04;-65 984,34
+25/09/2026;Banque Populaire;Fournisseurs;Fournisseurs;;37 999,51;-103 983,85
+26/09/2026;Banque Populaire;Règlement client;Encaissements clients;18 992,85;;-84 991,00
+28/09/2026;Banque Populaire;Règlement client;Encaissements clients;19 893,35;;-65 097,65
+28/09/2026;Banque Populaire;Salaires;Salaires;;55 361,11;-120 458,75

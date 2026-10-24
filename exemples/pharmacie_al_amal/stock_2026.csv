@@ -1,0 +1,21 @@
+﻿Date inventaire;Article;Famille;Dépôt;Quantité en stock;Stock minimum;Prix unitaire;Sorties;Date de péremption
+31/08/2026;Amoxicilline 1 g (boîte);Médicaments;Officine;82;60;38,00;147;26/04/2027
+31/08/2026;Paracétamol 500 mg (boîte);Médicaments;Officine;477;150;9,00;439;13/03/2027
+31/08/2026;Insuline (stylo);Médicaments;Officine;83;25;210,00;54;24/05/2027
+31/08/2026;Sirop antitussif;Médicaments;Officine;148;50;32,00;212;14/10/2026
+31/08/2026;Crème solaire SPF50;Parapharmacie;Officine;106;30;140,00;67;14/12/2026
+31/08/2026;Lait infantile 1er âge;Nutrition;Officine;47;40;92,00;84;18/10/2026
+31/08/2026;Tensiomètre électronique;Matériel médical;Officine;5;6;380,00;10;
+31/08/2026;Masques chirurgicaux (boîte);Matériel médical;Officine;169;80;35,00;277;
+31/08/2026;Ancienne gamme cosmétique;Parapharmacie;Officine;11;5;95,00;0;08/04/2027
+31/08/2026;Vitamine D (ampoules);Médicaments;Officine;140;100;24,00;198;17/02/2027
+30/09/2026;Amoxicilline 1 g (boîte);Médicaments;Officine;182;60;38,00;137;14/03/2027
+30/09/2026;Paracétamol 500 mg (boîte);Médicaments;Officine;516;150;9,00;277;27/05/2027
+30/09/2026;Insuline (stylo);Médicaments;Officine;14;25;210,00;90;12/01/2027
+30/09/2026;Sirop antitussif;Médicaments;Officine;52;50;32,00;93;24/02/2027
+30/09/2026;Crème solaire SPF50;Parapharmacie;Officine;61;30;140,00;88;09/01/2027
+30/09/2026;Lait infantile 1er âge;Nutrition;Officine;56;40;92,00;136;02/10/2026
+30/09/2026;Tensiomètre électronique;Matériel médical;Officine;6;6;380,00;19;
+30/09/2026;Masques chirurgicaux (boîte);Matériel médical;Officine;22;80;35,00;261;
+30/09/2026;Ancienne gamme cosmétique;Parapharmacie;Officine;7;5;95,00;0;04/10/2026
+30/09/2026;Vitamine D (ampoules);Médicaments;Officine;0;100;24,00;356;03/04/2027

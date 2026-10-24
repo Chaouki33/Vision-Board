@@ -1,0 +1,108 @@
+﻿Date facture;Client;Produit;Commercial;Ville;Canal;Quantité;Montant HT;Coût de revient;Statut paiement;Échéance;Objectif mensuel
+10/01/2026;Al Omrane Souss-Massa;Béton prêt à l'emploi (m³);Khalid;Agadir;Marchés publics;158;124 755,36;96 380,00;Réglé;10/04/2026;1900000
+10/01/2026;Hôtel Atlantic Bay;Béton prêt à l'emploi (m³);Brahim;Taghazout;Direct;100;85 562,04;61 000,00;Réglé;10/04/2026;1900000
+12/01/2026;Promoteur Riad Souss;Situation de travaux second œuvre;Brahim;Agadir;Direct;2;185 208,97;152 000,00;Non réglé;12/04/2026;1900000
+12/01/2026;Commune d'Agadir;Situation de travaux second œuvre;Brahim;Agadir;Marchés publics;1;96 771,65;76 000,00;Réglé;12/04/2026;1900000
+13/01/2026;Promoteur Riad Souss;Voirie et réseaux divers (lot);Brahim;Agadir;Direct;2;125 999,80;102 000,00;Réglé;13/04/2026;1900000
+13/01/2026;Ministère de l'Équipement;Voirie et réseaux divers (lot);Brahim;Agadir;Marchés publics;1;66 793,33;51 000,00;Réglé;13/04/2026;1900000
+14/01/2026;Hôtel Atlantic Bay;Situation de travaux gros œuvre;Brahim;Taghazout;Direct;1;185 552,32;152 000,00;Réglé;14/04/2026;1900000
+15/01/2026;Commune d'Agadir;Situation de travaux gros œuvre;Khalid;Agadir;Marchés publics;1;190 060,23;152 000,00;Non réglé;15/04/2026;1900000
+16/01/2026;Promoteur Riad Souss;Situation de travaux second œuvre;Khalid;Agadir;Direct;2;197 918,22;152 000,00;Réglé;16/04/2026;1900000
+16/01/2026;Promoteur Riad Souss;Voirie et réseaux divers (lot);Brahim;Agadir;Direct;2;126 504,86;102 000,00;Non réglé;16/04/2026;1900000
+17/01/2026;Ministère de l'Équipement;Situation de travaux second œuvre;Brahim;Agadir;Marchés publics;1;99 655,26;76 000,00;Réglé;17/04/2026;1900000
+17/01/2026;Ministère de l'Équipement;Situation de travaux gros œuvre;Khalid;Agadir;Marchés publics;2;367 606,25;304 000,00;Réglé;17/04/2026;1900000
+19/01/2026;Commune d'Agadir;Béton prêt à l'emploi (m³);Khalid;Agadir;Marchés publics;87;73 632,95;53 070,00;Réglé;19/04/2026;1900000
+19/01/2026;Particuliers;Situation de travaux gros œuvre;Khalid;Inezgane;Direct;2;352 184,70;304 000,00;Non réglé;19/04/2026;1900000
+20/01/2026;Particuliers;Voirie et réseaux divers (lot);Khalid;Inezgane;Direct;2;123 970,45;102 000,00;Non réglé;20/04/2026;1900000
+28/01/2026;Al Omrane Souss-Massa;Béton prêt à l'emploi (m³);Brahim;Agadir;Marchés publics;24;20 338,62;14 640,00;Réglé;28/04/2026;1900000
+28/01/2026;Promoteur Riad Souss;Situation de travaux second œuvre;Khalid;Agadir;Direct;1;95 697,29;76 000,00;Réglé;28/04/2026;1900000
+30/01/2026;Al Omrane Souss-Massa;Situation de travaux second œuvre;Khalid;Agadir;Marchés publics;2;198 132,04;152 000,00;Réglé;30/04/2026;1900000
+05/02/2026;Promoteur Riad Souss;Situation de travaux second œuvre;Khalid;Agadir;Direct;1;94 718,55;76 000,00;Non réglé;06/05/2026;1900000
+05/02/2026;Al Omrane Souss-Massa;Situation de travaux gros œuvre;Khalid;Agadir;Marchés publics;1;190 687,25;152 000,00;Réglé;06/05/2026;1900000
+10/02/2026;Promoteur Riad Souss;Béton prêt à l'emploi (m³);Brahim;Agadir;Direct;28;22 116,86;17 080,00;Non réglé;11/05/2026;1900000
+10/02/2026;Hôtel Atlantic Bay;Béton prêt à l'emploi (m³);Brahim;Taghazout;Direct;59;48 542,05;35 990,00;Réglé;11/05/2026;1900000
+12/02/2026;Ministère de l'Équipement;Voirie et réseaux divers (lot);Khalid;Agadir;Marchés publics;2;126 982,74;102 000,00;Réglé;13/05/2026;1900000
+13/02/2026;Al Omrane Souss-Massa;Voirie et réseaux divers (lot);Khalid;Agadir;Marchés publics;2;130 609,34;102 000,00;Réglé;14/05/2026;1900000
+19/02/2026;Hôtel Atlantic Bay;Situation de travaux gros œuvre;Brahim;Taghazout;Direct;1;176 607,19;152 000,00;Réglé;20/05/2026;1900000
+21/02/2026;Hôtel Atlantic Bay;Voirie et réseaux divers (lot);Brahim;Taghazout;Direct;1;64 457,59;51 000,00;Réglé;22/05/2026;1900000
+26/02/2026;Al Omrane Souss-Massa;Situation de travaux second œuvre;Brahim;Agadir;Marchés publics;2;199 988,36;152 000,00;Non réglé;27/05/2026;1900000
+26/02/2026;Particuliers;Voirie et réseaux divers (lot);Brahim;Inezgane;Direct;2;124 965,14;102 000,00;Réglé;27/05/2026;1900000
+28/02/2026;Particuliers;Voirie et réseaux divers (lot);Khalid;Inezgane;Direct;2;122 496,81;102 000,00;Réglé;29/05/2026;1900000
+06/03/2026;Al Omrane Souss-Massa;Voirie et réseaux divers (lot);Khalid;Agadir;Marchés publics;2;125 812,91;102 000,00;Réglé;04/06/2026;1900000
+06/03/2026;Particuliers;Situation de travaux second œuvre;Khalid;Inezgane;Direct;2;188 312,71;152 000,00;Réglé;04/06/2026;1900000
+07/03/2026;Promoteur Riad Souss;Béton prêt à l'emploi (m³);Brahim;Agadir;Direct;53;42 593,09;32 330,00;Réglé;05/06/2026;1900000
+11/03/2026;Hôtel Atlantic Bay;Situation de travaux second œuvre;Brahim;Taghazout;Direct;1;98 198,88;76 000,00;Non réglé;09/06/2026;1900000
+11/03/2026;Al Omrane Souss-Massa;Voirie et réseaux divers (lot);Brahim;Agadir;Marchés publics;1;61 575,44;51 000,00;Réglé;09/06/2026;1900000
+14/03/2026;Al Omrane Souss-Massa;Béton prêt à l'emploi (m³);Brahim;Agadir;Marchés publics;88;71 699,55;53 680,00;Réglé;12/06/2026;1900000
+19/03/2026;Particuliers;Béton prêt à l'emploi (m³);Khalid;Inezgane;Direct;34;28 874,36;20 740,00;Réglé;17/06/2026;1900000
+19/03/2026;Commune d'Agadir;Situation de travaux second œuvre;Khalid;Agadir;Marchés publics;2;186 855,71;152 000,00;Réglé;17/06/2026;1900000
+26/03/2026;Commune d'Agadir;Voirie et réseaux divers (lot);Khalid;Agadir;Marchés publics;1;63 018,66;51 000,00;Réglé;24/06/2026;1900000
+26/03/2026;Promoteur Riad Souss;Voirie et réseaux divers (lot);Khalid;Agadir;Direct;1;65 609,48;51 000,00;Non réglé;24/06/2026;1900000
+31/03/2026;Al Omrane Souss-Massa;Béton prêt à l'emploi (m³);Brahim;Agadir;Marchés publics;38;29 940,92;23 180,00;Réglé;29/06/2026;1900000
+31/03/2026;Commune d'Agadir;Voirie et réseaux divers (lot);Brahim;Agadir;Marchés publics;1;66 827,22;51 000,00;Réglé;29/06/2026;1900000
+02/04/2026;Commune d'Agadir;Béton prêt à l'emploi (m³);Brahim;Agadir;Marchés publics;155;127 979,98;94 550,00;Réglé;01/07/2026;1900000
+06/04/2026;Hôtel Atlantic Bay;Situation de travaux gros œuvre;Khalid;Taghazout;Direct;2;359 903,19;304 000,00;Réglé;05/07/2026;1900000
+08/04/2026;Promoteur Riad Souss;Voirie et réseaux divers (lot);Khalid;Agadir;Direct;2;124 720,17;102 000,00;Réglé;07/07/2026;1900000
+08/04/2026;Ministère de l'Équipement;Béton prêt à l'emploi (m³);Brahim;Agadir;Marchés publics;60;49 422,62;36 600,00;Réglé;07/07/2026;1900000
+09/04/2026;Commune d'Agadir;Voirie et réseaux divers (lot);Brahim;Agadir;Marchés publics;1;66 884,79;51 000,00;Non réglé;08/07/2026;1900000
+09/04/2026;Promoteur Riad Souss;Situation de travaux second œuvre;Khalid;Agadir;Direct;1;91 689,14;76 000,00;Réglé;08/07/2026;1900000
+10/04/2026;Commune d'Agadir;Situation de travaux second œuvre;Khalid;Agadir;Marchés publics;1;97 600,24;76 000,00;Non réglé;09/07/2026;1900000
+10/04/2026;Al Omrane Souss-Massa;Béton prêt à l'emploi (m³);Khalid;Agadir;Marchés publics;51;42 112,44;31 110,00;Non réglé;09/07/2026;1900000
+17/04/2026;Commune d'Agadir;Voirie et réseaux divers (lot);Khalid;Agadir;Marchés publics;2;133 346,19;102 000,00;Non réglé;16/07/2026;1900000
+25/04/2026;Ministère de l'Équipement;Béton prêt à l'emploi (m³);Brahim;Agadir;Marchés publics;95;77 865,01;57 950,00;Réglé;24/07/2026;1900000
+25/04/2026;Promoteur Riad Souss;Situation de travaux gros œuvre;Khalid;Agadir;Direct;1;184 011,86;152 000,00;Non réglé;24/07/2026;1900000
+27/04/2026;Promoteur Riad Souss;Béton prêt à l'emploi (m³);Khalid;Agadir;Direct;112;96 061,47;68 320,00;Réglé;26/07/2026;1900000
+27/04/2026;Al Omrane Souss-Massa;Situation de travaux gros œuvre;Khalid;Agadir;Marchés publics;2;376 212,36;304 000,00;Réglé;26/07/2026;1900000
+29/04/2026;Ministère de l'Équipement;Béton prêt à l'emploi (m³);Brahim;Agadir;Marchés publics;22;18 615,79;13 420,00;Non réglé;28/07/2026;1900000
+02/05/2026;Particuliers;Voirie et réseaux divers (lot);Khalid;Inezgane;Direct;2;123 768,88;102 000,00;Réglé;31/07/2026;1900000
+02/05/2026;Al Omrane Souss-Massa;Situation de travaux second œuvre;Khalid;Agadir;Marchés publics;1;95 250,73;76 000,00;Réglé;31/07/2026;1900000
+05/05/2026;Particuliers;Situation de travaux gros œuvre;Khalid;Inezgane;Direct;1;181 651,46;152 000,00;Réglé;03/08/2026;1900000
+05/05/2026;Al Omrane Souss-Massa;Situation de travaux gros œuvre;Brahim;Agadir;Marchés publics;2;385 672,36;304 000,00;Réglé;03/08/2026;1900000
+07/05/2026;Promoteur Riad Souss;Voirie et réseaux divers (lot);Khalid;Agadir;Direct;2;128 438,28;102 000,00;Non réglé;05/08/2026;1900000
+13/05/2026;Al Omrane Souss-Massa;Béton prêt à l'emploi (m³);Brahim;Agadir;Marchés publics;22;18 931,59;13 420,00;Réglé;11/08/2026;1900000
+13/05/2026;Particuliers;Voirie et réseaux divers (lot);Brahim;Inezgane;Direct;2;125 990,01;102 000,00;Non réglé;11/08/2026;1900000
+15/05/2026;Promoteur Riad Souss;Situation de travaux gros œuvre;Khalid;Agadir;Direct;1;184 048,75;152 000,00;Réglé;13/08/2026;1900000
+15/05/2026;Ministère de l'Équipement;Situation de travaux gros œuvre;Khalid;Agadir;Marchés publics;1;188 942,21;152 000,00;Réglé;13/08/2026;1900000
+19/05/2026;Promoteur Riad Souss;Voirie et réseaux divers (lot);Brahim;Agadir;Direct;1;61 291,03;51 000,00;Réglé;17/08/2026;1900000
+29/05/2026;Ministère de l'Équipement;Voirie et réseaux divers (lot);Khalid;Agadir;Marchés publics;1;64 069,77;51 000,00;Non réglé;27/08/2026;1900000
+29/05/2026;Particuliers;Voirie et réseaux divers (lot);Brahim;Inezgane;Direct;2;128 227,49;102 000,00;Réglé;27/08/2026;1900000
+02/06/2026;Promoteur Riad Souss;Situation de travaux second œuvre;Brahim;Agadir;Direct;1;98 227,90;76 000,00;Réglé;31/08/2026;1900000
+04/06/2026;Al Omrane Souss-Massa;Voirie et réseaux divers (lot);Khalid;Agadir;Marchés publics;2;123 693,53;102 000,00;Réglé;02/09/2026;1900000
+09/06/2026;Particuliers;Béton prêt à l'emploi (m³);Khalid;Inezgane;Direct;31;24 282,64;18 910,00;Réglé;07/09/2026;1900000
+10/06/2026;Promoteur Riad Souss;Voirie et réseaux divers (lot);Khalid;Agadir;Direct;2;133 615,78;102 000,00;Réglé;08/09/2026;1900000
+11/06/2026;Hôtel Atlantic Bay;Voirie et réseaux divers (lot);Khalid;Taghazout;Direct;1;65 708,09;51 000,00;Non réglé;09/09/2026;1900000
+19/06/2026;Particuliers;Situation de travaux gros œuvre;Khalid;Inezgane;Direct;2;361 989,56;304 000,00;Non réglé;17/09/2026;1900000
+19/06/2026;Commune d'Agadir;Situation de travaux gros œuvre;Khalid;Agadir;Marchés publics;2;368 241,45;304 000,00;Réglé;17/09/2026;1900000
+22/06/2026;Al Omrane Souss-Massa;Situation de travaux second œuvre;Brahim;Agadir;Marchés publics;1;100 529,92;76 000,00;Réglé;20/09/2026;1900000
+22/06/2026;Al Omrane Souss-Massa;Situation de travaux gros œuvre;Khalid;Agadir;Marchés publics;2;383 549,07;304 000,00;Réglé;20/09/2026;1900000
+26/06/2026;Hôtel Atlantic Bay;Voirie et réseaux divers (lot);Brahim;Taghazout;Direct;2;132 048,34;102 000,00;Non réglé;24/09/2026;1900000
+27/06/2026;Ministère de l'Équipement;Situation de travaux gros œuvre;Brahim;Agadir;Marchés publics;2;384 554,50;304 000,00;Réglé;25/09/2026;1900000
+30/06/2026;Promoteur Riad Souss;Béton prêt à l'emploi (m³);Brahim;Agadir;Direct;125;99 216,28;76 250,00;Non réglé;28/09/2026;1900000
+02/07/2026;Commune d'Agadir;Situation de travaux second œuvre;Khalid;Agadir;Marchés publics;1;94 050,03;76 000,00;Réglé;30/09/2026;1900000
+07/07/2026;Ministère de l'Équipement;Situation de travaux gros œuvre;Brahim;Agadir;Marchés publics;1;181 329,05;152 000,00;Non réglé;05/10/2026;1900000
+09/07/2026;Ministère de l'Équipement;Situation de travaux gros œuvre;Khalid;Agadir;Marchés publics;1;179 461,74;152 000,00;Réglé;07/10/2026;1900000
+09/07/2026;Al Omrane Souss-Massa;Situation de travaux second œuvre;Khalid;Agadir;Marchés publics;2;195 021,61;152 000,00;Réglé;07/10/2026;1900000
+17/07/2026;Commune d'Agadir;Situation de travaux gros œuvre;Brahim;Agadir;Marchés publics;2;375 746,22;304 000,00;Réglé;15/10/2026;1900000
+23/07/2026;Promoteur Riad Souss;Voirie et réseaux divers (lot);Brahim;Agadir;Direct;2;132 578,68;102 000,00;Réglé;21/10/2026;1900000
+31/07/2026;Al Omrane Souss-Massa;Béton prêt à l'emploi (m³);Khalid;Agadir;Marchés publics;82;67 503,57;50 020,00;Réglé;29/10/2026;1900000
+31/07/2026;Al Omrane Souss-Massa;Situation de travaux gros œuvre;Khalid;Agadir;Marchés publics;2;354 124,51;304 000,00;Réglé;29/10/2026;1900000
+11/08/2026;Ministère de l'Équipement;Situation de travaux second œuvre;Khalid;Agadir;Marchés publics;2;191 150,39;152 000,00;Réglé;09/11/2026;1900000
+13/08/2026;Commune d'Agadir;Béton prêt à l'emploi (m³);Khalid;Agadir;Marchés publics;63;50 392,47;38 430,00;Non réglé;11/11/2026;1900000
+14/08/2026;Ministère de l'Équipement;Voirie et réseaux divers (lot);Brahim;Agadir;Marchés publics;1;61 291,91;51 000,00;Non réglé;12/11/2026;1900000
+14/08/2026;Al Omrane Souss-Massa;Situation de travaux gros œuvre;Brahim;Agadir;Marchés publics;1;191 125,18;152 000,00;Non réglé;12/11/2026;1900000
+17/08/2026;Promoteur Riad Souss;Voirie et réseaux divers (lot);Khalid;Agadir;Direct;1;66 696,12;51 000,00;Réglé;15/11/2026;1900000
+20/08/2026;Commune d'Agadir;Voirie et réseaux divers (lot);Khalid;Agadir;Marchés publics;1;61 348,16;51 000,00;Réglé;18/11/2026;1900000
+26/08/2026;Hôtel Atlantic Bay;Situation de travaux gros œuvre;Khalid;Taghazout;Direct;1;187 119,98;152 000,00;Réglé;24/11/2026;1900000
+26/08/2026;Promoteur Riad Souss;Voirie et réseaux divers (lot);Brahim;Agadir;Direct;2;124 917,59;102 000,00;Réglé;24/11/2026;1900000
+29/08/2026;Particuliers;Situation de travaux gros œuvre;Khalid;Inezgane;Direct;2;357 153,82;304 000,00;Non réglé;27/11/2026;1900000
+04/09/2026;Hôtel Atlantic Bay;Béton prêt à l'emploi (m³);Brahim;Taghazout;Direct;117;99 919,28;71 370,00;Non réglé;03/12/2026;1900000
+07/09/2026;Ministère de l'Équipement;Béton prêt à l'emploi (m³);Khalid;Agadir;Marchés publics;107;87 466,38;65 270,00;Réglé;06/12/2026;1900000
+08/09/2026;Promoteur Riad Souss;Béton prêt à l'emploi (m³);Brahim;Agadir;Direct;64;51 391,28;39 040,00;Réglé;07/12/2026;1900000
+09/09/2026;Hôtel Atlantic Bay;Situation de travaux second œuvre;Khalid;Taghazout;Direct;2;199 902,30;152 000,00;Non réglé;08/12/2026;1900000
+09/09/2026;Particuliers;Voirie et réseaux divers (lot);Khalid;Inezgane;Direct;2;124 661,22;102 000,00;Non réglé;08/12/2026;1900000
+10/09/2026;Promoteur Riad Souss;Voirie et réseaux divers (lot);Brahim;Agadir;Direct;1;64 365,52;51 000,00;Réglé;09/12/2026;1900000
+18/09/2026;Commune d'Agadir;Voirie et réseaux divers (lot);Khalid;Agadir;Marchés publics;1;65 331,62;51 000,00;Réglé;17/12/2026;1900000
+18/09/2026;Al Omrane Souss-Massa;Situation de travaux second œuvre;Khalid;Agadir;Marchés publics;1;98 944,23;76 000,00;Non réglé;17/12/2026;1900000
+21/09/2026;Particuliers;Voirie et réseaux divers (lot);Khalid;Inezgane;Direct;2;129 000,39;102 000,00;Non réglé;20/12/2026;1900000
+26/09/2026;Ministère de l'Équipement;Voirie et réseaux divers (lot);Khalid;Agadir;Marchés publics;1;66 120,94;51 000,00;Réglé;25/12/2026;1900000
+26/09/2026;Promoteur Riad Souss;Béton prêt à l'emploi (m³);Khalid;Agadir;Direct;72;59 619,34;43 920,00;Non réglé;25/12/2026;1900000

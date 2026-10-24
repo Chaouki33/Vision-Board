@@ -1,0 +1,720 @@
+﻿N° facture;Date facture;Client;Produit;Commercial;Ville;Canal;Quantité;Montant HT;Coût de revient;Statut paiement;Échéance;Objectif mensuel
+FA26-0001;02/01/2026;BIM;Gaufrettes 100g;Hamza;Casablanca;GMS;5408;16 764,80;11 897,60;Réglé;03/03/2026;2490000
+FA26-0002;02/01/2026;Export Mauritanie;Gaufrettes 100g;Hamza;Export;Export;3807;11 801,70;8 375,40;Réglé;16/02/2026;2490000
+FA26-0003;03/01/2026;Marjane;Cakes 300g;Hamza;Casablanca;GMS;7815;74 242,50;53 923,50;Réglé;04/03/2026;2490000
+FA26-0004;03/01/2026;Distributeur Oriental;Cakes 300g;Rachid;Oujda;Grossistes;1493;14 183,50;10 301,70;Réglé;17/02/2026;2490000
+FA26-0005;05/01/2026;Grossiste Derb Omar;Biscuits 200g;Rachid;Casablanca;Grossistes;6189;30 326,10;22 280,40;Réglé;19/02/2026;2490000
+FA26-0006;05/01/2026;Marjane;Gaufrettes 100g;Hamza;Casablanca;GMS;1180;3 658,00;2 596,00;Réglé;06/03/2026;2490000
+FA26-0007;05/01/2026;Marjane;Biscuits 200g;Rachid;Casablanca;GMS;8224;40 297,60;29 606,40;Réglé;06/03/2026;2490000
+FA26-0008;06/01/2026;BIM;Biscuits 200g;Imane;Casablanca;GMS;3862;18 923,80;13 903,20;Réglé;07/03/2026;2490000
+FA26-0009;06/01/2026;Distributeur Oriental;Biscuits 200g;Hamza;Oujda;Grossistes;2022;9 907,80;7 279,20;Réglé;20/02/2026;2490000
+FA26-0010;06/01/2026;Grossiste Agadir Sud;Cakes 300g;Imane;Agadir;Grossistes;1962;18 639,00;13 537,80;Réglé;20/02/2026;2490000
+FA26-0011;07/01/2026;Aswak Assalam;Biscuits 200g;Rachid;Fès;GMS;6390;31 311,00;23 004,00;Non réglé;08/03/2026;2490000
+FA26-0012;07/01/2026;BIM;Gaufrettes 100g;Imane;Casablanca;GMS;8194;25 401,40;18 026,80;Réglé;08/03/2026;2490000
+FA26-0013;07/01/2026;Export Mauritanie;Gaufrettes 100g;Hamza;Export;Export;5153;15 974,30;11 336,60;Réglé;21/02/2026;2490000
+FA26-0014;07/01/2026;Marjane;Cakes 300g;Hamza;Casablanca;GMS;8926;84 797,00;61 589,40;Réglé;08/03/2026;2490000
+FA26-0015;08/01/2026;Grossiste Derb Omar;Cakes 300g;Imane;Casablanca;Grossistes;4437;42 151,50;30 615,30;Réglé;22/02/2026;2490000
+FA26-0016;08/01/2026;Grossiste Derb Omar;Cakes 300g;Hamza;Casablanca;Grossistes;2646;25 137,00;18 257,40;Réglé;22/02/2026;2490000
+FA26-0017;08/01/2026;Grossiste Derb Omar;Gaufrettes 100g;Imane;Casablanca;Grossistes;6478;20 081,80;14 251,60;Réglé;22/02/2026;2490000
+FA26-0018;08/01/2026;Label'Vie;Biscuits 200g;Hamza;Rabat;GMS;1875;9 187,50;6 750,00;Non réglé;09/03/2026;2490000
+FA26-0019;09/01/2026;BIM;Cakes 300g;Rachid;Casablanca;GMS;1401;13 309,50;9 666,90;Réglé;10/03/2026;2490000
+FA26-0020;09/01/2026;Export Mauritanie;Gaufrettes 100g;Rachid;Export;Export;3472;10 763,20;7 638,40;Non réglé;23/02/2026;2490000
+FA26-0021;09/01/2026;Marjane;Gaufrettes 100g;Rachid;Casablanca;GMS;8843;27 413,30;19 454,60;Réglé;10/03/2026;2490000
+FA26-0022;10/01/2026;Export Mauritanie;Biscuits 200g;Imane;Export;Export;3459;16 949,10;12 452,40;Réglé;24/02/2026;2490000
+FA26-0023;10/01/2026;Aswak Assalam;Cakes 300g;Imane;Fès;GMS;8716;82 802,00;60 140,40;Réglé;11/03/2026;2490000
+FA26-0024;12/01/2026;Distributeur Oriental;Cakes 300g;Hamza;Oujda;Grossistes;5549;52 715,50;38 288,10;Réglé;26/02/2026;2490000
+FA26-0025;12/01/2026;Marjane;Biscuits 200g;Hamza;Casablanca;GMS;6339;31 061,10;22 820,40;Réglé;13/03/2026;2490000
+FA26-0026;13/01/2026;Grossiste Agadir Sud;Gaufrettes 100g;Rachid;Agadir;Grossistes;1609;4 987,90;3 539,80;Réglé;27/02/2026;2490000
+FA26-0027;13/01/2026;Grossiste Derb Omar;Cakes 300g;Hamza;Casablanca;Grossistes;8649;82 165,50;59 678,10;Réglé;27/02/2026;2490000
+FA26-0028;14/01/2026;Aswak Assalam;Gaufrettes 100g;Imane;Fès;GMS;7780;24 118,00;17 116,00;Réglé;15/03/2026;2490000
+FA26-0029;14/01/2026;Label'Vie;Cakes 300g;Rachid;Rabat;GMS;5321;50 549,50;36 714,90;Réglé;15/03/2026;2490000
+FA26-0030;14/01/2026;Marjane;Cakes 300g;Hamza;Casablanca;GMS;2862;27 189,00;19 747,80;Non réglé;15/03/2026;2490000
+FA26-0031;15/01/2026;Grossiste Derb Omar;Cakes 300g;Rachid;Casablanca;Grossistes;4892;46 474,00;33 754,80;Réglé;01/03/2026;2490000
+FA26-0032;15/01/2026;BIM;Cakes 300g;Hamza;Casablanca;GMS;7445;70 727,50;51 370,50;Réglé;16/03/2026;2490000
+FA26-0033;15/01/2026;Marjane;Biscuits 200g;Hamza;Casablanca;GMS;7303;35 784,70;26 290,80;Réglé;16/03/2026;2490000
+FA26-0034;16/01/2026;Carrefour Market;Biscuits 200g;Rachid;Marrakech;GMS;1977;9 687,30;7 117,20;Non réglé;17/03/2026;2490000
+FA26-0035;16/01/2026;Label'Vie;Gaufrettes 100g;Hamza;Rabat;GMS;6112;18 947,20;13 446,40;Réglé;17/03/2026;2490000
+FA26-0036;16/01/2026;Grossiste Derb Omar;Biscuits 200g;Hamza;Casablanca;Grossistes;3813;18 683,70;13 726,80;Réglé;02/03/2026;2490000
+FA26-0037;16/01/2026;Grossiste Agadir Sud;Cakes 300g;Rachid;Agadir;Grossistes;1556;14 782,00;10 736,40;Réglé;02/03/2026;2490000
+FA26-0038;17/01/2026;Aswak Assalam;Biscuits 200g;Hamza;Fès;GMS;7151;35 039,90;25 743,60;Réglé;18/03/2026;2490000
+FA26-0039;17/01/2026;BIM;Cakes 300g;Hamza;Casablanca;GMS;3672;34 884,00;25 336,80;Réglé;18/03/2026;2490000
+FA26-0040;17/01/2026;Label'Vie;Cakes 300g;Hamza;Rabat;GMS;5938;56 411,00;40 972,20;Réglé;18/03/2026;2490000
+FA26-0041;17/01/2026;BIM;Gaufrettes 100g;Rachid;Casablanca;GMS;5633;17 462,30;12 392,60;Réglé;18/03/2026;2490000
+FA26-0042;19/01/2026;Export Mauritanie;Biscuits 200g;Rachid;Export;Export;1783;8 736,70;6 418,80;Réglé;05/03/2026;2490000
+FA26-0043;19/01/2026;BIM;Cakes 300g;Rachid;Casablanca;GMS;5881;55 869,50;40 578,90;Réglé;20/03/2026;2490000
+FA26-0044;19/01/2026;Grossiste Derb Omar;Cakes 300g;Imane;Casablanca;Grossistes;3905;37 097,50;26 944,50;Réglé;05/03/2026;2490000
+FA26-0045;20/01/2026;BIM;Gaufrettes 100g;Hamza;Casablanca;GMS;7685;23 823,50;16 907,00;Réglé;21/03/2026;2490000
+FA26-0046;20/01/2026;Grossiste Derb Omar;Cakes 300g;Hamza;Casablanca;Grossistes;8140;77 330,00;56 166,00;Réglé;06/03/2026;2490000
+FA26-0047;21/01/2026;Grossiste Derb Omar;Gaufrettes 100g;Imane;Casablanca;Grossistes;8514;26 393,40;18 730,80;Réglé;07/03/2026;2490000
+FA26-0048;21/01/2026;Distributeur Oriental;Biscuits 200g;Rachid;Oujda;Grossistes;4494;22 020,60;16 178,40;Réglé;07/03/2026;2490000
+FA26-0049;21/01/2026;BIM;Biscuits 200g;Imane;Casablanca;GMS;5315;26 043,50;19 134,00;Réglé;22/03/2026;2490000
+FA26-0050;21/01/2026;Grossiste Agadir Sud;Gaufrettes 100g;Imane;Agadir;Grossistes;4673;14 486,30;10 280,60;Réglé;07/03/2026;2490000
+FA26-0051;22/01/2026;Label'Vie;Cakes 300g;Hamza;Rabat;GMS;2199;20 890,50;15 173,10;Réglé;23/03/2026;2490000
+FA26-0052;22/01/2026;Carrefour Market;Cakes 300g;Rachid;Marrakech;GMS;4337;41 201,50;29 925,30;Réglé;23/03/2026;2490000
+FA26-0053;22/01/2026;Grossiste Derb Omar;Cakes 300g;Imane;Casablanca;Grossistes;5095;48 402,50;35 155,50;Réglé;08/03/2026;2490000
+FA26-0054;23/01/2026;Label'Vie;Gaufrettes 100g;Hamza;Rabat;GMS;904;2 802,40;1 988,80;Réglé;24/03/2026;2490000
+FA26-0055;23/01/2026;Label'Vie;Gaufrettes 100g;Hamza;Rabat;GMS;3182;9 864,20;7 000,40;Réglé;24/03/2026;2490000
+FA26-0056;23/01/2026;Marjane;Gaufrettes 100g;Imane;Casablanca;GMS;6950;21 545,00;15 290,00;Réglé;24/03/2026;2490000
+FA26-0057;24/01/2026;Export Mauritanie;Biscuits 200g;Imane;Export;Export;7898;38 700,20;28 432,80;Réglé;10/03/2026;2490000
+FA26-0058;24/01/2026;BIM;Cakes 300g;Hamza;Casablanca;GMS;3893;36 983,50;26 861,70;Réglé;25/03/2026;2490000
+FA26-0059;26/01/2026;Carrefour Market;Biscuits 200g;Rachid;Marrakech;GMS;4074;19 962,60;14 666,40;Réglé;27/03/2026;2490000
+FA26-0060;26/01/2026;Label'Vie;Gaufrettes 100g;Imane;Rabat;GMS;3374;10 459,40;7 422,80;Non réglé;27/03/2026;2490000
+FA26-0061;26/01/2026;BIM;Gaufrettes 100g;Rachid;Casablanca;GMS;5397;16 730,70;11 873,40;Réglé;27/03/2026;2490000
+FA26-0062;27/01/2026;Grossiste Derb Omar;Biscuits 200g;Hamza;Casablanca;Grossistes;3887;19 046,30;13 993,20;Non réglé;13/03/2026;2490000
+FA26-0063;27/01/2026;Marjane;Cakes 300g;Rachid;Casablanca;GMS;6824;64 828,00;47 085,60;Réglé;28/03/2026;2490000
+FA26-0064;27/01/2026;Grossiste Derb Omar;Gaufrettes 100g;Hamza;Casablanca;Grossistes;8029;24 889,90;17 663,80;Réglé;13/03/2026;2490000
+FA26-0065;28/01/2026;Export Mauritanie;Biscuits 200g;Hamza;Export;Export;2348;11 505,20;8 452,80;Non réglé;14/03/2026;2490000
+FA26-0066;28/01/2026;Carrefour Market;Biscuits 200g;Rachid;Marrakech;GMS;6862;33 623,80;24 703,20;Réglé;29/03/2026;2490000
+FA26-0067;29/01/2026;Grossiste Derb Omar;Biscuits 200g;Imane;Casablanca;Grossistes;5856;28 694,40;21 081,60;Réglé;15/03/2026;2490000
+FA26-0068;29/01/2026;Distributeur Oriental;Biscuits 200g;Rachid;Oujda;Grossistes;4488;21 991,20;16 156,80;Réglé;15/03/2026;2490000
+FA26-0069;29/01/2026;Distributeur Oriental;Biscuits 200g;Rachid;Oujda;Grossistes;1996;9 780,40;7 185,60;Réglé;15/03/2026;2490000
+FA26-0070;30/01/2026;Label'Vie;Biscuits 200g;Rachid;Rabat;GMS;8948;43 845,20;32 212,80;Réglé;31/03/2026;2490000
+FA26-0071;30/01/2026;Grossiste Derb Omar;Gaufrettes 100g;Rachid;Casablanca;Grossistes;8518;26 405,80;18 739,60;Réglé;16/03/2026;2490000
+FA26-0072;30/01/2026;BIM;Gaufrettes 100g;Imane;Casablanca;GMS;3314;10 273,40;7 290,80;Réglé;31/03/2026;2490000
+FA26-0073;30/01/2026;Grossiste Derb Omar;Biscuits 200g;Hamza;Casablanca;Grossistes;1963;9 618,70;7 066,80;Réglé;16/03/2026;2490000
+FA26-0074;31/01/2026;Marjane;Biscuits 200g;Hamza;Casablanca;GMS;6701;32 834,90;24 123,60;Réglé;01/04/2026;2490000
+FA26-0075;31/01/2026;Marjane;Cakes 300g;Rachid;Casablanca;GMS;8911;84 654,50;61 485,90;Réglé;01/04/2026;2490000
+FA26-0076;31/01/2026;BIM;Biscuits 200g;Imane;Casablanca;GMS;2505;12 274,50;9 018,00;Réglé;01/04/2026;2490000
+FA26-0077;31/01/2026;Grossiste Derb Omar;Gaufrettes 100g;Rachid;Casablanca;Grossistes;4059;12 582,90;8 929,80;Réglé;17/03/2026;2490000
+FA26-0078;02/02/2026;BIM;Gaufrettes 100g;Hamza;Casablanca;GMS;4389;13 605,90;9 655,80;Réglé;03/04/2026;1700000
+FA26-0079;02/02/2026;Grossiste Agadir Sud;Cakes 300g;Imane;Agadir;Grossistes;3652;34 694,00;25 198,80;Réglé;19/03/2026;1700000
+FA26-0080;02/02/2026;Carrefour Market;Biscuits 200g;Imane;Marrakech;GMS;8033;39 361,70;28 918,80;Réglé;03/04/2026;1700000
+FA26-0081;02/02/2026;Grossiste Agadir Sud;Biscuits 200g;Imane;Agadir;Grossistes;2630;12 887,00;9 468,00;Non réglé;19/03/2026;1700000
+FA26-0082;03/02/2026;Export Mauritanie;Cakes 300g;Imane;Export;Export;6812;64 714,00;47 002,80;Réglé;20/03/2026;1700000
+FA26-0083;03/02/2026;Marjane;Gaufrettes 100g;Rachid;Casablanca;GMS;1209;3 747,90;2 659,80;Réglé;04/04/2026;1700000
+FA26-0084;04/02/2026;Marjane;Cakes 300g;Hamza;Casablanca;GMS;9000;85 500,00;62 100,00;Non réglé;05/04/2026;1700000
+FA26-0085;04/02/2026;Label'Vie;Cakes 300g;Rachid;Rabat;GMS;5485;52 107,50;37 846,50;Réglé;05/04/2026;1700000
+FA26-0086;04/02/2026;Aswak Assalam;Gaufrettes 100g;Rachid;Fès;GMS;2156;6 683,60;4 743,20;Réglé;05/04/2026;1700000
+FA26-0087;04/02/2026;Marjane;Cakes 300g;Hamza;Casablanca;GMS;6734;63 973,00;46 464,60;Réglé;05/04/2026;1700000
+FA26-0088;05/02/2026;Export Mauritanie;Biscuits 200g;Hamza;Export;Export;4254;20 844,60;15 314,40;Réglé;22/03/2026;1700000
+FA26-0089;05/02/2026;Distributeur Oriental;Cakes 300g;Rachid;Oujda;Grossistes;6868;65 246,00;47 389,20;Non réglé;22/03/2026;1700000
+FA26-0090;05/02/2026;Label'Vie;Biscuits 200g;Rachid;Rabat;GMS;4732;23 186,80;17 035,20;Réglé;06/04/2026;1700000
+FA26-0091;06/02/2026;Carrefour Market;Gaufrettes 100g;Imane;Marrakech;GMS;3925;12 167,50;8 635,00;Réglé;07/04/2026;1700000
+FA26-0092;06/02/2026;Label'Vie;Gaufrettes 100g;Imane;Rabat;GMS;4441;13 767,10;9 770,20;Réglé;07/04/2026;1700000
+FA26-0093;06/02/2026;Marjane;Gaufrettes 100g;Imane;Casablanca;GMS;4172;12 933,20;9 178,40;Réglé;07/04/2026;1700000
+FA26-0094;06/02/2026;Grossiste Derb Omar;Gaufrettes 100g;Hamza;Casablanca;Grossistes;3083;9 557,30;6 782,60;Réglé;23/03/2026;1700000
+FA26-0095;07/02/2026;Marjane;Biscuits 200g;Rachid;Casablanca;GMS;861;4 218,90;3 099,60;Réglé;08/04/2026;1700000
+FA26-0096;07/02/2026;Label'Vie;Gaufrettes 100g;Rachid;Rabat;GMS;4026;12 480,60;8 857,20;Réglé;08/04/2026;1700000
+FA26-0097;07/02/2026;Grossiste Derb Omar;Gaufrettes 100g;Hamza;Casablanca;Grossistes;1700;5 270,00;3 740,00;Réglé;24/03/2026;1700000
+FA26-0098;09/02/2026;BIM;Gaufrettes 100g;Imane;Casablanca;GMS;7180;22 258,00;15 796,00;Réglé;10/04/2026;1700000
+FA26-0099;09/02/2026;Grossiste Derb Omar;Cakes 300g;Hamza;Casablanca;Grossistes;1958;18 601,00;13 510,20;Non réglé;26/03/2026;1700000
+FA26-0100;09/02/2026;BIM;Gaufrettes 100g;Hamza;Casablanca;GMS;8316;25 779,60;18 295,20;Réglé;10/04/2026;1700000
+FA26-0101;10/02/2026;Distributeur Oriental;Biscuits 200g;Hamza;Oujda;Grossistes;5845;28 640,50;21 042,00;Réglé;27/03/2026;1700000
+FA26-0102;10/02/2026;Marjane;Gaufrettes 100g;Imane;Casablanca;GMS;2507;7 771,70;5 515,40;Réglé;11/04/2026;1700000
+FA26-0103;10/02/2026;Grossiste Derb Omar;Cakes 300g;Rachid;Casablanca;Grossistes;4190;39 805,00;28 911,00;Réglé;27/03/2026;1700000
+FA26-0104;10/02/2026;Carrefour Market;Biscuits 200g;Rachid;Marrakech;GMS;6290;30 821,00;22 644,00;Non réglé;11/04/2026;1700000
+FA26-0105;11/02/2026;Marjane;Biscuits 200g;Rachid;Casablanca;GMS;5448;26 695,20;19 612,80;Réglé;12/04/2026;1700000
+FA26-0106;11/02/2026;Aswak Assalam;Biscuits 200g;Rachid;Fès;GMS;2819;13 813,10;10 148,40;Réglé;12/04/2026;1700000
+FA26-0107;11/02/2026;Grossiste Derb Omar;Biscuits 200g;Imane;Casablanca;Grossistes;4608;22 579,20;16 588,80;Réglé;28/03/2026;1700000
+FA26-0108;12/02/2026;Carrefour Market;Cakes 300g;Hamza;Marrakech;GMS;6925;65 787,50;47 782,50;Réglé;13/04/2026;1700000
+FA26-0109;12/02/2026;Grossiste Derb Omar;Gaufrettes 100g;Imane;Casablanca;Grossistes;3136;9 721,60;6 899,20;Réglé;29/03/2026;1700000
+FA26-0110;12/02/2026;Grossiste Derb Omar;Gaufrettes 100g;Hamza;Casablanca;Grossistes;4461;13 829,10;9 814,20;Réglé;29/03/2026;1700000
+FA26-0111;13/02/2026;Distributeur Oriental;Gaufrettes 100g;Rachid;Oujda;Grossistes;4427;13 723,70;9 739,40;Réglé;30/03/2026;1700000
+FA26-0112;13/02/2026;Grossiste Agadir Sud;Gaufrettes 100g;Hamza;Agadir;Grossistes;8829;27 369,90;19 423,80;Réglé;30/03/2026;1700000
+FA26-0113;14/02/2026;BIM;Gaufrettes 100g;Hamza;Casablanca;GMS;5703;17 679,30;12 546,60;Réglé;15/04/2026;1700000
+FA26-0114;14/02/2026;Carrefour Market;Biscuits 200g;Hamza;Marrakech;GMS;3285;16 096,50;11 826,00;Réglé;15/04/2026;1700000
+FA26-0115;14/02/2026;Distributeur Oriental;Biscuits 200g;Rachid;Oujda;Grossistes;2631;12 891,90;9 471,60;Réglé;31/03/2026;1700000
+FA26-0116;16/02/2026;Grossiste Derb Omar;Biscuits 200g;Rachid;Casablanca;Grossistes;2830;13 867,00;10 188,00;Réglé;02/04/2026;1700000
+FA26-0117;16/02/2026;Label'Vie;Biscuits 200g;Hamza;Rabat;GMS;2192;10 740,80;7 891,20;Réglé;17/04/2026;1700000
+FA26-0118;17/02/2026;Grossiste Derb Omar;Biscuits 200g;Rachid;Casablanca;Grossistes;4136;20 266,40;14 889,60;Réglé;03/04/2026;1700000
+FA26-0119;17/02/2026;Grossiste Agadir Sud;Biscuits 200g;Imane;Agadir;Grossistes;7348;36 005,20;26 452,80;Réglé;03/04/2026;1700000
+FA26-0120;17/02/2026;Aswak Assalam;Cakes 300g;Imane;Fès;GMS;6657;63 241,50;45 933,30;Non réglé;18/04/2026;1700000
+FA26-0121;17/02/2026;Marjane;Gaufrettes 100g;Rachid;Casablanca;GMS;1560;4 836,00;3 432,00;Non réglé;18/04/2026;1700000
+FA26-0122;18/02/2026;Label'Vie;Cakes 300g;Imane;Rabat;GMS;2107;20 016,50;14 538,30;Réglé;19/04/2026;1700000
+FA26-0123;18/02/2026;Aswak Assalam;Cakes 300g;Hamza;Fès;GMS;5089;48 345,50;35 114,10;Réglé;19/04/2026;1700000
+FA26-0124;18/02/2026;Label'Vie;Gaufrettes 100g;Imane;Rabat;GMS;8844;27 416,40;19 456,80;Réglé;19/04/2026;1700000
+FA26-0125;19/02/2026;Marjane;Gaufrettes 100g;Hamza;Casablanca;GMS;2281;7 071,10;5 018,20;Réglé;20/04/2026;1700000
+FA26-0126;19/02/2026;Grossiste Agadir Sud;Biscuits 200g;Hamza;Agadir;Grossistes;5908;28 949,20;21 268,80;Réglé;05/04/2026;1700000
+FA26-0127;19/02/2026;Label'Vie;Cakes 300g;Hamza;Rabat;GMS;8051;76 484,50;55 551,90;Non réglé;20/04/2026;1700000
+FA26-0128;20/02/2026;Grossiste Agadir Sud;Gaufrettes 100g;Imane;Agadir;Grossistes;2541;7 877,10;5 590,20;Réglé;06/04/2026;1700000
+FA26-0129;20/02/2026;Label'Vie;Gaufrettes 100g;Rachid;Rabat;GMS;4050;12 555,00;8 910,00;Réglé;21/04/2026;1700000
+FA26-0130;20/02/2026;Label'Vie;Gaufrettes 100g;Hamza;Rabat;GMS;7925;24 567,50;17 435,00;Réglé;21/04/2026;1700000
+FA26-0131;21/02/2026;Carrefour Market;Biscuits 200g;Hamza;Marrakech;GMS;1319;6 463,10;4 748,40;Réglé;22/04/2026;1700000
+FA26-0132;21/02/2026;Distributeur Oriental;Gaufrettes 100g;Hamza;Oujda;Grossistes;1015;3 146,50;2 233,00;Réglé;07/04/2026;1700000
+FA26-0133;21/02/2026;Distributeur Oriental;Gaufrettes 100g;Rachid;Oujda;Grossistes;4874;15 109,40;10 722,80;Réglé;07/04/2026;1700000
+FA26-0134;23/02/2026;Label'Vie;Cakes 300g;Imane;Rabat;GMS;3775;35 862,50;26 047,50;Réglé;24/04/2026;1700000
+FA26-0135;23/02/2026;Marjane;Gaufrettes 100g;Rachid;Casablanca;GMS;3188;9 882,80;7 013,60;Réglé;24/04/2026;1700000
+FA26-0136;23/02/2026;Grossiste Agadir Sud;Biscuits 200g;Imane;Agadir;Grossistes;1757;8 609,30;6 325,20;Réglé;09/04/2026;1700000
+FA26-0137;24/02/2026;Grossiste Derb Omar;Biscuits 200g;Rachid;Casablanca;Grossistes;7278;35 662,20;26 200,80;Réglé;10/04/2026;1700000
+FA26-0138;24/02/2026;Label'Vie;Gaufrettes 100g;Rachid;Rabat;GMS;4271;13 240,10;9 396,20;Réglé;25/04/2026;1700000
+FA26-0139;24/02/2026;Aswak Assalam;Biscuits 200g;Hamza;Fès;GMS;2786;13 651,40;10 029,60;Non réglé;25/04/2026;1700000
+FA26-0140;25/02/2026;Export Mauritanie;Gaufrettes 100g;Rachid;Export;Export;4267;13 227,70;9 387,40;Non réglé;11/04/2026;1700000
+FA26-0141;25/02/2026;Distributeur Oriental;Gaufrettes 100g;Rachid;Oujda;Grossistes;5631;17 456,10;12 388,20;Réglé;11/04/2026;1700000
+FA26-0142;25/02/2026;BIM;Biscuits 200g;Hamza;Casablanca;GMS;865;4 238,50;3 114,00;Réglé;26/04/2026;1700000
+FA26-0143;26/02/2026;Marjane;Gaufrettes 100g;Imane;Casablanca;GMS;1594;4 941,40;3 506,80;Réglé;27/04/2026;1700000
+FA26-0144;26/02/2026;Marjane;Cakes 300g;Rachid;Casablanca;GMS;5646;53 637,00;38 957,40;Réglé;27/04/2026;1700000
+FA26-0145;26/02/2026;Label'Vie;Gaufrettes 100g;Hamza;Rabat;GMS;2698;8 363,80;5 935,60;Réglé;27/04/2026;1700000
+FA26-0146;27/02/2026;BIM;Gaufrettes 100g;Imane;Casablanca;GMS;8390;26 009,00;18 458,00;Réglé;28/04/2026;1700000
+FA26-0147;27/02/2026;Distributeur Oriental;Gaufrettes 100g;Imane;Oujda;Grossistes;6521;20 215,10;14 346,20;Réglé;13/04/2026;1700000
+FA26-0148;27/02/2026;Grossiste Derb Omar;Cakes 300g;Hamza;Casablanca;Grossistes;6573;62 443,50;45 353,70;Réglé;13/04/2026;1700000
+FA26-0149;27/02/2026;Aswak Assalam;Gaufrettes 100g;Imane;Fès;GMS;3448;10 688,80;7 585,60;Réglé;28/04/2026;1700000
+FA26-0150;28/02/2026;Marjane;Gaufrettes 100g;Hamza;Casablanca;GMS;4291;13 302,10;9 440,20;Réglé;29/04/2026;1700000
+FA26-0151;28/02/2026;Aswak Assalam;Biscuits 200g;Rachid;Fès;GMS;6122;29 997,80;22 039,20;Réglé;29/04/2026;1700000
+FA26-0152;02/03/2026;Distributeur Oriental;Gaufrettes 100g;Hamza;Oujda;Grossistes;3567;11 057,70;7 847,40;Réglé;16/04/2026;2050000
+FA26-0153;02/03/2026;Marjane;Cakes 300g;Imane;Casablanca;GMS;5852;55 594,00;40 378,80;Réglé;01/05/2026;2050000
+FA26-0154;03/03/2026;Grossiste Agadir Sud;Gaufrettes 100g;Rachid;Agadir;Grossistes;5655;17 530,50;12 441,00;Réglé;17/04/2026;2050000
+FA26-0155;03/03/2026;Marjane;Gaufrettes 100g;Imane;Casablanca;GMS;6062;18 792,20;13 336,40;Réglé;02/05/2026;2050000
+FA26-0156;04/03/2026;Export Mauritanie;Biscuits 200g;Rachid;Export;Export;8403;41 174,70;30 250,80;Réglé;18/04/2026;2050000
+FA26-0157;04/03/2026;Export Mauritanie;Biscuits 200g;Imane;Export;Export;3861;18 918,90;13 899,60;Réglé;18/04/2026;2050000
+FA26-0158;05/03/2026;Distributeur Oriental;Gaufrettes 100g;Rachid;Oujda;Grossistes;2188;6 782,80;4 813,60;Non réglé;19/04/2026;2050000
+FA26-0159;05/03/2026;Carrefour Market;Biscuits 200g;Hamza;Marrakech;GMS;2775;13 597,50;9 990,00;Réglé;04/05/2026;2050000
+FA26-0160;06/03/2026;Aswak Assalam;Gaufrettes 100g;Hamza;Fès;GMS;3119;9 668,90;6 861,80;Réglé;05/05/2026;2050000
+FA26-0161;06/03/2026;Grossiste Derb Omar;Biscuits 200g;Imane;Casablanca;Grossistes;8020;39 298,00;28 872,00;Réglé;20/04/2026;2050000
+FA26-0162;06/03/2026;BIM;Cakes 300g;Imane;Casablanca;GMS;7327;69 606,50;50 556,30;Réglé;05/05/2026;2050000
+FA26-0163;06/03/2026;Grossiste Agadir Sud;Biscuits 200g;Hamza;Agadir;Grossistes;5687;27 866,30;20 473,20;Réglé;20/04/2026;2050000
+FA26-0164;07/03/2026;Marjane;Biscuits 200g;Rachid;Casablanca;GMS;3413;16 723,70;12 286,80;Non réglé;06/05/2026;2050000
+FA26-0165;07/03/2026;Label'Vie;Gaufrettes 100g;Rachid;Rabat;GMS;6574;20 379,40;14 462,80;Réglé;06/05/2026;2050000
+FA26-0166;07/03/2026;Marjane;Cakes 300g;Rachid;Casablanca;GMS;1636;15 542,00;11 288,40;Non réglé;06/05/2026;2050000
+FA26-0167;09/03/2026;Distributeur Oriental;Gaufrettes 100g;Rachid;Oujda;Grossistes;6395;19 824,50;14 069,00;Réglé;23/04/2026;2050000
+FA26-0168;09/03/2026;Aswak Assalam;Cakes 300g;Hamza;Fès;GMS;8552;81 244,00;59 008,80;Réglé;08/05/2026;2050000
+FA26-0169;10/03/2026;Grossiste Derb Omar;Gaufrettes 100g;Hamza;Casablanca;Grossistes;8719;27 028,90;19 181,80;Réglé;24/04/2026;2050000
+FA26-0170;10/03/2026;Grossiste Derb Omar;Gaufrettes 100g;Rachid;Casablanca;Grossistes;4135;12 818,50;9 097,00;Réglé;24/04/2026;2050000
+FA26-0171;10/03/2026;Grossiste Derb Omar;Biscuits 200g;Hamza;Casablanca;Grossistes;2351;11 519,90;8 463,60;Non réglé;24/04/2026;2050000
+FA26-0172;10/03/2026;Label'Vie;Gaufrettes 100g;Imane;Rabat;GMS;7738;23 987,80;17 023,60;Réglé;09/05/2026;2050000
+FA26-0173;11/03/2026;Carrefour Market;Biscuits 200g;Rachid;Marrakech;GMS;2696;13 210,40;9 705,60;Réglé;10/05/2026;2050000
+FA26-0174;11/03/2026;Export Mauritanie;Biscuits 200g;Rachid;Export;Export;3589;17 586,10;12 920,40;Réglé;25/04/2026;2050000
+FA26-0175;12/03/2026;Carrefour Market;Cakes 300g;Rachid;Marrakech;GMS;4683;44 488,50;32 312,70;Réglé;11/05/2026;2050000
+FA26-0176;12/03/2026;BIM;Cakes 300g;Rachid;Casablanca;GMS;7299;69 340,50;50 363,10;Réglé;11/05/2026;2050000
+FA26-0177;12/03/2026;Label'Vie;Biscuits 200g;Imane;Rabat;GMS;1050;5 145,00;3 780,00;Réglé;11/05/2026;2050000
+FA26-0178;12/03/2026;BIM;Cakes 300g;Rachid;Casablanca;GMS;5071;48 174,50;34 989,90;Non réglé;11/05/2026;2050000
+FA26-0179;13/03/2026;Distributeur Oriental;Gaufrettes 100g;Hamza;Oujda;Grossistes;5439;16 860,90;11 965,80;Réglé;27/04/2026;2050000
+FA26-0180;13/03/2026;Marjane;Gaufrettes 100g;Imane;Casablanca;GMS;4926;15 270,60;10 837,20;Réglé;12/05/2026;2050000
+FA26-0181;13/03/2026;Grossiste Derb Omar;Cakes 300g;Hamza;Casablanca;Grossistes;1736;16 492,00;11 978,40;Réglé;27/04/2026;2050000
+FA26-0182;13/03/2026;Export Mauritanie;Biscuits 200g;Rachid;Export;Export;3843;18 830,70;13 834,80;Réglé;27/04/2026;2050000
+FA26-0183;14/03/2026;Marjane;Cakes 300g;Rachid;Casablanca;GMS;3629;34 475,50;25 040,10;Réglé;13/05/2026;2050000
+FA26-0184;14/03/2026;Grossiste Agadir Sud;Cakes 300g;Hamza;Agadir;Grossistes;2183;20 738,50;15 062,70;Réglé;28/04/2026;2050000
+FA26-0185;16/03/2026;Carrefour Market;Cakes 300g;Imane;Marrakech;GMS;3785;35 957,50;26 116,50;Réglé;15/05/2026;2050000
+FA26-0186;16/03/2026;BIM;Gaufrettes 100g;Hamza;Casablanca;GMS;8398;26 033,80;18 475,60;Réglé;15/05/2026;2050000
+FA26-0187;16/03/2026;Marjane;Cakes 300g;Imane;Casablanca;GMS;7026;66 747,00;48 479,40;Réglé;15/05/2026;2050000
+FA26-0188;16/03/2026;Marjane;Gaufrettes 100g;Rachid;Casablanca;GMS;6417;19 892,70;14 117,40;Réglé;15/05/2026;2050000
+FA26-0189;17/03/2026;Grossiste Derb Omar;Biscuits 200g;Imane;Casablanca;Grossistes;2426;11 887,40;8 733,60;Réglé;01/05/2026;2050000
+FA26-0190;17/03/2026;Marjane;Gaufrettes 100g;Rachid;Casablanca;GMS;6322;19 598,20;13 908,40;Réglé;16/05/2026;2050000
+FA26-0191;18/03/2026;Label'Vie;Cakes 300g;Rachid;Rabat;GMS;7386;70 167,00;50 963,40;Réglé;17/05/2026;2050000
+FA26-0192;18/03/2026;Grossiste Derb Omar;Biscuits 200g;Hamza;Casablanca;Grossistes;6662;32 643,80;23 983,20;Réglé;02/05/2026;2050000
+FA26-0193;18/03/2026;Label'Vie;Biscuits 200g;Rachid;Rabat;GMS;8276;40 552,40;29 793,60;Réglé;17/05/2026;2050000
+FA26-0194;19/03/2026;Aswak Assalam;Gaufrettes 100g;Rachid;Fès;GMS;1734;5 375,40;3 814,80;Réglé;18/05/2026;2050000
+FA26-0195;19/03/2026;Distributeur Oriental;Cakes 300g;Imane;Oujda;Grossistes;5146;48 887,00;35 507,40;Réglé;03/05/2026;2050000
+FA26-0196;19/03/2026;Label'Vie;Cakes 300g;Rachid;Rabat;GMS;7790;74 005,00;53 751,00;Réglé;18/05/2026;2050000
+FA26-0197;20/03/2026;BIM;Gaufrettes 100g;Imane;Casablanca;GMS;3907;12 111,70;8 595,40;Réglé;19/05/2026;2050000
+FA26-0198;20/03/2026;Grossiste Agadir Sud;Gaufrettes 100g;Rachid;Agadir;Grossistes;8111;25 144,10;17 844,20;Réglé;04/05/2026;2050000
+FA26-0199;20/03/2026;Marjane;Gaufrettes 100g;Imane;Casablanca;GMS;1942;6 020,20;4 272,40;Réglé;19/05/2026;2050000
+FA26-0200;21/03/2026;Carrefour Market;Gaufrettes 100g;Rachid;Marrakech;GMS;6198;19 213,80;13 635,60;Réglé;20/05/2026;2050000
+FA26-0201;21/03/2026;Label'Vie;Biscuits 200g;Hamza;Rabat;GMS;3700;18 130,00;13 320,00;Réglé;20/05/2026;2050000
+FA26-0202;21/03/2026;Label'Vie;Cakes 300g;Rachid;Rabat;GMS;7426;70 547,00;51 239,40;Réglé;20/05/2026;2050000
+FA26-0203;21/03/2026;BIM;Biscuits 200g;Rachid;Casablanca;GMS;3178;15 572,20;11 440,80;Réglé;20/05/2026;2050000
+FA26-0204;23/03/2026;Export Mauritanie;Cakes 300g;Hamza;Export;Export;8880;84 360,00;61 272,00;Réglé;07/05/2026;2050000
+FA26-0205;23/03/2026;Label'Vie;Biscuits 200g;Rachid;Rabat;GMS;1105;5 414,50;3 978,00;Réglé;22/05/2026;2050000
+FA26-0206;23/03/2026;Label'Vie;Gaufrettes 100g;Rachid;Rabat;GMS;7309;22 657,90;16 079,80;Réglé;22/05/2026;2050000
+FA26-0207;24/03/2026;Grossiste Derb Omar;Gaufrettes 100g;Rachid;Casablanca;Grossistes;5408;16 764,80;11 897,60;Réglé;08/05/2026;2050000
+FA26-0208;24/03/2026;Distributeur Oriental;Biscuits 200g;Imane;Oujda;Grossistes;4804;23 539,60;17 294,40;Non réglé;08/05/2026;2050000
+FA26-0209;25/03/2026;BIM;Gaufrettes 100g;Imane;Casablanca;GMS;8627;26 743,70;18 979,40;Réglé;24/05/2026;2050000
+FA26-0210;25/03/2026;Marjane;Cakes 300g;Imane;Casablanca;GMS;2895;27 502,50;19 975,50;Réglé;24/05/2026;2050000
+FA26-0211;25/03/2026;Grossiste Derb Omar;Cakes 300g;Rachid;Casablanca;Grossistes;7146;67 887,00;49 307,40;Réglé;09/05/2026;2050000
+FA26-0212;26/03/2026;Grossiste Agadir Sud;Biscuits 200g;Rachid;Agadir;Grossistes;5220;25 578,00;18 792,00;Réglé;10/05/2026;2050000
+FA26-0213;26/03/2026;Marjane;Cakes 300g;Rachid;Casablanca;GMS;6001;57 009,50;41 406,90;Réglé;25/05/2026;2050000
+FA26-0214;26/03/2026;Marjane;Cakes 300g;Imane;Casablanca;GMS;3569;33 905,50;24 626,10;Réglé;25/05/2026;2050000
+FA26-0215;27/03/2026;Distributeur Oriental;Gaufrettes 100g;Hamza;Oujda;Grossistes;4488;13 912,80;9 873,60;Réglé;11/05/2026;2050000
+FA26-0216;27/03/2026;Label'Vie;Cakes 300g;Imane;Rabat;GMS;2228;21 166,00;15 373,20;Réglé;26/05/2026;2050000
+FA26-0217;27/03/2026;BIM;Gaufrettes 100g;Rachid;Casablanca;GMS;4909;15 217,90;10 799,80;Réglé;26/05/2026;2050000
+FA26-0218;27/03/2026;Grossiste Agadir Sud;Gaufrettes 100g;Imane;Agadir;Grossistes;4794;14 861,40;10 546,80;Réglé;11/05/2026;2050000
+FA26-0219;28/03/2026;Marjane;Gaufrettes 100g;Hamza;Casablanca;GMS;7271;22 540,10;15 996,20;Non réglé;27/05/2026;2050000
+FA26-0220;28/03/2026;Marjane;Biscuits 200g;Hamza;Casablanca;GMS;8664;42 453,60;31 190,40;Non réglé;27/05/2026;2050000
+FA26-0221;30/03/2026;Label'Vie;Biscuits 200g;Rachid;Rabat;GMS;3076;15 072,40;11 073,60;Réglé;29/05/2026;2050000
+FA26-0222;30/03/2026;Grossiste Derb Omar;Gaufrettes 100g;Imane;Casablanca;Grossistes;4102;12 716,20;9 024,40;Réglé;14/05/2026;2050000
+FA26-0223;31/03/2026;Label'Vie;Biscuits 200g;Imane;Rabat;GMS;2934;14 376,60;10 562,40;Réglé;30/05/2026;2050000
+FA26-0224;31/03/2026;BIM;Gaufrettes 100g;Imane;Casablanca;GMS;5694;17 651,40;12 526,80;Réglé;30/05/2026;2050000
+FA26-0225;31/03/2026;Label'Vie;Cakes 300g;Imane;Rabat;GMS;3806;36 157,00;26 261,40;Non réglé;30/05/2026;2050000
+FA26-0226;01/04/2026;Marjane;Gaufrettes 100g;Rachid;Casablanca;GMS;4825;14 957,50;10 615,00;Réglé;31/05/2026;2460000
+FA26-0227;01/04/2026;Grossiste Derb Omar;Gaufrettes 100g;Imane;Casablanca;Grossistes;4411;13 674,10;9 704,20;Réglé;16/05/2026;2460000
+FA26-0228;01/04/2026;BIM;Cakes 300g;Hamza;Casablanca;GMS;946;8 987,00;6 527,40;Réglé;31/05/2026;2460000
+FA26-0229;01/04/2026;Grossiste Derb Omar;Gaufrettes 100g;Imane;Casablanca;Grossistes;3368;10 440,80;7 409,60;Réglé;16/05/2026;2460000
+FA26-0230;02/04/2026;Distributeur Oriental;Biscuits 200g;Rachid;Oujda;Grossistes;7949;38 950,10;28 616,40;Réglé;17/05/2026;2460000
+FA26-0231;02/04/2026;Label'Vie;Cakes 300g;Hamza;Rabat;GMS;1494;14 193,00;10 308,60;Réglé;01/06/2026;2460000
+FA26-0232;02/04/2026;Export Mauritanie;Cakes 300g;Imane;Export;Export;7784;73 948,00;53 709,60;Réglé;17/05/2026;2460000
+FA26-0233;03/04/2026;Label'Vie;Biscuits 200g;Imane;Rabat;GMS;5090;24 941,00;18 324,00;Réglé;02/06/2026;2460000
+FA26-0234;03/04/2026;Aswak Assalam;Biscuits 200g;Imane;Fès;GMS;1896;9 290,40;6 825,60;Réglé;02/06/2026;2460000
+FA26-0235;04/04/2026;Grossiste Derb Omar;Gaufrettes 100g;Imane;Casablanca;Grossistes;3677;11 398,70;8 089,40;Non réglé;19/05/2026;2460000
+FA26-0236;04/04/2026;BIM;Gaufrettes 100g;Rachid;Casablanca;GMS;4442;13 770,20;9 772,40;Réglé;03/06/2026;2460000
+FA26-0237;04/04/2026;Label'Vie;Cakes 300g;Imane;Rabat;GMS;4797;45 571,50;33 099,30;Réglé;03/06/2026;2460000
+FA26-0238;04/04/2026;Distributeur Oriental;Biscuits 200g;Imane;Oujda;Grossistes;6971;34 157,90;25 095,60;Réglé;19/05/2026;2460000
+FA26-0239;06/04/2026;Aswak Assalam;Cakes 300g;Imane;Fès;GMS;5584;53 048,00;38 529,60;Réglé;05/06/2026;2460000
+FA26-0240;06/04/2026;BIM;Gaufrettes 100g;Imane;Casablanca;GMS;2122;6 578,20;4 668,40;Réglé;05/06/2026;2460000
+FA26-0241;07/04/2026;Grossiste Derb Omar;Biscuits 200g;Imane;Casablanca;Grossistes;1734;8 496,60;6 242,40;Réglé;22/05/2026;2460000
+FA26-0242;07/04/2026;Label'Vie;Cakes 300g;Hamza;Rabat;GMS;6091;57 864,50;42 027,90;Réglé;06/06/2026;2460000
+FA26-0243;07/04/2026;Marjane;Biscuits 200g;Hamza;Casablanca;GMS;7161;35 088,90;25 779,60;Réglé;06/06/2026;2460000
+FA26-0244;07/04/2026;Aswak Assalam;Biscuits 200g;Hamza;Fès;GMS;1984;9 721,60;7 142,40;Réglé;06/06/2026;2460000
+FA26-0245;08/04/2026;Grossiste Agadir Sud;Gaufrettes 100g;Rachid;Agadir;Grossistes;1972;6 113,20;4 338,40;Non réglé;23/05/2026;2460000
+FA26-0246;08/04/2026;BIM;Cakes 300g;Hamza;Casablanca;GMS;4135;39 282,50;28 531,50;Réglé;07/06/2026;2460000
+FA26-0247;08/04/2026;Grossiste Derb Omar;Cakes 300g;Hamza;Casablanca;Grossistes;8836;83 942,00;60 968,40;Réglé;23/05/2026;2460000
+FA26-0248;08/04/2026;Marjane;Cakes 300g;Hamza;Casablanca;GMS;7853;74 603,50;54 185,70;Non réglé;07/06/2026;2460000
+FA26-0249;09/04/2026;Aswak Assalam;Biscuits 200g;Rachid;Fès;GMS;1755;8 599,50;6 318,00;Réglé;08/06/2026;2460000
+FA26-0250;09/04/2026;Grossiste Agadir Sud;Biscuits 200g;Rachid;Agadir;Grossistes;4028;19 737,20;14 500,80;Réglé;24/05/2026;2460000
+FA26-0251;10/04/2026;Grossiste Agadir Sud;Cakes 300g;Imane;Agadir;Grossistes;2371;22 524,50;16 359,90;Réglé;25/05/2026;2460000
+FA26-0252;10/04/2026;BIM;Gaufrettes 100g;Imane;Casablanca;GMS;1903;5 899,30;4 186,60;Réglé;09/06/2026;2460000
+FA26-0253;10/04/2026;Aswak Assalam;Cakes 300g;Rachid;Fès;GMS;8207;77 966,50;56 628,30;Réglé;09/06/2026;2460000
+FA26-0254;10/04/2026;Marjane;Biscuits 200g;Imane;Casablanca;GMS;1639;8 031,10;5 900,40;Réglé;09/06/2026;2460000
+FA26-0255;11/04/2026;Grossiste Agadir Sud;Biscuits 200g;Rachid;Agadir;Grossistes;5555;27 219,50;19 998,00;Réglé;26/05/2026;2460000
+FA26-0256;11/04/2026;BIM;Cakes 300g;Hamza;Casablanca;GMS;2278;21 641,00;15 718,20;Réglé;10/06/2026;2460000
+FA26-0257;11/04/2026;Label'Vie;Gaufrettes 100g;Hamza;Rabat;GMS;5116;15 859,60;11 255,20;Réglé;10/06/2026;2460000
+FA26-0258;11/04/2026;Distributeur Oriental;Gaufrettes 100g;Hamza;Oujda;Grossistes;946;2 932,60;2 081,20;Réglé;26/05/2026;2460000
+FA26-0259;13/04/2026;Grossiste Derb Omar;Gaufrettes 100g;Rachid;Casablanca;Grossistes;1070;3 317,00;2 354,00;Non réglé;28/05/2026;2460000
+FA26-0260;13/04/2026;Grossiste Agadir Sud;Biscuits 200g;Imane;Agadir;Grossistes;5918;28 998,20;21 304,80;Réglé;28/05/2026;2460000
+FA26-0261;13/04/2026;BIM;Biscuits 200g;Hamza;Casablanca;GMS;6546;32 075,40;23 565,60;Réglé;12/06/2026;2460000
+FA26-0262;14/04/2026;Label'Vie;Gaufrettes 100g;Imane;Rabat;GMS;8110;25 141,00;17 842,00;Réglé;13/06/2026;2460000
+FA26-0263;14/04/2026;Carrefour Market;Cakes 300g;Imane;Marrakech;GMS;3419;32 480,50;23 591,10;Réglé;13/06/2026;2460000
+FA26-0264;14/04/2026;Marjane;Biscuits 200g;Rachid;Casablanca;GMS;5471;26 807,90;19 695,60;Réglé;13/06/2026;2460000
+FA26-0265;14/04/2026;Label'Vie;Biscuits 200g;Rachid;Rabat;GMS;4316;21 148,40;15 537,60;Réglé;13/06/2026;2460000
+FA26-0266;15/04/2026;Carrefour Market;Gaufrettes 100g;Hamza;Marrakech;GMS;3748;11 618,80;8 245,60;Réglé;14/06/2026;2460000
+FA26-0267;15/04/2026;Distributeur Oriental;Biscuits 200g;Hamza;Oujda;Grossistes;7929;38 852,10;28 544,40;Non réglé;30/05/2026;2460000
+FA26-0268;15/04/2026;BIM;Gaufrettes 100g;Imane;Casablanca;GMS;1180;3 658,00;2 596,00;Réglé;14/06/2026;2460000
+FA26-0269;15/04/2026;Aswak Assalam;Gaufrettes 100g;Imane;Fès;GMS;3990;12 369,00;8 778,00;Réglé;14/06/2026;2460000
+FA26-0270;16/04/2026;BIM;Biscuits 200g;Imane;Casablanca;GMS;4622;22 647,80;16 639,20;Réglé;15/06/2026;2460000
+FA26-0271;16/04/2026;Carrefour Market;Cakes 300g;Rachid;Marrakech;GMS;8254;78 413,00;56 952,60;Réglé;15/06/2026;2460000
+FA26-0272;16/04/2026;Export Mauritanie;Gaufrettes 100g;Hamza;Export;Export;2746;8 512,60;6 041,20;Réglé;31/05/2026;2460000
+FA26-0273;16/04/2026;Grossiste Agadir Sud;Cakes 300g;Hamza;Agadir;Grossistes;2429;23 075,50;16 760,10;Réglé;31/05/2026;2460000
+FA26-0274;17/04/2026;Export Mauritanie;Gaufrettes 100g;Hamza;Export;Export;1483;4 597,30;3 262,60;Non réglé;01/06/2026;2460000
+FA26-0275;17/04/2026;Grossiste Derb Omar;Gaufrettes 100g;Imane;Casablanca;Grossistes;2844;8 816,40;6 256,80;Réglé;01/06/2026;2460000
+FA26-0276;17/04/2026;Aswak Assalam;Cakes 300g;Rachid;Fès;GMS;7983;75 838,50;55 082,70;Réglé;16/06/2026;2460000
+FA26-0277;17/04/2026;Grossiste Derb Omar;Gaufrettes 100g;Hamza;Casablanca;Grossistes;2957;9 166,70;6 505,40;Réglé;01/06/2026;2460000
+FA26-0278;18/04/2026;Grossiste Derb Omar;Gaufrettes 100g;Hamza;Casablanca;Grossistes;4013;12 440,30;8 828,60;Réglé;02/06/2026;2460000
+FA26-0279;18/04/2026;Label'Vie;Biscuits 200g;Imane;Rabat;GMS;4846;23 745,40;17 445,60;Réglé;17/06/2026;2460000
+FA26-0280;18/04/2026;BIM;Cakes 300g;Rachid;Casablanca;GMS;3819;36 280,50;26 351,10;Réglé;17/06/2026;2460000
+FA26-0281;18/04/2026;Carrefour Market;Biscuits 200g;Imane;Marrakech;GMS;2804;13 739,60;10 094,40;Réglé;17/06/2026;2460000
+FA26-0282;20/04/2026;Aswak Assalam;Gaufrettes 100g;Imane;Fès;GMS;2563;7 945,30;5 638,60;Réglé;19/06/2026;2460000
+FA26-0283;20/04/2026;Carrefour Market;Cakes 300g;Imane;Marrakech;GMS;8846;84 037,00;61 037,40;Réglé;19/06/2026;2460000
+FA26-0284;20/04/2026;Marjane;Biscuits 200g;Rachid;Casablanca;GMS;7087;34 726,30;25 513,20;Réglé;19/06/2026;2460000
+FA26-0285;20/04/2026;Distributeur Oriental;Biscuits 200g;Hamza;Oujda;Grossistes;946;4 635,40;3 405,60;Réglé;04/06/2026;2460000
+FA26-0286;21/04/2026;Grossiste Agadir Sud;Gaufrettes 100g;Rachid;Agadir;Grossistes;6228;19 306,80;13 701,60;Réglé;05/06/2026;2460000
+FA26-0287;21/04/2026;Export Mauritanie;Biscuits 200g;Rachid;Export;Export;4813;23 583,70;17 326,80;Réglé;05/06/2026;2460000
+FA26-0288;21/04/2026;Label'Vie;Cakes 300g;Hamza;Rabat;GMS;7199;68 390,50;49 673,10;Réglé;20/06/2026;2460000
+FA26-0289;22/04/2026;Marjane;Cakes 300g;Hamza;Casablanca;GMS;7585;72 057,50;52 336,50;Réglé;21/06/2026;2460000
+FA26-0290;22/04/2026;Grossiste Derb Omar;Gaufrettes 100g;Imane;Casablanca;Grossistes;2599;8 056,90;5 717,80;Non réglé;06/06/2026;2460000
+FA26-0291;22/04/2026;Marjane;Cakes 300g;Imane;Casablanca;GMS;8225;78 137,50;56 752,50;Réglé;21/06/2026;2460000
+FA26-0292;23/04/2026;Label'Vie;Biscuits 200g;Hamza;Rabat;GMS;4689;22 976,10;16 880,40;Réglé;22/06/2026;2460000
+FA26-0293;23/04/2026;Aswak Assalam;Biscuits 200g;Rachid;Fès;GMS;1343;6 580,70;4 834,80;Réglé;22/06/2026;2460000
+FA26-0294;23/04/2026;Carrefour Market;Cakes 300g;Imane;Marrakech;GMS;5793;55 033,50;39 971,70;Non réglé;22/06/2026;2460000
+FA26-0295;24/04/2026;BIM;Gaufrettes 100g;Rachid;Casablanca;GMS;3361;10 419,10;7 394,20;Réglé;23/06/2026;2460000
+FA26-0296;24/04/2026;Marjane;Biscuits 200g;Imane;Casablanca;GMS;2287;11 206,30;8 233,20;Réglé;23/06/2026;2460000
+FA26-0297;24/04/2026;BIM;Biscuits 200g;Hamza;Casablanca;GMS;2203;10 794,70;7 930,80;Réglé;23/06/2026;2460000
+FA26-0298;25/04/2026;Label'Vie;Gaufrettes 100g;Hamza;Rabat;GMS;7221;22 385,10;15 886,20;Réglé;24/06/2026;2460000
+FA26-0299;25/04/2026;BIM;Cakes 300g;Hamza;Casablanca;GMS;7728;73 416,00;53 323,20;Réglé;24/06/2026;2460000
+FA26-0300;25/04/2026;Marjane;Biscuits 200g;Hamza;Casablanca;GMS;8233;40 341,70;29 638,80;Réglé;24/06/2026;2460000
+FA26-0301;27/04/2026;Grossiste Derb Omar;Biscuits 200g;Imane;Casablanca;Grossistes;2678;13 122,20;9 640,80;Non réglé;11/06/2026;2460000
+FA26-0302;27/04/2026;Marjane;Cakes 300g;Imane;Casablanca;GMS;8937;84 901,50;61 665,30;Réglé;26/06/2026;2460000
+FA26-0303;28/04/2026;Label'Vie;Biscuits 200g;Rachid;Rabat;GMS;2693;13 195,70;9 694,80;Réglé;27/06/2026;2460000
+FA26-0304;28/04/2026;Marjane;Biscuits 200g;Rachid;Casablanca;GMS;5682;27 841,80;20 455,20;Réglé;27/06/2026;2460000
+FA26-0305;29/04/2026;Carrefour Market;Biscuits 200g;Imane;Marrakech;GMS;1907;9 344,30;6 865,20;Réglé;28/06/2026;2460000
+FA26-0306;29/04/2026;Label'Vie;Cakes 300g;Hamza;Rabat;GMS;8568;81 396,00;59 119,20;Réglé;28/06/2026;2460000
+FA26-0307;29/04/2026;Grossiste Agadir Sud;Cakes 300g;Rachid;Agadir;Grossistes;6691;63 564,50;46 167,90;Non réglé;13/06/2026;2460000
+FA26-0308;29/04/2026;Aswak Assalam;Gaufrettes 100g;Rachid;Fès;GMS;8553;26 514,30;18 816,60;Réglé;28/06/2026;2460000
+FA26-0309;30/04/2026;Carrefour Market;Biscuits 200g;Imane;Marrakech;GMS;3197;15 665,30;11 509,20;Réglé;29/06/2026;2460000
+FA26-0310;30/04/2026;Grossiste Derb Omar;Gaufrettes 100g;Imane;Casablanca;Grossistes;5827;18 063,70;12 819,40;Réglé;14/06/2026;2460000
+FA26-0311;30/04/2026;Grossiste Derb Omar;Cakes 300g;Rachid;Casablanca;Grossistes;2758;26 201,00;19 030,20;Réglé;14/06/2026;2460000
+FA26-0312;30/04/2026;Distributeur Oriental;Biscuits 200g;Imane;Oujda;Grossistes;5560;27 244,00;20 016,00;Réglé;14/06/2026;2460000
+FA26-0313;01/05/2026;Aswak Assalam;Cakes 300g;Hamza;Fès;GMS;1133;10 763,50;7 817,70;Réglé;30/06/2026;2050000
+FA26-0314;01/05/2026;Aswak Assalam;Biscuits 200g;Rachid;Fès;GMS;7193;35 245,70;25 894,80;Réglé;30/06/2026;2050000
+FA26-0315;01/05/2026;Carrefour Market;Cakes 300g;Imane;Marrakech;GMS;7811;74 204,50;53 895,90;Réglé;30/06/2026;2050000
+FA26-0316;01/05/2026;Marjane;Biscuits 200g;Imane;Casablanca;GMS;2835;13 891,50;10 206,00;Réglé;30/06/2026;2050000
+FA26-0317;02/05/2026;Distributeur Oriental;Gaufrettes 100g;Imane;Oujda;Grossistes;4423;13 711,30;9 730,60;Réglé;16/06/2026;2050000
+FA26-0318;02/05/2026;Aswak Assalam;Biscuits 200g;Hamza;Fès;GMS;1594;7 810,60;5 738,40;Réglé;01/07/2026;2050000
+FA26-0319;04/05/2026;Label'Vie;Cakes 300g;Imane;Rabat;GMS;6618;62 871,00;45 664,20;Réglé;03/07/2026;2050000
+FA26-0320;04/05/2026;Distributeur Oriental;Cakes 300g;Imane;Oujda;Grossistes;6640;63 080,00;45 816,00;Réglé;18/06/2026;2050000
+FA26-0321;05/05/2026;Export Mauritanie;Biscuits 200g;Hamza;Export;Export;1834;8 986,60;6 602,40;Réglé;19/06/2026;2050000
+FA26-0322;05/05/2026;Export Mauritanie;Biscuits 200g;Hamza;Export;Export;3062;15 003,80;11 023,20;Réglé;19/06/2026;2050000
+FA26-0323;05/05/2026;Aswak Assalam;Gaufrettes 100g;Hamza;Fès;GMS;1537;4 764,70;3 381,40;Réglé;04/07/2026;2050000
+FA26-0324;05/05/2026;Label'Vie;Cakes 300g;Hamza;Rabat;GMS;1730;16 435,00;11 937,00;Réglé;04/07/2026;2050000
+FA26-0325;06/05/2026;Grossiste Agadir Sud;Biscuits 200g;Rachid;Agadir;Grossistes;4089;20 036,10;14 720,40;Réglé;20/06/2026;2050000
+FA26-0326;06/05/2026;Aswak Assalam;Cakes 300g;Imane;Fès;GMS;3982;37 829,00;27 475,80;Réglé;05/07/2026;2050000
+FA26-0327;07/05/2026;Marjane;Biscuits 200g;Hamza;Casablanca;GMS;1841;9 020,90;6 627,60;Réglé;06/07/2026;2050000
+FA26-0328;07/05/2026;Marjane;Gaufrettes 100g;Hamza;Casablanca;GMS;5586;17 316,60;12 289,20;Réglé;06/07/2026;2050000
+FA26-0329;07/05/2026;BIM;Cakes 300g;Hamza;Casablanca;GMS;3332;31 654,00;22 990,80;Réglé;06/07/2026;2050000
+FA26-0330;08/05/2026;Grossiste Derb Omar;Biscuits 200g;Imane;Casablanca;Grossistes;6661;32 638,90;23 979,60;Réglé;22/06/2026;2050000
+FA26-0331;08/05/2026;Label'Vie;Cakes 300g;Rachid;Rabat;GMS;2832;26 904,00;19 540,80;Réglé;07/07/2026;2050000
+FA26-0332;08/05/2026;Export Mauritanie;Cakes 300g;Hamza;Export;Export;7584;72 048,00;52 329,60;Réglé;22/06/2026;2050000
+FA26-0333;08/05/2026;Export Mauritanie;Biscuits 200g;Rachid;Export;Export;4445;21 780,50;16 002,00;Réglé;22/06/2026;2050000
+FA26-0334;09/05/2026;BIM;Cakes 300g;Rachid;Casablanca;GMS;1790;17 005,00;12 351,00;Réglé;08/07/2026;2050000
+FA26-0335;09/05/2026;Label'Vie;Gaufrettes 100g;Hamza;Rabat;GMS;2201;6 823,10;4 842,20;Non réglé;08/07/2026;2050000
+FA26-0336;09/05/2026;Marjane;Gaufrettes 100g;Rachid;Casablanca;GMS;3609;11 187,90;7 939,80;Non réglé;08/07/2026;2050000
+FA26-0337;09/05/2026;BIM;Cakes 300g;Rachid;Casablanca;GMS;2503;23 778,50;17 270,70;Non réglé;08/07/2026;2050000
+FA26-0338;11/05/2026;Aswak Assalam;Biscuits 200g;Rachid;Fès;GMS;3304;16 189,60;11 894,40;Réglé;10/07/2026;2050000
+FA26-0339;11/05/2026;Aswak Assalam;Gaufrettes 100g;Hamza;Fès;GMS;6420;19 902,00;14 124,00;Réglé;10/07/2026;2050000
+FA26-0340;11/05/2026;Export Mauritanie;Gaufrettes 100g;Rachid;Export;Export;8014;24 843,40;17 630,80;Non réglé;25/06/2026;2050000
+FA26-0341;11/05/2026;Distributeur Oriental;Biscuits 200g;Hamza;Oujda;Grossistes;4015;19 673,50;14 454,00;Réglé;25/06/2026;2050000
+FA26-0342;12/05/2026;Grossiste Agadir Sud;Biscuits 200g;Hamza;Agadir;Grossistes;2604;12 759,60;9 374,40;Non réglé;26/06/2026;2050000
+FA26-0343;12/05/2026;BIM;Biscuits 200g;Imane;Casablanca;GMS;8079;39 587,10;29 084,40;Non réglé;11/07/2026;2050000
+FA26-0344;12/05/2026;Grossiste Agadir Sud;Gaufrettes 100g;Imane;Agadir;Grossistes;8128;25 196,80;17 881,60;Réglé;26/06/2026;2050000
+FA26-0345;12/05/2026;Marjane;Gaufrettes 100g;Hamza;Casablanca;GMS;3016;9 349,60;6 635,20;Réglé;11/07/2026;2050000
+FA26-0346;13/05/2026;BIM;Cakes 300g;Imane;Casablanca;GMS;7716;73 302,00;53 240,40;Réglé;12/07/2026;2050000
+FA26-0347;13/05/2026;Marjane;Cakes 300g;Hamza;Casablanca;GMS;3923;37 268,50;27 068,70;Réglé;12/07/2026;2050000
+FA26-0348;13/05/2026;Marjane;Gaufrettes 100g;Hamza;Casablanca;GMS;8678;26 901,80;19 091,60;Réglé;12/07/2026;2050000
+FA26-0349;14/05/2026;Aswak Assalam;Biscuits 200g;Rachid;Fès;GMS;4584;22 461,60;16 502,40;Réglé;13/07/2026;2050000
+FA26-0350;14/05/2026;Grossiste Agadir Sud;Cakes 300g;Hamza;Agadir;Grossistes;1955;18 572,50;13 489,50;Réglé;28/06/2026;2050000
+FA26-0351;14/05/2026;Distributeur Oriental;Gaufrettes 100g;Hamza;Oujda;Grossistes;3452;10 701,20;7 594,40;Réglé;28/06/2026;2050000
+FA26-0352;14/05/2026;BIM;Gaufrettes 100g;Imane;Casablanca;GMS;4893;15 168,30;10 764,60;Non réglé;13/07/2026;2050000
+FA26-0353;15/05/2026;Distributeur Oriental;Biscuits 200g;Rachid;Oujda;Grossistes;2465;12 078,50;8 874,00;Réglé;29/06/2026;2050000
+FA26-0354;15/05/2026;Export Mauritanie;Gaufrettes 100g;Hamza;Export;Export;5299;16 426,90;11 657,80;Réglé;29/06/2026;2050000
+FA26-0355;16/05/2026;Grossiste Agadir Sud;Cakes 300g;Hamza;Agadir;Grossistes;3246;30 837,00;22 397,40;Réglé;30/06/2026;2050000
+FA26-0356;16/05/2026;Distributeur Oriental;Biscuits 200g;Rachid;Oujda;Grossistes;6113;29 953,70;22 006,80;Réglé;30/06/2026;2050000
+FA26-0357;16/05/2026;BIM;Biscuits 200g;Hamza;Casablanca;GMS;1297;6 355,30;4 669,20;Réglé;15/07/2026;2050000
+FA26-0358;18/05/2026;Distributeur Oriental;Cakes 300g;Rachid;Oujda;Grossistes;3390;32 205,00;23 391,00;Réglé;02/07/2026;2050000
+FA26-0359;18/05/2026;Label'Vie;Cakes 300g;Rachid;Rabat;GMS;6237;59 251,50;43 035,30;Réglé;17/07/2026;2050000
+FA26-0360;18/05/2026;Grossiste Derb Omar;Cakes 300g;Rachid;Casablanca;Grossistes;998;9 481,00;6 886,20;Réglé;02/07/2026;2050000
+FA26-0361;18/05/2026;Grossiste Agadir Sud;Gaufrettes 100g;Hamza;Agadir;Grossistes;853;2 644,30;1 876,60;Réglé;02/07/2026;2050000
+FA26-0362;19/05/2026;Marjane;Biscuits 200g;Rachid;Casablanca;GMS;2194;10 750,60;7 898,40;Non réglé;18/07/2026;2050000
+FA26-0363;19/05/2026;Distributeur Oriental;Gaufrettes 100g;Imane;Oujda;Grossistes;1217;3 772,70;2 677,40;Réglé;03/07/2026;2050000
+FA26-0364;19/05/2026;BIM;Biscuits 200g;Rachid;Casablanca;GMS;6027;29 532,30;21 697,20;Réglé;18/07/2026;2050000
+FA26-0365;19/05/2026;Marjane;Biscuits 200g;Rachid;Casablanca;GMS;2202;10 789,80;7 927,20;Réglé;18/07/2026;2050000
+FA26-0366;20/05/2026;Carrefour Market;Cakes 300g;Rachid;Marrakech;GMS;7332;69 654,00;50 590,80;Réglé;19/07/2026;2050000
+FA26-0367;20/05/2026;BIM;Biscuits 200g;Hamza;Casablanca;GMS;3563;17 458,70;12 826,80;Réglé;19/07/2026;2050000
+FA26-0368;20/05/2026;BIM;Cakes 300g;Imane;Casablanca;GMS;6768;64 296,00;46 699,20;Réglé;19/07/2026;2050000
+FA26-0369;20/05/2026;BIM;Cakes 300g;Rachid;Casablanca;GMS;6968;66 196,00;48 079,20;Non réglé;19/07/2026;2050000
+FA26-0370;21/05/2026;Marjane;Cakes 300g;Rachid;Casablanca;GMS;5909;56 135,50;40 772,10;Réglé;20/07/2026;2050000
+FA26-0371;21/05/2026;Export Mauritanie;Cakes 300g;Hamza;Export;Export;8644;82 118,00;59 643,60;Réglé;05/07/2026;2050000
+FA26-0372;21/05/2026;Marjane;Gaufrettes 100g;Hamza;Casablanca;GMS;3930;12 183,00;8 646,00;Réglé;20/07/2026;2050000
+FA26-0373;21/05/2026;Aswak Assalam;Gaufrettes 100g;Rachid;Fès;GMS;6103;18 919,30;13 426,60;Réglé;20/07/2026;2050000
+FA26-0374;22/05/2026;Export Mauritanie;Gaufrettes 100g;Imane;Export;Export;7460;23 126,00;16 412,00;Réglé;06/07/2026;2050000
+FA26-0375;22/05/2026;Label'Vie;Gaufrettes 100g;Hamza;Rabat;GMS;5510;17 081,00;12 122,00;Réglé;21/07/2026;2050000
+FA26-0376;23/05/2026;Grossiste Derb Omar;Biscuits 200g;Hamza;Casablanca;Grossistes;4123;20 202,70;14 842,80;Réglé;07/07/2026;2050000
+FA26-0377;23/05/2026;Marjane;Cakes 300g;Rachid;Casablanca;GMS;5486;52 117,00;37 853,40;Réglé;22/07/2026;2050000
+FA26-0378;25/05/2026;Export Mauritanie;Gaufrettes 100g;Hamza;Export;Export;3995;12 384,50;8 789,00;Réglé;09/07/2026;2050000
+FA26-0379;25/05/2026;Export Mauritanie;Cakes 300g;Rachid;Export;Export;4368;41 496,00;30 139,20;Réglé;09/07/2026;2050000
+FA26-0380;26/05/2026;Label'Vie;Gaufrettes 100g;Hamza;Rabat;GMS;7422;23 008,20;16 328,40;Réglé;25/07/2026;2050000
+FA26-0381;26/05/2026;Label'Vie;Cakes 300g;Rachid;Rabat;GMS;2759;26 210,50;19 037,10;Réglé;25/07/2026;2050000
+FA26-0382;26/05/2026;Label'Vie;Gaufrettes 100g;Imane;Rabat;GMS;7758;24 049,80;17 067,60;Non réglé;25/07/2026;2050000
+FA26-0383;27/05/2026;Marjane;Biscuits 200g;Rachid;Casablanca;GMS;4890;23 961,00;17 604,00;Réglé;26/07/2026;2050000
+FA26-0384;27/05/2026;Distributeur Oriental;Gaufrettes 100g;Rachid;Oujda;Grossistes;1166;3 614,60;2 565,20;Réglé;11/07/2026;2050000
+FA26-0385;27/05/2026;BIM;Biscuits 200g;Hamza;Casablanca;GMS;1168;5 723,20;4 204,80;Réglé;26/07/2026;2050000
+FA26-0386;27/05/2026;Aswak Assalam;Gaufrettes 100g;Rachid;Fès;GMS;7577;23 488,70;16 669,40;Réglé;26/07/2026;2050000
+FA26-0387;28/05/2026;Label'Vie;Biscuits 200g;Hamza;Rabat;GMS;6329;31 012,10;22 784,40;Réglé;27/07/2026;2050000
+FA26-0388;28/05/2026;Carrefour Market;Gaufrettes 100g;Rachid;Marrakech;GMS;2181;6 761,10;4 798,20;Réglé;27/07/2026;2050000
+FA26-0389;28/05/2026;Grossiste Agadir Sud;Cakes 300g;Hamza;Agadir;Grossistes;2622;24 909,00;18 091,80;Réglé;12/07/2026;2050000
+FA26-0390;29/05/2026;Distributeur Oriental;Cakes 300g;Imane;Oujda;Grossistes;2443;23 208,50;16 856,70;Réglé;13/07/2026;2050000
+FA26-0391;29/05/2026;Grossiste Derb Omar;Cakes 300g;Hamza;Casablanca;Grossistes;2034;19 323,00;14 034,60;Réglé;13/07/2026;2050000
+FA26-0392;29/05/2026;Export Mauritanie;Gaufrettes 100g;Hamza;Export;Export;6167;19 117,70;13 567,40;Réglé;13/07/2026;2050000
+FA26-0393;29/05/2026;Distributeur Oriental;Biscuits 200g;Hamza;Oujda;Grossistes;5267;25 808,30;18 961,20;Réglé;13/07/2026;2050000
+FA26-0394;30/05/2026;Label'Vie;Biscuits 200g;Rachid;Rabat;GMS;1603;7 854,70;5 770,80;Non réglé;29/07/2026;2050000
+FA26-0395;30/05/2026;Marjane;Cakes 300g;Rachid;Casablanca;GMS;4757;45 191,50;32 823,30;Réglé;29/07/2026;2050000
+FA26-0396;30/05/2026;Aswak Assalam;Gaufrettes 100g;Imane;Fès;GMS;1410;4 371,00;3 102,00;Réglé;29/07/2026;2050000
+FA26-0397;01/06/2026;Distributeur Oriental;Cakes 300g;Imane;Oujda;Grossistes;2905;27 597,50;20 044,50;Réglé;16/07/2026;2550000
+FA26-0398;01/06/2026;Distributeur Oriental;Biscuits 200g;Imane;Oujda;Grossistes;6780;33 222,00;24 408,00;Réglé;16/07/2026;2550000
+FA26-0399;01/06/2026;Grossiste Agadir Sud;Biscuits 200g;Rachid;Agadir;Grossistes;2537;12 431,30;9 133,20;Réglé;16/07/2026;2550000
+FA26-0400;02/06/2026;BIM;Gaufrettes 100g;Imane;Casablanca;GMS;3854;11 947,40;8 478,80;Non réglé;01/08/2026;2550000
+FA26-0401;02/06/2026;Label'Vie;Gaufrettes 100g;Hamza;Rabat;GMS;7906;24 508,60;17 393,20;Non réglé;01/08/2026;2550000
+FA26-0402;02/06/2026;BIM;Cakes 300g;Imane;Casablanca;GMS;6081;57 769,50;41 958,90;Réglé;01/08/2026;2550000
+FA26-0403;03/06/2026;BIM;Biscuits 200g;Hamza;Casablanca;GMS;1388;6 801,20;4 996,80;Non réglé;02/08/2026;2550000
+FA26-0404;03/06/2026;Grossiste Derb Omar;Cakes 300g;Imane;Casablanca;Grossistes;4378;41 591,00;30 208,20;Non réglé;18/07/2026;2550000
+FA26-0405;03/06/2026;Carrefour Market;Biscuits 200g;Rachid;Marrakech;GMS;2688;13 171,20;9 676,80;Réglé;02/08/2026;2550000
+FA26-0406;03/06/2026;Export Mauritanie;Biscuits 200g;Imane;Export;Export;5264;25 793,60;18 950,40;Réglé;18/07/2026;2550000
+FA26-0407;04/06/2026;Label'Vie;Gaufrettes 100g;Hamza;Rabat;GMS;5295;16 414,50;11 649,00;Non réglé;03/08/2026;2550000
+FA26-0408;04/06/2026;Label'Vie;Cakes 300g;Rachid;Rabat;GMS;8433;80 113,50;58 187,70;Réglé;03/08/2026;2550000
+FA26-0409;04/06/2026;Carrefour Market;Biscuits 200g;Imane;Marrakech;GMS;2425;11 882,50;8 730,00;Réglé;03/08/2026;2550000
+FA26-0410;05/06/2026;Distributeur Oriental;Biscuits 200g;Hamza;Oujda;Grossistes;7861;38 518,90;28 299,60;Réglé;20/07/2026;2550000
+FA26-0411;05/06/2026;BIM;Biscuits 200g;Rachid;Casablanca;GMS;8382;41 071,80;30 175,20;Réglé;04/08/2026;2550000
+FA26-0412;05/06/2026;Grossiste Derb Omar;Gaufrettes 100g;Hamza;Casablanca;Grossistes;1956;6 063,60;4 303,20;Réglé;20/07/2026;2550000
+FA26-0413;06/06/2026;Distributeur Oriental;Biscuits 200g;Imane;Oujda;Grossistes;2146;10 515,40;7 725,60;Réglé;21/07/2026;2550000
+FA26-0414;06/06/2026;Export Mauritanie;Cakes 300g;Hamza;Export;Export;8060;76 570,00;55 614,00;Non réglé;21/07/2026;2550000
+FA26-0415;06/06/2026;Label'Vie;Biscuits 200g;Rachid;Rabat;GMS;8437;41 341,30;30 373,20;Réglé;05/08/2026;2550000
+FA26-0416;06/06/2026;Carrefour Market;Gaufrettes 100g;Hamza;Marrakech;GMS;4525;14 027,50;9 955,00;Réglé;05/08/2026;2550000
+FA26-0417;08/06/2026;Export Mauritanie;Biscuits 200g;Hamza;Export;Export;8816;43 198,40;31 737,60;Réglé;23/07/2026;2550000
+FA26-0418;08/06/2026;Marjane;Cakes 300g;Rachid;Casablanca;GMS;7644;72 618,00;52 743,60;Réglé;07/08/2026;2550000
+FA26-0419;09/06/2026;Label'Vie;Gaufrettes 100g;Rachid;Rabat;GMS;6934;21 495,40;15 254,80;Réglé;08/08/2026;2550000
+FA26-0420;09/06/2026;Grossiste Derb Omar;Gaufrettes 100g;Rachid;Casablanca;Grossistes;7789;24 145,90;17 135,80;Réglé;24/07/2026;2550000
+FA26-0421;09/06/2026;BIM;Gaufrettes 100g;Hamza;Casablanca;GMS;7880;24 428,00;17 336,00;Réglé;08/08/2026;2550000
+FA26-0422;10/06/2026;Grossiste Derb Omar;Cakes 300g;Rachid;Casablanca;Grossistes;3243;30 808,50;22 376,70;Réglé;25/07/2026;2550000
+FA26-0423;10/06/2026;Label'Vie;Gaufrettes 100g;Rachid;Rabat;GMS;8657;26 836,70;19 045,40;Réglé;09/08/2026;2550000
+FA26-0424;11/06/2026;Marjane;Cakes 300g;Hamza;Casablanca;GMS;3831;36 394,50;26 433,90;Réglé;10/08/2026;2550000
+FA26-0425;11/06/2026;Grossiste Derb Omar;Cakes 300g;Rachid;Casablanca;Grossistes;1321;12 549,50;9 114,90;Réglé;26/07/2026;2550000
+FA26-0426;12/06/2026;Label'Vie;Cakes 300g;Rachid;Rabat;GMS;4207;39 966,50;29 028,30;Non réglé;11/08/2026;2550000
+FA26-0427;12/06/2026;Grossiste Derb Omar;Biscuits 200g;Hamza;Casablanca;Grossistes;4836;23 696,40;17 409,60;Non réglé;27/07/2026;2550000
+FA26-0428;12/06/2026;Export Mauritanie;Gaufrettes 100g;Rachid;Export;Export;7631;23 656,10;16 788,20;Réglé;27/07/2026;2550000
+FA26-0429;12/06/2026;Marjane;Cakes 300g;Imane;Casablanca;GMS;6957;66 091,50;48 003,30;Réglé;11/08/2026;2550000
+FA26-0430;13/06/2026;Grossiste Derb Omar;Cakes 300g;Hamza;Casablanca;Grossistes;6705;63 697,50;46 264,50;Réglé;28/07/2026;2550000
+FA26-0431;13/06/2026;Distributeur Oriental;Biscuits 200g;Hamza;Oujda;Grossistes;7194;35 250,60;25 898,40;Réglé;28/07/2026;2550000
+FA26-0432;15/06/2026;Label'Vie;Cakes 300g;Hamza;Rabat;GMS;8283;78 688,50;57 152,70;Réglé;14/08/2026;2550000
+FA26-0433;15/06/2026;Aswak Assalam;Gaufrettes 100g;Imane;Fès;GMS;2114;6 553,40;4 650,80;Non réglé;14/08/2026;2550000
+FA26-0434;16/06/2026;Export Mauritanie;Gaufrettes 100g;Hamza;Export;Export;3874;12 009,40;8 522,80;Réglé;31/07/2026;2550000
+FA26-0435;16/06/2026;Marjane;Biscuits 200g;Hamza;Casablanca;GMS;8856;43 394,40;31 881,60;Réglé;15/08/2026;2550000
+FA26-0436;16/06/2026;Distributeur Oriental;Biscuits 200g;Rachid;Oujda;Grossistes;3619;17 733,10;13 028,40;Réglé;31/07/2026;2550000
+FA26-0437;16/06/2026;Label'Vie;Biscuits 200g;Imane;Rabat;GMS;4822;23 627,80;17 359,20;Réglé;15/08/2026;2550000
+FA26-0438;17/06/2026;Distributeur Oriental;Cakes 300g;Hamza;Oujda;Grossistes;1150;10 925,00;7 935,00;Réglé;01/08/2026;2550000
+FA26-0439;17/06/2026;Label'Vie;Cakes 300g;Hamza;Rabat;GMS;6032;57 304,00;41 620,80;Réglé;16/08/2026;2550000
+FA26-0440;17/06/2026;Grossiste Agadir Sud;Biscuits 200g;Rachid;Agadir;Grossistes;8378;41 052,20;30 160,80;Non réglé;01/08/2026;2550000
+FA26-0441;17/06/2026;Export Mauritanie;Gaufrettes 100g;Imane;Export;Export;6348;19 678,80;13 965,60;Réglé;01/08/2026;2550000
+FA26-0442;18/06/2026;Grossiste Agadir Sud;Cakes 300g;Hamza;Agadir;Grossistes;8278;78 641,00;57 118,20;Réglé;02/08/2026;2550000
+FA26-0443;18/06/2026;Export Mauritanie;Gaufrettes 100g;Imane;Export;Export;7088;21 972,80;15 593,60;Réglé;02/08/2026;2550000
+FA26-0444;18/06/2026;BIM;Gaufrettes 100g;Imane;Casablanca;GMS;7439;23 060,90;16 365,80;Réglé;17/08/2026;2550000
+FA26-0445;18/06/2026;Marjane;Biscuits 200g;Imane;Casablanca;GMS;5304;25 989,60;19 094,40;Non réglé;17/08/2026;2550000
+FA26-0446;19/06/2026;Aswak Assalam;Biscuits 200g;Rachid;Fès;GMS;5179;25 377,10;18 644,40;Non réglé;18/08/2026;2550000
+FA26-0447;19/06/2026;Grossiste Agadir Sud;Cakes 300g;Imane;Agadir;Grossistes;8793;83 533,50;60 671,70;Non réglé;03/08/2026;2550000
+FA26-0448;20/06/2026;BIM;Gaufrettes 100g;Hamza;Casablanca;GMS;2528;7 836,80;5 561,60;Réglé;19/08/2026;2550000
+FA26-0449;20/06/2026;Marjane;Cakes 300g;Rachid;Casablanca;GMS;8318;79 021,00;57 394,20;Non réglé;19/08/2026;2550000
+FA26-0450;20/06/2026;BIM;Gaufrettes 100g;Hamza;Casablanca;GMS;5826;18 060,60;12 817,20;Non réglé;19/08/2026;2550000
+FA26-0451;20/06/2026;Grossiste Derb Omar;Biscuits 200g;Rachid;Casablanca;Grossistes;3501;17 154,90;12 603,60;Réglé;04/08/2026;2550000
+FA26-0452;22/06/2026;Grossiste Derb Omar;Cakes 300g;Imane;Casablanca;Grossistes;4561;43 329,50;31 470,90;Réglé;06/08/2026;2550000
+FA26-0453;22/06/2026;BIM;Cakes 300g;Rachid;Casablanca;GMS;7888;74 936,00;54 427,20;Réglé;21/08/2026;2550000
+FA26-0454;22/06/2026;Label'Vie;Gaufrettes 100g;Hamza;Rabat;GMS;8974;27 819,40;19 742,80;Réglé;21/08/2026;2550000
+FA26-0455;22/06/2026;Marjane;Cakes 300g;Imane;Casablanca;GMS;2508;23 826,00;17 305,20;Réglé;21/08/2026;2550000
+FA26-0456;23/06/2026;Marjane;Gaufrettes 100g;Imane;Casablanca;GMS;1742;5 400,20;3 832,40;Non réglé;22/08/2026;2550000
+FA26-0457;23/06/2026;Grossiste Derb Omar;Gaufrettes 100g;Imane;Casablanca;Grossistes;3751;11 628,10;8 252,20;Réglé;07/08/2026;2550000
+FA26-0458;24/06/2026;BIM;Biscuits 200g;Imane;Casablanca;GMS;1879;9 207,10;6 764,40;Réglé;23/08/2026;2550000
+FA26-0459;24/06/2026;Label'Vie;Biscuits 200g;Hamza;Rabat;GMS;3921;19 212,90;14 115,60;Réglé;23/08/2026;2550000
+FA26-0460;25/06/2026;BIM;Gaufrettes 100g;Rachid;Casablanca;GMS;1595;4 944,50;3 509,00;Non réglé;24/08/2026;2550000
+FA26-0461;25/06/2026;Label'Vie;Biscuits 200g;Hamza;Rabat;GMS;3897;19 095,30;14 029,20;Réglé;24/08/2026;2550000
+FA26-0462;25/06/2026;Grossiste Derb Omar;Cakes 300g;Rachid;Casablanca;Grossistes;6027;57 256,50;41 586,30;Réglé;09/08/2026;2550000
+FA26-0463;25/06/2026;Label'Vie;Biscuits 200g;Hamza;Rabat;GMS;1310;6 419,00;4 716,00;Non réglé;24/08/2026;2550000
+FA26-0464;26/06/2026;Grossiste Derb Omar;Cakes 300g;Hamza;Casablanca;Grossistes;4517;42 911,50;31 167,30;Réglé;10/08/2026;2550000
+FA26-0465;26/06/2026;Marjane;Cakes 300g;Rachid;Casablanca;GMS;2004;19 038,00;13 827,60;Non réglé;25/08/2026;2550000
+FA26-0466;27/06/2026;Export Mauritanie;Biscuits 200g;Hamza;Export;Export;2960;14 504,00;10 656,00;Réglé;11/08/2026;2550000
+FA26-0467;27/06/2026;Label'Vie;Gaufrettes 100g;Imane;Rabat;GMS;2117;6 562,70;4 657,40;Réglé;26/08/2026;2550000
+FA26-0468;27/06/2026;Aswak Assalam;Cakes 300g;Rachid;Fès;GMS;5367;50 986,50;37 032,30;Réglé;26/08/2026;2550000
+FA26-0469;27/06/2026;Grossiste Derb Omar;Biscuits 200g;Imane;Casablanca;Grossistes;6517;31 933,30;23 461,20;Réglé;11/08/2026;2550000
+FA26-0470;29/06/2026;Grossiste Agadir Sud;Cakes 300g;Imane;Agadir;Grossistes;2356;22 382,00;16 256,40;Non réglé;13/08/2026;2550000
+FA26-0471;29/06/2026;Grossiste Agadir Sud;Gaufrettes 100g;Rachid;Agadir;Grossistes;1671;5 180,10;3 676,20;Réglé;13/08/2026;2550000
+FA26-0472;30/06/2026;Grossiste Derb Omar;Gaufrettes 100g;Imane;Casablanca;Grossistes;7777;24 108,70;17 109,40;Réglé;14/08/2026;2550000
+FA26-0473;30/06/2026;Marjane;Biscuits 200g;Imane;Casablanca;GMS;8902;43 619,80;32 047,20;Réglé;29/08/2026;2550000
+FA26-0474;01/07/2026;Distributeur Oriental;Biscuits 200g;Hamza;Oujda;Grossistes;6911;33 863,90;24 879,60;Réglé;15/08/2026;2770000
+FA26-0475;01/07/2026;Distributeur Oriental;Cakes 300g;Imane;Oujda;Grossistes;1267;12 036,50;8 742,30;Réglé;15/08/2026;2770000
+FA26-0476;01/07/2026;Distributeur Oriental;Biscuits 200g;Imane;Oujda;Grossistes;3438;16 846,20;12 376,80;Réglé;15/08/2026;2770000
+FA26-0477;01/07/2026;Grossiste Derb Omar;Cakes 300g;Imane;Casablanca;Grossistes;5557;52 791,50;38 343,30;Réglé;15/08/2026;2770000
+FA26-0478;02/07/2026;BIM;Gaufrettes 100g;Rachid;Casablanca;GMS;2703;8 379,30;5 946,60;Réglé;31/08/2026;2770000
+FA26-0479;02/07/2026;BIM;Cakes 300g;Rachid;Casablanca;GMS;3125;29 687,50;21 562,50;Réglé;31/08/2026;2770000
+FA26-0480;03/07/2026;Aswak Assalam;Biscuits 200g;Imane;Fès;GMS;2071;10 147,90;7 455,60;Réglé;01/09/2026;2770000
+FA26-0481;03/07/2026;BIM;Biscuits 200g;Rachid;Casablanca;GMS;5796;28 400,40;20 865,60;Réglé;01/09/2026;2770000
+FA26-0482;03/07/2026;Aswak Assalam;Gaufrettes 100g;Imane;Fès;GMS;3737;11 584,70;8 221,40;Réglé;01/09/2026;2770000
+FA26-0483;04/07/2026;Grossiste Agadir Sud;Gaufrettes 100g;Rachid;Agadir;Grossistes;1819;5 638,90;4 001,80;Réglé;18/08/2026;2770000
+FA26-0484;04/07/2026;Export Mauritanie;Cakes 300g;Hamza;Export;Export;3016;28 652,00;20 810,40;Réglé;18/08/2026;2770000
+FA26-0485;04/07/2026;Distributeur Oriental;Cakes 300g;Hamza;Oujda;Grossistes;7973;75 743,50;55 013,70;Réglé;18/08/2026;2770000
+FA26-0486;04/07/2026;Grossiste Derb Omar;Biscuits 200g;Rachid;Casablanca;Grossistes;7498;36 740,20;26 992,80;Réglé;18/08/2026;2770000
+FA26-0487;06/07/2026;Aswak Assalam;Cakes 300g;Rachid;Fès;GMS;1742;16 549,00;12 019,80;Réglé;04/09/2026;2770000
+FA26-0488;06/07/2026;Marjane;Cakes 300g;Hamza;Casablanca;GMS;4302;40 869,00;29 683,80;Réglé;04/09/2026;2770000
+FA26-0489;07/07/2026;Grossiste Derb Omar;Biscuits 200g;Hamza;Casablanca;Grossistes;6804;33 339,60;24 494,40;Réglé;21/08/2026;2770000
+FA26-0490;07/07/2026;Marjane;Cakes 300g;Hamza;Casablanca;GMS;8367;79 486,50;57 732,30;Réglé;05/09/2026;2770000
+FA26-0491;07/07/2026;BIM;Biscuits 200g;Imane;Casablanca;GMS;3680;18 032,00;13 248,00;Réglé;05/09/2026;2770000
+FA26-0492;07/07/2026;Label'Vie;Biscuits 200g;Rachid;Rabat;GMS;4579;22 437,10;16 484,40;Réglé;05/09/2026;2770000
+FA26-0493;08/07/2026;Grossiste Derb Omar;Gaufrettes 100g;Rachid;Casablanca;Grossistes;3376;10 465,60;7 427,20;Réglé;22/08/2026;2770000
+FA26-0494;08/07/2026;Grossiste Derb Omar;Gaufrettes 100g;Imane;Casablanca;Grossistes;7878;24 421,80;17 331,60;Réglé;22/08/2026;2770000
+FA26-0495;08/07/2026;Grossiste Derb Omar;Gaufrettes 100g;Rachid;Casablanca;Grossistes;7167;22 217,70;15 767,40;Réglé;22/08/2026;2770000
+FA26-0496;08/07/2026;Marjane;Biscuits 200g;Rachid;Casablanca;GMS;3539;17 341,10;12 740,40;Réglé;06/09/2026;2770000
+FA26-0497;09/07/2026;Grossiste Agadir Sud;Biscuits 200g;Imane;Agadir;Grossistes;5346;26 195,40;19 245,60;Réglé;23/08/2026;2770000
+FA26-0498;09/07/2026;Carrefour Market;Gaufrettes 100g;Hamza;Marrakech;GMS;3476;10 775,60;7 647,20;Réglé;07/09/2026;2770000
+FA26-0499;09/07/2026;Grossiste Derb Omar;Biscuits 200g;Imane;Casablanca;Grossistes;4097;20 075,30;14 749,20;Réglé;23/08/2026;2770000
+FA26-0500;10/07/2026;Label'Vie;Cakes 300g;Hamza;Rabat;GMS;8457;80 341,50;58 353,30;Non réglé;08/09/2026;2770000
+FA26-0501;10/07/2026;Marjane;Gaufrettes 100g;Rachid;Casablanca;GMS;7967;24 697,70;17 527,40;Réglé;08/09/2026;2770000
+FA26-0502;10/07/2026;Marjane;Biscuits 200g;Imane;Casablanca;GMS;5239;25 671,10;18 860,40;Non réglé;08/09/2026;2770000
+FA26-0503;10/07/2026;Marjane;Cakes 300g;Rachid;Casablanca;GMS;2247;21 346,50;15 504,30;Réglé;08/09/2026;2770000
+FA26-0504;11/07/2026;Grossiste Derb Omar;Gaufrettes 100g;Imane;Casablanca;Grossistes;7578;23 491,80;16 671,60;Réglé;25/08/2026;2770000
+FA26-0505;11/07/2026;Aswak Assalam;Gaufrettes 100g;Rachid;Fès;GMS;3679;11 404,90;8 093,80;Réglé;09/09/2026;2770000
+FA26-0506;11/07/2026;Export Mauritanie;Cakes 300g;Hamza;Export;Export;8204;77 938,00;56 607,60;Réglé;25/08/2026;2770000
+FA26-0507;13/07/2026;Carrefour Market;Cakes 300g;Imane;Marrakech;GMS;7136;67 792,00;49 238,40;Réglé;11/09/2026;2770000
+FA26-0508;13/07/2026;Marjane;Gaufrettes 100g;Imane;Casablanca;GMS;5209;16 147,90;11 459,80;Réglé;11/09/2026;2770000
+FA26-0509;13/07/2026;Marjane;Cakes 300g;Rachid;Casablanca;GMS;1471;13 974,50;10 149,90;Réglé;11/09/2026;2770000
+FA26-0510;14/07/2026;Grossiste Derb Omar;Gaufrettes 100g;Rachid;Casablanca;Grossistes;1197;3 710,70;2 633,40;Réglé;28/08/2026;2770000
+FA26-0511;14/07/2026;Label'Vie;Gaufrettes 100g;Hamza;Rabat;GMS;6124;18 984,40;13 472,80;Réglé;12/09/2026;2770000
+FA26-0512;14/07/2026;Aswak Assalam;Cakes 300g;Rachid;Fès;GMS;6994;66 443,00;48 258,60;Réglé;12/09/2026;2770000
+FA26-0513;15/07/2026;Grossiste Derb Omar;Biscuits 200g;Rachid;Casablanca;Grossistes;7946;38 935,40;28 605,60;Réglé;29/08/2026;2770000
+FA26-0514;15/07/2026;Marjane;Gaufrettes 100g;Hamza;Casablanca;GMS;4429;13 729,90;9 743,80;Réglé;13/09/2026;2770000
+FA26-0515;16/07/2026;Marjane;Biscuits 200g;Imane;Casablanca;GMS;2124;10 407,60;7 646,40;Réglé;14/09/2026;2770000
+FA26-0516;16/07/2026;Aswak Assalam;Gaufrettes 100g;Imane;Fès;GMS;3649;11 311,90;8 027,80;Réglé;14/09/2026;2770000
+FA26-0517;16/07/2026;Grossiste Agadir Sud;Gaufrettes 100g;Rachid;Agadir;Grossistes;2761;8 559,10;6 074,20;Réglé;30/08/2026;2770000
+FA26-0518;16/07/2026;Marjane;Gaufrettes 100g;Hamza;Casablanca;GMS;1236;3 831,60;2 719,20;Réglé;14/09/2026;2770000
+FA26-0519;17/07/2026;Grossiste Derb Omar;Gaufrettes 100g;Imane;Casablanca;Grossistes;4149;12 861,90;9 127,80;Réglé;31/08/2026;2770000
+FA26-0520;17/07/2026;Aswak Assalam;Biscuits 200g;Rachid;Fès;GMS;8326;40 797,40;29 973,60;Non réglé;15/09/2026;2770000
+FA26-0521;18/07/2026;Grossiste Derb Omar;Biscuits 200g;Imane;Casablanca;Grossistes;7094;34 760,60;25 538,40;Réglé;01/09/2026;2770000
+FA26-0522;18/07/2026;Export Mauritanie;Cakes 300g;Imane;Export;Export;8373;79 543,50;57 773,70;Réglé;01/09/2026;2770000
+FA26-0523;18/07/2026;Label'Vie;Biscuits 200g;Imane;Rabat;GMS;5992;29 360,80;21 571,20;Non réglé;16/09/2026;2770000
+FA26-0524;18/07/2026;Export Mauritanie;Gaufrettes 100g;Hamza;Export;Export;1266;3 924,60;2 785,20;Réglé;01/09/2026;2770000
+FA26-0525;20/07/2026;BIM;Gaufrettes 100g;Hamza;Casablanca;GMS;4821;14 945,10;10 606,20;Réglé;18/09/2026;2770000
+FA26-0526;20/07/2026;Distributeur Oriental;Gaufrettes 100g;Hamza;Oujda;Grossistes;7145;22 149,50;15 719,00;Réglé;03/09/2026;2770000
+FA26-0527;21/07/2026;Distributeur Oriental;Cakes 300g;Imane;Oujda;Grossistes;7555;71 772,50;52 129,50;Réglé;04/09/2026;2770000
+FA26-0528;21/07/2026;Distributeur Oriental;Cakes 300g;Imane;Oujda;Grossistes;2620;24 890,00;18 078,00;Réglé;04/09/2026;2770000
+FA26-0529;21/07/2026;Carrefour Market;Biscuits 200g;Imane;Marrakech;GMS;6220;30 478,00;22 392,00;Réglé;19/09/2026;2770000
+FA26-0530;22/07/2026;BIM;Gaufrettes 100g;Imane;Casablanca;GMS;7414;22 983,40;16 310,80;Réglé;20/09/2026;2770000
+FA26-0531;22/07/2026;BIM;Cakes 300g;Rachid;Casablanca;GMS;2136;20 292,00;14 738,40;Réglé;20/09/2026;2770000
+FA26-0532;22/07/2026;Marjane;Cakes 300g;Rachid;Casablanca;GMS;4354;41 363,00;30 042,60;Réglé;20/09/2026;2770000
+FA26-0533;22/07/2026;Label'Vie;Gaufrettes 100g;Imane;Rabat;GMS;6512;20 187,20;14 326,40;Réglé;20/09/2026;2770000
+FA26-0534;23/07/2026;Label'Vie;Gaufrettes 100g;Hamza;Rabat;GMS;6790;21 049,00;14 938,00;Réglé;21/09/2026;2770000
+FA26-0535;23/07/2026;Label'Vie;Gaufrettes 100g;Imane;Rabat;GMS;5336;16 541,60;11 739,20;Réglé;21/09/2026;2770000
+FA26-0536;23/07/2026;Export Mauritanie;Biscuits 200g;Imane;Export;Export;3210;15 729,00;11 556,00;Réglé;06/09/2026;2770000
+FA26-0537;24/07/2026;Carrefour Market;Cakes 300g;Imane;Marrakech;GMS;1579;15 000,50;10 895,10;Réglé;22/09/2026;2770000
+FA26-0538;24/07/2026;Carrefour Market;Biscuits 200g;Imane;Marrakech;GMS;8426;41 287,40;30 333,60;Réglé;22/09/2026;2770000
+FA26-0539;24/07/2026;Grossiste Agadir Sud;Gaufrettes 100g;Hamza;Agadir;Grossistes;4427;13 723,70;9 739,40;Réglé;07/09/2026;2770000
+FA26-0540;24/07/2026;Marjane;Biscuits 200g;Hamza;Casablanca;GMS;2259;11 069,10;8 132,40;Réglé;22/09/2026;2770000
+FA26-0541;25/07/2026;Label'Vie;Biscuits 200g;Rachid;Rabat;GMS;4788;23 461,20;17 236,80;Non réglé;23/09/2026;2770000
+FA26-0542;25/07/2026;Grossiste Derb Omar;Cakes 300g;Hamza;Casablanca;Grossistes;2825;26 837,50;19 492,50;Réglé;08/09/2026;2770000
+FA26-0543;25/07/2026;Export Mauritanie;Cakes 300g;Imane;Export;Export;7771;73 824,50;53 619,90;Non réglé;08/09/2026;2770000
+FA26-0544;27/07/2026;Carrefour Market;Biscuits 200g;Imane;Marrakech;GMS;3411;16 713,90;12 279,60;Réglé;25/09/2026;2770000
+FA26-0545;27/07/2026;Export Mauritanie;Gaufrettes 100g;Imane;Export;Export;7897;24 480,70;17 373,40;Réglé;10/09/2026;2770000
+FA26-0546;27/07/2026;Carrefour Market;Gaufrettes 100g;Imane;Marrakech;GMS;2589;8 025,90;5 695,80;Réglé;25/09/2026;2770000
+FA26-0547;27/07/2026;BIM;Cakes 300g;Hamza;Casablanca;GMS;5617;53 361,50;38 757,30;Réglé;25/09/2026;2770000
+FA26-0548;28/07/2026;Aswak Assalam;Biscuits 200g;Hamza;Fès;GMS;5583;27 356,70;20 098,80;Réglé;26/09/2026;2770000
+FA26-0549;28/07/2026;Grossiste Agadir Sud;Cakes 300g;Imane;Agadir;Grossistes;4465;42 417,50;30 808,50;Non réglé;11/09/2026;2770000
+FA26-0550;28/07/2026;Distributeur Oriental;Gaufrettes 100g;Rachid;Oujda;Grossistes;4148;12 858,80;9 125,60;Réglé;11/09/2026;2770000
+FA26-0551;28/07/2026;Carrefour Market;Gaufrettes 100g;Rachid;Marrakech;GMS;6328;19 616,80;13 921,60;Réglé;26/09/2026;2770000
+FA26-0552;29/07/2026;Marjane;Cakes 300g;Rachid;Casablanca;GMS;8386;79 667,00;57 863,40;Réglé;27/09/2026;2770000
+FA26-0553;29/07/2026;Grossiste Derb Omar;Cakes 300g;Rachid;Casablanca;Grossistes;5185;49 257,50;35 776,50;Non réglé;12/09/2026;2770000
+FA26-0554;29/07/2026;Carrefour Market;Cakes 300g;Imane;Marrakech;GMS;1953;18 553,50;13 475,70;Non réglé;27/09/2026;2770000
+FA26-0555;29/07/2026;Grossiste Agadir Sud;Biscuits 200g;Hamza;Agadir;Grossistes;2171;10 637,90;7 815,60;Réglé;12/09/2026;2770000
+FA26-0556;30/07/2026;Carrefour Market;Cakes 300g;Hamza;Marrakech;GMS;7040;66 880,00;48 576,00;Réglé;28/09/2026;2770000
+FA26-0557;30/07/2026;Label'Vie;Biscuits 200g;Imane;Rabat;GMS;6540;32 046,00;23 544,00;Réglé;28/09/2026;2770000
+FA26-0558;30/07/2026;Grossiste Derb Omar;Gaufrettes 100g;Hamza;Casablanca;Grossistes;2913;9 030,30;6 408,60;Réglé;13/09/2026;2770000
+FA26-0559;30/07/2026;Label'Vie;Gaufrettes 100g;Hamza;Rabat;GMS;5586;17 316,60;12 289,20;Réglé;28/09/2026;2770000
+FA26-0560;31/07/2026;BIM;Biscuits 200g;Hamza;Casablanca;GMS;5538;27 136,20;19 936,80;Réglé;29/09/2026;2770000
+FA26-0561;31/07/2026;BIM;Gaufrettes 100g;Rachid;Casablanca;GMS;5221;16 185,10;11 486,20;Réglé;29/09/2026;2770000
+FA26-0562;31/07/2026;Distributeur Oriental;Cakes 300g;Rachid;Oujda;Grossistes;7686;73 017,00;53 033,40;Réglé;14/09/2026;2770000
+FA26-0563;01/08/2026;Export Mauritanie;Gaufrettes 100g;Hamza;Export;Export;2883;8 937,30;6 342,60;Réglé;15/09/2026;2020000
+FA26-0564;01/08/2026;Export Mauritanie;Biscuits 200g;Hamza;Export;Export;7606;37 269,40;27 381,60;Réglé;15/09/2026;2020000
+FA26-0565;01/08/2026;Label'Vie;Biscuits 200g;Rachid;Rabat;GMS;2081;10 196,90;7 491,60;Réglé;30/09/2026;2020000
+FA26-0566;03/08/2026;Grossiste Derb Omar;Biscuits 200g;Rachid;Casablanca;Grossistes;8740;42 826,00;31 464,00;Réglé;17/09/2026;2020000
+FA26-0567;03/08/2026;Marjane;Cakes 300g;Hamza;Casablanca;GMS;4766;45 277,00;32 885,40;Réglé;02/10/2026;2020000
+FA26-0568;03/08/2026;Marjane;Biscuits 200g;Imane;Casablanca;GMS;3363;16 478,70;12 106,80;Réglé;02/10/2026;2020000
+FA26-0569;04/08/2026;BIM;Biscuits 200g;Imane;Casablanca;GMS;4975;24 377,50;17 910,00;Réglé;03/10/2026;2020000
+FA26-0570;04/08/2026;Distributeur Oriental;Biscuits 200g;Imane;Oujda;Grossistes;3806;18 649,40;13 701,60;Réglé;18/09/2026;2020000
+FA26-0571;05/08/2026;Carrefour Market;Gaufrettes 100g;Imane;Marrakech;GMS;7074;21 929,40;15 562,80;Non réglé;04/10/2026;2020000
+FA26-0572;05/08/2026;Grossiste Derb Omar;Cakes 300g;Hamza;Casablanca;Grossistes;1100;10 450,00;7 590,00;Réglé;19/09/2026;2020000
+FA26-0573;06/08/2026;Distributeur Oriental;Gaufrettes 100g;Rachid;Oujda;Grossistes;2236;6 931,60;4 919,20;Réglé;20/09/2026;2020000
+FA26-0574;06/08/2026;Distributeur Oriental;Cakes 300g;Imane;Oujda;Grossistes;1409;13 385,50;9 722,10;Réglé;20/09/2026;2020000
+FA26-0575;06/08/2026;Grossiste Derb Omar;Gaufrettes 100g;Hamza;Casablanca;Grossistes;2966;9 194,60;6 525,20;Réglé;20/09/2026;2020000
+FA26-0576;07/08/2026;Marjane;Cakes 300g;Rachid;Casablanca;GMS;1639;15 570,50;11 309,10;Réglé;06/10/2026;2020000
+FA26-0577;07/08/2026;Marjane;Biscuits 200g;Rachid;Casablanca;GMS;8435;41 331,50;30 366,00;Non réglé;06/10/2026;2020000
+FA26-0578;07/08/2026;Grossiste Derb Omar;Gaufrettes 100g;Rachid;Casablanca;Grossistes;4353;13 494,30;9 576,60;Réglé;21/09/2026;2020000
+FA26-0579;07/08/2026;Grossiste Derb Omar;Gaufrettes 100g;Hamza;Casablanca;Grossistes;5937;18 404,70;13 061,40;Réglé;21/09/2026;2020000
+FA26-0580;08/08/2026;Label'Vie;Cakes 300g;Rachid;Rabat;GMS;3319;31 530,50;22 901,10;Réglé;07/10/2026;2020000
+FA26-0581;08/08/2026;Grossiste Derb Omar;Biscuits 200g;Imane;Casablanca;Grossistes;2687;13 166,30;9 673,20;Réglé;22/09/2026;2020000
+FA26-0582;10/08/2026;BIM;Gaufrettes 100g;Hamza;Casablanca;GMS;5125;15 887,50;11 275,00;Réglé;09/10/2026;2020000
+FA26-0583;10/08/2026;Grossiste Derb Omar;Biscuits 200g;Rachid;Casablanca;Grossistes;4376;21 442,40;15 753,60;Non réglé;24/09/2026;2020000
+FA26-0584;10/08/2026;BIM;Gaufrettes 100g;Imane;Casablanca;GMS;6793;21 058,30;14 944,60;Réglé;09/10/2026;2020000
+FA26-0585;11/08/2026;Carrefour Market;Cakes 300g;Imane;Marrakech;GMS;3149;29 915,50;21 728,10;Non réglé;10/10/2026;2020000
+FA26-0586;11/08/2026;Grossiste Agadir Sud;Gaufrettes 100g;Hamza;Agadir;Grossistes;8952;27 751,20;19 694,40;Réglé;25/09/2026;2020000
+FA26-0587;11/08/2026;Grossiste Derb Omar;Gaufrettes 100g;Imane;Casablanca;Grossistes;3290;10 199,00;7 238,00;Réglé;25/09/2026;2020000
+FA26-0588;12/08/2026;Grossiste Derb Omar;Biscuits 200g;Hamza;Casablanca;Grossistes;8992;44 060,80;32 371,20;Réglé;26/09/2026;2020000
+FA26-0589;12/08/2026;Label'Vie;Cakes 300g;Rachid;Rabat;GMS;8044;76 418,00;55 503,60;Réglé;11/10/2026;2020000
+FA26-0590;12/08/2026;BIM;Cakes 300g;Imane;Casablanca;GMS;5235;49 732,50;36 121,50;Non réglé;11/10/2026;2020000
+FA26-0591;13/08/2026;Aswak Assalam;Gaufrettes 100g;Imane;Fès;GMS;6773;20 996,30;14 900,60;Réglé;12/10/2026;2020000
+FA26-0592;13/08/2026;Export Mauritanie;Gaufrettes 100g;Rachid;Export;Export;4079;12 644,90;8 973,80;Réglé;27/09/2026;2020000
+FA26-0593;13/08/2026;Grossiste Derb Omar;Biscuits 200g;Hamza;Casablanca;Grossistes;6896;33 790,40;24 825,60;Réglé;27/09/2026;2020000
+FA26-0594;13/08/2026;Label'Vie;Biscuits 200g;Imane;Rabat;GMS;2612;12 798,80;9 403,20;Réglé;12/10/2026;2020000
+FA26-0595;14/08/2026;Label'Vie;Cakes 300g;Imane;Rabat;GMS;5873;55 793,50;40 523,70;Réglé;13/10/2026;2020000
+FA26-0596;14/08/2026;BIM;Cakes 300g;Rachid;Casablanca;GMS;5007;47 566,50;34 548,30;Réglé;13/10/2026;2020000
+FA26-0597;15/08/2026;Aswak Assalam;Biscuits 200g;Hamza;Fès;GMS;4077;19 977,30;14 677,20;Réglé;14/10/2026;2020000
+FA26-0598;15/08/2026;Marjane;Gaufrettes 100g;Hamza;Casablanca;GMS;5871;18 200,10;12 916,20;Réglé;14/10/2026;2020000
+FA26-0599;17/08/2026;Grossiste Derb Omar;Cakes 300g;Imane;Casablanca;Grossistes;7147;67 896,50;49 314,30;Réglé;01/10/2026;2020000
+FA26-0600;17/08/2026;Grossiste Derb Omar;Biscuits 200g;Imane;Casablanca;Grossistes;3573;17 507,70;12 862,80;Réglé;01/10/2026;2020000
+FA26-0601;17/08/2026;BIM;Gaufrettes 100g;Imane;Casablanca;GMS;2568;7 960,80;5 649,60;Non réglé;16/10/2026;2020000
+FA26-0602;18/08/2026;Marjane;Cakes 300g;Imane;Casablanca;GMS;5702;54 169,00;39 343,80;Réglé;17/10/2026;2020000
+FA26-0603;18/08/2026;Label'Vie;Biscuits 200g;Hamza;Rabat;GMS;3340;16 366,00;12 024,00;Réglé;17/10/2026;2020000
+FA26-0604;18/08/2026;Carrefour Market;Biscuits 200g;Hamza;Marrakech;GMS;4915;24 083,50;17 694,00;Réglé;17/10/2026;2020000
+FA26-0605;19/08/2026;Grossiste Derb Omar;Biscuits 200g;Hamza;Casablanca;Grossistes;1128;5 527,20;4 060,80;Réglé;03/10/2026;2020000
+FA26-0606;19/08/2026;Aswak Assalam;Gaufrettes 100g;Rachid;Fès;GMS;840;2 604,00;1 848,00;Réglé;18/10/2026;2020000
+FA26-0607;19/08/2026;Export Mauritanie;Biscuits 200g;Hamza;Export;Export;4106;20 119,40;14 781,60;Réglé;03/10/2026;2020000
+FA26-0608;20/08/2026;Distributeur Oriental;Biscuits 200g;Rachid;Oujda;Grossistes;1626;7 967,40;5 853,60;Réglé;04/10/2026;2020000
+FA26-0609;20/08/2026;Carrefour Market;Biscuits 200g;Hamza;Marrakech;GMS;2621;12 842,90;9 435,60;Réglé;19/10/2026;2020000
+FA26-0610;21/08/2026;Marjane;Gaufrettes 100g;Hamza;Casablanca;GMS;2817;8 732,70;6 197,40;Réglé;20/10/2026;2020000
+FA26-0611;21/08/2026;Distributeur Oriental;Cakes 300g;Imane;Oujda;Grossistes;5432;51 604,00;37 480,80;Réglé;05/10/2026;2020000
+FA26-0612;22/08/2026;Marjane;Cakes 300g;Rachid;Casablanca;GMS;1868;17 746,00;12 889,20;Réglé;21/10/2026;2020000
+FA26-0613;22/08/2026;Export Mauritanie;Gaufrettes 100g;Hamza;Export;Export;6297;19 520,70;13 853,40;Réglé;06/10/2026;2020000
+FA26-0614;24/08/2026;Marjane;Biscuits 200g;Imane;Casablanca;GMS;2096;10 270,40;7 545,60;Réglé;23/10/2026;2020000
+FA26-0615;24/08/2026;Label'Vie;Gaufrettes 100g;Rachid;Rabat;GMS;7197;22 310,70;15 833,40;Réglé;23/10/2026;2020000
+FA26-0616;24/08/2026;Label'Vie;Gaufrettes 100g;Rachid;Rabat;GMS;7145;22 149,50;15 719,00;Réglé;23/10/2026;2020000
+FA26-0617;25/08/2026;Grossiste Agadir Sud;Gaufrettes 100g;Rachid;Agadir;Grossistes;8780;27 218,00;19 316,00;Non réglé;09/10/2026;2020000
+FA26-0618;25/08/2026;BIM;Cakes 300g;Imane;Casablanca;GMS;8541;81 139,50;58 932,90;Non réglé;24/10/2026;2020000
+FA26-0619;25/08/2026;Marjane;Cakes 300g;Rachid;Casablanca;GMS;5250;49 875,00;36 225,00;Réglé;24/10/2026;2020000
+FA26-0620;26/08/2026;Carrefour Market;Biscuits 200g;Imane;Marrakech;GMS;8865;43 438,50;31 914,00;Réglé;25/10/2026;2020000
+FA26-0621;26/08/2026;Distributeur Oriental;Biscuits 200g;Hamza;Oujda;Grossistes;3117;15 273,30;11 221,20;Réglé;10/10/2026;2020000
+FA26-0622;27/08/2026;Marjane;Cakes 300g;Rachid;Casablanca;GMS;5773;54 843,50;39 833,70;Réglé;26/10/2026;2020000
+FA26-0623;27/08/2026;Label'Vie;Cakes 300g;Rachid;Rabat;GMS;1292;12 274,00;8 914,80;Réglé;26/10/2026;2020000
+FA26-0624;27/08/2026;Marjane;Cakes 300g;Rachid;Casablanca;GMS;5559;52 810,50;38 357,10;Réglé;26/10/2026;2020000
+FA26-0625;28/08/2026;Distributeur Oriental;Cakes 300g;Hamza;Oujda;Grossistes;6822;64 809,00;47 071,80;Non réglé;12/10/2026;2020000
+FA26-0626;28/08/2026;Carrefour Market;Cakes 300g;Rachid;Marrakech;GMS;6749;64 115,50;46 568,10;Réglé;27/10/2026;2020000
+FA26-0627;29/08/2026;Grossiste Derb Omar;Biscuits 200g;Imane;Casablanca;Grossistes;2523;12 362,70;9 082,80;Réglé;13/10/2026;2020000
+FA26-0628;29/08/2026;BIM;Cakes 300g;Hamza;Casablanca;GMS;8163;77 548,50;56 324,70;Réglé;28/10/2026;2020000
+FA26-0629;29/08/2026;Marjane;Gaufrettes 100g;Imane;Casablanca;GMS;5128;15 896,80;11 281,60;Non réglé;28/10/2026;2020000
+FA26-0630;29/08/2026;Grossiste Derb Omar;Gaufrettes 100g;Hamza;Casablanca;Grossistes;6423;19 911,30;14 130,60;Réglé;13/10/2026;2020000
+FA26-0631;31/08/2026;Export Mauritanie;Biscuits 200g;Rachid;Export;Export;6526;31 977,40;23 493,60;Non réglé;15/10/2026;2020000
+FA26-0632;31/08/2026;BIM;Biscuits 200g;Rachid;Casablanca;GMS;5515;27 023,50;19 854,00;Réglé;30/10/2026;2020000
+FA26-0633;31/08/2026;Marjane;Gaufrettes 100g;Imane;Casablanca;GMS;5149;15 961,90;11 327,80;Non réglé;30/10/2026;2020000
+FA26-0634;01/09/2026;BIM;Gaufrettes 100g;Rachid;Casablanca;GMS;919;2 848,90;2 021,80;Réglé;31/10/2026;2980000
+FA26-0635;01/09/2026;BIM;Biscuits 200g;Imane;Casablanca;GMS;4637;22 721,30;16 693,20;Réglé;31/10/2026;2980000
+FA26-0636;01/09/2026;Distributeur Oriental;Cakes 300g;Imane;Oujda;Grossistes;6872;65 284,00;47 416,80;Réglé;16/10/2026;2980000
+FA26-0637;02/09/2026;Grossiste Derb Omar;Biscuits 200g;Rachid;Casablanca;Grossistes;1207;5 914,30;4 345,20;Réglé;17/10/2026;2980000
+FA26-0638;02/09/2026;Distributeur Oriental;Biscuits 200g;Imane;Oujda;Grossistes;7879;38 607,10;28 364,40;Réglé;17/10/2026;2980000
+FA26-0639;02/09/2026;Marjane;Cakes 300g;Rachid;Casablanca;GMS;7665;72 817,50;52 888,50;Réglé;01/11/2026;2980000
+FA26-0640;02/09/2026;BIM;Gaufrettes 100g;Imane;Casablanca;GMS;8199;25 416,90;18 037,80;Réglé;01/11/2026;2980000
+FA26-0641;03/09/2026;Marjane;Cakes 300g;Hamza;Casablanca;GMS;5169;49 105,50;35 666,10;Non réglé;02/11/2026;2980000
+FA26-0642;03/09/2026;Marjane;Biscuits 200g;Hamza;Casablanca;GMS;1525;7 472,50;5 490,00;Non réglé;02/11/2026;2980000
+FA26-0643;04/09/2026;BIM;Cakes 300g;Imane;Casablanca;GMS;6613;62 823,50;45 629,70;Réglé;03/11/2026;2980000
+FA26-0644;04/09/2026;Label'Vie;Biscuits 200g;Hamza;Rabat;GMS;3479;17 047,10;12 524,40;Réglé;03/11/2026;2980000
+FA26-0645;04/09/2026;Distributeur Oriental;Gaufrettes 100g;Rachid;Oujda;Grossistes;8583;26 607,30;18 882,60;Réglé;19/10/2026;2980000
+FA26-0646;04/09/2026;Label'Vie;Biscuits 200g;Rachid;Rabat;GMS;5300;25 970,00;19 080,00;Réglé;03/11/2026;2980000
+FA26-0647;05/09/2026;Export Mauritanie;Biscuits 200g;Imane;Export;Export;4708;23 069,20;16 948,80;Réglé;20/10/2026;2980000
+FA26-0648;05/09/2026;BIM;Cakes 300g;Imane;Casablanca;GMS;2109;20 035,50;14 552,10;Réglé;04/11/2026;2980000
+FA26-0649;05/09/2026;Grossiste Derb Omar;Cakes 300g;Rachid;Casablanca;Grossistes;7952;75 544,00;54 868,80;Réglé;20/10/2026;2980000
+FA26-0650;05/09/2026;Label'Vie;Biscuits 200g;Hamza;Rabat;GMS;4169;20 428,10;15 008,40;Réglé;04/11/2026;2980000
+FA26-0651;07/09/2026;Carrefour Market;Gaufrettes 100g;Hamza;Marrakech;GMS;4430;13 733,00;9 746,00;Réglé;06/11/2026;2980000
+FA26-0652;07/09/2026;Marjane;Gaufrettes 100g;Rachid;Casablanca;GMS;2296;7 117,60;5 051,20;Non réglé;06/11/2026;2980000
+FA26-0653;07/09/2026;Export Mauritanie;Cakes 300g;Hamza;Export;Export;6613;62 823,50;45 629,70;Réglé;22/10/2026;2980000
+FA26-0654;07/09/2026;Grossiste Derb Omar;Biscuits 200g;Imane;Casablanca;Grossistes;1860;9 114,00;6 696,00;Non réglé;22/10/2026;2980000
+FA26-0655;08/09/2026;Marjane;Gaufrettes 100g;Hamza;Casablanca;GMS;1128;3 496,80;2 481,60;Réglé;07/11/2026;2980000
+FA26-0656;08/09/2026;Marjane;Biscuits 200g;Hamza;Casablanca;GMS;6202;30 389,80;22 327,20;Non réglé;07/11/2026;2980000
+FA26-0657;08/09/2026;BIM;Biscuits 200g;Hamza;Casablanca;GMS;5612;27 498,80;20 203,20;Réglé;07/11/2026;2980000
+FA26-0658;09/09/2026;Label'Vie;Biscuits 200g;Rachid;Rabat;GMS;6067;29 728,30;21 841,20;Réglé;08/11/2026;2980000
+FA26-0659;09/09/2026;Grossiste Derb Omar;Cakes 300g;Hamza;Casablanca;Grossistes;4490;42 655,00;30 981,00;Réglé;24/10/2026;2980000
+FA26-0660;10/09/2026;Grossiste Derb Omar;Cakes 300g;Imane;Casablanca;Grossistes;8652;82 194,00;59 698,80;Réglé;25/10/2026;2980000
+FA26-0661;10/09/2026;Grossiste Derb Omar;Cakes 300g;Rachid;Casablanca;Grossistes;5764;54 758,00;39 771,60;Réglé;25/10/2026;2980000
+FA26-0662;10/09/2026;Grossiste Derb Omar;Gaufrettes 100g;Imane;Casablanca;Grossistes;5758;17 849,80;12 667,60;Réglé;25/10/2026;2980000
+FA26-0663;11/09/2026;Grossiste Agadir Sud;Gaufrettes 100g;Hamza;Agadir;Grossistes;5237;16 234,70;11 521,40;Non réglé;26/10/2026;2980000
+FA26-0664;11/09/2026;Export Mauritanie;Cakes 300g;Imane;Export;Export;5110;48 545,00;35 259,00;Réglé;26/10/2026;2980000
+FA26-0665;11/09/2026;Grossiste Derb Omar;Gaufrettes 100g;Imane;Casablanca;Grossistes;1962;6 082,20;4 316,40;Non réglé;26/10/2026;2980000
+FA26-0666;12/09/2026;Carrefour Market;Biscuits 200g;Hamza;Marrakech;GMS;7382;36 171,80;26 575,20;Réglé;11/11/2026;2980000
+FA26-0667;12/09/2026;BIM;Cakes 300g;Imane;Casablanca;GMS;5968;56 696,00;41 179,20;Réglé;11/11/2026;2980000
+FA26-0668;12/09/2026;Label'Vie;Gaufrettes 100g;Imane;Rabat;GMS;5628;17 446,80;12 381,60;Réglé;11/11/2026;2980000
+FA26-0669;14/09/2026;Distributeur Oriental;Gaufrettes 100g;Rachid;Oujda;Grossistes;1993;6 178,30;4 384,60;Réglé;29/10/2026;2980000
+FA26-0670;14/09/2026;Export Mauritanie;Biscuits 200g;Imane;Export;Export;3619;17 733,10;13 028,40;Réglé;29/10/2026;2980000
+FA26-0671;14/09/2026;Label'Vie;Cakes 300g;Hamza;Rabat;GMS;8711;82 754,50;60 105,90;Réglé;13/11/2026;2980000
+FA26-0672;15/09/2026;Grossiste Derb Omar;Biscuits 200g;Rachid;Casablanca;Grossistes;5911;28 963,90;21 279,60;Non réglé;30/10/2026;2980000
+FA26-0673;15/09/2026;Grossiste Derb Omar;Biscuits 200g;Imane;Casablanca;Grossistes;8021;39 302,90;28 875,60;Non réglé;30/10/2026;2980000
+FA26-0674;15/09/2026;Aswak Assalam;Biscuits 200g;Hamza;Fès;GMS;7015;34 373,50;25 254,00;Non réglé;14/11/2026;2980000
+FA26-0675;15/09/2026;BIM;Cakes 300g;Imane;Casablanca;GMS;4039;38 370,50;27 869,10;Réglé;14/11/2026;2980000
+FA26-0676;16/09/2026;Grossiste Agadir Sud;Biscuits 200g;Hamza;Agadir;Grossistes;5118;25 078,20;18 424,80;Non réglé;31/10/2026;2980000
+FA26-0677;16/09/2026;Grossiste Derb Omar;Cakes 300g;Imane;Casablanca;Grossistes;6326;60 097,00;43 649,40;Réglé;31/10/2026;2980000
+FA26-0678;16/09/2026;Marjane;Cakes 300g;Imane;Casablanca;GMS;6558;62 301,00;45 250,20;Réglé;15/11/2026;2980000
+FA26-0679;16/09/2026;Label'Vie;Cakes 300g;Imane;Rabat;GMS;6576;62 472,00;45 374,40;Réglé;15/11/2026;2980000
+FA26-0680;17/09/2026;Grossiste Derb Omar;Biscuits 200g;Hamza;Casablanca;Grossistes;3788;18 561,20;13 636,80;Réglé;01/11/2026;2980000
+FA26-0681;17/09/2026;Grossiste Agadir Sud;Gaufrettes 100g;Imane;Agadir;Grossistes;6031;18 696,10;13 268,20;Non réglé;01/11/2026;2980000
+FA26-0682;18/09/2026;Export Mauritanie;Cakes 300g;Imane;Export;Export;7535;71 582,50;51 991,50;Réglé;02/11/2026;2980000
+FA26-0683;18/09/2026;BIM;Gaufrettes 100g;Imane;Casablanca;GMS;7117;22 062,70;15 657,40;Réglé;17/11/2026;2980000
+FA26-0684;18/09/2026;Grossiste Agadir Sud;Cakes 300g;Hamza;Agadir;Grossistes;6085;57 807,50;41 986,50;Réglé;02/11/2026;2980000
+FA26-0685;18/09/2026;Aswak Assalam;Gaufrettes 100g;Rachid;Fès;GMS;5798;17 973,80;12 755,60;Réglé;17/11/2026;2980000
+FA26-0686;19/09/2026;Grossiste Agadir Sud;Biscuits 200g;Hamza;Agadir;Grossistes;4891;23 965,90;17 607,60;Réglé;03/11/2026;2980000
+FA26-0687;19/09/2026;Carrefour Market;Gaufrettes 100g;Hamza;Marrakech;GMS;7502;23 256,20;16 504,40;Réglé;18/11/2026;2980000
+FA26-0688;21/09/2026;Export Mauritanie;Biscuits 200g;Rachid;Export;Export;6060;29 694,00;21 816,00;Non réglé;05/11/2026;2980000
+FA26-0689;21/09/2026;Distributeur Oriental;Cakes 300g;Rachid;Oujda;Grossistes;5660;53 770,00;39 054,00;Réglé;05/11/2026;2980000
+FA26-0690;21/09/2026;BIM;Biscuits 200g;Hamza;Casablanca;GMS;3583;17 556,70;12 898,80;Réglé;20/11/2026;2980000
+FA26-0691;21/09/2026;Grossiste Agadir Sud;Gaufrettes 100g;Hamza;Agadir;Grossistes;7300;22 630,00;16 060,00;Réglé;05/11/2026;2980000
+FA26-0692;22/09/2026;Marjane;Cakes 300g;Hamza;Casablanca;GMS;2327;22 106,50;16 056,30;Réglé;21/11/2026;2980000
+FA26-0693;22/09/2026;Marjane;Gaufrettes 100g;Hamza;Casablanca;GMS;1210;3 751,00;2 662,00;Réglé;21/11/2026;2980000
+FA26-0694;22/09/2026;Export Mauritanie;Biscuits 200g;Hamza;Export;Export;4390;21 511,00;15 804,00;Réglé;06/11/2026;2980000
+FA26-0695;22/09/2026;BIM;Cakes 300g;Hamza;Casablanca;GMS;8723;82 868,50;60 188,70;Réglé;21/11/2026;2980000
+FA26-0696;23/09/2026;Marjane;Cakes 300g;Imane;Casablanca;GMS;2956;28 082,00;20 396,40;Réglé;22/11/2026;2980000
+FA26-0697;23/09/2026;Export Mauritanie;Biscuits 200g;Hamza;Export;Export;4856;23 794,40;17 481,60;Réglé;07/11/2026;2980000
+FA26-0698;23/09/2026;Export Mauritanie;Gaufrettes 100g;Imane;Export;Export;7714;23 913,40;16 970,80;Réglé;07/11/2026;2980000
+FA26-0699;23/09/2026;Aswak Assalam;Gaufrettes 100g;Imane;Fès;GMS;5025;15 577,50;11 055,00;Réglé;22/11/2026;2980000
+FA26-0700;24/09/2026;Marjane;Cakes 300g;Hamza;Casablanca;GMS;6939;65 920,50;47 879,10;Réglé;23/11/2026;2980000
+FA26-0701;24/09/2026;Distributeur Oriental;Cakes 300g;Imane;Oujda;Grossistes;4720;44 840,00;32 568,00;Non réglé;08/11/2026;2980000
+FA26-0702;25/09/2026;Export Mauritanie;Biscuits 200g;Rachid;Export;Export;940;4 606,00;3 384,00;Réglé;09/11/2026;2980000
+FA26-0703;25/09/2026;Marjane;Gaufrettes 100g;Imane;Casablanca;GMS;8765;27 171,50;19 283,00;Réglé;24/11/2026;2980000
+FA26-0704;25/09/2026;Grossiste Agadir Sud;Gaufrettes 100g;Rachid;Agadir;Grossistes;8662;26 852,20;19 056,40;Réglé;09/11/2026;2980000
+FA26-0705;25/09/2026;Export Mauritanie;Cakes 300g;Rachid;Export;Export;3790;36 005,00;26 151,00;Réglé;09/11/2026;2980000
+FA26-0706;26/09/2026;Marjane;Gaufrettes 100g;Hamza;Casablanca;GMS;4070;12 617,00;8 954,00;Non réglé;25/11/2026;2980000
+FA26-0707;26/09/2026;Marjane;Cakes 300g;Hamza;Casablanca;GMS;8376;79 572,00;57 794,40;Réglé;25/11/2026;2980000
+FA26-0708;26/09/2026;Carrefour Market;Gaufrettes 100g;Imane;Marrakech;GMS;3665;11 361,50;8 063,00;Réglé;25/11/2026;2980000
+FA26-0709;26/09/2026;Label'Vie;Gaufrettes 100g;Hamza;Rabat;GMS;8429;26 129,90;18 543,80;Réglé;25/11/2026;2980000
+FA26-0710;28/09/2026;Carrefour Market;Cakes 300g;Imane;Marrakech;GMS;7228;68 666,00;49 873,20;Réglé;27/11/2026;2980000
+FA26-0711;28/09/2026;Export Mauritanie;Gaufrettes 100g;Hamza;Export;Export;7494;23 231,40;16 486,80;Réglé;12/11/2026;2980000
+FA26-0712;28/09/2026;Distributeur Oriental;Cakes 300g;Rachid;Oujda;Grossistes;6735;63 982,50;46 471,50;Réglé;12/11/2026;2980000
+FA26-0713;28/09/2026;Aswak Assalam;Gaufrettes 100g;Rachid;Fès;GMS;5286;16 386,60;11 629,20;Réglé;27/11/2026;2980000
+FA26-0714;29/09/2026;Carrefour Market;Cakes 300g;Imane;Marrakech;GMS;8050;76 475,00;55 545,00;Réglé;28/11/2026;2980000
+FA26-0715;29/09/2026;Export Mauritanie;Cakes 300g;Hamza;Export;Export;879;8 350,50;6 065,10;Réglé;13/11/2026;2980000
+FA26-0716;29/09/2026;Grossiste Agadir Sud;Cakes 300g;Imane;Agadir;Grossistes;5400;51 300,00;37 260,00;Réglé;13/11/2026;2980000
+FA26-0717;29/09/2026;Grossiste Derb Omar;Biscuits 200g;Hamza;Casablanca;Grossistes;4716;23 108,40;16 977,60;Réglé;13/11/2026;2980000
+FA26-0718;30/09/2026;Export Mauritanie;Gaufrettes 100g;Rachid;Export;Export;880;2 728,00;1 936,00;Réglé;14/11/2026;2980000
+FA26-0719;30/09/2026;Grossiste Agadir Sud;Gaufrettes 100g;Rachid;Agadir;Grossistes;2586;8 016,60;5 689,20;Réglé;14/11/2026;2980000

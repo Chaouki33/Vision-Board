@@ -1,0 +1,33 @@
+﻿Date inventaire;Article;Famille;Dépôt;Quantité en stock;Stock minimum;Prix unitaire;Sorties;DLC
+31/08/2025;Huile 5L;Épicerie;Dépôt Casablanca;403;120;72,00;208;17/01/2026
+31/08/2025;Sucre 2kg;Épicerie;Dépôt Casablanca;242;300;22,00;497;
+31/08/2025;Thé vert 500g;Épicerie;Dépôt Casablanca;201;150;27,00;687;07/10/2025
+31/08/2025;Farine 10kg;Épicerie;Dépôt Agadir;125;100;58,00;348;19/03/2026
+31/08/2025;Lait 1L;Produits frais;Dépôt Agadir;1571;600;5,20;1700;19/02/2026
+31/08/2025;Café 250g;Épicerie;Dépôt Casablanca;373;120;24,00;412;12/11/2025
+31/08/2025;Riz 5kg;Épicerie;Dépôt Casablanca;63;80;48,00;129;30/03/2026
+31/08/2025;Pâtes 500g;Épicerie;Dépôt Casablanca;1101;400;4,50;1941;22/03/2026
+31/08/2025;Sardines (boîte);Conserves;Dépôt Casablanca;638;500;6,80;1236;03/01/2026
+31/08/2025;Eau minérale 1,5L;Boissons;Dépôt Agadir;1108;900;2,90;3751;
+31/08/2025;Jus d'orange 1L;Boissons;Dépôt Casablanca;586;250;8,50;0;03/12/2025
+31/08/2025;Savon (lot de 4);Hygiène;Dépôt Casablanca;360;150;14,00;285;
+31/08/2025;Lessive 3kg;Hygiène;Dépôt Agadir;175;90;45,00;119;
+31/08/2025;Couches bébé (paquet);Hygiène;Dépôt Casablanca;112;60;62,00;189;
+31/08/2025;Tomates concentrées;Conserves;Dépôt Casablanca;714;300;7,50;1404;29/12/2025
+31/08/2025;Biscuits 200g;Épicerie;Dépôt Casablanca;604;400;4,20;518;15/02/2026
+30/09/2025;Huile 5L;Épicerie;Dépôt Casablanca;239;120;72,00;341;07/02/2026
+30/09/2025;Sucre 2kg;Épicerie;Dépôt Casablanca;483;300;22,00;463;
+30/09/2025;Thé vert 500g;Épicerie;Dépôt Casablanca;78;150;27,00;625;14/11/2025
+30/09/2025;Farine 10kg;Épicerie;Dépôt Casablanca;188;100;58,00;272;13/11/2025
+30/09/2025;Lait 1L;Produits frais;Dépôt Casablanca;459;600;5,20;1966;18/12/2025
+30/09/2025;Café 250g;Épicerie;Dépôt Casablanca;384;120;24,00;431;11/10/2025
+30/09/2025;Riz 5kg;Épicerie;Dépôt Casablanca;157;80;48,00;337;15/11/2025
+30/09/2025;Pâtes 500g;Épicerie;Dépôt Casablanca;945;400;4,50;633;26/10/2025
+30/09/2025;Sardines (boîte);Conserves;Dépôt Casablanca;1466;500;6,80;2349;25/10/2025
+30/09/2025;Eau minérale 1,5L;Boissons;Dépôt Casablanca;1660;900;2,90;2871;
+30/09/2025;Jus d'orange 1L;Boissons;Dépôt Agadir;867;250;8,50;0;24/01/2026
+30/09/2025;Savon (lot de 4);Hygiène;Dépôt Agadir;265;150;14,00;217;
+30/09/2025;Lessive 3kg;Hygiène;Dépôt Agadir;301;90;45,00;145;
+30/09/2025;Couches bébé (paquet);Hygiène;Dépôt Casablanca;0;60;62,00;99;
+30/09/2025;Tomates concentrées;Conserves;Dépôt Casablanca;406;300;7,50;433;05/03/2026
+30/09/2025;Biscuits 200g;Épicerie;Dépôt Casablanca;993;400;4,20;1140;05/10/2025

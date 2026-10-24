@@ -1,0 +1,11 @@
+.venv/
+__pycache__/
+.pytest_cache/
+*.db
+.env
+node_modules/
+dist/
+*.tsbuildinfo
+identifiants_demo.txt
+acces_provisoire.txt
+sauvegardes/

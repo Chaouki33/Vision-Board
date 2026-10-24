@@ -1,0 +1,381 @@
+﻿Date opération;Banque;Libellé;Catégorie;Crédit;Débit;Solde
+02/01/2026;CIH Bank;Règlement client;Encaissements clients;156 422,91;;336 422,91
+03/01/2026;Attijariwafa bank;Fournisseurs;Fournisseurs;;112 768,55;587 231,45
+03/01/2026;Attijariwafa bank;Investissements;Investissements;;43 063,47;544 167,98
+03/01/2026;CIH Bank;TVA à payer;TVA à payer;;53 190,81;283 232,10
+04/01/2026;CIH Bank;Règlement client;Encaissements clients;211 634,54;;494 866,64
+05/01/2026;Attijariwafa bank;Règlement client;Encaissements clients;169 310,64;;713 478,61
+05/01/2026;CIH Bank;Impôt sur les sociétés;Impôt sur les sociétés;;17 354,80;477 511,85
+05/01/2026;Attijariwafa bank;Impôt sur les sociétés;Impôt sur les sociétés;;18 388,01;695 090,60
+05/01/2026;Attijariwafa bank;Investissements;Investissements;;42 659,72;652 430,88
+06/01/2026;CIH Bank;Loyer et charges;Loyer et charges;;39 204,61;438 307,24
+06/01/2026;CIH Bank;Loyer et charges;Loyer et charges;;39 744,71;398 562,52
+07/01/2026;CIH Bank;Règlement client;Encaissements clients;122 678,49;;521 241,01
+07/01/2026;Attijariwafa bank;Règlement client;Encaissements clients;213 562,23;;865 993,11
+07/01/2026;CIH Bank;TVA à payer;TVA à payer;;60 033,03;461 207,98
+08/01/2026;CIH Bank;Loyer et charges;Loyer et charges;;37 114,14;424 093,84
+08/01/2026;Attijariwafa bank;Échéance d'emprunt;Échéance d'emprunt;;272 549,22;593 443,89
+09/01/2026;CIH Bank;Règlement client;Encaissements clients;187 467,34;;611 561,18
+09/01/2026;Attijariwafa bank;Règlement client;Encaissements clients;216 758,18;;810 202,07
+10/01/2026;Attijariwafa bank;CNSS;CNSS;;77 460,52;732 741,55
+10/01/2026;CIH Bank;TVA à payer;TVA à payer;;52 779,79;558 781,39
+11/01/2026;CIH Bank;Fournisseurs;Fournisseurs;;103 066,75;455 714,63
+11/01/2026;CIH Bank;Impôt sur les sociétés;Impôt sur les sociétés;;17 288,46;438 426,17
+11/01/2026;CIH Bank;Énergie et télécoms;Énergie et télécoms;;24 652,25;413 773,92
+13/01/2026;CIH Bank;Règlement client;Encaissements clients;100 023,79;;513 797,71
+14/01/2026;CIH Bank;Règlement client;Encaissements clients;164 044,86;;677 842,57
+14/01/2026;CIH Bank;Investissements;Investissements;;47 433,36;630 409,21
+16/01/2026;Attijariwafa bank;Investissements;Investissements;;48 915,79;683 825,76
+17/01/2026;Attijariwafa bank;Fournisseurs;Fournisseurs;;93 721,50;590 104,26
+18/01/2026;Attijariwafa bank;Règlement client;Encaissements clients;102 153,66;;692 257,92
+18/01/2026;Attijariwafa bank;Règlement client;Encaissements clients;214 762,73;;907 020,66
+18/01/2026;CIH Bank;Énergie et télécoms;Énergie et télécoms;;22 142,79;608 266,42
+19/01/2026;Attijariwafa bank;Règlement client;Encaissements clients;192 339,72;;1 099 360,37
+20/01/2026;Attijariwafa bank;Règlement client;Encaissements clients;125 941,62;;1 225 301,99
+20/01/2026;Attijariwafa bank;Fournisseurs;Fournisseurs;;110 148,23;1 115 153,76
+20/01/2026;Attijariwafa bank;Loyer et charges;Loyer et charges;;40 658,58;1 074 495,18
+20/01/2026;CIH Bank;TVA à payer;TVA à payer;;53 025,26;555 241,16
+22/01/2026;CIH Bank;Règlement client;Encaissements clients;204 409,06;;759 650,23
+24/01/2026;Attijariwafa bank;Règlement client;Encaissements clients;139 593,66;;1 214 088,85
+24/01/2026;Attijariwafa bank;Impôt sur les sociétés;Impôt sur les sociétés;;17 115,64;1 196 973,21
+24/01/2026;CIH Bank;Énergie et télécoms;Énergie et télécoms;;22 398,75;737 251,48
+26/01/2026;CIH Bank;Énergie et télécoms;Énergie et télécoms;;21 524,87;715 726,60
+27/01/2026;CIH Bank;Impôts et taxes;Impôts et taxes;;16 718,19;699 008,41
+28/01/2026;Attijariwafa bank;Salaires;Salaires;;422 303,56;774 669,64
+03/02/2026;Attijariwafa bank;Impôt sur les sociétés;Impôt sur les sociétés;;16 539,93;758 129,71
+03/02/2026;CIH Bank;Impôt sur les sociétés;Impôt sur les sociétés;;20 470,34;678 538,07
+05/02/2026;CIH Bank;Règlement client;Encaissements clients;156 838,84;;835 376,91
+05/02/2026;CIH Bank;Fournisseurs;Fournisseurs;;115 224,28;720 152,63
+06/02/2026;CIH Bank;Règlement client;Encaissements clients;166 493,73;;886 646,36
+06/02/2026;Attijariwafa bank;Loyer et charges;Loyer et charges;;41 982,80;716 146,91
+07/02/2026;Attijariwafa bank;Règlement client;Encaissements clients;107 742,71;;823 889,62
+07/02/2026;Attijariwafa bank;Investissements;Investissements;;43 340,23;780 549,39
+07/02/2026;Attijariwafa bank;Énergie et télécoms;Énergie et télécoms;;21 292,42;759 256,97
+08/02/2026;Attijariwafa bank;Investissements;Investissements;;54 262,88;704 994,08
+09/02/2026;CIH Bank;Fournisseurs;Fournisseurs;;115 640,00;771 006,36
+10/02/2026;Attijariwafa bank;Règlement client;Encaissements clients;110 515,32;;815 509,41
+10/02/2026;Attijariwafa bank;CNSS;CNSS;;94 482,60;721 026,81
+10/02/2026;Attijariwafa bank;Impôts et taxes;Impôts et taxes;;17 533,24;703 493,56
+10/02/2026;Attijariwafa bank;Loyer et charges;Loyer et charges;;43 551,28;659 942,28
+11/02/2026;Attijariwafa bank;Fournisseurs;Fournisseurs;;116 981,39;542 960,89
+11/02/2026;CIH Bank;Loyer et charges;Loyer et charges;;42 409,08;728 597,28
+11/02/2026;CIH Bank;TVA à payer;TVA à payer;;53 663,08;674 934,21
+12/02/2026;CIH Bank;Fournisseurs;Fournisseurs;;109 235,44;565 698,77
+12/02/2026;Attijariwafa bank;Investissements;Investissements;;46 676,26;496 284,64
+13/02/2026;Attijariwafa bank;Règlement client;Encaissements clients;151 670,30;;647 954,94
+14/02/2026;Attijariwafa bank;Investissements;Investissements;;43 580,73;604 374,21
+14/02/2026;CIH Bank;Énergie et télécoms;Énergie et télécoms;;22 996,40;542 702,37
+17/02/2026;Attijariwafa bank;Règlement client;Encaissements clients;215 040,70;;819 414,92
+18/02/2026;CIH Bank;Règlement client;Encaissements clients;128 922,32;;671 624,70
+18/02/2026;Attijariwafa bank;Règlement client;Encaissements clients;210 110,94;;1 029 525,85
+18/02/2026;CIH Bank;Énergie et télécoms;Énergie et télécoms;;25 972,37;645 652,33
+21/02/2026;CIH Bank;Règlement client;Encaissements clients;186 967,61;;832 619,93
+21/02/2026;CIH Bank;Impôt sur les sociétés;Impôt sur les sociétés;;20 501,23;812 118,70
+22/02/2026;CIH Bank;Règlement client;Encaissements clients;114 177,68;;926 296,39
+22/02/2026;CIH Bank;Impôt sur les sociétés;Impôt sur les sociétés;;20 001,05;906 295,34
+23/02/2026;Attijariwafa bank;TVA à payer;TVA à payer;;51 029,13;978 496,72
+24/02/2026;CIH Bank;Énergie et télécoms;Énergie et télécoms;;25 495,11;880 800,23
+25/02/2026;Attijariwafa bank;Règlement client;Encaissements clients;163 078,83;;1 141 575,55
+25/02/2026;CIH Bank;Loyer et charges;Loyer et charges;;35 162,91;845 637,32
+25/02/2026;Attijariwafa bank;TVA à payer;TVA à payer;;56 443,92;1 085 131,63
+26/02/2026;Attijariwafa bank;TVA à payer;TVA à payer;;56 224,44;1 028 907,19
+27/02/2026;Attijariwafa bank;Règlement client;Encaissements clients;133 069,20;;1 161 976,39
+27/02/2026;CIH Bank;Échéance d'emprunt;Échéance d'emprunt;;295 162,41;550 474,91
+28/02/2026;Attijariwafa bank;Salaires;Salaires;;445 326,03;716 650,36
+03/03/2026;Attijariwafa bank;Règlement client;Encaissements clients;205 488,34;;922 138,70
+03/03/2026;CIH Bank;Impôts et taxes;Impôts et taxes;;20 317,44;530 157,47
+03/03/2026;Attijariwafa bank;Investissements;Investissements;;52 799,38;869 339,32
+03/03/2026;CIH Bank;TVA à payer;TVA à payer;;67 749,96;462 407,51
+04/03/2026;Attijariwafa bank;Règlement client;Encaissements clients;162 318,80;;1 031 658,12
+05/03/2026;Attijariwafa bank;Fournisseurs;Fournisseurs;;112 482,34;919 175,79
+05/03/2026;Attijariwafa bank;TVA à payer;TVA à payer;;59 959,75;859 216,04
+06/03/2026;Attijariwafa bank;Règlement client;Encaissements clients;136 196,89;;995 412,93
+07/03/2026;Attijariwafa bank;Investissements;Investissements;;43 966,56;951 446,37
+08/03/2026;Attijariwafa bank;Règlement client;Encaissements clients;130 282,90;;1 081 729,26
+09/03/2026;CIH Bank;Règlement client;Encaissements clients;98 660,89;;561 068,40
+09/03/2026;CIH Bank;Règlement client;Encaissements clients;123 452,81;;684 521,21
+09/03/2026;Attijariwafa bank;Énergie et télécoms;Énergie et télécoms;;23 265,70;1 058 463,56
+10/03/2026;Attijariwafa bank;CNSS;CNSS;;94 487,79;963 975,78
+10/03/2026;Attijariwafa bank;Impôt sur les sociétés;Impôt sur les sociétés;;16 845,93;947 129,84
+10/03/2026;CIH Bank;Investissements;Investissements;;42 632,83;641 888,38
+10/03/2026;Attijariwafa bank;Loyer et charges;Loyer et charges;;36 222,30;910 907,54
+11/03/2026;CIH Bank;TVA à payer;TVA à payer;;65 540,26;576 348,12
+11/03/2026;CIH Bank;TVA à payer;TVA à payer;;65 880,21;510 467,91
+12/03/2026;CIH Bank;Règlement client;Encaissements clients;130 704,63;;641 172,54
+12/03/2026;CIH Bank;Impôt sur les sociétés;Impôt sur les sociétés;;18 963,93;622 208,61
+14/03/2026;Attijariwafa bank;Règlement client;Encaissements clients;157 845,31;;1 068 752,85
+15/03/2026;CIH Bank;Règlement client;Encaissements clients;193 564,47;;815 773,08
+15/03/2026;CIH Bank;Fournisseurs;Fournisseurs;;117 535,68;698 237,40
+18/03/2026;CIH Bank;Investissements;Investissements;;45 937,45;652 299,96
+18/03/2026;Attijariwafa bank;Énergie et télécoms;Énergie et télécoms;;21 110,79;1 047 642,06
+19/03/2026;CIH Bank;Loyer et charges;Loyer et charges;;42 229,65;610 070,30
+19/03/2026;Attijariwafa bank;Énergie et télécoms;Énergie et télécoms;;21 205,64;1 026 436,42
+19/03/2026;Attijariwafa bank;Énergie et télécoms;Énergie et télécoms;;26 290,50;1 000 145,92
+20/03/2026;Attijariwafa bank;Règlement client;Encaissements clients;197 248,37;;1 197 394,28
+20/03/2026;Attijariwafa bank;Loyer et charges;Loyer et charges;;42 732,45;1 154 661,83
+22/03/2026;Attijariwafa bank;Règlement client;Encaissements clients;161 222,10;;1 315 883,93
+22/03/2026;Attijariwafa bank;Fournisseurs;Fournisseurs;;113 489,95;1 202 393,98
+23/03/2026;Attijariwafa bank;Impôt sur les sociétés;Impôt sur les sociétés;;16 348,60;1 186 045,39
+23/03/2026;Attijariwafa bank;Échéance d'emprunt;Échéance d'emprunt;;316 134,67;869 910,72
+24/03/2026;Attijariwafa bank;Règlement client;Encaissements clients;222 495,37;;1 092 406,09
+24/03/2026;Attijariwafa bank;Impôt sur les sociétés;Impôt sur les sociétés;;19 076,92;1 073 329,17
+25/03/2026;Attijariwafa bank;Loyer et charges;Loyer et charges;;40 847,81;1 032 481,36
+26/03/2026;CIH Bank;Règlement client;Encaissements clients;103 278,13;;713 348,44
+26/03/2026;Attijariwafa bank;Règlement client;Encaissements clients;150 016,17;;1 182 497,53
+27/03/2026;Attijariwafa bank;Règlement client;Encaissements clients;130 593,03;;1 313 090,56
+27/03/2026;CIH Bank;Fournisseurs;Fournisseurs;;121 472,21;591 876,22
+28/03/2026;CIH Bank;Règlement client;Encaissements clients;224 699,62;;816 575,85
+28/03/2026;Attijariwafa bank;Salaires;Salaires;;404 493,10;908 597,46
+03/04/2026;Attijariwafa bank;Loyer et charges;Loyer et charges;;36 542,79;872 054,67
+03/04/2026;CIH Bank;Loyer et charges;Loyer et charges;;42 818,37;773 757,47
+04/04/2026;Attijariwafa bank;Règlement client;Encaissements clients;98 663,70;;970 718,37
+05/04/2026;CIH Bank;Règlement client;Encaissements clients;183 535,78;;957 293,25
+05/04/2026;CIH Bank;Règlement client;Encaissements clients;216 439,64;;1 173 732,89
+05/04/2026;CIH Bank;Impôt sur les sociétés;Impôt sur les sociétés;;16 698,10;1 157 034,80
+05/04/2026;CIH Bank;Impôt sur les sociétés;Impôt sur les sociétés;;18 585,06;1 138 449,74
+06/04/2026;CIH Bank;Règlement client;Encaissements clients;98 790,47;;1 237 240,21
+06/04/2026;CIH Bank;Investissements;Investissements;;42 366,93;1 194 873,28
+07/04/2026;CIH Bank;Règlement client;Encaissements clients;121 547,81;;1 316 421,10
+07/04/2026;CIH Bank;Règlement client;Encaissements clients;189 360,61;;1 505 781,71
+09/04/2026;Attijariwafa bank;Règlement client;Encaissements clients;188 738,24;;1 159 456,61
+10/04/2026;Attijariwafa bank;Règlement client;Encaissements clients;205 690,03;;1 365 146,64
+10/04/2026;Attijariwafa bank;CNSS;CNSS;;72 897,66;1 292 248,98
+10/04/2026;Attijariwafa bank;TVA à payer;TVA à payer;;53 243,86;1 239 005,12
+11/04/2026;CIH Bank;Règlement client;Encaissements clients;125 495,41;;1 631 277,12
+12/04/2026;Attijariwafa bank;TVA à payer;TVA à payer;;53 440,72;1 185 564,40
+12/04/2026;Attijariwafa bank;Échéance d'emprunt;Échéance d'emprunt;;288 865,75;896 698,65
+12/04/2026;Attijariwafa bank;Énergie et télécoms;Énergie et télécoms;;19 536,56;877 162,09
+12/04/2026;CIH Bank;Énergie et télécoms;Énergie et télécoms;;20 835,76;1 610 441,36
+14/04/2026;CIH Bank;Fournisseurs;Fournisseurs;;97 784,65;1 512 656,71
+14/04/2026;Attijariwafa bank;Fournisseurs;Fournisseurs;;100 450,59;776 711,50
+14/04/2026;Attijariwafa bank;Impôts et taxes;Impôts et taxes;;17 907,77;758 803,73
+15/04/2026;CIH Bank;Investissements;Investissements;;53 203,84;1 459 452,87
+17/04/2026;CIH Bank;TVA à payer;TVA à payer;;55 154,21;1 404 298,67
+19/04/2026;Attijariwafa bank;Loyer et charges;Loyer et charges;;33 928,60;724 875,13
+19/04/2026;CIH Bank;Loyer et charges;Loyer et charges;;33 978,00;1 370 320,67
+20/04/2026;CIH Bank;Énergie et télécoms;Énergie et télécoms;;20 466,15;1 349 854,52
+21/04/2026;Attijariwafa bank;Fournisseurs;Fournisseurs;;95 128,68;629 746,45
+21/04/2026;CIH Bank;Investissements;Investissements;;46 760,78;1 303 093,74
+22/04/2026;Attijariwafa bank;Règlement client;Encaissements clients;109 640,11;;739 386,57
+22/04/2026;CIH Bank;Impôt sur les sociétés;Impôt sur les sociétés;;21 529,55;1 281 564,18
+22/04/2026;CIH Bank;Énergie et télécoms;Énergie et télécoms;;24 300,09;1 257 264,09
+24/04/2026;CIH Bank;Règlement client;Encaissements clients;176 652,29;;1 433 916,38
+24/04/2026;CIH Bank;Règlement client;Encaissements clients;178 902,06;;1 612 818,44
+25/04/2026;Attijariwafa bank;Impôt sur les sociétés;Impôt sur les sociétés;;19 207,46;720 179,11
+25/04/2026;CIH Bank;TVA à payer;TVA à payer;;64 033,00;1 548 785,44
+26/04/2026;CIH Bank;Règlement client;Encaissements clients;204 515,34;;1 753 300,78
+26/04/2026;CIH Bank;Fournisseurs;Fournisseurs;;97 812,92;1 655 487,86
+26/04/2026;CIH Bank;Investissements;Investissements;;40 844,66;1 614 643,21
+27/04/2026;CIH Bank;Règlement client;Encaissements clients;150 631,47;;1 765 274,67
+28/04/2026;Attijariwafa bank;Salaires;Salaires;;381 208,07;338 971,03
+02/05/2026;Attijariwafa bank;Règlement client;Encaissements clients;186 011,61;;524 982,64
+04/05/2026;Attijariwafa bank;TVA à payer;TVA à payer;;65 515,09;459 467,55
+05/05/2026;CIH Bank;Énergie et télécoms;Énergie et télécoms;;22 514,06;1 742 760,61
+06/05/2026;CIH Bank;Fournisseurs;Fournisseurs;;103 607,34;1 639 153,27
+06/05/2026;Attijariwafa bank;Fournisseurs;Fournisseurs;;113 113,34;346 354,21
+06/05/2026;CIH Bank;Loyer et charges;Loyer et charges;;40 480,95;1 598 672,33
+07/05/2026;CIH Bank;Règlement client;Encaissements clients;171 263,92;;1 769 936,24
+07/05/2026;Attijariwafa bank;Fournisseurs;Fournisseurs;;117 772,15;228 582,06
+07/05/2026;CIH Bank;TVA à payer;TVA à payer;;62 131,75;1 707 804,49
+07/05/2026;Attijariwafa bank;Échéance d'emprunt;Échéance d'emprunt;;246 906,54;-18 324,48
+08/05/2026;Attijariwafa bank;Règlement client;Encaissements clients;182 299,00;;163 974,51
+08/05/2026;Attijariwafa bank;Investissements;Investissements;;44 034,82;119 939,69
+08/05/2026;Attijariwafa bank;Énergie et télécoms;Énergie et télécoms;;24 571,68;95 368,01
+09/05/2026;Attijariwafa bank;Règlement client;Encaissements clients;149 305,51;;244 673,51
+09/05/2026;Attijariwafa bank;Règlement client;Encaissements clients;213 128,24;;457 801,75
+10/05/2026;Attijariwafa bank;Règlement client;Encaissements clients;213 903,72;;671 705,48
+10/05/2026;Attijariwafa bank;CNSS;CNSS;;92 201,46;579 504,01
+10/05/2026;Attijariwafa bank;Impôt sur les sociétés;Impôt sur les sociétés;;20 971,78;558 532,23
+10/05/2026;CIH Bank;Impôts et taxes;Impôts et taxes;;19 062,35;1 688 742,14
+11/05/2026;Attijariwafa bank;Impôt sur les sociétés;Impôt sur les sociétés;;17 404,58;541 127,65
+11/05/2026;Attijariwafa bank;Loyer et charges;Loyer et charges;;35 581,21;505 546,44
+12/05/2026;Attijariwafa bank;TVA à payer;TVA à payer;;58 830,01;446 716,43
+12/05/2026;Attijariwafa bank;TVA à payer;TVA à payer;;59 810,75;386 905,69
+13/05/2026;CIH Bank;Règlement client;Encaissements clients;203 742,74;;1 892 484,88
+14/05/2026;Attijariwafa bank;Règlement client;Encaissements clients;110 880,40;;497 786,08
+14/05/2026;CIH Bank;Énergie et télécoms;Énergie et télécoms;;20 748,04;1 871 736,84
+16/05/2026;CIH Bank;Impôt sur les sociétés;Impôt sur les sociétés;;19 343,77;1 852 393,07
+17/05/2026;CIH Bank;Loyer et charges;Loyer et charges;;32 881,40;1 819 511,66
+19/05/2026;Attijariwafa bank;Règlement client;Encaissements clients;156 095,18;;653 881,27
+19/05/2026;CIH Bank;Impôt sur les sociétés;Impôt sur les sociétés;;18 275,52;1 801 236,14
+20/05/2026;CIH Bank;Règlement client;Encaissements clients;187 429,69;;1 988 665,84
+20/05/2026;CIH Bank;Investissements;Investissements;;48 809,89;1 939 855,95
+20/05/2026;CIH Bank;Investissements;Investissements;;54 562,04;1 885 293,91
+21/05/2026;CIH Bank;Loyer et charges;Loyer et charges;;33 285,88;1 852 008,03
+23/05/2026;Attijariwafa bank;Fournisseurs;Fournisseurs;;94 677,15;559 204,12
+25/05/2026;Attijariwafa bank;Règlement client;Encaissements clients;162 010,80;;721 214,91
+25/05/2026;CIH Bank;Investissements;Investissements;;54 487,17;1 797 520,86
+25/05/2026;CIH Bank;Énergie et télécoms;Énergie et télécoms;;20 764,28;1 776 756,58
+26/05/2026;Attijariwafa bank;Règlement client;Encaissements clients;104 989,86;;826 204,77
+28/05/2026;Attijariwafa bank;Salaires;Salaires;;343 378,16;482 826,61
+02/06/2026;Attijariwafa bank;Règlement client;Encaissements clients;200 814,51;;683 641,12
+05/06/2026;Attijariwafa bank;Règlement client;Encaissements clients;217 668,80;;901 309,92
+05/06/2026;Attijariwafa bank;Fournisseurs;Fournisseurs;;117 119,73;784 190,19
+05/06/2026;CIH Bank;Loyer et charges;Loyer et charges;;43 307,12;1 733 449,46
+06/06/2026;Attijariwafa bank;Règlement client;Encaissements clients;158 165,32;;942 355,50
+06/06/2026;Attijariwafa bank;Énergie et télécoms;Énergie et télécoms;;19 720,69;922 634,82
+07/06/2026;Attijariwafa bank;Fournisseurs;Fournisseurs;;110 382,47;812 252,35
+07/06/2026;Attijariwafa bank;Investissements;Investissements;;44 488,12;767 764,23
+08/06/2026;CIH Bank;Impôt sur les sociétés;Impôt sur les sociétés;;17 050,39;1 716 399,08
+09/06/2026;CIH Bank;Règlement client;Encaissements clients;112 532,52;;1 828 931,60
+09/06/2026;CIH Bank;Fournisseurs;Fournisseurs;;118 059,39;1 710 872,21
+09/06/2026;CIH Bank;TVA à payer;TVA à payer;;59 728,55;1 651 143,65
+10/06/2026;Attijariwafa bank;Règlement client;Encaissements clients;147 525,77;;915 290,00
+10/06/2026;Attijariwafa bank;CNSS;CNSS;;72 183,00;843 107,00
+11/06/2026;Attijariwafa bank;Règlement client;Encaissements clients;224 713,02;;1 067 820,02
+11/06/2026;CIH Bank;Impôts et taxes;Impôts et taxes;;15 964,91;1 635 178,74
+12/06/2026;CIH Bank;Règlement client;Encaissements clients;98 640,00;;1 733 818,74
+15/06/2026;CIH Bank;Loyer et charges;Loyer et charges;;34 771,00;1 699 047,74
+17/06/2026;CIH Bank;Règlement client;Encaissements clients;173 947,91;;1 872 995,64
+18/06/2026;CIH Bank;Règlement client;Encaissements clients;144 806,44;;2 017 802,09
+18/06/2026;Attijariwafa bank;Investissements;Investissements;;41 736,95;1 026 083,07
+18/06/2026;Attijariwafa bank;Investissements;Investissements;;45 860,48;980 222,59
+19/06/2026;CIH Bank;Règlement client;Encaissements clients;191 701,65;;2 209 503,74
+19/06/2026;Attijariwafa bank;Fournisseurs;Fournisseurs;;110 304,68;869 917,91
+19/06/2026;CIH Bank;Investissements;Investissements;;54 535,20;2 154 968,53
+19/06/2026;Attijariwafa bank;TVA à payer;TVA à payer;;62 751,71;807 166,20
+20/06/2026;CIH Bank;Règlement client;Encaissements clients;218 769,30;;2 373 737,83
+20/06/2026;CIH Bank;TVA à payer;TVA à payer;;56 781,67;2 316 956,17
+21/06/2026;CIH Bank;Impôt sur les sociétés;Impôt sur les sociétés;;16 553,89;2 300 402,27
+21/06/2026;Attijariwafa bank;Loyer et charges;Loyer et charges;;34 489,50;772 676,70
+22/06/2026;Attijariwafa bank;Énergie et télécoms;Énergie et télécoms;;19 656,20;753 020,49
+23/06/2026;CIH Bank;Impôt sur les sociétés;Impôt sur les sociétés;;19 678,08;2 280 724,20
+23/06/2026;Attijariwafa bank;Énergie et télécoms;Énergie et télécoms;;20 714,53;732 305,97
+24/06/2026;CIH Bank;Loyer et charges;Loyer et charges;;39 876,80;2 240 847,39
+24/06/2026;Attijariwafa bank;Échéance d'emprunt;Échéance d'emprunt;;284 359,86;447 946,11
+25/06/2026;Attijariwafa bank;Règlement client;Encaissements clients;222 159,79;;670 105,90
+25/06/2026;CIH Bank;Énergie et télécoms;Énergie et télécoms;;26 270,50;2 214 576,89
+26/06/2026;Attijariwafa bank;Impôt sur les sociétés;Impôt sur les sociétés;;18 864,14;651 241,76
+26/06/2026;Attijariwafa bank;TVA à payer;TVA à payer;;52 504,05;598 737,71
+28/06/2026;Attijariwafa bank;Règlement client;Encaissements clients;141 600,05;;740 337,77
+28/06/2026;Attijariwafa bank;Salaires;Salaires;;443 178,98;297 158,79
+02/07/2026;CIH Bank;Règlement client;Encaissements clients;143 889,74;;2 358 466,64
+03/07/2026;CIH Bank;Investissements;Investissements;;45 307,48;2 313 159,16
+04/07/2026;Attijariwafa bank;Règlement client;Encaissements clients;221 030,28;;518 189,08
+04/07/2026;Attijariwafa bank;Énergie et télécoms;Énergie et télécoms;;26 304,79;491 884,28
+05/07/2026;Attijariwafa bank;Énergie et télécoms;Énergie et télécoms;;20 010,35;471 873,93
+07/07/2026;Attijariwafa bank;Règlement client;Encaissements clients;152 048,33;;623 922,26
+07/07/2026;CIH Bank;Impôt sur les sociétés;Impôt sur les sociétés;;17 978,16;2 295 181,00
+07/07/2026;CIH Bank;TVA à payer;TVA à payer;;59 819,35;2 235 361,65
+08/07/2026;Attijariwafa bank;Règlement client;Encaissements clients;120 653,32;;744 575,58
+08/07/2026;CIH Bank;Règlement client;Encaissements clients;134 273,52;;2 369 635,16
+09/07/2026;Attijariwafa bank;Règlement client;Encaissements clients;175 275,97;;919 851,55
+09/07/2026;CIH Bank;Énergie et télécoms;Énergie et télécoms;;22 924,32;2 346 710,85
+10/07/2026;Attijariwafa bank;Règlement client;Encaissements clients;154 314,02;;1 074 165,57
+10/07/2026;Attijariwafa bank;CNSS;CNSS;;74 237,69;999 927,88
+10/07/2026;Attijariwafa bank;Investissements;Investissements;;40 597,36;959 330,53
+10/07/2026;CIH Bank;Loyer et charges;Loyer et charges;;33 619,68;2 313 091,17
+10/07/2026;CIH Bank;Loyer et charges;Loyer et charges;;35 695,02;2 277 396,15
+11/07/2026;Attijariwafa bank;Impôts et taxes;Impôts et taxes;;18 080,30;941 250,22
+12/07/2026;Attijariwafa bank;Règlement client;Encaissements clients;173 157,29;;1 114 407,52
+12/07/2026;Attijariwafa bank;Fournisseurs;Fournisseurs;;126 464,94;987 942,57
+13/07/2026;Attijariwafa bank;TVA à payer;TVA à payer;;65 488,79;922 453,78
+14/07/2026;Attijariwafa bank;Investissements;Investissements;;50 791,54;871 662,25
+15/07/2026;CIH Bank;Règlement client;Encaissements clients;208 882,44;;2 486 278,59
+15/07/2026;Attijariwafa bank;Impôt sur les sociétés;Impôt sur les sociétés;;17 064,25;854 598,00
+15/07/2026;Attijariwafa bank;Investissements;Investissements;;50 378,62;804 219,38
+15/07/2026;CIH Bank;Loyer et charges;Loyer et charges;;42 815,71;2 443 462,87
+17/07/2026;CIH Bank;Loyer et charges;Loyer et charges;;43 057,76;2 400 405,11
+18/07/2026;Attijariwafa bank;Règlement client;Encaissements clients;172 833,05;;977 052,43
+18/07/2026;CIH Bank;Fournisseurs;Fournisseurs;;96 394,70;2 304 010,41
+19/07/2026;Attijariwafa bank;Fournisseurs;Fournisseurs;;105 289,43;871 763,00
+19/07/2026;CIH Bank;TVA à payer;TVA à payer;;55 107,11;2 248 903,30
+20/07/2026;Attijariwafa bank;Règlement client;Encaissements clients;135 695,32;;1 007 458,32
+20/07/2026;CIH Bank;Règlement client;Encaissements clients;140 521,86;;2 389 425,16
+21/07/2026;Attijariwafa bank;TVA à payer;TVA à payer;;53 572,84;953 885,48
+23/07/2026;Attijariwafa bank;Énergie et télécoms;Énergie et télécoms;;20 188,19;933 697,29
+24/07/2026;CIH Bank;Règlement client;Encaissements clients;128 604,81;;2 518 029,97
+24/07/2026;CIH Bank;Règlement client;Encaissements clients;153 144,96;;2 671 174,93
+24/07/2026;Attijariwafa bank;Fournisseurs;Fournisseurs;;98 583,67;835 113,62
+25/07/2026;Attijariwafa bank;Règlement client;Encaissements clients;218 265,84;;1 053 379,45
+25/07/2026;CIH Bank;Impôt sur les sociétés;Impôt sur les sociétés;;18 722,29;2 652 452,64
+27/07/2026;Attijariwafa bank;Impôt sur les sociétés;Impôt sur les sociétés;;16 389,50;1 036 989,95
+27/07/2026;Attijariwafa bank;Échéance d'emprunt;Échéance d'emprunt;;255 028,75;781 961,20
+28/07/2026;CIH Bank;Règlement client;Encaissements clients;199 803,78;;2 852 256,42
+28/07/2026;Attijariwafa bank;Salaires;Salaires;;437 575,24;344 385,96
+02/08/2026;CIH Bank;Règlement client;Encaissements clients;200 219,61;;3 052 476,04
+03/08/2026;CIH Bank;Règlement client;Encaissements clients;201 241,93;;3 253 717,97
+03/08/2026;CIH Bank;Loyer et charges;Loyer et charges;;32 750,95;3 220 967,02
+04/08/2026;Attijariwafa bank;Règlement client;Encaissements clients;139 361,66;;483 747,62
+05/08/2026;Attijariwafa bank;Règlement client;Encaissements clients;105 514,46;;589 262,07
+05/08/2026;Attijariwafa bank;Règlement client;Encaissements clients;130 566,49;;719 828,57
+06/08/2026;Attijariwafa bank;Fournisseurs;Fournisseurs;;110 381,80;609 446,77
+06/08/2026;CIH Bank;Énergie et télécoms;Énergie et télécoms;;25 391,69;3 195 575,33
+08/08/2026;CIH Bank;Règlement client;Encaissements clients;116 921,83;;3 312 497,17
+09/08/2026;CIH Bank;Échéance d'emprunt;Échéance d'emprunt;;297 285,82;3 015 211,34
+09/08/2026;Attijariwafa bank;Énergie et télécoms;Énergie et télécoms;;22 380,39;587 066,38
+10/08/2026;Attijariwafa bank;CNSS;CNSS;;95 402,80;491 663,58
+10/08/2026;CIH Bank;TVA à payer;TVA à payer;;53 695,19;2 961 516,16
+11/08/2026;Attijariwafa bank;Règlement client;Encaissements clients;170 133,99;;661 797,57
+11/08/2026;CIH Bank;Investissements;Investissements;;53 541,07;2 907 975,09
+12/08/2026;Attijariwafa bank;Règlement client;Encaissements clients;155 415,49;;817 213,06
+12/08/2026;Attijariwafa bank;Investissements;Investissements;;50 643,59;766 569,46
+14/08/2026;CIH Bank;Loyer et charges;Loyer et charges;;34 849,33;2 873 125,77
+15/08/2026;Attijariwafa bank;Règlement client;Encaissements clients;117 150,15;;883 719,61
+15/08/2026;CIH Bank;Impôt sur les sociétés;Impôt sur les sociétés;;19 866,62;2 853 259,14
+15/08/2026;Attijariwafa bank;Loyer et charges;Loyer et charges;;32 747,24;850 972,37
+16/08/2026;Attijariwafa bank;Fournisseurs;Fournisseurs;;103 953,04;747 019,33
+16/08/2026;CIH Bank;Impôt sur les sociétés;Impôt sur les sociétés;;17 877,78;2 835 381,36
+16/08/2026;Attijariwafa bank;Loyer et charges;Loyer et charges;;43 465,52;703 553,81
+17/08/2026;Attijariwafa bank;Énergie et télécoms;Énergie et télécoms;;22 492,91;681 060,90
+18/08/2026;CIH Bank;Règlement client;Encaissements clients;101 777,91;;2 937 159,27
+19/08/2026;CIH Bank;Fournisseurs;Fournisseurs;;94 186,07;2 842 973,20
+19/08/2026;Attijariwafa bank;TVA à payer;TVA à payer;;63 659,29;617 401,61
+20/08/2026;Attijariwafa bank;Investissements;Investissements;;50 414,60;566 987,01
+21/08/2026;Attijariwafa bank;Règlement client;Encaissements clients;114 745,55;;681 732,56
+21/08/2026;CIH Bank;Impôt sur les sociétés;Impôt sur les sociétés;;16 926,98;2 826 046,23
+21/08/2026;CIH Bank;TVA à payer;TVA à payer;;55 337,05;2 770 709,17
+22/08/2026;CIH Bank;Règlement client;Encaissements clients;121 416,30;;2 892 125,48
+23/08/2026;Attijariwafa bank;Règlement client;Encaissements clients;114 121,96;;795 854,52
+23/08/2026;Attijariwafa bank;Fournisseurs;Fournisseurs;;115 713,95;680 140,57
+23/08/2026;Attijariwafa bank;TVA à payer;TVA à payer;;53 922,93;626 217,64
+24/08/2026;Attijariwafa bank;Règlement client;Encaissements clients;126 806,11;;753 023,75
+24/08/2026;CIH Bank;Impôts et taxes;Impôts et taxes;;19 750,63;2 872 374,85
+24/08/2026;CIH Bank;Énergie et télécoms;Énergie et télécoms;;23 978,09;2 848 396,75
+26/08/2026;CIH Bank;Impôt sur les sociétés;Impôt sur les sociétés;;21 122,29;2 827 274,46
+27/08/2026;CIH Bank;Règlement client;Encaissements clients;113 563,36;;2 940 837,82
+27/08/2026;Attijariwafa bank;Investissements;Investissements;;44 237,07;708 786,67
+28/08/2026;Attijariwafa bank;Salaires;Salaires;;370 049,15;338 737,52
+03/09/2026;CIH Bank;Règlement client;Encaissements clients;168 913,23;;3 109 751,06
+03/09/2026;CIH Bank;Investissements;Investissements;;53 351,75;3 056 399,31
+04/09/2026;Attijariwafa bank;Fournisseurs;Fournisseurs;;118 848,91;219 888,61
+04/09/2026;Attijariwafa bank;Impôt sur les sociétés;Impôt sur les sociétés;;16 033,99;203 854,62
+06/09/2026;Attijariwafa bank;Loyer et charges;Loyer et charges;;35 414,84;168 439,78
+06/09/2026;CIH Bank;TVA à payer;TVA à payer;;57 709,69;2 998 689,63
+07/09/2026;Attijariwafa bank;Règlement client;Encaissements clients;130 218,47;;298 658,25
+07/09/2026;CIH Bank;Règlement client;Encaissements clients;159 958,21;;3 158 647,83
+07/09/2026;Attijariwafa bank;Règlement client;Encaissements clients;168 118,67;;466 776,92
+07/09/2026;CIH Bank;Fournisseurs;Fournisseurs;;102 103,78;3 056 544,05
+07/09/2026;Attijariwafa bank;Loyer et charges;Loyer et charges;;43 591,12;423 185,79
+07/09/2026;Attijariwafa bank;TVA à payer;TVA à payer;;60 759,26;362 426,53
+08/09/2026;Attijariwafa bank;TVA à payer;TVA à payer;;53 233,87;309 192,66
+08/09/2026;Attijariwafa bank;Énergie et télécoms;Énergie et télécoms;;21 158,19;288 034,48
+09/09/2026;Attijariwafa bank;Investissements;Investissements;;43 264,79;244 769,69
+09/09/2026;CIH Bank;Loyer et charges;Loyer et charges;;34 402,24;3 022 141,80
+10/09/2026;Attijariwafa bank;Règlement client;Encaissements clients;141 015,18;;385 784,86
+10/09/2026;Attijariwafa bank;CNSS;CNSS;;82 419,22;303 365,64
+11/09/2026;CIH Bank;TVA à payer;TVA à payer;;61 444,76;2 960 697,04
+11/09/2026;CIH Bank;Échéance d'emprunt;Échéance d'emprunt;;312 303,34;2 648 393,70
+11/09/2026;Attijariwafa bank;Énergie et télécoms;Énergie et télécoms;;24 855,25;278 510,39
+12/09/2026;CIH Bank;Règlement client;Encaissements clients;116 288,59;;2 764 682,29
+12/09/2026;CIH Bank;Règlement client;Encaissements clients;219 592,35;;2 984 274,63
+12/09/2026;CIH Bank;Énergie et télécoms;Énergie et télécoms;;22 435,23;2 961 839,41
+14/09/2026;Attijariwafa bank;Impôt sur les sociétés;Impôt sur les sociétés;;19 425,82;259 084,57
+16/09/2026;Attijariwafa bank;Fournisseurs;Fournisseurs;;102 867,78;156 216,79
+17/09/2026;Attijariwafa bank;Règlement client;Encaissements clients;99 323,44;;255 540,23
+17/09/2026;CIH Bank;Règlement client;Encaissements clients;100 899,29;;3 062 738,69
+17/09/2026;Attijariwafa bank;Investissements;Investissements;;53 820,55;201 719,68
+18/09/2026;Attijariwafa bank;Règlement client;Encaissements clients;174 525,95;;376 245,63
+20/09/2026;CIH Bank;Règlement client;Encaissements clients;119 468,74;;3 182 207,43
+20/09/2026;Attijariwafa bank;Règlement client;Encaissements clients;152 134,77;;528 380,39
+20/09/2026;CIH Bank;Règlement client;Encaissements clients;154 527,91;;3 336 735,34
+21/09/2026;CIH Bank;Règlement client;Encaissements clients;178 734,38;;3 515 469,73
+22/09/2026;CIH Bank;Règlement client;Encaissements clients;133 993,46;;3 649 463,19
+22/09/2026;Attijariwafa bank;Impôt sur les sociétés;Impôt sur les sociétés;;16 984,07;511 396,32
+24/09/2026;Attijariwafa bank;Fournisseurs;Fournisseurs;;100 643,34;410 752,98
+24/09/2026;CIH Bank;Impôt sur les sociétés;Impôt sur les sociétés;;17 803,29;3 631 659,90
+24/09/2026;CIH Bank;Impôts et taxes;Impôts et taxes;;15 483,79;3 616 176,11
+24/09/2026;Attijariwafa bank;Loyer et charges;Loyer et charges;;33 965,80;376 787,18
+25/09/2026;CIH Bank;Investissements;Investissements;;47 119,76;3 569 056,35
+25/09/2026;Attijariwafa bank;Énergie et télécoms;Énergie et télécoms;;22 730,37;354 056,81
+28/09/2026;Attijariwafa bank;Salaires;Salaires;;413 445,72;-59 388,91

@@ -1,0 +1,421 @@
+﻿Date facture;Client;Produit;Commercial;Ville;Canal;Quantité;Montant HT;Coût de revient;Statut paiement;Échéance;Objectif mensuel
+05/01/2026;Renault Tanger;Tôle découpée laser (lot);Adil;Tanger;Automobile;31;38 169,96;27 280,00;Réglé;06/03/2026;2600000
+05/01/2026;Renault Tanger;Tôle découpée laser (lot);Adil;Tanger;Automobile;13;15 835,12;11 440,00;Réglé;06/03/2026;2600000
+06/01/2026;Stellantis Kénitra;Support moteur acier;Sanae;Kénitra;Automobile;1075;53 703,50;36 550,00;Réglé;07/03/2026;2600000
+07/01/2026;Stellantis Kénitra;Carter de protection;Adil;Kénitra;Automobile;364;58 460,03;42 952,00;Réglé;08/03/2026;2600000
+08/01/2026;Stellantis Kénitra;Tôle découpée laser (lot);Mehdi;Kénitra;Automobile;14;17 670,88;12 320,00;Réglé;09/03/2026;2600000
+08/01/2026;Bâtimat Distribution;Châssis tubulaire;Mehdi;Casablanca;BTP;84;34 280,17;25 200,00;Réglé;09/03/2026;2600000
+08/01/2026;Stellantis Kénitra;Pièce pliée inox;Adil;Kénitra;Automobile;480;46 744,05;29 280,00;Réglé;09/03/2026;2600000
+09/01/2026;Stellantis Kénitra;Support moteur acier;Adil;Kénitra;Automobile;958;46 377,29;32 572,00;Réglé;10/03/2026;2600000
+09/01/2026;Stellantis Kénitra;Support moteur acier;Mehdi;Kénitra;Automobile;778;38 561,00;26 452,00;Réglé;10/03/2026;2600000
+10/01/2026;Renault Tanger;Support moteur acier;Adil;Tanger;Automobile;779;38 221,82;26 486,00;Non réglé;11/03/2026;2600000
+12/01/2026;Yazaki Morocco;Support moteur acier;Adil;Kénitra;Automobile;1156;53 395,52;39 304,00;Réglé;13/03/2026;2600000
+13/01/2026;Stellantis Kénitra;Pièce pliée inox;Adil;Kénitra;Automobile;490;46 072,45;29 890,00;Réglé;14/03/2026;2600000
+14/01/2026;Stellantis Kénitra;Support moteur acier;Sanae;Kénitra;Automobile;1482;74 018,85;50 388,00;Réglé;15/03/2026;2600000
+15/01/2026;Export Espagne;Pièce pliée inox;Adil;Export;Export;389;35 121,75;23 729,00;Réglé;16/03/2026;2600000
+16/01/2026;Stellantis Kénitra;Châssis tubulaire;Adil;Kénitra;Automobile;36;15 265,34;10 800,00;Réglé;17/03/2026;2600000
+16/01/2026;Bâtimat Distribution;Carter de protection;Adil;Casablanca;BTP;298;47 419,30;35 164,00;Non réglé;17/03/2026;2600000
+17/01/2026;Lear Corporation;Tôle découpée laser (lot);Adil;Kénitra;Automobile;25;31 017,95;22 000,00;Réglé;18/03/2026;2600000
+19/01/2026;Export Espagne;Support moteur acier;Mehdi;Export;Export;293;13 955,61;9 962,00;Non réglé;20/03/2026;2600000
+19/01/2026;Lear Corporation;Châssis tubulaire;Mehdi;Kénitra;Automobile;50;20 522,41;15 000,00;Réglé;20/03/2026;2600000
+20/01/2026;Stellantis Kénitra;Carter de protection;Adil;Kénitra;Automobile;73;11 253,51;8 614,00;Réglé;21/03/2026;2600000
+20/01/2026;Export Espagne;Carter de protection;Sanae;Export;Export;52;8 177,65;6 136,00;Réglé;21/03/2026;2600000
+20/01/2026;Yazaki Morocco;Pièce pliée inox;Adil;Kénitra;Automobile;588;57 577,65;35 868,00;Réglé;21/03/2026;2600000
+21/01/2026;Renault Tanger;Tôle découpée laser (lot);Mehdi;Tanger;Automobile;11;14 373,08;9 680,00;Réglé;22/03/2026;2600000
+21/01/2026;Renault Tanger;Support moteur acier;Adil;Tanger;Automobile;367;17 499,24;12 478,00;Réglé;22/03/2026;2600000
+22/01/2026;Stellantis Kénitra;Tôle découpée laser (lot);Sanae;Kénitra;Automobile;29;37 749,81;25 520,00;Réglé;23/03/2026;2600000
+22/01/2026;Bâtimat Distribution;Pièce pliée inox;Mehdi;Casablanca;BTP;232;22 178,93;14 152,00;Réglé;23/03/2026;2600000
+23/01/2026;Stellantis Kénitra;Carter de protection;Sanae;Kénitra;Automobile;160;24 830,78;18 880,00;Réglé;24/03/2026;2600000
+23/01/2026;Stellantis Kénitra;Carter de protection;Sanae;Kénitra;Automobile;72;11 511,48;8 496,00;Réglé;24/03/2026;2600000
+23/01/2026;Stellantis Kénitra;Pièce pliée inox;Sanae;Kénitra;Automobile;403;36 454,84;24 583,00;Réglé;24/03/2026;2600000
+24/01/2026;Lear Corporation;Carter de protection;Sanae;Kénitra;Automobile;69;11 582,51;8 142,00;Réglé;25/03/2026;2600000
+26/01/2026;Bâtimat Distribution;Châssis tubulaire;Adil;Casablanca;BTP;19;7 609,86;5 700,00;Réglé;27/03/2026;2600000
+26/01/2026;Stellantis Kénitra;Carter de protection;Adil;Kénitra;Automobile;139;22 314,70;16 402,00;Réglé;27/03/2026;2600000
+26/01/2026;Stellantis Kénitra;Carter de protection;Adil;Kénitra;Automobile;63;10 215,40;7 434,00;Réglé;27/03/2026;2600000
+27/01/2026;Stellantis Kénitra;Pièce pliée inox;Adil;Kénitra;Automobile;447;42 556,82;27 267,00;Réglé;28/03/2026;2600000
+27/01/2026;Stellantis Kénitra;Support moteur acier;Sanae;Kénitra;Automobile;384;19 135,83;13 056,00;Non réglé;28/03/2026;2600000
+28/01/2026;Renault Tanger;Pièce pliée inox;Mehdi;Tanger;Automobile;543;50 530,40;33 123,00;Réglé;29/03/2026;2600000
+29/01/2026;Stellantis Kénitra;Tôle découpée laser (lot);Mehdi;Kénitra;Automobile;9;10 992,30;7 920,00;Réglé;30/03/2026;2600000
+29/01/2026;Bâtimat Distribution;Pièce pliée inox;Adil;Casablanca;BTP;289;26 524,25;17 629,00;Réglé;30/03/2026;2600000
+29/01/2026;Renault Tanger;Châssis tubulaire;Sanae;Tanger;Automobile;32;13 627,40;9 600,00;Réglé;30/03/2026;2600000
+30/01/2026;Stellantis Kénitra;Pièce pliée inox;Mehdi;Kénitra;Automobile;422;41 623,35;25 742,00;Réglé;31/03/2026;2600000
+31/01/2026;Stellantis Kénitra;Châssis tubulaire;Sanae;Kénitra;Automobile;103;42 559,05;30 900,00;Réglé;01/04/2026;2600000
+02/02/2026;Stellantis Kénitra;Tôle découpée laser (lot);Adil;Kénitra;Automobile;30;39 047,47;26 400,00;Réglé;03/04/2026;2600000
+02/02/2026;Lear Corporation;Châssis tubulaire;Mehdi;Kénitra;Automobile;110;48 051,16;33 000,00;Réglé;03/04/2026;2600000
+02/02/2026;Yazaki Morocco;Carter de protection;Adil;Kénitra;Automobile;108;16 436,96;12 744,00;Réglé;03/04/2026;2600000
+03/02/2026;Bâtimat Distribution;Support moteur acier;Mehdi;Casablanca;BTP;602;28 421,30;20 468,00;Réglé;04/04/2026;2600000
+04/02/2026;Stellantis Kénitra;Tôle découpée laser (lot);Mehdi;Kénitra;Automobile;36;44 641,70;31 680,00;Réglé;05/04/2026;2600000
+04/02/2026;Stellantis Kénitra;Pièce pliée inox;Adil;Kénitra;Automobile;705;66 790,96;43 005,00;Réglé;05/04/2026;2600000
+04/02/2026;Stellantis Kénitra;Pièce pliée inox;Mehdi;Kénitra;Automobile;335;30 859,97;20 435,00;Réglé;05/04/2026;2600000
+05/02/2026;Export Espagne;Tôle découpée laser (lot);Sanae;Export;Export;28;35 619,71;24 640,00;Réglé;06/04/2026;2600000
+05/02/2026;Stellantis Kénitra;Pièce pliée inox;Sanae;Kénitra;Automobile;729;65 886,62;44 469,00;Réglé;06/04/2026;2600000
+05/02/2026;Export Espagne;Tôle découpée laser (lot);Adil;Export;Export;34;41 020,11;29 920,00;Réglé;06/04/2026;2600000
+06/02/2026;Renault Tanger;Pièce pliée inox;Mehdi;Tanger;Automobile;529;48 079,72;32 269,00;Réglé;07/04/2026;2600000
+06/02/2026;Yazaki Morocco;Carter de protection;Adil;Kénitra;Automobile;297;45 144,86;35 046,00;Réglé;07/04/2026;2600000
+06/02/2026;Lear Corporation;Pièce pliée inox;Adil;Kénitra;Automobile;692;66 608,09;42 212,00;Réglé;07/04/2026;2600000
+07/02/2026;Export Espagne;Châssis tubulaire;Sanae;Export;Export;98;42 613,77;29 400,00;Réglé;08/04/2026;2600000
+07/02/2026;Stellantis Kénitra;Support moteur acier;Sanae;Kénitra;Automobile;699;33 612,60;23 766,00;Réglé;08/04/2026;2600000
+07/02/2026;Renault Tanger;Châssis tubulaire;Mehdi;Tanger;Automobile;22;9 506,82;6 600,00;Réglé;08/04/2026;2600000
+09/02/2026;Stellantis Kénitra;Carter de protection;Sanae;Kénitra;Automobile;373;61 480,51;44 014,00;Réglé;10/04/2026;2600000
+09/02/2026;Export Espagne;Carter de protection;Mehdi;Export;Export;318;53 183,02;37 524,00;Réglé;10/04/2026;2600000
+10/02/2026;Stellantis Kénitra;Pièce pliée inox;Sanae;Kénitra;Automobile;158;14 461,51;9 638,00;Réglé;11/04/2026;2600000
+12/02/2026;Renault Tanger;Tôle découpée laser (lot);Adil;Tanger;Automobile;12;14 877,85;10 560,00;Réglé;13/04/2026;2600000
+12/02/2026;Yazaki Morocco;Carter de protection;Mehdi;Kénitra;Automobile;89;14 548,85;10 502,00;Réglé;13/04/2026;2600000
+13/02/2026;Stellantis Kénitra;Carter de protection;Mehdi;Kénitra;Automobile;247;41 068,09;29 146,00;Réglé;14/04/2026;2600000
+13/02/2026;Stellantis Kénitra;Support moteur acier;Mehdi;Kénitra;Automobile;1213;60 691,62;41 242,00;Réglé;14/04/2026;2600000
+14/02/2026;Lear Corporation;Châssis tubulaire;Adil;Kénitra;Automobile;27;11 459,62;8 100,00;Réglé;15/04/2026;2600000
+14/02/2026;Renault Tanger;Carter de protection;Adil;Tanger;Automobile;176;27 160,97;20 768,00;Réglé;15/04/2026;2600000
+17/02/2026;Bâtimat Distribution;Support moteur acier;Sanae;Casablanca;BTP;653;30 492,24;22 202,00;Réglé;18/04/2026;2600000
+17/02/2026;Stellantis Kénitra;Tôle découpée laser (lot);Mehdi;Kénitra;Automobile;37;46 774,67;32 560,00;Réglé;18/04/2026;2600000
+17/02/2026;Stellantis Kénitra;Support moteur acier;Adil;Kénitra;Automobile;1243;58 807,30;42 262,00;Réglé;18/04/2026;2600000
+18/02/2026;Export Espagne;Châssis tubulaire;Adil;Export;Export;116;47 092,48;34 800,00;Réglé;19/04/2026;2600000
+18/02/2026;Stellantis Kénitra;Carter de protection;Adil;Kénitra;Automobile;338;52 373,88;39 884,00;Réglé;19/04/2026;2600000
+18/02/2026;Renault Tanger;Carter de protection;Sanae;Tanger;Automobile;230;38 390,42;27 140,00;Réglé;19/04/2026;2600000
+19/02/2026;Export Espagne;Tôle découpée laser (lot);Mehdi;Export;Export;9;10 781,38;7 920,00;Réglé;20/04/2026;2600000
+20/02/2026;Lear Corporation;Support moteur acier;Mehdi;Kénitra;Automobile;1214;58 852,08;41 276,00;Réglé;21/04/2026;2600000
+20/02/2026;Stellantis Kénitra;Carter de protection;Mehdi;Kénitra;Automobile;79;12 926,81;9 322,00;Réglé;21/04/2026;2600000
+20/02/2026;Yazaki Morocco;Tôle découpée laser (lot);Adil;Kénitra;Automobile;28;35 278,43;24 640,00;Réglé;21/04/2026;2600000
+21/02/2026;Renault Tanger;Tôle découpée laser (lot);Mehdi;Tanger;Automobile;24;31 017,03;21 120,00;Réglé;22/04/2026;2600000
+23/02/2026;Stellantis Kénitra;Châssis tubulaire;Sanae;Kénitra;Automobile;45;18 251,20;13 500,00;Réglé;24/04/2026;2600000
+23/02/2026;Lear Corporation;Carter de protection;Adil;Kénitra;Automobile;367;59 137,87;43 306,00;Réglé;24/04/2026;2600000
+24/02/2026;Renault Tanger;Châssis tubulaire;Mehdi;Tanger;Automobile;76;33 318,81;22 800,00;Réglé;25/04/2026;2600000
+25/02/2026;Renault Tanger;Pièce pliée inox;Mehdi;Tanger;Automobile;133;12 742,16;8 113,00;Réglé;26/04/2026;2600000
+25/02/2026;Stellantis Kénitra;Pièce pliée inox;Sanae;Kénitra;Automobile;399;38 713,35;24 339,00;Réglé;26/04/2026;2600000
+27/02/2026;Lear Corporation;Tôle découpée laser (lot);Adil;Kénitra;Automobile;5;6 488,16;4 400,00;Réglé;28/04/2026;2600000
+27/02/2026;Export Espagne;Carter de protection;Adil;Export;Export;103;16 677,82;12 154,00;Réglé;28/04/2026;2600000
+27/02/2026;Bâtimat Distribution;Châssis tubulaire;Mehdi;Casablanca;BTP;59;24 698,14;17 700,00;Réglé;28/04/2026;2600000
+28/02/2026;Bâtimat Distribution;Tôle découpée laser (lot);Adil;Casablanca;BTP;31;37 870,26;27 280,00;Réglé;29/04/2026;2600000
+28/02/2026;Stellantis Kénitra;Tôle découpée laser (lot);Sanae;Kénitra;Automobile;23;28 280,75;20 240,00;Réglé;29/04/2026;2600000
+28/02/2026;Stellantis Kénitra;Pièce pliée inox;Adil;Kénitra;Automobile;317;31 005,26;19 337,00;Réglé;29/04/2026;2600000
+02/03/2026;Lear Corporation;Pièce pliée inox;Adil;Kénitra;Automobile;871;83 607,84;53 131,00;Réglé;01/05/2026;2600000
+02/03/2026;Renault Tanger;Carter de protection;Mehdi;Tanger;Automobile;272;45 655,91;32 096,00;Réglé;01/05/2026;2600000
+02/03/2026;Bâtimat Distribution;Support moteur acier;Sanae;Casablanca;BTP;255;11 818,43;8 670,00;Réglé;01/05/2026;2600000
+03/03/2026;Stellantis Kénitra;Châssis tubulaire;Adil;Kénitra;Automobile;86;34 855,71;25 800,00;Réglé;02/05/2026;2600000
+03/03/2026;Stellantis Kénitra;Support moteur acier;Mehdi;Kénitra;Automobile;768;38 237,76;26 112,00;Réglé;02/05/2026;2600000
+04/03/2026;Stellantis Kénitra;Pièce pliée inox;Adil;Kénitra;Automobile;832;77 975,95;50 752,00;Réglé;03/05/2026;2600000
+05/03/2026;Stellantis Kénitra;Carter de protection;Mehdi;Kénitra;Automobile;367;58 346,75;43 306,00;Non réglé;04/05/2026;2600000
+05/03/2026;Stellantis Kénitra;Pièce pliée inox;Mehdi;Kénitra;Automobile;721;70 313,47;43 981,00;Réglé;04/05/2026;2600000
+05/03/2026;Stellantis Kénitra;Tôle découpée laser (lot);Mehdi;Kénitra;Automobile;30;38 839,87;26 400,00;Réglé;04/05/2026;2600000
+06/03/2026;Stellantis Kénitra;Châssis tubulaire;Adil;Kénitra;Automobile;108;43 662,87;32 400,00;Réglé;05/05/2026;2600000
+06/03/2026;Bâtimat Distribution;Carter de protection;Adil;Casablanca;BTP;156;24 513,19;18 408,00;Réglé;05/05/2026;2600000
+07/03/2026;Bâtimat Distribution;Support moteur acier;Sanae;Casablanca;BTP;1043;50 247,89;35 462,00;Réglé;06/05/2026;2600000
+09/03/2026;Yazaki Morocco;Châssis tubulaire;Adil;Kénitra;Automobile;93;38 337,98;27 900,00;Réglé;08/05/2026;2600000
+10/03/2026;Renault Tanger;Châssis tubulaire;Adil;Tanger;Automobile;26;10 912,17;7 800,00;Non réglé;09/05/2026;2600000
+11/03/2026;Yazaki Morocco;Carter de protection;Sanae;Kénitra;Automobile;340;52 027,98;40 120,00;Réglé;10/05/2026;2600000
+12/03/2026;Export Espagne;Support moteur acier;Adil;Export;Export;569;27 510,23;19 346,00;Réglé;11/05/2026;2600000
+12/03/2026;Renault Tanger;Support moteur acier;Adil;Tanger;Automobile;1370;62 746,71;46 580,00;Réglé;11/05/2026;2600000
+13/03/2026;Renault Tanger;Pièce pliée inox;Sanae;Tanger;Automobile;305;28 209,03;18 605,00;Réglé;12/05/2026;2600000
+13/03/2026;Renault Tanger;Pièce pliée inox;Adil;Tanger;Automobile;491;46 909,15;29 951,00;Réglé;12/05/2026;2600000
+13/03/2026;Stellantis Kénitra;Pièce pliée inox;Adil;Kénitra;Automobile;839;79 375,12;51 179,00;Réglé;12/05/2026;2600000
+14/03/2026;Renault Tanger;Support moteur acier;Sanae;Tanger;Automobile;1434;72 033,34;48 756,00;Réglé;13/05/2026;2600000
+14/03/2026;Stellantis Kénitra;Carter de protection;Adil;Kénitra;Automobile;333;55 654,57;39 294,00;Non réglé;13/05/2026;2600000
+16/03/2026;Stellantis Kénitra;Tôle découpée laser (lot);Mehdi;Kénitra;Automobile;19;23 792,00;16 720,00;Réglé;15/05/2026;2600000
+17/03/2026;Export Espagne;Châssis tubulaire;Mehdi;Export;Export;83;33 818,93;24 900,00;Réglé;16/05/2026;2600000
+18/03/2026;Stellantis Kénitra;Pièce pliée inox;Sanae;Kénitra;Automobile;453;42 640,28;27 633,00;Réglé;17/05/2026;2600000
+18/03/2026;Renault Tanger;Carter de protection;Mehdi;Tanger;Automobile;391;60 315,51;46 138,00;Réglé;17/05/2026;2600000
+18/03/2026;Lear Corporation;Support moteur acier;Adil;Kénitra;Automobile;1018;50 413,65;34 612,00;Réglé;17/05/2026;2600000
+19/03/2026;Stellantis Kénitra;Châssis tubulaire;Adil;Kénitra;Automobile;97;39 730,99;29 100,00;Réglé;18/05/2026;2600000
+19/03/2026;Stellantis Kénitra;Carter de protection;Sanae;Kénitra;Automobile;199;32 199,27;23 482,00;Réglé;18/05/2026;2600000
+20/03/2026;Export Espagne;Tôle découpée laser (lot);Mehdi;Export;Export;18;23 358,74;15 840,00;Réglé;19/05/2026;2600000
+20/03/2026;Stellantis Kénitra;Support moteur acier;Sanae;Kénitra;Automobile;591;29 291,22;20 094,00;Réglé;19/05/2026;2600000
+20/03/2026;Bâtimat Distribution;Support moteur acier;Mehdi;Casablanca;BTP;758;36 510,69;25 772,00;Réglé;19/05/2026;2600000
+21/03/2026;Renault Tanger;Pièce pliée inox;Sanae;Tanger;Automobile;682;65 010,46;41 602,00;Réglé;20/05/2026;2600000
+21/03/2026;Stellantis Kénitra;Carter de protection;Adil;Kénitra;Automobile;71;11 682,83;8 378,00;Réglé;20/05/2026;2600000
+21/03/2026;Stellantis Kénitra;Pièce pliée inox;Sanae;Kénitra;Automobile;869;85 214,74;53 009,00;Réglé;20/05/2026;2600000
+23/03/2026;Lear Corporation;Châssis tubulaire;Sanae;Kénitra;Automobile;114;47 940,48;34 200,00;Non réglé;22/05/2026;2600000
+23/03/2026;Renault Tanger;Support moteur acier;Adil;Tanger;Automobile;512;23 519,37;17 408,00;Réglé;22/05/2026;2600000
+23/03/2026;Renault Tanger;Tôle découpée laser (lot);Sanae;Tanger;Automobile;23;28 087,04;20 240,00;Réglé;22/05/2026;2600000
+24/03/2026;Bâtimat Distribution;Châssis tubulaire;Adil;Casablanca;BTP;60;24 527,73;18 000,00;Réglé;23/05/2026;2600000
+24/03/2026;Yazaki Morocco;Support moteur acier;Adil;Kénitra;Automobile;908;45 163,96;30 872,00;Non réglé;23/05/2026;2600000
+24/03/2026;Renault Tanger;Carter de protection;Adil;Tanger;Automobile;215;35 051,50;25 370,00;Réglé;23/05/2026;2600000
+25/03/2026;Lear Corporation;Support moteur acier;Adil;Kénitra;Automobile;584;27 564,63;19 856,00;Réglé;24/05/2026;2600000
+25/03/2026;Renault Tanger;Tôle découpée laser (lot);Adil;Tanger;Automobile;24;31 397,47;21 120,00;Réglé;24/05/2026;2600000
+26/03/2026;Yazaki Morocco;Châssis tubulaire;Mehdi;Kénitra;Automobile;94;40 199,67;28 200,00;Réglé;25/05/2026;2600000
+27/03/2026;Renault Tanger;Carter de protection;Mehdi;Tanger;Automobile;179;27 695,91;21 122,00;Réglé;26/05/2026;2600000
+27/03/2026;Renault Tanger;Châssis tubulaire;Adil;Tanger;Automobile;60;24 708,98;18 000,00;Réglé;26/05/2026;2600000
+27/03/2026;Renault Tanger;Support moteur acier;Adil;Tanger;Automobile;238;11 576,53;8 092,00;Réglé;26/05/2026;2600000
+28/03/2026;Renault Tanger;Carter de protection;Adil;Tanger;Automobile;57;8 748,59;6 726,00;Réglé;27/05/2026;2600000
+28/03/2026;Stellantis Kénitra;Pièce pliée inox;Mehdi;Kénitra;Automobile;105;10 345,27;6 405,00;Réglé;27/05/2026;2600000
+30/03/2026;Stellantis Kénitra;Châssis tubulaire;Mehdi;Kénitra;Automobile;117;48 148,72;35 100,00;Réglé;29/05/2026;2600000
+31/03/2026;Renault Tanger;Carter de protection;Adil;Tanger;Automobile;397;60 508,78;46 846,00;Réglé;30/05/2026;2600000
+01/04/2026;Yazaki Morocco;Pièce pliée inox;Mehdi;Kénitra;Automobile;322;31 831,93;19 642,00;Réglé;31/05/2026;2600000
+01/04/2026;Bâtimat Distribution;Carter de protection;Sanae;Casablanca;BTP;389;59 635,03;45 902,00;Non réglé;31/05/2026;2600000
+01/04/2026;Lear Corporation;Châssis tubulaire;Mehdi;Kénitra;Automobile;109;44 778,93;32 700,00;Réglé;31/05/2026;2600000
+02/04/2026;Yazaki Morocco;Pièce pliée inox;Mehdi;Kénitra;Automobile;228;20 797,16;13 908,00;Réglé;01/06/2026;2600000
+02/04/2026;Bâtimat Distribution;Support moteur acier;Mehdi;Casablanca;BTP;1033;48 259,25;35 122,00;Réglé;01/06/2026;2600000
+03/04/2026;Bâtimat Distribution;Châssis tubulaire;Mehdi;Casablanca;BTP;49;20 327,79;14 700,00;Réglé;02/06/2026;2600000
+03/04/2026;Bâtimat Distribution;Tôle découpée laser (lot);Adil;Casablanca;BTP;9;10 795,39;7 920,00;Réglé;02/06/2026;2600000
+03/04/2026;Stellantis Kénitra;Carter de protection;Sanae;Kénitra;Automobile;155;24 541,29;18 290,00;Réglé;02/06/2026;2600000
+04/04/2026;Yazaki Morocco;Pièce pliée inox;Sanae;Kénitra;Automobile;429;40 679,08;26 169,00;Réglé;03/06/2026;2600000
+06/04/2026;Renault Tanger;Support moteur acier;Sanae;Tanger;Automobile;1121;56 358,91;38 114,00;Réglé;05/06/2026;2600000
+06/04/2026;Export Espagne;Support moteur acier;Sanae;Export;Export;820;40 940,51;27 880,00;Réglé;05/06/2026;2600000
+06/04/2026;Stellantis Kénitra;Support moteur acier;Sanae;Kénitra;Automobile;1172;57 298,31;39 848,00;Réglé;05/06/2026;2600000
+08/04/2026;Lear Corporation;Tôle découpée laser (lot);Adil;Kénitra;Automobile;16;20 000,76;14 080,00;Réglé;07/06/2026;2600000
+08/04/2026;Stellantis Kénitra;Châssis tubulaire;Sanae;Kénitra;Automobile;59;24 056,78;17 700,00;Réglé;07/06/2026;2600000
+09/04/2026;Stellantis Kénitra;Tôle découpée laser (lot);Mehdi;Kénitra;Automobile;15;19 400,54;13 200,00;Réglé;08/06/2026;2600000
+09/04/2026;Yazaki Morocco;Carter de protection;Sanae;Kénitra;Automobile;326;51 038,06;38 468,00;Non réglé;08/06/2026;2600000
+09/04/2026;Yazaki Morocco;Pièce pliée inox;Sanae;Kénitra;Automobile;565;55 702,95;34 465,00;Réglé;08/06/2026;2600000
+10/04/2026;Export Espagne;Châssis tubulaire;Adil;Export;Export;23;9 496,05;6 900,00;Réglé;09/06/2026;2600000
+10/04/2026;Stellantis Kénitra;Châssis tubulaire;Mehdi;Kénitra;Automobile;81;33 288,33;24 300,00;Réglé;09/06/2026;2600000
+11/04/2026;Yazaki Morocco;Châssis tubulaire;Mehdi;Kénitra;Automobile;76;30 894,87;22 800,00;Réglé;10/06/2026;2600000
+11/04/2026;Stellantis Kénitra;Châssis tubulaire;Sanae;Kénitra;Automobile;110;47 283,70;33 000,00;Réglé;10/06/2026;2600000
+13/04/2026;Bâtimat Distribution;Pièce pliée inox;Sanae;Casablanca;BTP;778;72 141,45;47 458,00;Réglé;12/06/2026;2600000
+14/04/2026;Stellantis Kénitra;Support moteur acier;Sanae;Kénitra;Automobile;1483;69 786,43;50 422,00;Réglé;13/06/2026;2600000
+14/04/2026;Bâtimat Distribution;Carter de protection;Sanae;Casablanca;BTP;298;49 721,97;35 164,00;Réglé;13/06/2026;2600000
+15/04/2026;Renault Tanger;Support moteur acier;Sanae;Tanger;Automobile;1081;50 421,21;36 754,00;Réglé;14/06/2026;2600000
+15/04/2026;Bâtimat Distribution;Carter de protection;Adil;Casablanca;BTP;306;51 383,79;36 108,00;Réglé;14/06/2026;2600000
+15/04/2026;Bâtimat Distribution;Support moteur acier;Mehdi;Casablanca;BTP;201;9 481,77;6 834,00;Réglé;14/06/2026;2600000
+16/04/2026;Yazaki Morocco;Support moteur acier;Adil;Kénitra;Automobile;1255;60 472,27;42 670,00;Réglé;15/06/2026;2600000
+16/04/2026;Yazaki Morocco;Tôle découpée laser (lot);Mehdi;Kénitra;Automobile;36;43 525,66;31 680,00;Réglé;15/06/2026;2600000
+16/04/2026;Renault Tanger;Châssis tubulaire;Adil;Tanger;Automobile;20;7 992,04;6 000,00;Réglé;15/06/2026;2600000
+17/04/2026;Stellantis Kénitra;Châssis tubulaire;Mehdi;Kénitra;Automobile;100;40 089,08;30 000,00;Réglé;16/06/2026;2600000
+17/04/2026;Renault Tanger;Tôle découpée laser (lot);Adil;Tanger;Automobile;31;37 448,23;27 280,00;Réglé;16/06/2026;2600000
+17/04/2026;Bâtimat Distribution;Châssis tubulaire;Adil;Casablanca;BTP;83;34 965,98;24 900,00;Réglé;16/06/2026;2600000
+18/04/2026;Export Espagne;Pièce pliée inox;Adil;Export;Export;771;71 409,80;47 031,00;Réglé;17/06/2026;2600000
+18/04/2026;Stellantis Kénitra;Support moteur acier;Sanae;Kénitra;Automobile;1017;49 267,77;34 578,00;Non réglé;17/06/2026;2600000
+20/04/2026;Export Espagne;Carter de protection;Sanae;Export;Export;63;9 735,46;7 434,00;Réglé;19/06/2026;2600000
+20/04/2026;Renault Tanger;Carter de protection;Sanae;Tanger;Automobile;291;44 912,44;34 338,00;Réglé;19/06/2026;2600000
+21/04/2026;Renault Tanger;Châssis tubulaire;Mehdi;Tanger;Automobile;10;4 155,32;3 000,00;Réglé;20/06/2026;2600000
+21/04/2026;Export Espagne;Support moteur acier;Sanae;Export;Export;785;36 814,97;26 690,00;Non réglé;20/06/2026;2600000
+23/04/2026;Stellantis Kénitra;Tôle découpée laser (lot);Mehdi;Kénitra;Automobile;40;49 144,88;35 200,00;Réglé;22/06/2026;2600000
+23/04/2026;Renault Tanger;Support moteur acier;Mehdi;Tanger;Automobile;1402;70 495,85;47 668,00;Réglé;22/06/2026;2600000
+24/04/2026;Stellantis Kénitra;Support moteur acier;Adil;Kénitra;Automobile;522;26 040,68;17 748,00;Non réglé;23/06/2026;2600000
+24/04/2026;Stellantis Kénitra;Pièce pliée inox;Mehdi;Kénitra;Automobile;216;19 839,60;13 176,00;Réglé;23/06/2026;2600000
+25/04/2026;Stellantis Kénitra;Pièce pliée inox;Adil;Kénitra;Automobile;543;49 048,81;33 123,00;Réglé;24/06/2026;2600000
+27/04/2026;Stellantis Kénitra;Pièce pliée inox;Sanae;Kénitra;Automobile;627;61 746,13;38 247,00;Réglé;26/06/2026;2600000
+27/04/2026;Stellantis Kénitra;Châssis tubulaire;Adil;Kénitra;Automobile;15;6 553,47;4 500,00;Réglé;26/06/2026;2600000
+28/04/2026;Export Espagne;Carter de protection;Sanae;Export;Export;296;48 986,23;34 928,00;Réglé;27/06/2026;2600000
+29/04/2026;Lear Corporation;Carter de protection;Mehdi;Kénitra;Automobile;200;30 521,92;23 600,00;Non réglé;28/06/2026;2600000
+29/04/2026;Renault Tanger;Carter de protection;Adil;Tanger;Automobile;296;46 383,37;34 928,00;Réglé;28/06/2026;2600000
+29/04/2026;Export Espagne;Châssis tubulaire;Adil;Export;Export;66;27 421,56;19 800,00;Non réglé;28/06/2026;2600000
+01/05/2026;Lear Corporation;Pièce pliée inox;Adil;Kénitra;Automobile;575;55 098,12;35 075,00;Réglé;30/06/2026;2600000
+01/05/2026;Renault Tanger;Support moteur acier;Adil;Tanger;Automobile;1420;66 800,36;48 280,00;Réglé;30/06/2026;2600000
+02/05/2026;Lear Corporation;Châssis tubulaire;Mehdi;Kénitra;Automobile;37;15 527,08;11 100,00;Réglé;01/07/2026;2600000
+02/05/2026;Stellantis Kénitra;Tôle découpée laser (lot);Sanae;Kénitra;Automobile;30;38 248,30;26 400,00;Réglé;01/07/2026;2600000
+04/05/2026;Stellantis Kénitra;Tôle découpée laser (lot);Mehdi;Kénitra;Automobile;18;22 443,21;15 840,00;Réglé;03/07/2026;2600000
+04/05/2026;Renault Tanger;Support moteur acier;Adil;Tanger;Automobile;965;44 848,51;32 810,00;Non réglé;03/07/2026;2600000
+04/05/2026;Renault Tanger;Châssis tubulaire;Adil;Tanger;Automobile;116;50 370,96;34 800,00;Réglé;03/07/2026;2600000
+05/05/2026;Renault Tanger;Tôle découpée laser (lot);Mehdi;Tanger;Automobile;17;21 381,81;14 960,00;Réglé;04/07/2026;2600000
+06/05/2026;Lear Corporation;Châssis tubulaire;Sanae;Kénitra;Automobile;18;7 273,69;5 400,00;Réglé;05/07/2026;2600000
+07/05/2026;Renault Tanger;Pièce pliée inox;Mehdi;Tanger;Automobile;425;41 709,39;25 925,00;Réglé;06/07/2026;2600000
+08/05/2026;Renault Tanger;Carter de protection;Adil;Tanger;Automobile;146;23 528,65;17 228,00;Réglé;07/07/2026;2600000
+08/05/2026;Lear Corporation;Pièce pliée inox;Sanae;Kénitra;Automobile;287;28 586,04;17 507,00;Non réglé;07/07/2026;2600000
+09/05/2026;Lear Corporation;Pièce pliée inox;Adil;Kénitra;Automobile;766;74 909,44;46 726,00;Réglé;08/07/2026;2600000
+11/05/2026;Export Espagne;Tôle découpée laser (lot);Adil;Export;Export;15;18 054,95;13 200,00;Réglé;10/07/2026;2600000
+11/05/2026;Renault Tanger;Pièce pliée inox;Adil;Tanger;Automobile;756;73 390,53;46 116,00;Réglé;10/07/2026;2600000
+11/05/2026;Bâtimat Distribution;Pièce pliée inox;Mehdi;Casablanca;BTP;838;80 047,49;51 118,00;Non réglé;10/07/2026;2600000
+12/05/2026;Bâtimat Distribution;Support moteur acier;Mehdi;Casablanca;BTP;987;47 439,03;33 558,00;Réglé;11/07/2026;2600000
+12/05/2026;Renault Tanger;Carter de protection;Mehdi;Tanger;Automobile;238;36 551,90;28 084,00;Réglé;11/07/2026;2600000
+12/05/2026;Lear Corporation;Tôle découpée laser (lot);Adil;Kénitra;Automobile;38;47 195,12;33 440,00;Réglé;11/07/2026;2600000
+13/05/2026;Renault Tanger;Pièce pliée inox;Sanae;Tanger;Automobile;733;72 416,60;44 713,00;Réglé;12/07/2026;2600000
+14/05/2026;Renault Tanger;Carter de protection;Adil;Tanger;Automobile;115;18 718,24;13 570,00;Réglé;13/07/2026;2600000
+14/05/2026;Lear Corporation;Support moteur acier;Adil;Kénitra;Automobile;304;15 224,02;10 336,00;Non réglé;13/07/2026;2600000
+15/05/2026;Bâtimat Distribution;Support moteur acier;Sanae;Casablanca;BTP;728;33 541,44;24 752,00;Réglé;14/07/2026;2600000
+15/05/2026;Stellantis Kénitra;Support moteur acier;Mehdi;Kénitra;Automobile;1059;50 996,81;36 006,00;Réglé;14/07/2026;2600000
+16/05/2026;Renault Tanger;Châssis tubulaire;Adil;Tanger;Automobile;47;20 703,20;14 100,00;Réglé;15/07/2026;2600000
+16/05/2026;Renault Tanger;Tôle découpée laser (lot);Adil;Tanger;Automobile;24;30 237,42;21 120,00;Non réglé;15/07/2026;2600000
+18/05/2026;Renault Tanger;Pièce pliée inox;Mehdi;Tanger;Automobile;506;49 239,55;30 866,00;Non réglé;17/07/2026;2600000
+18/05/2026;Bâtimat Distribution;Pièce pliée inox;Mehdi;Casablanca;BTP;371;35 276,40;22 631,00;Réglé;17/07/2026;2600000
+19/05/2026;Stellantis Kénitra;Pièce pliée inox;Adil;Kénitra;Automobile;197;19 351,18;12 017,00;Réglé;18/07/2026;2600000
+19/05/2026;Lear Corporation;Châssis tubulaire;Mehdi;Kénitra;Automobile;116;50 353,11;34 800,00;Réglé;18/07/2026;2600000
+19/05/2026;Renault Tanger;Pièce pliée inox;Mehdi;Tanger;Automobile;452;44 932,79;27 572,00;Réglé;18/07/2026;2600000
+20/05/2026;Bâtimat Distribution;Carter de protection;Sanae;Casablanca;BTP;143;23 943,41;16 874,00;Réglé;19/07/2026;2600000
+21/05/2026;Yazaki Morocco;Tôle découpée laser (lot);Mehdi;Kénitra;Automobile;32;39 932,00;28 160,00;Non réglé;20/07/2026;2600000
+21/05/2026;Lear Corporation;Châssis tubulaire;Adil;Kénitra;Automobile;15;6 415,62;4 500,00;Réglé;20/07/2026;2600000
+21/05/2026;Export Espagne;Support moteur acier;Adil;Export;Export;926;43 929,26;31 484,00;Non réglé;20/07/2026;2600000
+22/05/2026;Export Espagne;Tôle découpée laser (lot);Sanae;Export;Export;26;33 487,87;22 880,00;Non réglé;21/07/2026;2600000
+22/05/2026;Renault Tanger;Châssis tubulaire;Mehdi;Tanger;Automobile;48;20 986,40;14 400,00;Non réglé;21/07/2026;2600000
+22/05/2026;Renault Tanger;Pièce pliée inox;Mehdi;Tanger;Automobile;505;49 856,38;30 805,00;Réglé;21/07/2026;2600000
+26/05/2026;Stellantis Kénitra;Support moteur acier;Mehdi;Kénitra;Automobile;1076;53 455,77;36 584,00;Réglé;25/07/2026;2600000
+26/05/2026;Renault Tanger;Support moteur acier;Sanae;Tanger;Automobile;613;30 401,34;20 842,00;Réglé;25/07/2026;2600000
+28/05/2026;Bâtimat Distribution;Support moteur acier;Mehdi;Casablanca;BTP;948;46 466,52;32 232,00;Non réglé;27/07/2026;2600000
+28/05/2026;Bâtimat Distribution;Tôle découpée laser (lot);Mehdi;Casablanca;BTP;22;28 302,80;19 360,00;Réglé;27/07/2026;2600000
+29/05/2026;Renault Tanger;Support moteur acier;Adil;Tanger;Automobile;471;23 499,66;16 014,00;Réglé;28/07/2026;2600000
+02/06/2026;Renault Tanger;Carter de protection;Sanae;Tanger;Automobile;356;54 819,49;42 008,00;Non réglé;01/08/2026;2600000
+02/06/2026;Stellantis Kénitra;Châssis tubulaire;Sanae;Kénitra;Automobile;46;18 854,40;13 800,00;Réglé;01/08/2026;2600000
+03/06/2026;Export Espagne;Support moteur acier;Sanae;Export;Export;1316;65 895,49;44 744,00;Non réglé;02/08/2026;2600000
+03/06/2026;Export Espagne;Carter de protection;Sanae;Export;Export;101;15 448,18;11 918,00;Réglé;02/08/2026;2600000
+04/06/2026;Lear Corporation;Support moteur acier;Mehdi;Kénitra;Automobile;233;11 694,57;7 922,00;Réglé;03/08/2026;2600000
+04/06/2026;Renault Tanger;Pièce pliée inox;Mehdi;Tanger;Automobile;481;46 225,15;29 341,00;Réglé;03/08/2026;2600000
+05/06/2026;Lear Corporation;Pièce pliée inox;Mehdi;Kénitra;Automobile;515;46 759,28;31 415,00;Réglé;04/08/2026;2600000
+06/06/2026;Stellantis Kénitra;Tôle découpée laser (lot);Adil;Kénitra;Automobile;35;44 650,52;30 800,00;Réglé;05/08/2026;2600000
+06/06/2026;Stellantis Kénitra;Tôle découpée laser (lot);Sanae;Kénitra;Automobile;10;11 992,04;8 800,00;Non réglé;05/08/2026;2600000
+06/06/2026;Bâtimat Distribution;Châssis tubulaire;Sanae;Casablanca;BTP;57;24 512,66;17 100,00;Non réglé;05/08/2026;2600000
+08/06/2026;Lear Corporation;Carter de protection;Adil;Kénitra;Automobile;100;16 264,68;11 800,00;Réglé;07/08/2026;2600000
+08/06/2026;Stellantis Kénitra;Châssis tubulaire;Sanae;Kénitra;Automobile;66;26 670,21;19 800,00;Réglé;07/08/2026;2600000
+08/06/2026;Export Espagne;Support moteur acier;Sanae;Export;Export;1355;65 069,22;46 070,00;Réglé;07/08/2026;2600000
+09/06/2026;Renault Tanger;Châssis tubulaire;Mehdi;Tanger;Automobile;43;17 945,75;12 900,00;Non réglé;08/08/2026;2600000
+09/06/2026;Renault Tanger;Pièce pliée inox;Adil;Tanger;Automobile;731;68 611,59;44 591,00;Réglé;08/08/2026;2600000
+09/06/2026;Stellantis Kénitra;Support moteur acier;Adil;Kénitra;Automobile;865;42 416,41;29 410,00;Réglé;08/08/2026;2600000
+10/06/2026;Bâtimat Distribution;Pièce pliée inox;Sanae;Casablanca;BTP;550;51 744,94;33 550,00;Réglé;09/08/2026;2600000
+13/06/2026;Bâtimat Distribution;Support moteur acier;Sanae;Casablanca;BTP;887;40 498,05;30 158,00;Réglé;12/08/2026;2600000
+15/06/2026;Bâtimat Distribution;Support moteur acier;Adil;Casablanca;BTP;383;17 932,73;13 022,00;Réglé;14/08/2026;2600000
+15/06/2026;Stellantis Kénitra;Carter de protection;Sanae;Kénitra;Automobile;325;54 520,51;38 350,00;Non réglé;14/08/2026;2600000
+16/06/2026;Renault Tanger;Pièce pliée inox;Adil;Tanger;Automobile;142;12 968,98;8 662,00;Réglé;15/08/2026;2600000
+16/06/2026;Lear Corporation;Support moteur acier;Sanae;Kénitra;Automobile;1224;58 320,23;41 616,00;Réglé;15/08/2026;2600000
+16/06/2026;Bâtimat Distribution;Tôle découpée laser (lot);Mehdi;Casablanca;BTP;11;13 700,75;9 680,00;Réglé;15/08/2026;2600000
+17/06/2026;Stellantis Kénitra;Support moteur acier;Sanae;Kénitra;Automobile;1254;61 462,88;42 636,00;Réglé;16/08/2026;2600000
+17/06/2026;Lear Corporation;Support moteur acier;Adil;Kénitra;Automobile;405;18 693,79;13 770,00;Réglé;16/08/2026;2600000
+17/06/2026;Stellantis Kénitra;Carter de protection;Sanae;Kénitra;Automobile;302;47 111,51;35 636,00;Réglé;16/08/2026;2600000
+18/06/2026;Stellantis Kénitra;Support moteur acier;Adil;Kénitra;Automobile;573;28 594,97;19 482,00;Non réglé;17/08/2026;2600000
+19/06/2026;Yazaki Morocco;Tôle découpée laser (lot);Sanae;Kénitra;Automobile;16;19 400,97;14 080,00;Réglé;18/08/2026;2600000
+19/06/2026;Yazaki Morocco;Carter de protection;Sanae;Kénitra;Automobile;167;26 232,17;19 706,00;Réglé;18/08/2026;2600000
+20/06/2026;Stellantis Kénitra;Châssis tubulaire;Sanae;Kénitra;Automobile;102;41 392,76;30 600,00;Réglé;19/08/2026;2600000
+20/06/2026;Lear Corporation;Carter de protection;Adil;Kénitra;Automobile;203;32 643,57;23 954,00;Réglé;19/08/2026;2600000
+20/06/2026;Yazaki Morocco;Pièce pliée inox;Mehdi;Kénitra;Automobile;579;56 972,94;35 319,00;Réglé;19/08/2026;2600000
+22/06/2026;Bâtimat Distribution;Carter de protection;Sanae;Casablanca;BTP;355;56 454,21;41 890,00;Réglé;21/08/2026;2600000
+23/06/2026;Stellantis Kénitra;Support moteur acier;Mehdi;Kénitra;Automobile;1433;68 907,14;48 722,00;Réglé;22/08/2026;2600000
+24/06/2026;Renault Tanger;Châssis tubulaire;Mehdi;Tanger;Automobile;96;40 123,44;28 800,00;Réglé;23/08/2026;2600000
+24/06/2026;Bâtimat Distribution;Carter de protection;Adil;Casablanca;BTP;259;40 269,40;30 562,00;Non réglé;23/08/2026;2600000
+24/06/2026;Renault Tanger;Châssis tubulaire;Adil;Tanger;Automobile;119;50 136,02;35 700,00;Réglé;23/08/2026;2600000
+25/06/2026;Stellantis Kénitra;Carter de protection;Sanae;Kénitra;Automobile;74;12 181,52;8 732,00;Réglé;24/08/2026;2600000
+25/06/2026;Stellantis Kénitra;Pièce pliée inox;Mehdi;Kénitra;Automobile;223;20 739,15;13 603,00;Réglé;24/08/2026;2600000
+26/06/2026;Renault Tanger;Support moteur acier;Adil;Tanger;Automobile;563;27 734,80;19 142,00;Réglé;25/08/2026;2600000
+27/06/2026;Yazaki Morocco;Tôle découpée laser (lot);Mehdi;Kénitra;Automobile;36;47 070,36;31 680,00;Réglé;26/08/2026;2600000
+27/06/2026;Export Espagne;Tôle découpée laser (lot);Sanae;Export;Export;35;43 195,10;30 800,00;Réglé;26/08/2026;2600000
+29/06/2026;Yazaki Morocco;Tôle découpée laser (lot);Adil;Kénitra;Automobile;7;8 599,73;6 160,00;Réglé;28/08/2026;2600000
+29/06/2026;Renault Tanger;Carter de protection;Sanae;Tanger;Automobile;339;53 645,82;40 002,00;Non réglé;28/08/2026;2600000
+30/06/2026;Export Espagne;Tôle découpée laser (lot);Sanae;Export;Export;6;7 666,10;5 280,00;Réglé;29/08/2026;2600000
+30/06/2026;Stellantis Kénitra;Support moteur acier;Adil;Kénitra;Automobile;786;38 516,17;26 724,00;Réglé;29/08/2026;2600000
+01/07/2026;Renault Tanger;Tôle découpée laser (lot);Mehdi;Tanger;Automobile;22;26 328,92;19 360,00;Réglé;30/08/2026;2600000
+01/07/2026;Renault Tanger;Châssis tubulaire;Adil;Tanger;Automobile;108;44 568,28;32 400,00;Réglé;30/08/2026;2600000
+02/07/2026;Stellantis Kénitra;Tôle découpée laser (lot);Mehdi;Kénitra;Automobile;39;48 160,41;34 320,00;Réglé;31/08/2026;2600000
+03/07/2026;Stellantis Kénitra;Tôle découpée laser (lot);Adil;Kénitra;Automobile;35;45 115,75;30 800,00;Réglé;01/09/2026;2600000
+03/07/2026;Renault Tanger;Carter de protection;Mehdi;Tanger;Automobile;98;15 146,23;11 564,00;Non réglé;01/09/2026;2600000
+03/07/2026;Renault Tanger;Pièce pliée inox;Adil;Tanger;Automobile;755;71 365,69;46 055,00;Non réglé;01/09/2026;2600000
+04/07/2026;Stellantis Kénitra;Tôle découpée laser (lot);Adil;Kénitra;Automobile;26;31 762,60;22 880,00;Réglé;02/09/2026;2600000
+06/07/2026;Yazaki Morocco;Support moteur acier;Adil;Kénitra;Automobile;452;22 649,99;15 368,00;Réglé;04/09/2026;2600000
+07/07/2026;Renault Tanger;Tôle découpée laser (lot);Mehdi;Tanger;Automobile;26;31 563,40;22 880,00;Réglé;05/09/2026;2600000
+09/07/2026;Yazaki Morocco;Carter de protection;Sanae;Kénitra;Automobile;225;37 131,06;26 550,00;Réglé;07/09/2026;2600000
+10/07/2026;Yazaki Morocco;Châssis tubulaire;Adil;Kénitra;Automobile;78;32 550,61;23 400,00;Réglé;08/09/2026;2600000
+10/07/2026;Renault Tanger;Châssis tubulaire;Mehdi;Tanger;Automobile;55;21 947,42;16 500,00;Réglé;08/09/2026;2600000
+10/07/2026;Renault Tanger;Tôle découpée laser (lot);Mehdi;Tanger;Automobile;38;48 387,20;33 440,00;Réglé;08/09/2026;2600000
+11/07/2026;Renault Tanger;Pièce pliée inox;Adil;Tanger;Automobile;362;34 510,36;22 082,00;Réglé;09/09/2026;2600000
+11/07/2026;Renault Tanger;Support moteur acier;Adil;Tanger;Automobile;1273;60 819,54;43 282,00;Réglé;09/09/2026;2600000
+11/07/2026;Lear Corporation;Carter de protection;Sanae;Kénitra;Automobile;251;38 954,61;29 618,00;Réglé;09/09/2026;2600000
+13/07/2026;Stellantis Kénitra;Carter de protection;Adil;Kénitra;Automobile;75;11 640,86;8 850,00;Réglé;11/09/2026;2600000
+13/07/2026;Export Espagne;Carter de protection;Adil;Export;Export;102;16 989,05;12 036,00;Réglé;11/09/2026;2600000
+14/07/2026;Stellantis Kénitra;Tôle découpée laser (lot);Adil;Kénitra;Automobile;31;37 373,25;27 280,00;Réglé;12/09/2026;2600000
+15/07/2026;Stellantis Kénitra;Support moteur acier;Adil;Kénitra;Automobile;554;26 925,48;18 836,00;Réglé;13/09/2026;2600000
+15/07/2026;Yazaki Morocco;Pièce pliée inox;Mehdi;Kénitra;Automobile;686;65 684,20;41 846,00;Réglé;13/09/2026;2600000
+15/07/2026;Stellantis Kénitra;Support moteur acier;Adil;Kénitra;Automobile;1277;62 282,25;43 418,00;Non réglé;13/09/2026;2600000
+16/07/2026;Bâtimat Distribution;Support moteur acier;Sanae;Casablanca;BTP;1047;52 318,96;35 598,00;Réglé;14/09/2026;2600000
+16/07/2026;Bâtimat Distribution;Support moteur acier;Sanae;Casablanca;BTP;397;18 688,67;13 498,00;Réglé;14/09/2026;2600000
+17/07/2026;Renault Tanger;Pièce pliée inox;Mehdi;Tanger;Automobile;606;58 548,80;36 966,00;Réglé;15/09/2026;2600000
+18/07/2026;Bâtimat Distribution;Carter de protection;Adil;Casablanca;BTP;52;8 410,44;6 136,00;Réglé;16/09/2026;2600000
+18/07/2026;Export Espagne;Tôle découpée laser (lot);Sanae;Export;Export;23;29 998,70;20 240,00;Réglé;16/09/2026;2600000
+18/07/2026;Renault Tanger;Support moteur acier;Mehdi;Tanger;Automobile;973;47 615,75;33 082,00;Réglé;16/09/2026;2600000
+20/07/2026;Stellantis Kénitra;Pièce pliée inox;Adil;Kénitra;Automobile;672;65 339,21;40 992,00;Réglé;18/09/2026;2600000
+22/07/2026;Stellantis Kénitra;Pièce pliée inox;Mehdi;Kénitra;Automobile;355;32 231,85;21 655,00;Réglé;20/09/2026;2600000
+22/07/2026;Stellantis Kénitra;Châssis tubulaire;Sanae;Kénitra;Automobile;86;34 856,42;25 800,00;Réglé;20/09/2026;2600000
+22/07/2026;Renault Tanger;Tôle découpée laser (lot);Sanae;Tanger;Automobile;32;39 704,61;28 160,00;Réglé;20/09/2026;2600000
+23/07/2026;Lear Corporation;Tôle découpée laser (lot);Sanae;Kénitra;Automobile;37;47 943,70;32 560,00;Réglé;21/09/2026;2600000
+24/07/2026;Renault Tanger;Support moteur acier;Adil;Tanger;Automobile;1463;68 858,06;49 742,00;Réglé;22/09/2026;2600000
+24/07/2026;Stellantis Kénitra;Châssis tubulaire;Mehdi;Kénitra;Automobile;21;8 389,70;6 300,00;Réglé;22/09/2026;2600000
+24/07/2026;Lear Corporation;Pièce pliée inox;Mehdi;Kénitra;Automobile;276;27 214,69;16 836,00;Réglé;22/09/2026;2600000
+25/07/2026;Stellantis Kénitra;Support moteur acier;Mehdi;Kénitra;Automobile;1421;68 933,28;48 314,00;Réglé;23/09/2026;2600000
+25/07/2026;Renault Tanger;Châssis tubulaire;Adil;Tanger;Automobile;19;8 240,79;5 700,00;Réglé;23/09/2026;2600000
+25/07/2026;Stellantis Kénitra;Carter de protection;Sanae;Kénitra;Automobile;308;50 924,42;36 344,00;Réglé;23/09/2026;2600000
+27/07/2026;Yazaki Morocco;Pièce pliée inox;Mehdi;Kénitra;Automobile;146;14 255,01;8 906,00;Réglé;25/09/2026;2600000
+27/07/2026;Bâtimat Distribution;Châssis tubulaire;Adil;Casablanca;BTP;104;42 097,72;31 200,00;Réglé;25/09/2026;2600000
+28/07/2026;Renault Tanger;Support moteur acier;Mehdi;Tanger;Automobile;719;35 997,88;24 446,00;Réglé;26/09/2026;2600000
+28/07/2026;Yazaki Morocco;Tôle découpée laser (lot);Adil;Kénitra;Automobile;31;40 317,31;27 280,00;Réglé;26/09/2026;2600000
+31/07/2026;Export Espagne;Pièce pliée inox;Mehdi;Export;Export;769;73 989,50;46 909,00;Réglé;29/09/2026;2600000
+01/08/2026;Lear Corporation;Carter de protection;Mehdi;Kénitra;Automobile;106;16 547,02;12 508,00;Réglé;30/09/2026;2600000
+01/08/2026;Stellantis Kénitra;Support moteur acier;Sanae;Kénitra;Automobile;958;47 309,30;32 572,00;Réglé;30/09/2026;2600000
+03/08/2026;Bâtimat Distribution;Support moteur acier;Sanae;Casablanca;BTP;968;48 465,14;32 912,00;Réglé;02/10/2026;2600000
+04/08/2026;Lear Corporation;Carter de protection;Adil;Kénitra;Automobile;130;20 040,00;15 340,00;Réglé;03/10/2026;2600000
+04/08/2026;Stellantis Kénitra;Châssis tubulaire;Mehdi;Kénitra;Automobile;67;27 737,64;20 100,00;Réglé;03/10/2026;2600000
+04/08/2026;Stellantis Kénitra;Châssis tubulaire;Sanae;Kénitra;Automobile;83;33 600,67;24 900,00;Réglé;03/10/2026;2600000
+05/08/2026;Renault Tanger;Support moteur acier;Sanae;Tanger;Automobile;1457;67 605,02;49 538,00;Réglé;04/10/2026;2600000
+06/08/2026;Lear Corporation;Support moteur acier;Mehdi;Kénitra;Automobile;932;46 604,73;31 688,00;Réglé;05/10/2026;2600000
+07/08/2026;Export Espagne;Châssis tubulaire;Sanae;Export;Export;37;14 835,01;11 100,00;Réglé;06/10/2026;2600000
+07/08/2026;Export Espagne;Châssis tubulaire;Sanae;Export;Export;31;12 724,24;9 300,00;Réglé;06/10/2026;2600000
+08/08/2026;Renault Tanger;Support moteur acier;Sanae;Tanger;Automobile;299;14 527,67;10 166,00;Non réglé;07/10/2026;2600000
+08/08/2026;Stellantis Kénitra;Pièce pliée inox;Adil;Kénitra;Automobile;190;18 454,04;11 590,00;Réglé;07/10/2026;2600000
+08/08/2026;Stellantis Kénitra;Châssis tubulaire;Adil;Kénitra;Automobile;87;36 613,05;26 100,00;Non réglé;07/10/2026;2600000
+10/08/2026;Stellantis Kénitra;Support moteur acier;Mehdi;Kénitra;Automobile;634;31 669,99;21 556,00;Réglé;09/10/2026;2600000
+11/08/2026;Stellantis Kénitra;Pièce pliée inox;Sanae;Kénitra;Automobile;126;12 389,53;7 686,00;Réglé;10/10/2026;2600000
+12/08/2026;Renault Tanger;Pièce pliée inox;Sanae;Tanger;Automobile;188;18 156,04;11 468,00;Réglé;11/10/2026;2600000
+12/08/2026;Bâtimat Distribution;Pièce pliée inox;Mehdi;Casablanca;BTP;373;37 017,06;22 753,00;Réglé;11/10/2026;2600000
+14/08/2026;Stellantis Kénitra;Carter de protection;Sanae;Kénitra;Automobile;329;50 198,50;38 822,00;Réglé;13/10/2026;2600000
+14/08/2026;Renault Tanger;Carter de protection;Adil;Tanger;Automobile;356;58 460,18;42 008,00;Réglé;13/10/2026;2600000
+15/08/2026;Bâtimat Distribution;Support moteur acier;Mehdi;Casablanca;BTP;1358;66 872,98;46 172,00;Réglé;14/10/2026;2600000
+15/08/2026;Yazaki Morocco;Pièce pliée inox;Mehdi;Kénitra;Automobile;729;70 880,88;44 469,00;Réglé;14/10/2026;2600000
+17/08/2026;Stellantis Kénitra;Carter de protection;Adil;Kénitra;Automobile;154;24 909,72;18 172,00;Réglé;16/10/2026;2600000
+17/08/2026;Lear Corporation;Pièce pliée inox;Sanae;Kénitra;Automobile;740;68 911,48;45 140,00;Réglé;16/10/2026;2600000
+17/08/2026;Lear Corporation;Châssis tubulaire;Sanae;Kénitra;Automobile;34;14 852,79;10 200,00;Réglé;16/10/2026;2600000
+18/08/2026;Stellantis Kénitra;Pièce pliée inox;Sanae;Kénitra;Automobile;558;50 939,97;34 038,00;Réglé;17/10/2026;2600000
+18/08/2026;Stellantis Kénitra;Support moteur acier;Sanae;Kénitra;Automobile;1184;58 762,39;40 256,00;Réglé;17/10/2026;2600000
+18/08/2026;Yazaki Morocco;Support moteur acier;Adil;Kénitra;Automobile;1128;53 123,31;38 352,00;Réglé;17/10/2026;2600000
+19/08/2026;Renault Tanger;Tôle découpée laser (lot);Adil;Tanger;Automobile;34;44 156,36;29 920,00;Réglé;18/10/2026;2600000
+19/08/2026;Stellantis Kénitra;Châssis tubulaire;Mehdi;Kénitra;Automobile;69;30 023,34;20 700,00;Réglé;18/10/2026;2600000
+19/08/2026;Stellantis Kénitra;Support moteur acier;Adil;Kénitra;Automobile;1383;67 454,37;47 022,00;Réglé;18/10/2026;2600000
+20/08/2026;Renault Tanger;Support moteur acier;Adil;Tanger;Automobile;1186;57 585,35;40 324,00;Réglé;19/10/2026;2600000
+21/08/2026;Renault Tanger;Carter de protection;Mehdi;Tanger;Automobile;222;35 379,64;26 196,00;Réglé;20/10/2026;2600000
+21/08/2026;Lear Corporation;Châssis tubulaire;Sanae;Kénitra;Automobile;69;30 311,54;20 700,00;Réglé;20/10/2026;2600000
+22/08/2026;Renault Tanger;Châssis tubulaire;Adil;Tanger;Automobile;58;24 219,19;17 400,00;Réglé;21/10/2026;2600000
+22/08/2026;Renault Tanger;Support moteur acier;Adil;Tanger;Automobile;553;26 635,37;18 802,00;Réglé;21/10/2026;2600000
+22/08/2026;Renault Tanger;Pièce pliée inox;Adil;Tanger;Automobile;130;12 885,93;7 930,00;Non réglé;21/10/2026;2600000
+24/08/2026;Renault Tanger;Pièce pliée inox;Adil;Tanger;Automobile;331;30 847,75;20 191,00;Réglé;23/10/2026;2600000
+24/08/2026;Bâtimat Distribution;Châssis tubulaire;Mehdi;Casablanca;BTP;81;34 186,81;24 300,00;Réglé;23/10/2026;2600000
+24/08/2026;Bâtimat Distribution;Pièce pliée inox;Sanae;Casablanca;BTP;711;70 770,50;43 371,00;Réglé;23/10/2026;2600000
+25/08/2026;Renault Tanger;Carter de protection;Adil;Tanger;Automobile;163;27 382,79;19 234,00;Réglé;24/10/2026;2600000
+25/08/2026;Renault Tanger;Carter de protection;Adil;Tanger;Automobile;96;15 561,36;11 328,00;Réglé;24/10/2026;2600000
+25/08/2026;Stellantis Kénitra;Châssis tubulaire;Adil;Kénitra;Automobile;26;10 843,38;7 800,00;Réglé;24/10/2026;2600000
+26/08/2026;Stellantis Kénitra;Tôle découpée laser (lot);Sanae;Kénitra;Automobile;37;44 589,19;32 560,00;Réglé;25/10/2026;2600000
+26/08/2026;Renault Tanger;Pièce pliée inox;Adil;Tanger;Automobile;606;58 986,78;36 966,00;Réglé;25/10/2026;2600000
+26/08/2026;Renault Tanger;Pièce pliée inox;Sanae;Tanger;Automobile;196;19 451,02;11 956,00;Réglé;25/10/2026;2600000
+27/08/2026;Renault Tanger;Tôle découpée laser (lot);Mehdi;Tanger;Automobile;26;32 193,09;22 880,00;Réglé;26/10/2026;2600000
+27/08/2026;Stellantis Kénitra;Carter de protection;Mehdi;Kénitra;Automobile;111;18 425,96;13 098,00;Réglé;26/10/2026;2600000
+27/08/2026;Renault Tanger;Tôle découpée laser (lot);Sanae;Tanger;Automobile;31;38 862,94;27 280,00;Réglé;26/10/2026;2600000
+28/08/2026;Stellantis Kénitra;Châssis tubulaire;Adil;Kénitra;Automobile;13;5 327,54;3 900,00;Réglé;27/10/2026;2600000
+28/08/2026;Yazaki Morocco;Tôle découpée laser (lot);Adil;Kénitra;Automobile;17;21 640,90;14 960,00;Réglé;27/10/2026;2600000
+28/08/2026;Renault Tanger;Carter de protection;Mehdi;Tanger;Automobile;156;25 430,88;18 408,00;Réglé;27/10/2026;2600000
+29/08/2026;Stellantis Kénitra;Tôle découpée laser (lot);Sanae;Kénitra;Automobile;21;25 694,02;18 480,00;Réglé;28/10/2026;2600000
+29/08/2026;Bâtimat Distribution;Tôle découpée laser (lot);Adil;Casablanca;BTP;15;19 660,95;13 200,00;Réglé;28/10/2026;2600000
+31/08/2026;Renault Tanger;Châssis tubulaire;Adil;Tanger;Automobile;71;30 389,77;21 300,00;Réglé;30/10/2026;2600000
+01/09/2026;Stellantis Kénitra;Support moteur acier;Mehdi;Kénitra;Automobile;947;46 885,61;32 198,00;Réglé;31/10/2026;2600000
+01/09/2026;Lear Corporation;Châssis tubulaire;Sanae;Kénitra;Automobile;27;11 646,24;8 100,00;Réglé;31/10/2026;2600000
+01/09/2026;Renault Tanger;Pièce pliée inox;Adil;Tanger;Automobile;735;68 568,34;44 835,00;Réglé;31/10/2026;2600000
+02/09/2026;Lear Corporation;Support moteur acier;Mehdi;Kénitra;Automobile;380;18 697,71;12 920,00;Réglé;01/11/2026;2600000
+02/09/2026;Stellantis Kénitra;Support moteur acier;Mehdi;Kénitra;Automobile;650;30 567,01;22 100,00;Réglé;01/11/2026;2600000
+03/09/2026;Stellantis Kénitra;Tôle découpée laser (lot);Sanae;Kénitra;Automobile;40;51 877,64;35 200,00;Non réglé;02/11/2026;2600000
+03/09/2026;Bâtimat Distribution;Tôle découpée laser (lot);Sanae;Casablanca;BTP;39;50 839,45;34 320,00;Réglé;02/11/2026;2600000
+03/09/2026;Bâtimat Distribution;Carter de protection;Sanae;Casablanca;BTP;77;12 458,81;9 086,00;Réglé;02/11/2026;2600000
+04/09/2026;Lear Corporation;Support moteur acier;Adil;Kénitra;Automobile;916;45 827,28;31 144,00;Réglé;03/11/2026;2600000
+04/09/2026;Lear Corporation;Tôle découpée laser (lot);Mehdi;Kénitra;Automobile;15;19 438,76;13 200,00;Réglé;03/11/2026;2600000
+04/09/2026;Renault Tanger;Châssis tubulaire;Mehdi;Tanger;Automobile;66;27 627,66;19 800,00;Réglé;03/11/2026;2600000
+05/09/2026;Export Espagne;Carter de protection;Sanae;Export;Export;382;61 500,06;45 076,00;Réglé;04/11/2026;2600000
+05/09/2026;Renault Tanger;Pièce pliée inox;Adil;Tanger;Automobile;814;75 972,97;49 654,00;Réglé;04/11/2026;2600000
+07/09/2026;Stellantis Kénitra;Tôle découpée laser (lot);Sanae;Kénitra;Automobile;34;43 097,08;29 920,00;Réglé;06/11/2026;2600000
+09/09/2026;Bâtimat Distribution;Tôle découpée laser (lot);Sanae;Casablanca;BTP;13;15 655,11;11 440,00;Réglé;08/11/2026;2600000
+10/09/2026;Renault Tanger;Tôle découpée laser (lot);Adil;Tanger;Automobile;38;48 476,87;33 440,00;Réglé;09/11/2026;2600000
+12/09/2026;Renault Tanger;Châssis tubulaire;Mehdi;Tanger;Automobile;18;7 846,54;5 400,00;Réglé;11/11/2026;2600000
+12/09/2026;Renault Tanger;Châssis tubulaire;Mehdi;Tanger;Automobile;117;50 647,40;35 100,00;Réglé;11/11/2026;2600000
+14/09/2026;Lear Corporation;Châssis tubulaire;Adil;Kénitra;Automobile;29;11 846,31;8 700,00;Réglé;13/11/2026;2600000
+15/09/2026;Renault Tanger;Carter de protection;Adil;Tanger;Automobile;81;12 829,74;9 558,00;Réglé;14/11/2026;2600000
+15/09/2026;Renault Tanger;Pièce pliée inox;Adil;Tanger;Automobile;423;40 415,63;25 803,00;Réglé;14/11/2026;2600000
+16/09/2026;Renault Tanger;Support moteur acier;Mehdi;Tanger;Automobile;503;24 235,42;17 102,00;Réglé;15/11/2026;2600000
+17/09/2026;Bâtimat Distribution;Tôle découpée laser (lot);Sanae;Casablanca;BTP;37;47 224,66;32 560,00;Réglé;16/11/2026;2600000
+17/09/2026;Renault Tanger;Tôle découpée laser (lot);Adil;Tanger;Automobile;20;25 349,09;17 600,00;Réglé;16/11/2026;2600000
+18/09/2026;Stellantis Kénitra;Support moteur acier;Mehdi;Kénitra;Automobile;638;31 873,19;21 692,00;Réglé;17/11/2026;2600000
+18/09/2026;Stellantis Kénitra;Tôle découpée laser (lot);Adil;Kénitra;Automobile;12;15 188,99;10 560,00;Réglé;17/11/2026;2600000
+19/09/2026;Export Espagne;Tôle découpée laser (lot);Mehdi;Export;Export;37;45 850,94;32 560,00;Réglé;18/11/2026;2600000
+19/09/2026;Bâtimat Distribution;Carter de protection;Adil;Casablanca;BTP;222;37 249,97;26 196,00;Réglé;18/11/2026;2600000
+19/09/2026;Bâtimat Distribution;Tôle découpée laser (lot);Adil;Casablanca;BTP;11;13 568,06;9 680,00;Non réglé;18/11/2026;2600000
+22/09/2026;Bâtimat Distribution;Support moteur acier;Sanae;Casablanca;BTP;514;25 535,90;17 476,00;Réglé;21/11/2026;2600000
+22/09/2026;Stellantis Kénitra;Pièce pliée inox;Mehdi;Kénitra;Automobile;840;81 871,40;51 240,00;Réglé;21/11/2026;2600000
+23/09/2026;Renault Tanger;Support moteur acier;Mehdi;Tanger;Automobile;916;43 622,54;31 144,00;Réglé;22/11/2026;2600000
+23/09/2026;Renault Tanger;Tôle découpée laser (lot);Mehdi;Tanger;Automobile;9;10 900,10;7 920,00;Réglé;22/11/2026;2600000
+24/09/2026;Stellantis Kénitra;Tôle découpée laser (lot);Sanae;Kénitra;Automobile;14;18 343,18;12 320,00;Réglé;23/11/2026;2600000
+24/09/2026;Renault Tanger;Pièce pliée inox;Mehdi;Tanger;Automobile;827;76 742,76;50 447,00;Réglé;23/11/2026;2600000
+24/09/2026;Stellantis Kénitra;Tôle découpée laser (lot);Mehdi;Kénitra;Automobile;18;22 414,20;15 840,00;Réglé;23/11/2026;2600000
+26/09/2026;Stellantis Kénitra;Châssis tubulaire;Mehdi;Kénitra;Automobile;63;26 150,05;18 900,00;Réglé;25/11/2026;2600000
+26/09/2026;Renault Tanger;Support moteur acier;Adil;Tanger;Automobile;301;14 692,55;10 234,00;Réglé;25/11/2026;2600000
+26/09/2026;Bâtimat Distribution;Tôle découpée laser (lot);Mehdi;Casablanca;BTP;15;19 567,51;13 200,00;Réglé;25/11/2026;2600000
+28/09/2026;Renault Tanger;Carter de protection;Mehdi;Tanger;Automobile;225;34 208,62;26 550,00;Réglé;27/11/2026;2600000
+29/09/2026;Stellantis Kénitra;Carter de protection;Adil;Kénitra;Automobile;147;24 128,02;17 346,00;Réglé;28/11/2026;2600000
+29/09/2026;Bâtimat Distribution;Carter de protection;Sanae;Casablanca;BTP;102;15 543,30;12 036,00;Réglé;28/11/2026;2600000
+29/09/2026;Yazaki Morocco;Tôle découpée laser (lot);Sanae;Kénitra;Automobile;20;24 513,35;17 600,00;Réglé;28/11/2026;2600000
+30/09/2026;Lear Corporation;Tôle découpée laser (lot);Sanae;Kénitra;Automobile;24;28 544,01;21 120,00;Réglé;29/11/2026;2600000

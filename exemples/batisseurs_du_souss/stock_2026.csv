@@ -1,0 +1,21 @@
+﻿Date inventaire;Article;Famille;Dépôt;Quantité en stock;Stock minimum;Prix unitaire;Sorties;Date de péremption
+31/08/2026;Ciment CPJ 45 (sac 50 kg);Matériaux;Dépôt Ait Melloul;683;800;72,00;2604;
+31/08/2026;Sable (m³);Matériaux;Chantier Founty;217;120;180,00;369;
+31/08/2026;Gravette (m³);Matériaux;Chantier Founty;322;120;210,00;379;
+31/08/2026;Rond à béton Ø12 (tonne);Acier;Chantier Founty;4;15;9 200,00;74;
+31/08/2026;Briques 8 trous (millier);Matériaux;Chantier Founty;49;20;2 100,00;33;
+31/08/2026;Adjuvant béton (bidon);Produits;Dépôt Ait Melloul;19;25;380,00;45;08/10/2026
+31/08/2026;Coffrage métallique (m²);Matériel;Dépôt Ait Melloul;105;50;650,00;191;
+31/08/2026;Carrelage grès (m²);Second œuvre;Dépôt Ait Melloul;311;600;95,00;2529;
+31/08/2026;Ancienne bétonnière;Matériel;Chantier Founty;2;1;15 000,00;0;
+31/08/2026;Tubes PVC Ø100 (barre);Réseaux;Chantier Founty;293;300;64,00;1425;
+30/09/2026;Ciment CPJ 45 (sac 50 kg);Matériaux;Dépôt Ait Melloul;2657;800;72,00;1561;
+30/09/2026;Sable (m³);Matériaux;Dépôt Ait Melloul;155;120;180,00;249;
+30/09/2026;Gravette (m³);Matériaux;Dépôt Ait Melloul;227;120;210,00;502;
+30/09/2026;Rond à béton Ø12 (tonne);Acier;Dépôt Ait Melloul;33;15;9 200,00;40;
+30/09/2026;Briques 8 trous (millier);Matériaux;Dépôt Ait Melloul;12;20;2 100,00;44;
+30/09/2026;Adjuvant béton (bidon);Produits;Chantier Founty;48;25;380,00;123;15/04/2027
+30/09/2026;Coffrage métallique (m²);Matériel;Dépôt Ait Melloul;50;50;650,00;82;
+30/09/2026;Carrelage grès (m²);Second œuvre;Dépôt Ait Melloul;487;600;95,00;1573;
+30/09/2026;Ancienne bétonnière;Matériel;Dépôt Ait Melloul;1;1;15 000,00;0;
+30/09/2026;Tubes PVC Ø100 (barre);Réseaux;Chantier Founty;0;300;64,00;1141;

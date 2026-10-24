@@ -1,0 +1,74 @@
+﻿Date facture;Client;Produit;Commercial;Ville;Canal;Quantité;Montant HT;Coût de revient;Statut paiement;Échéance;Objectif mensuel
+03/01/2026;Clinique Ibn Sina Privée;Formation (jour);Associée Tazi;Rabat;Direct;3;26 744,23;10 500,00;Non réglé;04/03/2026;450000
+05/01/2026;Clinique Ibn Sina Privée;Formation (jour);Associée Tazi;Rabat;Direct;1;8 687,98;3 500,00;Réglé;06/03/2026;450000
+09/01/2026;PME industrielles (portefeuille);Conseil fiscal (jour);Associé Benjelloun;Rabat;Direct;5;33 358,41;14 000,00;Réglé;10/03/2026;450000
+15/01/2026;Association professionnelle;Conseil fiscal (jour);Associée Tazi;Rabat;Formation;5;32 342,21;14 000,00;Réglé;16/03/2026;450000
+17/01/2026;PME industrielles (portefeuille);Accompagnement certification ISO (forfait);Associé Benjelloun;Rabat;Direct;1;45 921,63;21 000,00;Réglé;18/03/2026;450000
+23/01/2026;Clinique Ibn Sina Privée;Conseil fiscal (jour);Associée Tazi;Rabat;Direct;5;33 991,43;14 000,00;Réglé;24/03/2026;450000
+24/01/2026;Ministère des Finances;Conseil fiscal (jour);Associé Benjelloun;Rabat;Marchés publics;3;18 819,24;8 400,00;Réglé;25/03/2026;450000
+27/01/2026;Banque régionale;Formation (jour);Associé Benjelloun;Rabat;Direct;5;43 720,99;17 500,00;Réglé;28/03/2026;450000
+05/02/2026;Clinique Ibn Sina Privée;Formation (jour);Associée Tazi;Rabat;Direct;4;36 860,92;14 000,00;Non réglé;06/04/2026;450000
+09/02/2026;Clinique Ibn Sina Privée;Formation (jour);Associé Benjelloun;Rabat;Direct;3;27 193,04;10 500,00;Non réglé;10/04/2026;450000
+10/02/2026;Clinique Ibn Sina Privée;Mission d'audit (jour);Associé Benjelloun;Rabat;Direct;20;145 808,21;64 000,00;Réglé;11/04/2026;450000
+13/02/2026;PME industrielles (portefeuille);Accompagnement certification ISO (forfait);Associée Tazi;Rabat;Direct;1;49 923,42;21 000,00;Non réglé;14/04/2026;450000
+18/02/2026;PME industrielles (portefeuille);Formation (jour);Associée Tazi;Rabat;Direct;1;9 137,29;3 500,00;Réglé;19/04/2026;450000
+20/02/2026;Groupe OCP;Mission d'audit (jour);Associée Tazi;Casablanca;Direct;16;119 931,98;51 200,00;Non réglé;21/04/2026;450000
+21/02/2026;PME industrielles (portefeuille);Formation (jour);Associée Tazi;Rabat;Direct;3;26 463,58;10 500,00;Réglé;22/04/2026;450000
+23/02/2026;PME industrielles (portefeuille);Accompagnement certification ISO (forfait);Associée Tazi;Rabat;Direct;1;48 501,44;21 000,00;Réglé;24/04/2026;450000
+06/03/2026;Ministère des Finances;Accompagnement certification ISO (forfait);Associé Benjelloun;Rabat;Marchés publics;1;45 868,66;21 000,00;Réglé;05/05/2026;450000
+10/03/2026;Groupe OCP;Mission d'audit (jour);Associée Tazi;Casablanca;Direct;21;152 529,22;67 200,00;Réglé;09/05/2026;450000
+11/03/2026;Ministère des Finances;Formation (jour);Associée Tazi;Rabat;Marchés publics;3;26 843,11;10 500,00;Réglé;10/05/2026;450000
+14/03/2026;Groupe OCP;Mission d'audit (jour);Associé Benjelloun;Casablanca;Direct;16;114 121,58;51 200,00;Réglé;13/05/2026;450000
+16/03/2026;Banque régionale;Accompagnement certification ISO (forfait);Associée Tazi;Rabat;Direct;1;47 474,79;21 000,00;Réglé;15/05/2026;450000
+17/03/2026;Banque régionale;Mission d'audit (jour);Associé Benjelloun;Rabat;Direct;20;142 565,66;64 000,00;Réglé;16/05/2026;450000
+03/04/2026;Banque régionale;Mission d'audit (jour);Associé Benjelloun;Rabat;Direct;12;88 887,47;38 400,00;Réglé;02/06/2026;450000
+08/04/2026;Clinique Ibn Sina Privée;Formation (jour);Associée Tazi;Rabat;Direct;4;35 646,61;14 000,00;Réglé;07/06/2026;450000
+15/04/2026;PME industrielles (portefeuille);Formation (jour);Associé Benjelloun;Rabat;Direct;4;34 927,67;14 000,00;Réglé;14/06/2026;450000
+17/04/2026;Clinique Ibn Sina Privée;Conseil fiscal (jour);Associée Tazi;Rabat;Direct;3;19 399,00;8 400,00;Réglé;16/06/2026;450000
+22/04/2026;Banque régionale;Conseil fiscal (jour);Associée Tazi;Rabat;Direct;9;57 253,96;25 200,00;Réglé;21/06/2026;450000
+27/04/2026;PME industrielles (portefeuille);Formation (jour);Associée Tazi;Rabat;Direct;4;37 622,22;14 000,00;Réglé;26/06/2026;450000
+28/04/2026;Clinique Ibn Sina Privée;Formation (jour);Associé Benjelloun;Rabat;Direct;5;44 773,43;17 500,00;Non réglé;27/06/2026;450000
+08/05/2026;Ministère des Finances;Accompagnement certification ISO (forfait);Associée Tazi;Rabat;Marchés publics;1;48 944,87;21 000,00;Réglé;07/07/2026;450000
+15/05/2026;Groupe OCP;Mission d'audit (jour);Associée Tazi;Casablanca;Direct;25;192 720,98;80 000,00;Réglé;14/07/2026;450000
+19/05/2026;Banque régionale;Accompagnement certification ISO (forfait);Associé Benjelloun;Rabat;Direct;1;49 031,06;21 000,00;Réglé;18/07/2026;450000
+20/05/2026;Association professionnelle;Formation (jour);Associé Benjelloun;Rabat;Formation;1;8 922,38;3 500,00;Réglé;19/07/2026;450000
+22/05/2026;PME industrielles (portefeuille);Accompagnement certification ISO (forfait);Associée Tazi;Rabat;Direct;1;48 868,24;21 000,00;Réglé;21/07/2026;450000
+23/05/2026;Groupe OCP;Mission d'audit (jour);Associée Tazi;Casablanca;Direct;8;61 205,42;25 600,00;Réglé;22/07/2026;450000
+26/05/2026;Groupe OCP;Formation (jour);Associée Tazi;Casablanca;Direct;4;34 274,74;14 000,00;Réglé;25/07/2026;450000
+27/05/2026;Association professionnelle;Mission d'audit (jour);Associée Tazi;Rabat;Formation;8;58 086,86;25 600,00;Réglé;26/07/2026;450000
+10/06/2026;Groupe OCP;Accompagnement certification ISO (forfait);Associée Tazi;Casablanca;Direct;1;49 026,85;21 000,00;Non réglé;09/08/2026;450000
+11/06/2026;Ministère des Finances;Accompagnement certification ISO (forfait);Associée Tazi;Rabat;Marchés publics;1;46 708,80;21 000,00;Réglé;10/08/2026;450000
+12/06/2026;Association professionnelle;Mission d'audit (jour);Associée Tazi;Rabat;Formation;25;186 938,51;80 000,00;Réglé;11/08/2026;450000
+16/06/2026;PME industrielles (portefeuille);Mission d'audit (jour);Associé Benjelloun;Rabat;Direct;21;155 350,86;67 200,00;Réglé;15/08/2026;450000
+17/06/2026;Banque régionale;Accompagnement certification ISO (forfait);Associée Tazi;Rabat;Direct;1;47 177,07;21 000,00;Réglé;16/08/2026;450000
+18/06/2026;PME industrielles (portefeuille);Formation (jour);Associé Benjelloun;Rabat;Direct;5;47 030,20;17 500,00;Non réglé;17/08/2026;450000
+24/06/2026;Groupe OCP;Mission d'audit (jour);Associé Benjelloun;Casablanca;Direct;12;87 447,82;38 400,00;Réglé;23/08/2026;450000
+01/07/2026;Banque régionale;Accompagnement certification ISO (forfait);Associé Benjelloun;Rabat;Direct;1;46 117,25;21 000,00;Réglé;30/08/2026;450000
+03/07/2026;Clinique Ibn Sina Privée;Conseil fiscal (jour);Associée Tazi;Rabat;Direct;5;33 494,28;14 000,00;Réglé;01/09/2026;450000
+07/07/2026;PME industrielles (portefeuille);Formation (jour);Associée Tazi;Rabat;Direct;1;9 364,12;3 500,00;Réglé;05/09/2026;450000
+10/07/2026;Groupe OCP;Conseil fiscal (jour);Associé Benjelloun;Casablanca;Direct;5;32 359,53;14 000,00;Réglé;08/09/2026;450000
+11/07/2026;Groupe OCP;Mission d'audit (jour);Associée Tazi;Casablanca;Direct;16;120 438,69;51 200,00;Réglé;09/09/2026;450000
+23/07/2026;Groupe OCP;Conseil fiscal (jour);Associé Benjelloun;Casablanca;Direct;4;26 215,05;11 200,00;Réglé;21/09/2026;450000
+24/07/2026;Ministère des Finances;Mission d'audit (jour);Associé Benjelloun;Rabat;Marchés publics;7;50 361,48;22 400,00;Réglé;22/09/2026;450000
+27/07/2026;PME industrielles (portefeuille);Conseil fiscal (jour);Associé Benjelloun;Rabat;Direct;6;38 947,02;16 800,00;Réglé;25/09/2026;450000
+31/07/2026;Ministère des Finances;Mission d'audit (jour);Associée Tazi;Rabat;Marchés publics;9;70 603,03;28 800,00;Réglé;29/09/2026;450000
+01/08/2026;Ministère des Finances;Conseil fiscal (jour);Associé Benjelloun;Rabat;Marchés publics;3;19 944,09;8 400,00;Réglé;30/09/2026;450000
+04/08/2026;Association professionnelle;Formation (jour);Associée Tazi;Rabat;Formation;2;18 764,87;7 000,00;Non réglé;03/10/2026;450000
+05/08/2026;Banque régionale;Accompagnement certification ISO (forfait);Associée Tazi;Rabat;Direct;1;48 251,10;21 000,00;Réglé;04/10/2026;450000
+08/08/2026;Banque régionale;Accompagnement certification ISO (forfait);Associé Benjelloun;Rabat;Direct;1;50 108,00;21 000,00;Réglé;07/10/2026;450000
+10/08/2026;Ministère des Finances;Formation (jour);Associée Tazi;Rabat;Marchés publics;4;34 892,70;14 000,00;Réglé;09/10/2026;450000
+24/08/2026;Banque régionale;Conseil fiscal (jour);Associé Benjelloun;Rabat;Direct;6;38 955,73;16 800,00;Réglé;23/10/2026;450000
+25/08/2026;Association professionnelle;Accompagnement certification ISO (forfait);Associé Benjelloun;Rabat;Formation;1;50 195,11;21 000,00;Réglé;24/10/2026;450000
+26/08/2026;Ministère des Finances;Mission d'audit (jour);Associé Benjelloun;Rabat;Marchés publics;20;149 456,86;64 000,00;Réglé;25/10/2026;450000
+28/08/2026;PME industrielles (portefeuille);Formation (jour);Associée Tazi;Rabat;Direct;1;8 898,87;3 500,00;Réglé;27/10/2026;450000
+31/08/2026;PME industrielles (portefeuille);Conseil fiscal (jour);Associé Benjelloun;Rabat;Direct;2;12 497,96;5 600,00;Réglé;30/10/2026;450000
+03/09/2026;PME industrielles (portefeuille);Accompagnement certification ISO (forfait);Associé Benjelloun;Rabat;Direct;1;47 820,70;21 000,00;Réglé;02/11/2026;450000
+05/09/2026;PME industrielles (portefeuille);Accompagnement certification ISO (forfait);Associé Benjelloun;Rabat;Direct;1;49 036,80;21 000,00;Non réglé;04/11/2026;450000
+09/09/2026;PME industrielles (portefeuille);Formation (jour);Associée Tazi;Rabat;Direct;5;45 052,08;17 500,00;Réglé;08/11/2026;450000
+17/09/2026;Association professionnelle;Accompagnement certification ISO (forfait);Associée Tazi;Rabat;Formation;1;49 619,71;21 000,00;Réglé;16/11/2026;450000
+22/09/2026;Association professionnelle;Accompagnement certification ISO (forfait);Associé Benjelloun;Rabat;Formation;1;47 378,18;21 000,00;Non réglé;21/11/2026;450000
+23/09/2026;Banque régionale;Conseil fiscal (jour);Associée Tazi;Rabat;Direct;6;40 178,95;16 800,00;Réglé;22/11/2026;450000
+24/09/2026;PME industrielles (portefeuille);Conseil fiscal (jour);Associé Benjelloun;Rabat;Direct;6;40 647,92;16 800,00;Réglé;23/11/2026;450000
+25/09/2026;Banque régionale;Conseil fiscal (jour);Associée Tazi;Rabat;Direct;2;12 692,35;5 600,00;Réglé;24/11/2026;450000
+28/09/2026;Banque régionale;Conseil fiscal (jour);Associée Tazi;Rabat;Direct;2;12 368,00;5 600,00;Réglé;27/11/2026;450000
+30/09/2026;Ministère des Finances;Conseil fiscal (jour);Associé Benjelloun;Rabat;Marchés publics;6;38 044,71;16 800,00;Réglé;29/11/2026;450000

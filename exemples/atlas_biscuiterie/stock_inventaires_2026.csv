@@ -1,0 +1,29 @@
+﻿Date inventaire;Article;Famille;Dépôt;Quantité en stock;Stock minimum;PMP;Sorties;Date péremption
+31/08/2026;Farine T55 (sac 50kg);Matières premières;Dépôt Ain Sebaâ;42;40;310,00;234;04/01/2027
+31/08/2026;Sucre (sac 50kg);Matières premières;Dépôt Ain Sebaâ;99;30;420,00;143;05/11/2026
+31/08/2026;Beurre (carton 10kg);Matières premières;Dépôt Ain Sebaâ;35;25;780,00;127;01/10/2026
+31/08/2026;Œufs (plateau 30);Matières premières;Dépôt Ain Sebaâ;195;60;45,00;213;20/11/2026
+31/08/2026;Chocolat (bloc 5kg);Matières premières;Dépôt Ain Sebaâ;87;20;260,00;115;20/10/2026
+31/08/2026;Film d'emballage;Emballages;Dépôt Ain Sebaâ;64;15;150,00;82;
+31/08/2026;Cartons 40x30;Emballages;Dépôt Ain Sebaâ;267;500;6,00;909;
+31/08/2026;Étiquettes (rouleau);Emballages;Dépôt Ain Sebaâ;57;40;35,00;185;
+31/08/2026;Biscuits 200g;Produits finis;Entrepôt Bouskoura;6413;3000;4,20;6225;19/11/2026
+31/08/2026;Gaufrettes 100g;Produits finis;Entrepôt Bouskoura;9570;4000;2,60;20124;27/10/2026
+31/08/2026;Cakes 300g;Produits finis;Entrepôt Bouskoura;2989;1500;7,50;6635;22/12/2026
+31/08/2026;Levure (boîte 500g);Matières premières;Dépôt Ain Sebaâ;117;30;38,00;100;07/10/2026
+31/08/2026;Arôme vanille (litre);Matières premières;Dépôt Ain Sebaâ;32;10;120,00;20;03/10/2026
+31/08/2026;Palettes bois;Emballages;Dépôt Ain Sebaâ;134;50;85,00;0;
+30/09/2026;Farine T55 (sac 50kg);Matières premières;Dépôt Ain Sebaâ;79;40;310,00;128;30/12/2026
+30/09/2026;Sucre (sac 50kg);Matières premières;Dépôt Ain Sebaâ;58;30;420,00;108;09/10/2026
+30/09/2026;Beurre (carton 10kg);Matières premières;Dépôt Ain Sebaâ;29;25;780,00;65;29/12/2026
+30/09/2026;Œufs (plateau 30);Matières premières;Dépôt Ain Sebaâ;140;60;45,00;248;05/11/2026
+30/09/2026;Chocolat (bloc 5kg);Matières premières;Dépôt Ain Sebaâ;83;20;260,00;87;07/11/2026
+30/09/2026;Film d'emballage;Emballages;Dépôt Ain Sebaâ;23;15;150,00;37;
+30/09/2026;Cartons 40x30;Emballages;Dépôt Ain Sebaâ;1967;500;6,00;1894;
+30/09/2026;Étiquettes (rouleau);Emballages;Dépôt Ain Sebaâ;80;40;35,00;131;
+30/09/2026;Biscuits 200g;Produits finis;Entrepôt Bouskoura;12076;3000;4,20;7975;05/01/2027
+30/09/2026;Gaufrettes 100g;Produits finis;Entrepôt Bouskoura;2753;4000;2,60;10820;22/10/2026
+30/09/2026;Cakes 300g;Produits finis;Entrepôt Bouskoura;2754;1500;7,50;5198;22/11/2026
+30/09/2026;Levure (boîte 500g);Matières premières;Dépôt Ain Sebaâ;63;30;38,00;73;28/09/2026
+30/09/2026;Arôme vanille (litre);Matières premières;Dépôt Ain Sebaâ;0;10;120,00;28;02/01/2027
+30/09/2026;Palettes bois;Emballages;Dépôt Ain Sebaâ;33;50;85,00;0;

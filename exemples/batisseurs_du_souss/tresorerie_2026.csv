@@ -1,0 +1,377 @@
+﻿Date opération;Banque;Libellé;Catégorie;Crédit;Débit;Solde
+03/01/2026;Banque Populaire;Fournisseurs;Fournisseurs;;304 304,17;45 695,83
+03/01/2026;Banque Populaire;Échéance d'emprunt;Échéance d'emprunt;;59 663,68;-13 967,85
+05/01/2026;Crédit Agricole du Maroc;Investissements;Investissements;;10 274,77;139 725,23
+06/01/2026;Crédit Agricole du Maroc;Règlement client;Encaissements clients;96 963,45;;236 688,68
+06/01/2026;Banque Populaire;Fournisseurs;Fournisseurs;;265 813,87;-279 781,72
+08/01/2026;Banque Populaire;Impôt sur les sociétés;Impôt sur les sociétés;;1 041,09;-280 822,80
+08/01/2026;Banque Populaire;Impôt sur les sociétés;Impôt sur les sociétés;;1 043,32;-281 866,12
+08/01/2026;Crédit Agricole du Maroc;Investissements;Investissements;;11 928,98;224 759,70
+08/01/2026;Banque Populaire;TVA à payer;TVA à payer;;26 420,76;-308 286,88
+08/01/2026;Banque Populaire;TVA à payer;TVA à payer;;29 405,00;-337 691,88
+09/01/2026;Crédit Agricole du Maroc;Règlement client;Encaissements clients;111 420,85;;336 180,55
+10/01/2026;Banque Populaire;CNSS;CNSS;;88 100,44;-425 792,32
+12/01/2026;Crédit Agricole du Maroc;Impôts et taxes;Impôts et taxes;;14 429,76;321 750,79
+12/01/2026;Banque Populaire;Énergie et télécoms;Énergie et télécoms;;5 554,35;-431 346,68
+13/01/2026;Banque Populaire;Impôt sur les sociétés;Impôt sur les sociétés;;911,70;-432 258,38
+14/01/2026;Banque Populaire;Règlement client;Encaissements clients;110 661,89;;-321 596,49
+14/01/2026;Banque Populaire;Règlement client;Encaissements clients;142 405,53;;-179 190,96
+14/01/2026;Crédit Agricole du Maroc;Investissements;Investissements;;12 448,52;309 302,27
+14/01/2026;Crédit Agricole du Maroc;Loyer et charges;Loyer et charges;;9 406,91;299 895,37
+15/01/2026;Crédit Agricole du Maroc;Règlement client;Encaissements clients;131 066,15;;430 961,52
+15/01/2026;Crédit Agricole du Maroc;Impôt sur les sociétés;Impôt sur les sociétés;;974,79;429 986,73
+16/01/2026;Banque Populaire;Règlement client;Encaissements clients;181 077,28;;1 886,33
+16/01/2026;Banque Populaire;Loyer et charges;Loyer et charges;;10 471,61;-8 585,28
+18/01/2026;Banque Populaire;Règlement client;Encaissements clients;110 479,58;;101 894,30
+18/01/2026;Crédit Agricole du Maroc;Fournisseurs;Fournisseurs;;266 751,97;163 234,75
+18/01/2026;Banque Populaire;Loyer et charges;Loyer et charges;;10 364,64;91 529,66
+19/01/2026;Crédit Agricole du Maroc;Règlement client;Encaissements clients;97 894,30;;261 129,06
+19/01/2026;Crédit Agricole du Maroc;Énergie et télécoms;Énergie et télécoms;;6 166,65;254 962,41
+20/01/2026;Banque Populaire;Règlement client;Encaissements clients;118 129,20;;209 658,86
+21/01/2026;Banque Populaire;Règlement client;Encaissements clients;171 265,21;;380 924,07
+21/01/2026;Crédit Agricole du Maroc;Loyer et charges;Loyer et charges;;9 370,68;245 591,72
+22/01/2026;Banque Populaire;Règlement client;Encaissements clients;111 361,43;;492 285,50
+22/01/2026;Crédit Agricole du Maroc;Règlement client;Encaissements clients;145 613,21;;391 204,94
+22/01/2026;Crédit Agricole du Maroc;Énergie et télécoms;Énergie et télécoms;;6 048,35;385 156,59
+23/01/2026;Crédit Agricole du Maroc;Règlement client;Encaissements clients;188 335,39;;573 491,98
+24/01/2026;Crédit Agricole du Maroc;Règlement client;Encaissements clients;109 546,89;;683 038,87
+24/01/2026;Crédit Agricole du Maroc;Énergie et télécoms;Énergie et télécoms;;6 179,05;676 859,82
+25/01/2026;Crédit Agricole du Maroc;Investissements;Investissements;;10 007,82;666 852,00
+25/01/2026;Banque Populaire;TVA à payer;TVA à payer;;26 059,55;466 225,95
+26/01/2026;Crédit Agricole du Maroc;Règlement client;Encaissements clients;92 336,09;;759 188,09
+26/01/2026;Crédit Agricole du Maroc;Fournisseurs;Fournisseurs;;305 059,33;454 128,76
+26/01/2026;Banque Populaire;TVA à payer;TVA à payer;;25 390,45;440 835,50
+28/01/2026;Banque Populaire;Salaires;Salaires;;398 967,79;41 867,71
+03/02/2026;Banque Populaire;Règlement client;Encaissements clients;151 307,20;;193 174,91
+03/02/2026;Banque Populaire;Règlement client;Encaissements clients;166 636,30;;359 811,21
+04/02/2026;Banque Populaire;Règlement client;Encaissements clients;192 337,95;;552 149,16
+04/02/2026;Banque Populaire;Fournisseurs;Fournisseurs;;329 752,39;222 396,77
+04/02/2026;Crédit Agricole du Maroc;Loyer et charges;Loyer et charges;;8 796,70;445 332,06
+05/02/2026;Crédit Agricole du Maroc;Règlement client;Encaissements clients;178 456,50;;623 788,55
+05/02/2026;Crédit Agricole du Maroc;Investissements;Investissements;;11 377,62;612 410,94
+06/02/2026;Banque Populaire;Règlement client;Encaissements clients;171 228,62;;393 625,39
+06/02/2026;Banque Populaire;Règlement client;Encaissements clients;180 662,58;;574 287,97
+08/02/2026;Crédit Agricole du Maroc;Investissements;Investissements;;11 178,24;601 232,70
+08/02/2026;Banque Populaire;Loyer et charges;Loyer et charges;;9 640,32;564 647,65
+09/02/2026;Banque Populaire;Investissements;Investissements;;10 729,64;553 918,01
+10/02/2026;Banque Populaire;Règlement client;Encaissements clients;104 611,93;;658 529,94
+10/02/2026;Banque Populaire;CNSS;CNSS;;72 147,02;586 382,92
+10/02/2026;Banque Populaire;Fournisseurs;Fournisseurs;;344 693,25;241 689,67
+10/02/2026;Crédit Agricole du Maroc;Loyer et charges;Loyer et charges;;11 099,39;590 133,32
+11/02/2026;Crédit Agricole du Maroc;Investissements;Investissements;;11 995,22;578 138,09
+12/02/2026;Banque Populaire;Fournisseurs;Fournisseurs;;322 431,40;-80 741,73
+13/02/2026;Crédit Agricole du Maroc;Règlement client;Encaissements clients;89 555,17;;667 693,26
+14/02/2026;Banque Populaire;Impôts et taxes;Impôts et taxes;;16 825,34;-97 567,08
+14/02/2026;Crédit Agricole du Maroc;Énergie et télécoms;Énergie et télécoms;;5 882,67;661 810,59
+14/02/2026;Banque Populaire;Énergie et télécoms;Énergie et télécoms;;6 961,40;-104 528,48
+15/02/2026;Crédit Agricole du Maroc;TVA à payer;TVA à payer;;29 738,25;632 072,34
+16/02/2026;Crédit Agricole du Maroc;Règlement client;Encaissements clients;205 713,28;;837 785,62
+16/02/2026;Banque Populaire;Impôt sur les sociétés;Impôt sur les sociétés;;961,34;-105 489,82
+16/02/2026;Banque Populaire;Impôt sur les sociétés;Impôt sur les sociétés;;1 025,48;-106 515,29
+17/02/2026;Banque Populaire;TVA à payer;TVA à payer;;28 872,80;-135 388,09
+18/02/2026;Crédit Agricole du Maroc;Règlement client;Encaissements clients;180 878,04;;1 018 663,65
+18/02/2026;Crédit Agricole du Maroc;Énergie et télécoms;Énergie et télécoms;;6 127,88;1 012 535,77
+18/02/2026;Banque Populaire;Énergie et télécoms;Énergie et télécoms;;6 798,81;-142 186,91
+19/02/2026;Crédit Agricole du Maroc;Règlement client;Encaissements clients;163 606,55;;1 176 142,32
+20/02/2026;Crédit Agricole du Maroc;Impôt sur les sociétés;Impôt sur les sociétés;;1 153,37;1 174 988,95
+20/02/2026;Crédit Agricole du Maroc;TVA à payer;TVA à payer;;31 195,01;1 143 793,95
+20/02/2026;Banque Populaire;Échéance d'emprunt;Échéance d'emprunt;;67 195,82;-209 382,73
+21/02/2026;Crédit Agricole du Maroc;Règlement client;Encaissements clients;195 566,79;;1 339 360,74
+21/02/2026;Crédit Agricole du Maroc;Règlement client;Encaissements clients;196 862,35;;1 536 223,08
+23/02/2026;Crédit Agricole du Maroc;Fournisseurs;Fournisseurs;;270 874,85;1 265 348,23
+23/02/2026;Banque Populaire;TVA à payer;TVA à payer;;31 051,26;-240 433,99
+24/02/2026;Crédit Agricole du Maroc;Règlement client;Encaissements clients;174 632,76;;1 439 980,99
+24/02/2026;Crédit Agricole du Maroc;Impôt sur les sociétés;Impôt sur les sociétés;;920,29;1 439 060,69
+26/02/2026;Banque Populaire;Loyer et charges;Loyer et charges;;10 241,45;-250 675,44
+28/02/2026;Crédit Agricole du Maroc;Règlement client;Encaissements clients;92 139,05;;1 531 199,75
+28/02/2026;Crédit Agricole du Maroc;Règlement client;Encaissements clients;108 137,75;;1 639 337,50
+28/02/2026;Banque Populaire;Salaires;Salaires;;432 894,01;-683 569,45
+03/03/2026;Banque Populaire;Échéance d'emprunt;Échéance d'emprunt;;72 188,29;-755 757,75
+04/03/2026;Crédit Agricole du Maroc;Fournisseurs;Fournisseurs;;323 435,17;1 315 902,33
+04/03/2026;Banque Populaire;Investissements;Investissements;;10 346,73;-766 104,48
+04/03/2026;Banque Populaire;Énergie et télécoms;Énergie et télécoms;;7 025,04;-773 129,52
+05/03/2026;Crédit Agricole du Maroc;Loyer et charges;Loyer et charges;;11 736,04;1 304 166,29
+06/03/2026;Crédit Agricole du Maroc;Règlement client;Encaissements clients;99 376,29;;1 403 542,58
+06/03/2026;Banque Populaire;Impôt sur les sociétés;Impôt sur les sociétés;;879,46;-774 008,98
+06/03/2026;Banque Populaire;Impôts et taxes;Impôts et taxes;;18 748,38;-792 757,36
+07/03/2026;Crédit Agricole du Maroc;Investissements;Investissements;;10 128,38;1 393 414,19
+08/03/2026;Banque Populaire;Règlement client;Encaissements clients;202 711,39;;-590 045,98
+08/03/2026;Banque Populaire;TVA à payer;TVA à payer;;25 187,16;-615 233,14
+09/03/2026;Banque Populaire;Fournisseurs;Fournisseurs;;318 126,91;-933 360,05
+10/03/2026;Crédit Agricole du Maroc;Règlement client;Encaissements clients;163 780,51;;1 557 194,70
+10/03/2026;Banque Populaire;CNSS;CNSS;;82 617,74;-1 015 977,79
+10/03/2026;Banque Populaire;Loyer et charges;Loyer et charges;;9 112,45;-1 025 090,24
+10/03/2026;Banque Populaire;Loyer et charges;Loyer et charges;;10 914,27;-1 036 004,51
+11/03/2026;Crédit Agricole du Maroc;Règlement client;Encaissements clients;164 383,25;;1 721 577,96
+11/03/2026;Crédit Agricole du Maroc;Investissements;Investissements;;9 838,39;1 711 739,57
+13/03/2026;Crédit Agricole du Maroc;Loyer et charges;Loyer et charges;;11 747,41;1 699 992,16
+16/03/2026;Crédit Agricole du Maroc;Impôt sur les sociétés;Impôt sur les sociétés;;1 030,18;1 698 961,99
+17/03/2026;Crédit Agricole du Maroc;Règlement client;Encaissements clients;178 940,07;;1 877 902,05
+17/03/2026;Crédit Agricole du Maroc;Impôt sur les sociétés;Impôt sur les sociétés;;1 158,32;1 876 743,73
+18/03/2026;Banque Populaire;Règlement client;Encaissements clients;122 690,72;;-913 313,79
+18/03/2026;Crédit Agricole du Maroc;Énergie et télécoms;Énergie et télécoms;;6 428,87;1 870 314,86
+19/03/2026;Banque Populaire;Règlement client;Encaissements clients;129 647,65;;-783 666,13
+19/03/2026;Banque Populaire;Règlement client;Encaissements clients;188 002,20;;-595 663,93
+19/03/2026;Banque Populaire;TVA à payer;TVA à payer;;24 786,69;-620 450,62
+19/03/2026;Crédit Agricole du Maroc;TVA à payer;TVA à payer;;29 683,54;1 840 631,31
+20/03/2026;Banque Populaire;Règlement client;Encaissements clients;143 691,29;;-476 759,33
+20/03/2026;Crédit Agricole du Maroc;Règlement client;Encaissements clients;153 923,38;;1 994 554,70
+21/03/2026;Crédit Agricole du Maroc;Règlement client;Encaissements clients;97 016,24;;2 091 570,93
+22/03/2026;Banque Populaire;Règlement client;Encaissements clients;107 639,76;;-369 119,57
+22/03/2026;Banque Populaire;Investissements;Investissements;;9 777,27;-378 896,83
+22/03/2026;Crédit Agricole du Maroc;Énergie et télécoms;Énergie et télécoms;;5 884,52;2 085 686,41
+23/03/2026;Banque Populaire;Fournisseurs;Fournisseurs;;300 977,05;-679 873,88
+24/03/2026;Crédit Agricole du Maroc;Fournisseurs;Fournisseurs;;280 964,37;1 804 722,04
+24/03/2026;Crédit Agricole du Maroc;Énergie et télécoms;Énergie et télécoms;;5 642,40;1 799 079,64
+25/03/2026;Crédit Agricole du Maroc;Règlement client;Encaissements clients;151 358,97;;1 950 438,61
+26/03/2026;Crédit Agricole du Maroc;Impôt sur les sociétés;Impôt sur les sociétés;;956,47;1 949 482,15
+27/03/2026;Crédit Agricole du Maroc;Règlement client;Encaissements clients;170 288,63;;2 119 770,78
+27/03/2026;Banque Populaire;Règlement client;Encaissements clients;174 471,38;;-505 402,50
+27/03/2026;Banque Populaire;TVA à payer;TVA à payer;;27 342,27;-532 744,77
+28/03/2026;Banque Populaire;Salaires;Salaires;;375 432,01;-908 176,78
+02/04/2026;Crédit Agricole du Maroc;Règlement client;Encaissements clients;89 894,21;;2 209 664,99
+03/04/2026;Banque Populaire;Loyer et charges;Loyer et charges;;10 274,54;-918 451,32
+03/04/2026;Banque Populaire;Échéance d'emprunt;Échéance d'emprunt;;60 475,21;-978 926,53
+04/04/2026;Crédit Agricole du Maroc;Règlement client;Encaissements clients;196 530,97;;2 406 195,96
+05/04/2026;Crédit Agricole du Maroc;Fournisseurs;Fournisseurs;;315 535,77;2 090 660,18
+05/04/2026;Banque Populaire;Impôt sur les sociétés;Impôt sur les sociétés;;978,90;-979 905,43
+05/04/2026;Banque Populaire;Loyer et charges;Loyer et charges;;10 950,12;-990 855,55
+05/04/2026;Crédit Agricole du Maroc;Énergie et télécoms;Énergie et télécoms;;5 959,20;2 084 700,98
+06/04/2026;Crédit Agricole du Maroc;Règlement client;Encaissements clients;108 180,25;;2 192 881,24
+07/04/2026;Banque Populaire;Fournisseurs;Fournisseurs;;277 770,69;-1 268 626,24
+07/04/2026;Crédit Agricole du Maroc;Énergie et télécoms;Énergie et télécoms;;5 943,41;2 186 937,82
+09/04/2026;Banque Populaire;Fournisseurs;Fournisseurs;;336 211,11;-1 604 837,35
+10/04/2026;Banque Populaire;CNSS;CNSS;;80 719,06;-1 685 556,41
+10/04/2026;Banque Populaire;Loyer et charges;Loyer et charges;;10 889,75;-1 696 446,16
+12/04/2026;Banque Populaire;Impôt sur les sociétés;Impôt sur les sociétés;;924,61;-1 697 370,77
+13/04/2026;Banque Populaire;Investissements;Investissements;;10 979,12;-1 708 349,89
+14/04/2026;Crédit Agricole du Maroc;Règlement client;Encaissements clients;200 278,01;;2 387 215,83
+15/04/2026;Banque Populaire;Règlement client;Encaissements clients;127 219,14;;-1 581 130,75
+16/04/2026;Crédit Agricole du Maroc;Règlement client;Encaissements clients;124 745,43;;2 511 961,26
+16/04/2026;Crédit Agricole du Maroc;TVA à payer;TVA à payer;;27 906,19;2 484 055,08
+16/04/2026;Crédit Agricole du Maroc;Énergie et télécoms;Énergie et télécoms;;6 431,68;2 477 623,39
+19/04/2026;Crédit Agricole du Maroc;Règlement client;Encaissements clients;157 584,46;;2 635 207,85
+20/04/2026;Crédit Agricole du Maroc;Impôts et taxes;Impôts et taxes;;15 999,39;2 619 208,46
+20/04/2026;Banque Populaire;Investissements;Investissements;;11 495,65;-1 592 626,40
+21/04/2026;Crédit Agricole du Maroc;Investissements;Investissements;;11 842,69;2 607 365,76
+22/04/2026;Crédit Agricole du Maroc;Règlement client;Encaissements clients;93 754,15;;2 701 119,91
+24/04/2026;Banque Populaire;Fournisseurs;Fournisseurs;;325 525,44;-1 918 151,84
+24/04/2026;Crédit Agricole du Maroc;TVA à payer;TVA à payer;;29 787,56;2 671 332,36
+24/04/2026;Crédit Agricole du Maroc;Énergie et télécoms;Énergie et télécoms;;5 453,51;2 665 878,85
+25/04/2026;Crédit Agricole du Maroc;Loyer et charges;Loyer et charges;;10 095,19;2 655 783,66
+26/04/2026;Banque Populaire;Impôt sur les sociétés;Impôt sur les sociétés;;1 124,82;-1 919 276,66
+27/04/2026;Crédit Agricole du Maroc;Règlement client;Encaissements clients;133 361,04;;2 789 144,71
+27/04/2026;Banque Populaire;Impôt sur les sociétés;Impôt sur les sociétés;;1 179,36;-1 920 456,02
+27/04/2026;Banque Populaire;Investissements;Investissements;;11 813,06;-1 932 269,08
+27/04/2026;Crédit Agricole du Maroc;TVA à payer;TVA à payer;;26 234,93;2 762 909,78
+27/04/2026;Banque Populaire;TVA à payer;TVA à payer;;29 184,89;-1 961 453,98
+28/04/2026;Crédit Agricole du Maroc;Règlement client;Encaissements clients;126 542,71;;2 889 452,49
+28/04/2026;Banque Populaire;Salaires;Salaires;;344 415,63;-2 305 869,60
+03/05/2026;Banque Populaire;Règlement client;Encaissements clients;111 172,70;;-2 194 696,90
+04/05/2026;Crédit Agricole du Maroc;Règlement client;Encaissements clients;187 744,72;;3 077 197,21
+04/05/2026;Banque Populaire;Impôt sur les sociétés;Impôt sur les sociétés;;1 135,13;-2 195 832,03
+04/05/2026;Banque Populaire;Loyer et charges;Loyer et charges;;8 948,57;-2 204 780,60
+04/05/2026;Banque Populaire;Loyer et charges;Loyer et charges;;10 275,36;-2 215 055,97
+04/05/2026;Banque Populaire;Énergie et télécoms;Énergie et télécoms;;6 625,51;-2 221 681,48
+05/05/2026;Banque Populaire;Règlement client;Encaissements clients;188 293,47;;-2 033 388,00
+05/05/2026;Banque Populaire;Investissements;Investissements;;12 063,07;-2 045 451,08
+05/05/2026;Crédit Agricole du Maroc;Énergie et télécoms;Énergie et télécoms;;6 296,54;3 070 900,67
+06/05/2026;Banque Populaire;Règlement client;Encaissements clients;102 800,34;;-1 942 650,74
+06/05/2026;Banque Populaire;Règlement client;Encaissements clients;154 047,76;;-1 788 602,98
+06/05/2026;Crédit Agricole du Maroc;Impôts et taxes;Impôts et taxes;;14 226,00;3 056 674,66
+06/05/2026;Banque Populaire;TVA à payer;TVA à payer;;27 355,52;-1 815 958,51
+07/05/2026;Banque Populaire;Règlement client;Encaissements clients;107 695,48;;-1 708 263,03
+08/05/2026;Crédit Agricole du Maroc;Fournisseurs;Fournisseurs;;312 928,29;2 743 746,38
+08/05/2026;Crédit Agricole du Maroc;TVA à payer;TVA à payer;;32 049,45;2 711 696,92
+08/05/2026;Banque Populaire;Échéance d'emprunt;Échéance d'emprunt;;72 712,01;-1 780 975,04
+09/05/2026;Crédit Agricole du Maroc;Loyer et charges;Loyer et charges;;9 614,41;2 702 082,51
+10/05/2026;Crédit Agricole du Maroc;Règlement client;Encaissements clients;175 608,25;;2 877 690,76
+10/05/2026;Banque Populaire;CNSS;CNSS;;84 317,44;-1 865 292,48
+10/05/2026;Banque Populaire;Investissements;Investissements;;11 796,00;-1 877 088,48
+13/05/2026;Crédit Agricole du Maroc;Règlement client;Encaissements clients;149 109,67;;3 026 800,43
+14/05/2026;Banque Populaire;Règlement client;Encaissements clients;100 307,00;;-1 776 781,48
+14/05/2026;Crédit Agricole du Maroc;Impôt sur les sociétés;Impôt sur les sociétés;;1 152,50;3 025 647,93
+14/05/2026;Banque Populaire;TVA à payer;TVA à payer;;32 372,89;-1 809 154,37
+15/05/2026;Crédit Agricole du Maroc;Fournisseurs;Fournisseurs;;258 896,24;2 766 751,69
+17/05/2026;Crédit Agricole du Maroc;Règlement client;Encaissements clients;195 378,64;;2 962 130,33
+17/05/2026;Crédit Agricole du Maroc;Investissements;Investissements;;11 368,93;2 950 761,41
+18/05/2026;Banque Populaire;Règlement client;Encaissements clients;116 665,45;;-1 692 488,92
+19/05/2026;Crédit Agricole du Maroc;Règlement client;Encaissements clients;167 979,42;;3 118 740,83
+19/05/2026;Crédit Agricole du Maroc;TVA à payer;TVA à payer;;32 991,17;3 085 749,66
+20/05/2026;Banque Populaire;Impôt sur les sociétés;Impôt sur les sociétés;;926,98;-1 693 415,90
+20/05/2026;Crédit Agricole du Maroc;Impôt sur les sociétés;Impôt sur les sociétés;;1 036,66;3 084 713,00
+20/05/2026;Crédit Agricole du Maroc;Énergie et télécoms;Énergie et télécoms;;7 057,90;3 077 655,10
+23/05/2026;Banque Populaire;Règlement client;Encaissements clients;107 462,95;;-1 585 952,95
+23/05/2026;Crédit Agricole du Maroc;Fournisseurs;Fournisseurs;;273 250,84;2 804 404,26
+23/05/2026;Banque Populaire;Investissements;Investissements;;9 747,05;-1 595 700,00
+23/05/2026;Banque Populaire;Loyer et charges;Loyer et charges;;9 398,91;-1 605 098,91
+24/05/2026;Banque Populaire;Règlement client;Encaissements clients;192 138,69;;-1 412 960,22
+24/05/2026;Crédit Agricole du Maroc;Fournisseurs;Fournisseurs;;261 169,41;2 543 234,85
+24/05/2026;Banque Populaire;Énergie et télécoms;Énergie et télécoms;;5 731,48;-1 418 691,70
+28/05/2026;Banque Populaire;Salaires;Salaires;;426 493,18;-1 845 184,88
+04/06/2026;Banque Populaire;Règlement client;Encaissements clients;201 898,45;;-1 643 286,43
+04/06/2026;Banque Populaire;Fournisseurs;Fournisseurs;;339 947,98;-1 983 234,41
+04/06/2026;Banque Populaire;Loyer et charges;Loyer et charges;;10 710,97;-1 993 945,38
+04/06/2026;Banque Populaire;TVA à payer;TVA à payer;;27 446,00;-2 021 391,38
+05/06/2026;Crédit Agricole du Maroc;TVA à payer;TVA à payer;;32 719,64;2 510 515,21
+06/06/2026;Crédit Agricole du Maroc;Règlement client;Encaissements clients;141 057,42;;2 651 572,63
+06/06/2026;Banque Populaire;Impôts et taxes;Impôts et taxes;;14 078,19;-2 035 469,56
+08/06/2026;Crédit Agricole du Maroc;Impôt sur les sociétés;Impôt sur les sociétés;;1 034,54;2 650 538,09
+08/06/2026;Crédit Agricole du Maroc;Loyer et charges;Loyer et charges;;10 148,80;2 640 389,29
+09/06/2026;Banque Populaire;Impôt sur les sociétés;Impôt sur les sociétés;;1 155,80;-2 036 625,36
+09/06/2026;Crédit Agricole du Maroc;Investissements;Investissements;;12 718,09;2 627 671,20
+10/06/2026;Banque Populaire;CNSS;CNSS;;77 362,05;-2 113 987,41
+11/06/2026;Crédit Agricole du Maroc;Fournisseurs;Fournisseurs;;265 559,52;2 362 111,67
+12/06/2026;Banque Populaire;Règlement client;Encaissements clients;92 554,87;;-2 021 432,54
+14/06/2026;Crédit Agricole du Maroc;Investissements;Investissements;;12 273,17;2 349 838,50
+16/06/2026;Crédit Agricole du Maroc;Règlement client;Encaissements clients;133 339,26;;2 483 177,76
+16/06/2026;Crédit Agricole du Maroc;Investissements;Investissements;;9 690,27;2 473 487,49
+17/06/2026;Banque Populaire;Impôt sur les sociétés;Impôt sur les sociétés;;1 000,66;-2 022 433,20
+17/06/2026;Banque Populaire;Loyer et charges;Loyer et charges;;10 191,86;-2 032 625,06
+18/06/2026;Banque Populaire;Règlement client;Encaissements clients;131 373,45;;-1 901 251,61
+18/06/2026;Crédit Agricole du Maroc;Règlement client;Encaissements clients;161 654,72;;2 635 142,21
+18/06/2026;Crédit Agricole du Maroc;Règlement client;Encaissements clients;203 889,75;;2 839 031,96
+18/06/2026;Crédit Agricole du Maroc;Impôt sur les sociétés;Impôt sur les sociétés;;1 007,97;2 838 024,00
+19/06/2026;Banque Populaire;Investissements;Investissements;;10 207,32;-1 911 458,93
+19/06/2026;Crédit Agricole du Maroc;Énergie et télécoms;Énergie et télécoms;;7 075,57;2 830 948,42
+20/06/2026;Banque Populaire;Règlement client;Encaissements clients;151 608,33;;-1 759 850,60
+21/06/2026;Crédit Agricole du Maroc;Règlement client;Encaissements clients;118 362,04;;2 949 310,46
+21/06/2026;Banque Populaire;TVA à payer;TVA à payer;;28 048,32;-1 787 898,91
+22/06/2026;Crédit Agricole du Maroc;Règlement client;Encaissements clients;187 059,75;;3 136 370,21
+22/06/2026;Banque Populaire;Fournisseurs;Fournisseurs;;298 103,47;-2 086 002,38
+23/06/2026;Banque Populaire;Énergie et télécoms;Énergie et télécoms;;6 038,98;-2 092 041,36
+24/06/2026;Banque Populaire;Fournisseurs;Fournisseurs;;327 281,30;-2 419 322,66
+25/06/2026;Banque Populaire;Loyer et charges;Loyer et charges;;9 702,97;-2 429 025,63
+25/06/2026;Crédit Agricole du Maroc;Énergie et télécoms;Énergie et télécoms;;5 308,87;3 131 061,34
+25/06/2026;Banque Populaire;Énergie et télécoms;Énergie et télécoms;;6 852,12;-2 435 877,75
+26/06/2026;Crédit Agricole du Maroc;Règlement client;Encaissements clients;103 588,97;;3 234 650,32
+26/06/2026;Crédit Agricole du Maroc;TVA à payer;TVA à payer;;31 070,75;3 203 579,57
+27/06/2026;Banque Populaire;Échéance d'emprunt;Échéance d'emprunt;;71 540,49;-2 507 418,24
+28/06/2026;Crédit Agricole du Maroc;Règlement client;Encaissements clients;139 656,46;;3 343 236,03
+28/06/2026;Banque Populaire;Salaires;Salaires;;383 500,79;-2 890 919,04
+05/07/2026;Crédit Agricole du Maroc;Règlement client;Encaissements clients;110 420,85;;3 453 656,87
+05/07/2026;Crédit Agricole du Maroc;Règlement client;Encaissements clients;120 775,54;;3 574 432,41
+05/07/2026;Crédit Agricole du Maroc;Impôt sur les sociétés;Impôt sur les sociétés;;1 140,08;3 573 292,34
+06/07/2026;Banque Populaire;Règlement client;Encaissements clients;122 718,85;;-2 768 200,19
+06/07/2026;Banque Populaire;Impôts et taxes;Impôts et taxes;;16 938,77;-2 785 138,96
+06/07/2026;Crédit Agricole du Maroc;TVA à payer;TVA à payer;;28 488,22;3 544 804,12
+06/07/2026;Crédit Agricole du Maroc;Énergie et télécoms;Énergie et télécoms;;6 246,05;3 538 558,07
+07/07/2026;Crédit Agricole du Maroc;TVA à payer;TVA à payer;;32 604,35;3 505 953,71
+08/07/2026;Banque Populaire;Règlement client;Encaissements clients;98 367,05;;-2 686 771,90
+08/07/2026;Crédit Agricole du Maroc;Investissements;Investissements;;10 141,42;3 495 812,30
+08/07/2026;Crédit Agricole du Maroc;Énergie et télécoms;Énergie et télécoms;;6 282,93;3 489 529,37
+09/07/2026;Crédit Agricole du Maroc;Fournisseurs;Fournisseurs;;270 262,33;3 219 267,04
+09/07/2026;Crédit Agricole du Maroc;Investissements;Investissements;;10 251,79;3 209 015,25
+10/07/2026;Crédit Agricole du Maroc;Règlement client;Encaissements clients;185 939,40;;3 394 954,65
+10/07/2026;Banque Populaire;CNSS;CNSS;;92 518,62;-2 779 290,52
+10/07/2026;Crédit Agricole du Maroc;TVA à payer;TVA à payer;;32 079,78;3 362 874,86
+11/07/2026;Crédit Agricole du Maroc;Règlement client;Encaissements clients;113 536,98;;3 476 411,85
+12/07/2026;Crédit Agricole du Maroc;Fournisseurs;Fournisseurs;;274 554,68;3 201 857,17
+12/07/2026;Banque Populaire;Impôt sur les sociétés;Impôt sur les sociétés;;1 033,78;-2 780 324,31
+12/07/2026;Crédit Agricole du Maroc;Énergie et télécoms;Énergie et télécoms;;6 687,75;3 195 169,42
+13/07/2026;Crédit Agricole du Maroc;Loyer et charges;Loyer et charges;;10 824,66;3 184 344,76
+15/07/2026;Banque Populaire;Règlement client;Encaissements clients;151 387,12;;-2 628 937,18
+15/07/2026;Banque Populaire;Impôt sur les sociétés;Impôt sur les sociétés;;970,77;-2 629 907,95
+16/07/2026;Crédit Agricole du Maroc;Fournisseurs;Fournisseurs;;325 132,97;2 859 211,79
+16/07/2026;Crédit Agricole du Maroc;Investissements;Investissements;;11 298,68;2 847 913,10
+16/07/2026;Crédit Agricole du Maroc;Investissements;Investissements;;12 364,69;2 835 548,42
+16/07/2026;Banque Populaire;Loyer et charges;Loyer et charges;;11 521,52;-2 641 429,47
+17/07/2026;Crédit Agricole du Maroc;TVA à payer;TVA à payer;;30 670,14;2 804 878,28
+17/07/2026;Crédit Agricole du Maroc;Échéance d'emprunt;Échéance d'emprunt;;59 851,71;2 745 026,57
+18/07/2026;Banque Populaire;Fournisseurs;Fournisseurs;;310 965,73;-2 952 395,20
+19/07/2026;Crédit Agricole du Maroc;Règlement client;Encaissements clients;128 520,05;;2 873 546,61
+19/07/2026;Crédit Agricole du Maroc;Loyer et charges;Loyer et charges;;11 314,64;2 862 231,97
+20/07/2026;Banque Populaire;Règlement client;Encaissements clients;148 890,13;;-2 803 505,07
+21/07/2026;Banque Populaire;Règlement client;Encaissements clients;179 667,20;;-2 623 837,86
+22/07/2026;Crédit Agricole du Maroc;Loyer et charges;Loyer et charges;;9 881,51;2 852 350,46
+23/07/2026;Banque Populaire;Énergie et télécoms;Énergie et télécoms;;5 701,11;-2 629 538,97
+25/07/2026;Banque Populaire;Règlement client;Encaissements clients;105 202,31;;-2 524 336,66
+25/07/2026;Banque Populaire;Règlement client;Encaissements clients;107 884,88;;-2 416 451,78
+26/07/2026;Banque Populaire;Règlement client;Encaissements clients;113 147,74;;-2 303 304,04
+26/07/2026;Crédit Agricole du Maroc;Impôt sur les sociétés;Impôt sur les sociétés;;998,34;2 851 352,12
+28/07/2026;Crédit Agricole du Maroc;Règlement client;Encaissements clients;182 117,06;;3 033 469,18
+28/07/2026;Banque Populaire;Règlement client;Encaissements clients;189 703,59;;-2 113 600,45
+28/07/2026;Crédit Agricole du Maroc;Règlement client;Encaissements clients;190 473,79;;3 223 942,96
+28/07/2026;Banque Populaire;Salaires;Salaires;;431 090,28;-2 544 690,73
+02/08/2026;Banque Populaire;Règlement client;Encaissements clients;113 803,74;;-2 430 886,99
+03/08/2026;Crédit Agricole du Maroc;Règlement client;Encaissements clients;171 303,29;;3 395 246,25
+03/08/2026;Crédit Agricole du Maroc;Impôt sur les sociétés;Impôt sur les sociétés;;957,26;3 394 288,99
+04/08/2026;Crédit Agricole du Maroc;Règlement client;Encaissements clients;104 687,06;;3 498 976,05
+04/08/2026;Crédit Agricole du Maroc;Impôts et taxes;Impôts et taxes;;18 123,15;3 480 852,90
+04/08/2026;Crédit Agricole du Maroc;TVA à payer;TVA à payer;;31 665,54;3 449 187,36
+05/08/2026;Banque Populaire;Fournisseurs;Fournisseurs;;333 453,04;-2 764 340,02
+06/08/2026;Banque Populaire;Investissements;Investissements;;10 567,12;-2 774 907,14
+06/08/2026;Crédit Agricole du Maroc;Énergie et télécoms;Énergie et télécoms;;6 511,14;3 442 676,21
+07/08/2026;Banque Populaire;Investissements;Investissements;;10 994,94;-2 785 902,08
+07/08/2026;Crédit Agricole du Maroc;Loyer et charges;Loyer et charges;;9 668,05;3 433 008,16
+07/08/2026;Banque Populaire;TVA à payer;TVA à payer;;29 229,84;-2 815 131,92
+07/08/2026;Banque Populaire;Énergie et télécoms;Énergie et télécoms;;5 489,79;-2 820 621,71
+08/08/2026;Crédit Agricole du Maroc;Impôt sur les sociétés;Impôt sur les sociétés;;1 173,05;3 431 835,11
+08/08/2026;Banque Populaire;Investissements;Investissements;;12 799,75;-2 833 421,45
+09/08/2026;Banque Populaire;Règlement client;Encaissements clients;183 708,89;;-2 649 712,56
+09/08/2026;Crédit Agricole du Maroc;TVA à payer;TVA à payer;;29 863,27;3 401 971,84
+10/08/2026;Banque Populaire;CNSS;CNSS;;97 175,63;-2 746 888,19
+11/08/2026;Crédit Agricole du Maroc;Fournisseurs;Fournisseurs;;270 104,93;3 131 866,90
+13/08/2026;Banque Populaire;Loyer et charges;Loyer et charges;;10 410,01;-2 757 298,20
+15/08/2026;Banque Populaire;Règlement client;Encaissements clients;140 031,27;;-2 617 266,93
+15/08/2026;Crédit Agricole du Maroc;Loyer et charges;Loyer et charges;;9 795,18;3 122 071,72
+15/08/2026;Banque Populaire;Énergie et télécoms;Énergie et télécoms;;6 942,69;-2 624 209,62
+17/08/2026;Banque Populaire;Loyer et charges;Loyer et charges;;10 349,29;-2 634 558,91
+18/08/2026;Banque Populaire;Règlement client;Encaissements clients;132 280,19;;-2 502 278,72
+18/08/2026;Banque Populaire;Impôt sur les sociétés;Impôt sur les sociétés;;878,80;-2 503 157,52
+19/08/2026;Crédit Agricole du Maroc;Investissements;Investissements;;9 924,75;3 112 146,97
+19/08/2026;Banque Populaire;Énergie et télécoms;Énergie et télécoms;;6 653,93;-2 509 811,45
+20/08/2026;Crédit Agricole du Maroc;Règlement client;Encaissements clients;149 848,30;;3 261 995,27
+21/08/2026;Crédit Agricole du Maroc;Règlement client;Encaissements clients;97 530,26;;3 359 525,53
+22/08/2026;Banque Populaire;Règlement client;Encaissements clients;105 172,97;;-2 404 638,47
+23/08/2026;Banque Populaire;Règlement client;Encaissements clients;114 422,34;;-2 290 216,14
+23/08/2026;Crédit Agricole du Maroc;Fournisseurs;Fournisseurs;;266 589,15;3 092 936,38
+23/08/2026;Crédit Agricole du Maroc;Impôt sur les sociétés;Impôt sur les sociétés;;918,52;3 092 017,86
+25/08/2026;Banque Populaire;Règlement client;Encaissements clients;153 182,55;;-2 137 033,58
+25/08/2026;Crédit Agricole du Maroc;Fournisseurs;Fournisseurs;;314 128,26;2 777 889,60
+25/08/2026;Crédit Agricole du Maroc;Échéance d'emprunt;Échéance d'emprunt;;72 614,24;2 705 275,37
+26/08/2026;Crédit Agricole du Maroc;Règlement client;Encaissements clients;125 962,93;;2 831 238,30
+26/08/2026;Crédit Agricole du Maroc;Règlement client;Encaissements clients;166 772,90;;2 998 011,20
+27/08/2026;Banque Populaire;Règlement client;Encaissements clients;161 455,22;;-1 975 578,36
+27/08/2026;Banque Populaire;TVA à payer;TVA à payer;;26 263,41;-2 001 841,77
+28/08/2026;Banque Populaire;Règlement client;Encaissements clients;129 048,89;;-1 872 792,89
+28/08/2026;Crédit Agricole du Maroc;Règlement client;Encaissements clients;165 802,41;;3 163 813,62
+28/08/2026;Banque Populaire;Salaires;Salaires;;422 207,76;-2 295 000,64
+02/09/2026;Crédit Agricole du Maroc;Règlement client;Encaissements clients;150 526,82;;3 314 340,44
+02/09/2026;Banque Populaire;Règlement client;Encaissements clients;164 442,25;;-2 130 558,39
+04/09/2026;Crédit Agricole du Maroc;Fournisseurs;Fournisseurs;;304 821,28;3 009 519,16
+05/09/2026;Banque Populaire;TVA à payer;TVA à payer;;28 260,69;-2 158 819,07
+06/09/2026;Crédit Agricole du Maroc;TVA à payer;TVA à payer;;26 766,71;2 982 752,45
+07/09/2026;Crédit Agricole du Maroc;Investissements;Investissements;;9 624,14;2 973 128,32
+10/09/2026;Crédit Agricole du Maroc;Règlement client;Encaissements clients;154 905,99;;3 128 034,31
+10/09/2026;Banque Populaire;Règlement client;Encaissements clients;163 684,49;;-1 995 134,58
+10/09/2026;Banque Populaire;CNSS;CNSS;;84 742,94;-2 079 877,52
+10/09/2026;Crédit Agricole du Maroc;Impôt sur les sociétés;Impôt sur les sociétés;;1 147,57;3 126 886,74
+11/09/2026;Crédit Agricole du Maroc;Fournisseurs;Fournisseurs;;283 652,28;2 843 234,46
+11/09/2026;Banque Populaire;Loyer et charges;Loyer et charges;;8 906,87;-2 088 784,39
+12/09/2026;Banque Populaire;Énergie et télécoms;Énergie et télécoms;;5 353,51;-2 094 137,90
+13/09/2026;Crédit Agricole du Maroc;Règlement client;Encaissements clients;175 726,22;;3 018 960,68
+13/09/2026;Crédit Agricole du Maroc;Investissements;Investissements;;11 667,12;3 007 293,55
+13/09/2026;Banque Populaire;Énergie et télécoms;Énergie et télécoms;;6 592,67;-2 100 730,56
+14/09/2026;Banque Populaire;Fournisseurs;Fournisseurs;;306 690,56;-2 407 421,12
+16/09/2026;Banque Populaire;Règlement client;Encaissements clients;197 355,31;;-2 210 065,81
+16/09/2026;Crédit Agricole du Maroc;TVA à payer;TVA à payer;;31 758,66;2 975 534,89
+16/09/2026;Crédit Agricole du Maroc;Énergie et télécoms;Énergie et télécoms;;6 826,86;2 968 708,03
+17/09/2026;Crédit Agricole du Maroc;Loyer et charges;Loyer et charges;;11 298,80;2 957 409,23
+18/09/2026;Crédit Agricole du Maroc;Règlement client;Encaissements clients;106 992,12;;3 064 401,35
+19/09/2026;Crédit Agricole du Maroc;Règlement client;Encaissements clients;169 267,60;;3 233 668,95
+19/09/2026;Crédit Agricole du Maroc;Énergie et télécoms;Énergie et télécoms;;5 982,56;3 227 686,39
+20/09/2026;Crédit Agricole du Maroc;Impôt sur les sociétés;Impôt sur les sociétés;;1 153,50;3 226 532,89
+20/09/2026;Crédit Agricole du Maroc;Loyer et charges;Loyer et charges;;11 082,33;3 215 450,56
+21/09/2026;Crédit Agricole du Maroc;Fournisseurs;Fournisseurs;;345 354,64;2 870 095,92
+22/09/2026;Crédit Agricole du Maroc;Impôt sur les sociétés;Impôt sur les sociétés;;1 113,47;2 868 982,46
+22/09/2026;Banque Populaire;TVA à payer;TVA à payer;;32 451,36;-2 242 517,17
+23/09/2026;Banque Populaire;Impôts et taxes;Impôts et taxes;;16 557,16;-2 259 074,34
+25/09/2026;Crédit Agricole du Maroc;Règlement client;Encaissements clients;116 583,99;;2 985 566,45
+25/09/2026;Banque Populaire;Impôt sur les sociétés;Impôt sur les sociétés;;1 167,44;-2 260 241,78
+25/09/2026;Crédit Agricole du Maroc;Investissements;Investissements;;10 910,73;2 974 655,72
+25/09/2026;Crédit Agricole du Maroc;Échéance d'emprunt;Échéance d'emprunt;;73 021,79;2 901 633,93
+26/09/2026;Banque Populaire;Investissements;Investissements;;10 088,37;-2 270 330,15
+27/09/2026;Crédit Agricole du Maroc;Règlement client;Encaissements clients;182 321,79;;3 083 955,72
+27/09/2026;Banque Populaire;Loyer et charges;Loyer et charges;;10 119,46;-2 280 449,61
+28/09/2026;Banque Populaire;Salaires;Salaires;;408 733,63;-2 689 183,23
